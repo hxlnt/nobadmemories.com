@@ -1,0 +1,231 @@
+html {
+  height: 100%;
+  box-sizing: border-box; }
+
+body {
+  background: linear-gradient(135deg, #e9eFc2 0%, #F9FFF2 44%, #ffffff 44%, #ffffff 100%); }
+  /*#fcecfc, #fcecfc*/
+
+h1 {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 3.5rem;
+  line-height: 3rem;  
+  bottom: 0;
+  letter-spacing: -.125rem;
+  padding-bottom: 0;
+  margin-bottom: 1rem;
+  word-spacing: .5rem;
+  text-align: right;
+  vertical-align: baseline; }
+  
+
+  
+div.linkbar {
+  width: 100%;
+  text-align: right;
+  /*transform: rotate(6deg);*/
+  display: inline-block; }
+  
+h3 {
+      font-family: 'Helvetica', 'Arial', sans-serif;
+      font-weight: normal;
+      font-size: 1.5rem;
+      line-height: 1.5rem;
+      white-space: nowrap;
+      right: 0;
+      padding: 0;
+      position: fixed;
+}
+
+p {
+  font-family: 'Georgia', serif;
+  font-size: 1.1rem;
+  font-weight: normal;
+  line-height: 2rem;
+  padding: 0 0.5rem;
+  width: 80%;
+  margin-bottom: 30px; }
+  
+figcaption {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: .8rem;
+  line-height: 1.5rem;
+  font-weight: normal;
+  padding: 0.5rem 0.5rem;
+  width: 80%;
+  font-weight: bold;
+   }
+
+div.randomimg {
+  background-image: url("../images/iamerror.jpg");
+  background-size: cover;
+  width: 100px;
+  height: 100px;
+  float: left;
+  position: relative; }
+
+ol {
+  padding-left: 0; }
+
+li {
+  padding: .5rem;
+  width: 80%;
+  font-family: 'Georgia', serif;
+  font-size: 1.1rem;
+  font-weight: normal;
+  line-height: 2rem;
+  padding-top: 0;
+  margin-bottom: 15px;
+  list-style-type: none; }
+
+li.notselect11, li.notselect12, li.notselect13, li.notselect14, li.notselect15 {
+  display: none; }
+
+li.select {
+  display: normal; }
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  width: 80%;
+  padding: .5rem;
+  word-spacing: .1rem;
+  border-bottom: 1rem solid #FFCEDF;
+  }
+
+
+
+a {
+  font-family: 'Georgia', serif;
+  font-size: 1.1rem;
+  font-weight: normal;
+  line-height: 2rem;
+  color: black;
+  text-decoration: none;
+  padding-bottom: .1rem;
+  border-bottom: 1px solid #FFCEDF; }
+
+a.plainlink {
+   border-bottom: none;
+   font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+a:hover {
+  background-color: rgba(201,207,162,.25); }
+
+a.plainlink:hover {
+   background-color: white;;
+}
+
+a.links {
+  margin-right: 4px;
+  margin-left: 4px;
+  white-space: nowrap; }
+
+i {
+  font-size: 1.1rem;
+  font-weight: normal;
+  color: black; }
+
+
+
+a.randomlink {
+  font-size: 1rem;
+  line-height: 1.25rem; }
+
+a.biglink {
+  font-size: 1.5rem;
+  line-height: auto;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-weight: bold; }
+
+.wrapper {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center;
+  height: 98vh; }
+
+.wrapper > * {
+  padding: 10px;
+  justify-content: center; }
+
+div.main {
+  text-align: left;
+  flex: 2 auto 0;
+
+    padding-top: 8rem; 
+  align-self: stretch; }
+
+div.nav {
+  flex: 2 2 0;
+  max-width: 620px; }
+
+div.innernav {
+
+  }
+
+.aside {
+  flex: 1 1 0; }
+
+footer {
+  width: 100%;
+  background-color: white;
+  height: 100px;
+  z-index: 10; }
+
+span.expand {
+  align: right;
+  font-family: 'Georgia', serif;
+  font-size: .75rem;
+  float: right;
+  font-weight: normal;
+  padding: .5rem;
+  text-transform: uppercase;
+  cursor: pointer; }
+  
+figure {
+   padding: .5rem;
+   width: 80%;
+   margin: .5rem;
+   background: rgba(255,255,255, .75);
+
+}
+
+@media all and (min-width: 650px) {
+  .nav {
+    flex: 1 auto; }
+
+  .aside {
+    flex: 1 auto; } }
+
+@media all and (min-width: 1100px) {
+  h1 {
+    font-size: 5rem;
+    line-height: 4rem;
+    letter-spacing: -.25rem; } }
+    
+@media all and (max-width: 950px) {
+  h1 {
+    font-size: 2.5rem;
+    line-height: 2rem;
+    letter-spacing: -.1rem; } }
+
+@media all and (min-width: 650px) {
+  .main {
+    flex: 3 0px; 
+    max-width: 620px;}
+  .nav {
+    order: 1; }
+  .main {
+    order: 2; }
+  .aside {
+    display: none; }
+  div.main {
+    padding-top: 19rem; } }
