@@ -7,9 +7,9 @@ body {
 
 nav {
     /*background-color: orange;*/
-    flex: 1 1 auto;
-    min-width: 380px;
-    max-width: 640px;
+    flex: 1 1 0;
+
+    /*max-width: 640px;*/
     text-align: right;
     padding-top: 2rem;
     border: 1px solid black;
@@ -19,13 +19,13 @@ main {
     /*border: 3px solid black;*/
     display: flex;
     min-width: 200px;
+    justify-content:center;
 }
 
 section {
     /*background-color: yellow;*/
-    flex: 1 1 auto;
-    min-width: 330px;
-    max-width: 860px; }
+    flex: 1 1 0;
+ }
 
 div.linkbar {
   width: 100%;
