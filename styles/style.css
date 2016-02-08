@@ -7,7 +7,7 @@ body {
 
 nav {
     /*background-color: orange;*/
-    flex: 2 1 30%;
+    flex: 1 1 auto;
     min-width: 380px;
     max-width: 640px;
     text-align: right;
@@ -22,7 +22,7 @@ main {
 
 section {
     /*background-color: yellow;*/
-    flex: 1 1 70%;
+    flex: 1 1 auto;
     min-width: 330px;
     max-width: 860px; }
 
@@ -124,7 +124,6 @@ i {
   color: black; }
   
 span.expand {
-  align: right;
   font-family: 'Georgia', serif;
   font-size: .75rem;
   float: right;
@@ -142,12 +141,14 @@ span.expand {
         }
     section {
         margin-top: 4.5rem;
+        width: 97vw;
     }
     h2, figcaption, figure {
         width: 90%;
     }
     nav {
-        max-width:740px;
+        width: 97vw;
+        /*max-width:740px;*/
     }
 }
 
@@ -156,4 +157,4 @@ span.expand {
         margin-top: 19rem;
         margin-left: 2.5rem;
     }
-    
+}
