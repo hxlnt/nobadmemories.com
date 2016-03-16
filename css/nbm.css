@@ -1,0 +1,182 @@
+html {
+    background-color: ghostwhite;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: dodgerblue;
+    background-image: url('http://api.thumbr.it/whitenoise-500x500.png?background=1e90ffff&noise=ebe6eb&density=58&opacity=15');
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+}
+
+sup {
+    margin-right: 0;
+  margin-left: 0;
+  white-space: nowrap;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    opacity: 1;
+}
+
+li.nav {
+    border-top: 4px solid ghostwhite;
+    color: ghostwhite;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 1.75rem;
+    line-height: 2.5rem; 
+    position: relative;
+    max-width: 850px;
+    padding-right: 1rem;
+    margin-right: 1.5rem;
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+a:hover, a:active {
+    text-decoration: underline;
+    color: dodgerblue;
+}
+
+a.social {
+    color: ghostwhite;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    position: relative;
+    display: inline;
+}
+
+a.navlinks, a.navlinks:visited{
+    color: ghostwhite;
+    text-decoration: none;
+}
+
+a.navlinks:hover, a.navlinks:active, a.social:hover, a.social:active{
+    color: lightblue;
+    text-decoration: none;
+}
+
+
+
+ul.hidden {
+    opacity: 0;
+}
+
+main {
+    background-color:ghostwhite;
+    min-height:90%;
+}
+
+h1 {
+    color: ghostwhite;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+h2 {
+    color: black;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+p {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 1.75rem;
+    line-height: 2.5rem;  
+    position: relative;
+    max-width: 850px;
+    background-color: ghostwhite;
+}
+    figure {
+        margin:0;
+        max-width: 850px;
+            font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 1.25rem;
+    line-height: 2rem;  
+    }
+
+/* Media queries */
+@media screen and (max-aspect-ratio: 6/5) {
+    header {
+        height: 32vh;
+        width: 92vw;
+        padding: 4vw;
+    }
+    main {
+        top: 32vh;
+        left: 0;
+        width: 92vw;
+        position: absolute;
+        padding: 4vw;
+    }
+    h1 {
+            font-size: 6.5vh;
+    line-height: 5.5vh;  
+    bottom: 0;
+    letter-spacing: -.125vh;
+    word-spacing: .5vh;
+    }
+                h2 {
+    font-size: 5vw;
+    line-height: 5vw;  
+    bottom: 0;
+    letter-spacing: -.125vw;
+    word-spacing: .5vw;
+    }
+    sup {
+        font-size: 2.5vh;
+    }
+    li.nav {
+            display: inline;
+            padding-right: 4vh;
+    }
+}
+
+@media screen and (min-aspect-ratio: 6/5) {
+    header {
+        height: 92vh;
+        width: 32vw;
+        padding: 4vw;
+    }
+    main {
+       
+        top: 0;
+        left: 32vw;
+        width: 60vw;
+        position: absolute;
+        padding: 4vw;
+    }
+    p:first-of-type{
+        margin-top: 14vw;
+    }
+        h1 {
+    font-size: 4.5vw;
+    line-height: 4vw;  
+    bottom: 0;
+    letter-spacing: -.125vw;
+    word-spacing: .5vw;
+    }
+            h2 {
+    font-size: 3vw;
+    line-height: 3vw;  
+    bottom: 0;
+    letter-spacing: -.125vw;
+    word-spacing: .5vw;
+    }
+    sup {
+        font-size: 1.5vw;
+    }
+        li.nav {
+            display: block;
+    }
+    ul {
+        padding-right: 5vw;
+    }
+}
