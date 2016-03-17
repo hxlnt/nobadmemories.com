@@ -16,9 +16,9 @@ header {
 
 sup {
     margin-right: 0;
-  margin-left: 0;
-  white-space: nowrap;
-}
+    margin-left: 0;
+    white-space: nowrap;
+    }
 
 ul {
     list-style-type: none;
@@ -127,8 +127,8 @@ p {
     li.nav {
             display: inline;
             padding-right: 4vw;
-    font-size: 1.75rem;
-    line-height: 2.5rem;  
+    font-size: 1.75vh;
+    line-height: 2.5vh;  
     border-top: 4px solid ghostwhite;
     color: ghostwhite;
     font-family: 'Helvetica', 'Arial', sans-serif;
@@ -143,17 +143,16 @@ p {
         height: 92vh;
         width: 32vw;
         padding: 4vw;
-    }
-    main {
-       
+        }
+    main { 
         top: 0;
-        left: 32vw;
-        width: 60vw;
+        left: 38vw;
+        /*width: 60vw;*/
         position: absolute;
         padding: 4vw;
-    }
-    p:first-of-type{
-        margin-top: 14vw;
+        }
+    p:first-of-type {
+        margin-top: 8.5vw;
     }
         h1 {
     font-size: 4.5vw;
@@ -161,6 +160,7 @@ p {
     bottom: 0;
     letter-spacing: -.125vw;
     word-spacing: .5vw;
+    position: relative;
     }
             h2 {
     font-size: 3vw;
@@ -174,8 +174,8 @@ p {
     }
         li.nav {
             padding-right: 4vw;
-    font-size: 1.75rem;
-    line-height: 2.5rem;  
+    font-size: 1.75vw;
+    line-height: 2.5vw;  
     border-top: 4px solid ghostwhite;
     color: ghostwhite;
     font-family: 'Helvetica', 'Arial', sans-serif;
