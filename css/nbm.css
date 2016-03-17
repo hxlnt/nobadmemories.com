@@ -2,8 +2,7 @@ html {
     background-color: ghostwhite;
     box-sizing: border-box;
     overflow-x: hidden;
-}
-
+    }
 header {
     background-color: dodgerblue;
     background-image: url('http://api.thumbr.it/whitenoise-500x500.png?background=1e90ffff&noise=ebe6eb&density=58&opacity=15');
@@ -12,80 +11,64 @@ header {
     left: 0;
     margin: 0;
     padding: 0;
-}
-
+    }
 sup {
     margin-right: 0;
     margin-left: 0;
     white-space: nowrap;
     }
-
 ul {
     list-style-type: none;
     padding: 0;
     opacity: 1;
-}
-
+    }
 a, a:visited {
     text-decoration: none;
     color: dodgerblue;
-}
-
+    }
 a:hover, a:active {
     text-decoration: underline;
     color: dodgerblue;
-}
-
+    }
 a.social {
     color: ghostwhite;
     font-family: 'Helvetica', 'Arial', sans-serif;
     position: relative;
     display: inline;
-}
-
-a.navlinks, a.navlinks:visited{
+    }
+a.navlinks, a.navlinks:visited {
     color: ghostwhite;
     text-decoration: none;
-}
-
-a.navlinks:hover, a.navlinks:active, a.social:hover, a.social:active{
+    }
+a.navlinks:hover, a.navlinks:active, a.social:hover, a.social:active {
     color: lightblue;
     text-decoration: none;
-}
-
-
-
+    }
 ul.hidden {
     opacity: 0;
-}
-
+    }
 main {
     background-color:ghostwhite;
-    min-height:90%;
-}
-
+    min-height: 90%;
+    }
 h1 {
     color: ghostwhite;
     font-family: 'Helvetica', 'Arial', sans-serif;
-}
-
+    }
 h2 {
     color: black;
     font-family: 'Helvetica', 'Arial', sans-serif;
-}
-
+    }
 p {
-    font-family: 'Helvetica', 'Arial', sans-serif;
-    font-size: 1.75rem;
-    line-height: 2.5rem;  
+    font-family: 'Helvetica', 'Arial', sans-serif; 
     position: relative;
     max-width: 850px;
     background-color: ghostwhite;
-}
-    figure {
-        margin:0;
-        max-width: 850px;
-            font-family: 'Helvetica', 'Arial', sans-serif;
+    }
+figure {
+    margin:0;
+    max-width: 850px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
     font-size: 1.25rem;
     line-height: 2rem;  
     }
@@ -136,12 +119,14 @@ p {
     max-width: 850px;
     margin-right: 1.5vw;
     }
+    p {    font-size: 1.25rem;
+    line-height: 1.75rem; }
 }
 
 @media screen and (min-aspect-ratio: 6/5) {
     header {
         height: 92vh;
-        width: 32vw;
+        width: 30vw;
         padding: 4vw;
         }
     main { 
@@ -151,6 +136,8 @@ p {
         position: absolute;
         padding: 4vw;
         }
+        p {    font-size: 1.75rem;
+    line-height: 2.5rem; }
     p:first-of-type {
         margin-top: 8.5vw;
     }
