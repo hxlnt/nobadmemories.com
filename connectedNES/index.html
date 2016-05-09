@@ -41,9 +41,7 @@
 <li>a node.js server backend to process internet data (mine’s hosted on <a href="http://portal.azure.com" target="_blank" rel="external">Azure</a>), and</li>
 <li>custom NES ROMs designed to process and display internet data such as the ConnectedNES Twitter client.</li>
 </ol>
-<img src="smaller-modem.jpg" alt="Modem"><p><video id="sampleMovie" width="80%" preload="" controls><br> <source src="connectednesdemo.mp4" type="video/mp4"><br> <source src="connectednesdemo.ogv" type="video.ogg"><br></video></p>
-
-
+<p><video id="sampleMovie" width="80%" preload="" controls><br> <source src="connectednesdemo.mp4" type="video/mp4"><br> <source src="connectednesdemo.ogv" type="video.ogg"><br></video></p>
 <p>ConnectedNES is written across three languages: Javascript, Arduino C/C++, and 6502 Assembly. </p>
 <h3 id="How-does-ConnectedNES-work"><a href="#How-does-ConnectedNES-work" class="headerlink" title="How does ConnectedNES work?"></a>How does ConnectedNES work?</h3><p>When you play NES games, you press buttons on the controller, and the controller in turn sends a signal made of bits (1s and 0s) through the controller cable and into the NES console. These bits indicate which buttons were pressed or not pressed, and this information is then used to control the game. As it turns out, tweets, images, and other digital content is also made up of bits. What if we could use the controller port to stream different kinds of data into the NES? We’d have something a lot like ConnectedNES!<br><img src="4905.jpg" alt="ConnectedNES"></p>
 <p>Here’s a breakdown of how the ConnectedNES Twitter client works:</p>
@@ -54,6 +52,7 @@
 <li>Some of the digital pins on the Photon are wired to an NES controller cable. (The Photon is powered via the controller cable, so no additional power supply is needed.) The data is written to those pins and, as far as the NES can tell, it begins to receive a very rapid stream of “button presses.” But as we know, those “button presses” actually represent a tweet! </li>
 <li>Inside the NES is a custom cartridge containing a “game” that displays the incoming data. The NES cannot natively display ASCII characters, so graphical tiles representing the basic ASCII table must be included in the custom NES ROM. I’ve also added pretty little animated balloons and things.</li>
 </ol>
+<p><img src="smaller-modem.jpg" alt="Modem"></p>
 <h3 id="Does-ConnectedNES-do-anything-aside-from-display-tweets"><a href="#Does-ConnectedNES-do-anything-aside-from-display-tweets" class="headerlink" title="Does ConnectedNES do anything aside from display tweets?"></a>Does ConnectedNES do anything aside from display tweets?</h3><p>Presently, the firmware and software are set up to display a predetermined Twitter feed, which… is  <em>really freakin’ cool</em> because <em>my goodness, there’s a Twitter feed on my NES!</em> But in the future, I plan to modify the code so that it’s more customizable for other internet-connected applications, making it a true platform that anyone can use (without having to learn 6502 Assembly)!</p>
 <h3 id="How-did-ConnectedNES-come-to-be"><a href="#How-did-ConnectedNES-come-to-be" class="headerlink" title="How did ConnectedNES come to be?"></a>How did ConnectedNES come to be?</h3><p>In 2015, my good friend and fellow console-hacker <a href="http://www.andrewreitano.com" target="_blank" rel="external">Andy Reitano</a> stayed with me for a few days, and&mdash;per our custom&mdash;we decided to build something funny together. We have a great time talking about our highly obscure programming hobby and even more fun putting it to good use. I loved the idea of having a game as iconic and canonical as <em>Super Mario Bros.</em> be just, like, weirdly interrupted by a Twitter notification ticker. And I knew Andy had made something called “NES Transfer Tool,” a protocol for streaming data from a laptop through the NES’s controller port. (Yes, all the credit for that clever idea goes rightly to him.) And then it occurred to me that the Particle Photon could make the whole thing wireless… and thus <em>Social Media Bros.</em> was born, giving us in-game Twitter notifications on the original <em>Super Mario Bros.</em> cartridge.<br><img src="image1.JPG" alt="Social Media Bros. screenshot"></p>
 <p><video id="sampleMovie" width="80%" preload="" controls><br>    	<source src="http://www.nobadmemories.com/ConnectedNES/smb_CRT.mp4" type="video/mp4">
@@ -67,7 +66,7 @@
 <ol>
 <li>make some video tutorials showing how to put together the server, Photon firmware, “modem,” and NES ROM,</li>
 <li>connect with fellow members of the NES homebrew community to see if others might want to write custom ROMS,</li>
-<li>add features such as displaying WiFi connectivity errors, and most importantly,</li>
+<li>add features such as displaying WiFi connectivity errors, sound, etc., and most importantly,</li>
 <li>modify the code to make it more accessible to a wide array of coders with minimal technical investment and maximum fun!</li>
 </ol>
 <p>Have more questions or want to feature ConnectedNES in your blog, magazine, conference, or fancy tea party? Get in touch with me via <a href="http://www.twitter.com/partytimeHXLNT" target="_blank" rel="external">twitter</a> or <a href="mailto:rachelsimoneweil@gmail.com" target="_blank" rel="external">email</a>.</p>
