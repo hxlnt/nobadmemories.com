@@ -1,105 +1,98 @@
-<html>
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+    <!-- Standard Meta -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="UTF-8">
-    <meta name="description" content="No Bad Memories">
-    <meta name="author" content="Rachel Simone Weil">
-    <link rel="icon" href="favicon/favicon.ico">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-    <title>No Bad Memories </title>
+    <!-- Site Properities -->
+    <title>
+        No Bad Memories
+    </title>
+    <meta name="description" content="No Bad Memories &gt;&gt; Rachel Simone Weil is an experimental designer whose work concerns alternative histories of computing and video games." />
+    <meta name="keywords" content="no bad memories, rachel weil, party time hexcellent, nes, nesdev, femicom" />
 
-    <link rel="stylesheet" href="/css/blueboy.css">
- <script type="text/javascript">
-        var appInsights=window.appInsights||function(config){
-            function r(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s=u.createElement(o),i,f;for(s.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",u.getElementsByTagName(o)[0].parentNode.appendChild(s),t.cookie=u.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)r("track"+i.pop());return r("setAuthenticatedUserContext"),r("clearAuthenticatedUserContext"),config.disableExceptionTracking||(i="onerror",r("_"+i),f=e[i],e[i]=function(config,r,u,e,o){var s=f&&f(config,r,u,e,o);return s!==!0&&t["_"+i](config,r,u,e,o),s}),t
-        }({
-            instrumentationKey:"abb99e44-65b9-4941-9c19-beee5dd38eda"
-        });
-        
-        window.appInsights=appInsights;
-        appInsights.trackPageView();
-    </script>
+    <!-- DocPad Meta -->
+    <meta name="generator" content="DocPad v6.78.6" />
+
+        <!-- DocPad Styles + Our Own -->
+        <link  rel="stylesheet" href="/styles/style.css" />
+
+            <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 </head>
 
 <body>
+    <div id="gradient"></div>
     <header>
-        
         <nav>
-        <h1>No <span style="font-weight:normal">Bad</span> Memories</h1>
-            
-        <a class="social" href="/about"><i class="fa fa-floppy-o fa-fw"></i> About</a>
-        
-        <a class="social" href="/projects"><i class="fa fa-diamond fa-fw"></i> Projects</a>
-       
-        <a class="social" href="/events"><i class="fa fa-calendar fa-fw"></i> Events</a>
-            
-        <a class="social" href="/blog"><i class="fa fa-commenting fa-fw"></i> Blog</a>
-        
-        <a class="social" href="/press"><i class="fa fa-newspaper-o fa-fw"></i> Press</a>
-       
+            <h1><a href="http://www.nobadmemories.com">No <span id="bad">Bad</span> Memories</a></h1>
+            <div id="navlinks">
+                <a href="/about">About</a> <a href="/blog">Blog</a> <a href="/events">Events</a> <a href="/projects">Art+Code</a> 
+            </div>
         </nav>
     </header>
     <main>
-        <h2>ConnectedNES</h2>
-<p>ConnectedNES is a unique <a href="http://www.github.com/hxlnt/connectednes" target="_blank" rel="external">open-source</a> project released in May 2016 that wirelessly and easily connects the 8-bit NES game console to the internet with a custom “modem” you can build yourself! It is currently bundled with a realtime Twitter client but has the potential to be expanded to a collaborative platform.<br><img src="connectednes1.gif" alt="Waiting for WiFi..."></p>
-<h3 id="What-is-ConnectedNES"><a href="#What-is-ConnectedNES" class="headerlink" title="What is ConnectedNES?"></a>What is ConnectedNES?</h3><p>ConnectedNES is comprised of:</p>
+        <slug>
+            <span class="slug"><a href="/projects">Art + Code</a>  &hearts;  
+                        ConnectedNES
+                    </span>
+        </slug>
+        <content>
+				<article>
+                    
+                <p>ConnectedNES is a unique open-source project released in May 2016 that wirelessly and easily connects the 8-bit NES game console to the internet with a custom “modem” you can build yourself! It is currently bundled with a realtime Twitter client but has the potential to be expanded to a collaborative platform.</p>
+<h2 id="what-is-connectednes-">What is ConnectedNES?</h2>
+<p><img src="/img/connectednes1.gif" alt="Loading screen"></p>
+<p>ConnectedNES is comprised of:</p>
 <ol>
 <li>a standard-issue Nintendo Entertainment System, ca. 1985,</li>
-<li>a custom wireless “modem” (no, it’s not <em>really</em> a modem, but it’s fun to call it one) for the NES built with a <a href="http://particle.io" target="_blank" rel="external">Particle Photon</a>, custom firmware, and hacked parts of an NES controller,</li>
-<li>a node.js server backend to process internet data (mine’s hosted on <a href="http://portal.azure.com" target="_blank" rel="external">Azure</a>), and</li>
+<li>a custom wireless “modem” (no, it’s not <em>really</em> a modem, but it’s fun to call it one) for the NES built with a <a href="http://particle.io/">Particle Photon</a>, custom firmware, and hacked parts of an NES controller,</li>
+<li>a node.js server backend to process internet data (mine’s hosted on <a href="http://portal.azure.com/">Azure</a>, and</li>
 <li>custom NES ROMs designed to process and display internet data such as the ConnectedNES Twitter client.</li>
 </ol>
-<p><video id="sampleMovie" width="80%" preload="" controls><br> <source src="connectednesdemo.mp4" type="video/mp4"><br> <source src="connectednesdemo.ogv" type="video.ogg"><br></video></p>
-<p>ConnectedNES is written across three languages: Javascript, Arduino C/C++, and 6502 Assembly. </p>
-<h3 id="How-does-ConnectedNES-work"><a href="#How-does-ConnectedNES-work" class="headerlink" title="How does ConnectedNES work?"></a>How does ConnectedNES work?</h3><p>When you play NES games, you press buttons on the controller, and the controller in turn sends a signal made of bits (1s and 0s) through the controller cable and into the NES console. These bits indicate which buttons were pressed or not pressed, and this information is then used to control the game. As it turns out, tweets, images, and other digital content is also made up of bits. What if we could use the controller port to stream different kinds of data into the NES? We’d have something a lot like ConnectedNES!<br><img src="4905.jpg" alt="ConnectedNES"></p>
+<p>ConnectedNES is written across three languages: Javascript, Arduino C/C++, and 6502 Assembly.</p>
+<h2 id="how-does-connectednes-work-">How does ConnectedNES work?</h2>
+<p>When you play NES games, you press buttons on the controller, and the controller in turn sends a signal made of bits (1s and 0s) through the controller cable and into the NES console. These bits indicate which buttons were pressed or not pressed, and this information is then used to control the game. As it turns out, tweets, images, and other digital content is also made up of bits. What if we could use the controller port to stream different kinds of data into the NES? We’d have something a lot like ConnectedNES!</p>
+<p><img src="/img/4905.jpg" alt="The Photon sends data to NES port"></p>
 <p>Here’s a breakdown of how the ConnectedNES Twitter client works:</p>
 <ol>
 <li>A custom node.js server running on Azure hooks into Twitter’s streaming API and listens for tweets matching certain keywords (currently, “OSCON” and “ConnectedNES”).</li>
 <li>When a matching tweet appears, the node.js server figures out the best way to chop up the tweet into six lines that contain no more than 24 characters each. It also does some additional text parsing to display the username, date, and timestamp associated with the tweet.</li>
 <li>The modified tweet data is sent via the cloud to a Particle Photon containing custom firmware. (Particle has its own cloud-based event streaming protocol.) On the Photon, the tweet data is represented as an array of bytes.</li>
-<li>Some of the digital pins on the Photon are wired to an NES controller cable. (The Photon is powered via the controller cable, so no additional power supply is needed.) The data is written to those pins and, as far as the NES can tell, it begins to receive a very rapid stream of “button presses.” But as we know, those “button presses” actually represent a tweet! </li>
+<li>Some of the digital pins on the Photon are wired to an NES controller cable. (The Photon is powered via the controller cable, so no additional power supply is needed.) The data is written to those pins and, as far as the NES can tell, it begins to receive a very rapid stream of “button presses.” But as we know, those “button presses” actually represent a tweet!</li>
 <li>Inside the NES is a custom cartridge containing a “game” that displays the incoming data. The NES cannot natively display ASCII characters, so graphical tiles representing the basic ASCII table must be included in the custom NES ROM. I’ve also added pretty little animated balloons and things.</li>
 </ol>
-<p><img src="smaller-modem.jpg" alt="Modem"></p>
-<h3 id="Does-ConnectedNES-do-anything-aside-from-display-tweets"><a href="#Does-ConnectedNES-do-anything-aside-from-display-tweets" class="headerlink" title="Does ConnectedNES do anything aside from display tweets?"></a>Does ConnectedNES do anything aside from display tweets?</h3><p>Presently, the firmware and software are set up to display a predetermined Twitter feed, which… is  <em>really freakin’ cool</em> because <em>my goodness, there’s a Twitter feed on my NES!</em> But in the future, I plan to modify the code so that it’s more customizable for other internet-connected applications, making it a true platform that anyone can use (without having to learn 6502 Assembly)!</p>
-<h3 id="How-did-ConnectedNES-come-to-be"><a href="#How-did-ConnectedNES-come-to-be" class="headerlink" title="How did ConnectedNES come to be?"></a>How did ConnectedNES come to be?</h3><p>In 2015, my good friend and fellow console-hacker <a href="http://www.andrewreitano.com" target="_blank" rel="external">Andy Reitano</a> stayed with me for a few days, and&mdash;per our custom&mdash;we decided to build something funny together. We have a great time talking about our highly obscure programming hobby and even more fun putting it to good use. I loved the idea of having a game as iconic and canonical as <em>Super Mario Bros.</em> be just, like, weirdly interrupted by a Twitter notification ticker. And I knew Andy had made something called “NES Transfer Tool,” a protocol for streaming data from a laptop through the NES’s controller port. (Yes, all the credit for that clever idea goes rightly to him.) And then it occurred to me that the Particle Photon could make the whole thing wireless… and thus <em>Social Media Bros.</em> was born, giving us in-game Twitter notifications on the original <em>Super Mario Bros.</em> cartridge.<br><img src="image1.JPG" alt="Social Media Bros. screenshot"></p>
-<p><video id="sampleMovie" width="80%" preload="" controls><br>    	<source src="http://www.nobadmemories.com/ConnectedNES/smb_CRT.mp4" type="video/mp4">
-	<source src="http://www.nobadmemories.com/ConnectedNES/smb_CRT.ogv" type="video/ogg"><br></video></p>
-
-<p>There were some interesting challenges in putting together this project. I worked from the disassembly of <em>Super Mario Bros.</em>, commenting out code to gain enough bytes to write in new assembly subroutines. Luigi had to be removed from the game to accomodate the “modem.” (Sorry, Green Mario!) For those who are familiar with the technical limitations of the NES, I also had to be careful to retain the “Sprite 0” pixel that keeps the status bar static at the top of the screen. In <em>Super Mario Bros.</em>, that pixel is contained in the floating coin, which I didn’t exactly want in my Twitter display.</p>
-<p>One of the biggest ways in which <em>Social Media Bros.</em> was lacking was in the way it grabbed twitter data. We ended up doing a hacky thing with <a href="http://www.ifttt.com" target="_blank" rel="external">IFTTT</a> that was slow and limited. (I do actually like IFTTT, but it’s not the right solution for up-to-the-minute twitter notifications.) The node server that I built for <em>ConnectedNES</em> can do a lot more, and in the blink of an eye. Believe it or not, tweets print to the NES pretty much instantaneously.</p>
-<h3 id="Does-ConnectedNES-work-in-an-emulator"><a href="#Does-ConnectedNES-work-in-an-emulator" class="headerlink" title="Does ConnectedNES work in an emulator?"></a>Does ConnectedNES work in an emulator?</h3><p>The ROM will load in an emulator, but I doubt if the modified controller would work with a USB adapter. Besides, having it run on original hardware is 99% of the fun! (Debugging Javascript is the other 1%.) </p>
-<h3 id="How-can-we-all-build-our-own-ConnectedNES-setups"><a href="#How-can-we-all-build-our-own-ConnectedNES-setups" class="headerlink" title="How can we all build our own ConnectedNES setups?"></a>How can we all build our own ConnectedNES setups?</h3><p>I plan to create more specific tutorials soon, but in the meantime, you can grab the source on <a href="http://www.github.com/hxlnt/connectednes" target="_blank" rel="external">GitHub</a>. There are three sets of code: the node server, which you need to host locally or remotely, the Photon firmware, which you need to flash to a Photon board, and the NES code. You can take the compiled ROM included on GitHub and put it on an NES flash cart like the PowerPak, or you could solder together your own cart. You can change which terms are monitored in the twitter feed in the node server code–just replace “OSCON” and “ConnectedNES” with whatever you like. Changing the ROM to match would be a little more challenging, but maybe you can figure it out! Finally, you’ll need to build the “modem” using the Photon and an NES controller cable. If you look at the Photon firmware and the photo above, you can probably see how it’s all wired up. It plugs in to the second controller port on the NES.</p>
-<h3 id="What’s-next-for-ConnectedNES"><a href="#What’s-next-for-ConnectedNES" class="headerlink" title="What’s next for ConnectedNES?"></a>What’s next for ConnectedNES?</h3><p>As you can see, ConnectedNES is in an early “hey, that’s neat!” phase. I’d like to expand it in order to make it a more collaborative platform. My next steps are to:</p>
+<p><img src="/img/smaller-modem.jpg" alt="&quot;Modem&quot;"></p>
+<h2 id="does-connectednes-do-anything-aside-from-display-tweets-">Does ConnectedNES do anything aside from display tweets?</h2>
+<p>Presently, the firmware and software are set up to display a predetermined Twitter feed, which… is <em>really freakin’ cool</em> because <em>my goodness, there’s a Twitter feed on my NES!</em> But in the future, I plan to modify the code so that it’s more customizable for other internet-connected applications, making it a true platform that anyone can use (without having to learn 6502 Assembly)!</p>
+<h2 id="how-did-connectednes-come-to-be-">How did ConnectedNES come to be?</h2>
+<p>In 2015, my good friend and fellow console-hacker <a href="http://www.andrewreitano.com/">Andy Reitano</a> stayed with me for a few days, and—per our custom—we decided to build something funny together. We have a great time talking about our highly obscure programming hobby and even more fun putting it to good use. I loved the idea of having a game as iconic and canonical as <em>Super Mario Bros.</em> be just, like, weirdly interrupted by a Twitter notification ticker. And I knew Andy had made something called “NES Transfer Tool,” a protocol for streaming data from a laptop through the NES’s controller port. (Yes, all the credit for that clever idea goes rightly to him.) And then it occurred to me that the Particle Photon could make the whole thing wireless… and thus <em>Social Media Bros.</em> was born, giving us in-game Twitter notifications on the original <em>Super Mario Bros.</em> cartridge.</p>
+<p><img src="/img/social1.JPG" alt="Social Media Bros."></p>
+<p>There were some interesting challenges in putting together this project. I worked from the disassembly of Super Mario Bros., commenting out code to gain enough bytes to write in new assembly subroutines. Luigi had to be removed from the game to accomodate the “modem.” (Sorry, Green Mario!) For those who are familiar with the technical limitations of the NES, I also had to be careful to retain the “Sprite 0” pixel that keeps the status bar static at the top of the screen. In <em>Super Mario Bros.,</em> that pixel is contained in the floating coin, which I didn’t exactly want in my Twitter display.</p>
+<p>One of the biggest ways in which Social Media Bros. was lacking was in the way it grabbed twitter data. We ended up doing a hacky thing with <a href="http://www.ifttt.com/">IFTTT</a> that was slow and limited. (I do actually like IFTTT, but it’s not the right solution for up-to-the-minute twitter notifications.) The node server that I built for ConnectedNES can do a lot more, and in the blink of an eye. Believe it or not, tweets print to the NES pretty much instantaneously.</p>
+<h2 id="does-connectednes-work-in-an-emulator-">Does ConnectedNES work in an emulator?</h2>
+<p>The ROM will load in an emulator, but I doubt if the modified controller would work with a USB adapter. Besides, having it run on original hardware is 99% of the fun! (Debugging Javascript is the other 1%.)</p>
+<h2 id="how-can-we-all-build-our-own-connectednes-setups-">How can we all build our own ConnectedNES setups?</h2>
+<p>I plan to create more specific tutorials soon, but in the meantime, you can grab the source on <a href="http://www.github.com/hxlnt/connectednes">GitHub</a>. There are three sets of code: the node server, which you need to host locally or remotely, the Photon firmware, which you need to flash to a Photon board, and the NES code. You can take the compiled ROM included on GitHub and put it on an NES flash cart like the PowerPak, or you could solder together your own cart. You can change which terms are monitored in the twitter feed in the node server code–just replace “OSCON” and “ConnectedNES” with whatever you like. Changing the ROM to match would be a little more challenging, but maybe you can figure it out! Finally, you’ll need to build the “modem” using the Photon and an NES controller cable. If you look at the Photon firmware and the photo above, you can probably see how it’s all wired up. It plugs in to the second controller port on the NES.</p>
+<h2 id="what-s-next-for-connectednes-">What’s next for ConnectedNES?</h2>
+<p>As you can see, ConnectedNES is in an early “hey, that’s neat!” phase. I’d like to expand it in order to make it a more collaborative platform. My next steps are to:</p>
 <ol>
 <li>make some video tutorials showing how to put together the server, Photon firmware, “modem,” and NES ROM,</li>
 <li>connect with fellow members of the NES homebrew community to see if others might want to write custom ROMS,</li>
 <li>add features such as displaying WiFi connectivity errors, sound, etc., and most importantly,</li>
 <li>modify the code to make it more accessible to a wide array of coders with minimal technical investment and maximum fun!</li>
 </ol>
-<p>Have more questions or want to feature ConnectedNES in your blog, magazine, conference, or fancy tea party? Get in touch with me via <a href="http://www.twitter.com/partytimeHXLNT" target="_blank" rel="external">twitter</a> or <a href="mailto:rachelsimoneweil@gmail.com" target="_blank" rel="external">email</a>.</p>
+<p>Have more questions or want to feature ConnectedNES in your blog, magazine, conference, or fancy tea party? Get in touch with me via <a href="http://www.twitter.com/partytimeHXLNT">twitter</a>.</p>
 
-        <!-- Disqus Comments -->
-
-    <script type="text/javascript">
-        var disqus_shortname = 'nobadmemories';
-
-        (function(){
-            var dsq = document.createElement('script');
-            dsq.type = 'text/javascript';
-            dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        }());
-    </script>
-
-
+				</article>
+			</content>
 
     </main>
+     <!--DocPad Scripts + Our Own -->
+    <!-- jQuery -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/vendor/jquery.js"><\/script>')</script><script defer="defer"  src="/scripts/script.js"></script>
 </body>
-
- 
-<script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
 
 </html>
