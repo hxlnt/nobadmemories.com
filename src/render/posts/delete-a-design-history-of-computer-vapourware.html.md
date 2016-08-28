@@ -1,8 +1,8 @@
 ---
 layout: 'content'
 title: "Delete: A Design History of Computer Vaporware"
-description: "Terlingua is a ghost town near the Texas-Mexico border."
-while: "watching the sun rise."
+description: "Paul Atkinson's *Delete: A Design History of Computer Vapourware* is highly recommended for those interested in computer hardware design or retrocomputing."
+while: "...?"
 date: 2016-01-29T17:00
 tagged: ["books"]
 ---
