@@ -1,0 +1,13 @@
+---
+layout: 'default'
+title: 'Art + Code'
+---
+
+    <% for project in @getCollection('projects').sortArray(date: -1): %>
+        <p><em>"<%- project.quote.text %>" &mdash;<a href="<%- project.quote.link %>"><%- project.quote.source %></a></em></p>
+        <h2><a href="<%- project.url %>"><%- project.name %></a></h2>
+        <% if project.img: %><p><img src="/img/<%- project.img %>"></p><% end %>
+        <BR><HR><BR>
+    <% end %> 
+
+    <p><em>More soon...</em></p>

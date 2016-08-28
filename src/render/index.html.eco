@@ -1,0 +1,13 @@
+---
+layout: 'default'
+title: 'No Bad Memories'
+---
+
+	<p>Hi! I'm <a href="/about">Rachel Simone Weil</a>, an experimental designer who creates alternative, marginalized, and fabricated histories of computers and video games.</p>
+
+	<p>I like <span id="like1">___</span>, <span id="like2">___</span>, and <span id="like3">___</span>.</p>
+
+	<p><img src="/img/me.jpg"></p>
+
+	<p>Twitter: <a href="http://www.twitter.com/partytimehxlnt">@partytimeHXLNT</a> &hearts; Github: <a href="http://www.github.com/hxlnt">HXLNT</a></p>
+	

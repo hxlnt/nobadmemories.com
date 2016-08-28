@@ -1,0 +1,73 @@
+---
+layout: 'default'
+title: 'Events'
+---
+
+    <p>Below is a list of selected technical and academic talks, panels, and exhibitions/performances. Please check the <a href="http://www.juegosrancheros.com/" target="new">Juegos Rancheros website</a> for information on upcoming events related to Juegos Rancheros, Fantastic Arcade, and the Museum of Human Amusement.</p>
+    <h2>Upcoming events</h2>
+        <% for event in @getCollection('events').sortArray(date: 1): %>
+            <% if event.date >= new Date: %>
+                <p> 
+                    <% if event.type == "TECH": %>
+                        <button class="tech">TECH</button>
+                    <% else if event.type == "ACAD": %>
+                        <button class="acad">ACAD</button>
+                    <% else if event.type == "EXHB": %>
+                        <button class="exhb">EXHB</button>                    
+                    <% end %>
+                    <a href="<%- event.url %>">  
+                        <% if event.presentation: %>"<%- event.presentation.name %>"</a><BR><%- event.momentDate %>
+                            <% if event.enddate: %>&ndash;<%- event.momentEndDate %><% end %> at 
+                            <% if event.event: %><%- event.event.name %><% else: %><%- event.venue.name %><% end %> 
+                        <% else: %>
+                            <%- event.event.name %></a><BR><%- event.momentDate %>
+                            <% if event.enddate: %>&ndash;<%- event.momentEndDate %><% end %> at <%- event.venue.name %> 
+                        <% end %>
+                        in <%- event.venue.location %></a>
+                </p>
+            <% end %>
+        <% end %> 
+    <h2>Past events, 2016</h2>
+        <% for event in @getCollection('events').sortArray(date: 1): %>
+		    <% if event.date < new Date && event.momentYear == "2016": %>
+                <p> 
+                <% if event.type == "TECH": %>
+                    <button class="tech">TECH</button>
+                <% else if event.type == "ACAD": %>
+                    <button class="acad">ACAD</button>
+                <% else if event.type == "EXHB": %>
+                    <button class="exhb">EXHB</button>                    
+                <% end %>
+                <a href="<%- event.url %>">  
+                    <% if event.presentation: %>"<%- event.presentation.name %>"</a><BR><%- event.momentDate %>
+                        <% if event.enddate: %>&ndash;<%- event.momentEndDate %><% end %> at 
+                        <% if event.event: %><%- event.event.name %><% else: %><%- event.venue.name %><% end %> 
+                    <% else: %>
+                        <%- event.event.name %></a><BR><%- event.momentDate %>
+                        <% if event.enddate: %>&ndash;<%- event.momentEndDate %><% end %> at <%- event.venue.name %> 
+                    <% end %>
+                    in <%- event.venue.location %></a></p>
+            <% end %>
+        <% end %> 
+    <h2>Past events, 2015</h2>
+        <% for event in @getCollection('events').sortArray(date: 1): %>
+		    <% if event.date < new Date && event.momentYear == "2015": %>
+                <p> 
+                <% if event.type == "TECH": %>
+                    <button class="tech">TECH</button>
+                <% else if event.type == "ACAD": %>
+                    <button class="acad">ACAD</button>
+                <% else if event.type == "EXHB": %>
+                    <button class="exhb">EXHB</button>                    
+                <% end %>
+                <a href="<%- event.url %>">  
+                    <% if event.presentation: %>"<%- event.presentation.name %>"</a><BR><%- event.momentDate %>
+                        <% if event.enddate: %>&ndash;<%- event.momentEndDate %><% end %> at 
+                        <% if event.event: %><%- event.event.name %><% else: %><%- event.venue.name %><% end %> 
+                    <% else: %>
+                        <%- event.event.name %></a><BR><%- event.momentDate %>
+                        <% if event.enddate: %>&ndash;<%- event.momentEndDate %><% end %> at <%- event.venue.name %> 
+                    <% end %>
+                    in <%- event.venue.location %></a></p>
+            <% end %>
+        <% end %> 
