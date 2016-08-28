@@ -3,7 +3,7 @@ layout: 'content'
 title: 'Hey, look, I started a blog!'
 description: "Over the past year, I've found myself thinking up things I wanted to blog about. And each time, the excitement created by this impulse was quickly diminished by the realization that I don't actually have a blog. Or, I <em>didn't</em>. I do now."
 while: 'watching SGDQ 2016.'
-date: 2016-07-09T02:40-05:00
+date: 2016-07-09T02:40
 ---
 
 Over the past year, I've found myself thinking up things I wanted to blog about. And each time, the excitement created by this impulse was quickly diminished by the realization that I don't actually have a blog. Or, I <em>didn't</em>. I do now.
