@@ -2,8 +2,6 @@
 # It is simply a CoffeeScript Object which is parsed by CSON
 docpadConfig =
 
-    prompts: false
-	
 	# =================================
 	# Plugins
 
