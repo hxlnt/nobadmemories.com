@@ -1,19 +1,19 @@
 ---
 layout: 'content'
-title: "Rae's Guide to PocketCHIP"
+title: "My first week with PocketCHIP"
 description: "Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketCHIP to share all I've learned, built, and, ahem, broken from time to time."
 while: 'listening to Consideration by Rihanna (ft. SZA).'
-date: 2016-08-29T01:17
+date: 2016-08-29T01:51
 ---
 
-About a week ago, I received a brand-new PocketCHIP, and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to start putting together an ever-evolving guide to all things PocketCHIP to share all I've learned, built, and, *ahem*, broken from time to time.
+About a week ago, I received a brand-new PocketCHIP, and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to start putting together all that I've learned, built, and, *ahem*, broken so far.
 
 1. [What is PocketCHIP?](#what-is-pocketchip)
-3. [Installing new software on your PocketCHIP](#installing-new-software-on-your-pocketchip)
+2. [Installing new software on your PocketCHIP](#installing-new-software-on-your-pocketchip)
+3. [Visual Studio Code IDE on PocketCHIP](#visual-studio-code-ide-on-pocketchip)
 4. [Blogging from PocketCHIP](#blogging-from-pocketchip)
-5. [Visual Studio Code IDE on PocketCHIP](#visual-studio-code-ide-on-pocketchip)
-6. [Oops! I bricked my PocketCHIP!](#oops-i-bricked-my-pocketchip)
-7. [Corrections? Tips? Contributions?](#corrections-tips-contributions) 
+5. [Oops! I bricked my PocketCHIP!](#oops-i-bricked-my-pocketchip)
+6. [Corrections? Tips? Contributions?](#corrections-tips-contributions) 
 
 ## What is PocketCHIP?
 
@@ -41,12 +41,6 @@ Applications you install won't be automatically added to the Home Screen, though
 
 Did you know that PocketCHIP already comes with some applications that aren't on the Home Screen? For example, a web browser can be accessed from Terminal by typing `surf nobadmemories.com`.
 
-## Blogging from PocketCHIP
-
-I recently built a website workflow ([DocPad](http://www.docpad.org) + [GitHub](http://www.github.com) + [Azure](http://azure.microsoft.com)) that allows me to author and post blog posts in plain old Markdown from just about anywhere. As I confirmed yesterday, that means I can even blog from my PocketCHIP! I essentially just grab [my website's repository on GitHub](https://github.com/hxlnt/nobadmemories.com) from my PocketCHIP Terminal, author a new blog post in Markdown, and push changes back to the repository. Because I have Azure set to watch and recompile when the GitHub repository changes, the DocPad deployment script will be rerun and the website will be automatically served up with updates. No FTP, no local node process. Love it.
-
-I'll write this up in a more detailed post soon, but in the meantime, [here's the first PocketCHIP-authored blog post I uploaded](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
-
 ## Visual Studio Code IDE on PocketCHIP
 
 I can't tell you whether it's practical to have Visual Studio Code on your PocketCHIP, but I can confirm that it's both *possible* and *fun!*
@@ -70,6 +64,12 @@ That said, I'll admit that VS Code on PocketCHIP isn't a slam-dunk recommendatio
 I mostly took on this endeavor for the challenge, to be the first one to get this lovable IDE working on this lovable device. I learned a LOT about Linux and building from source. (Did I mention that I'd never used Linux before last week?) In the course of this adventure, I also had a pull request accepted for VS Code's compile documentation, which was really exciting, and now I'm motivated to continue contributing to VS Code and improving the VS Code ARM7 user experience! So. Worth. It.
 
 Additional resources: [Microsoft's build-from-source guide](https://github.com/Microsoft/vscode/wiki/How-to-Contribute#build-and-run-from-source), [ARM7 pull request](https://github.com/Microsoft/vscode/pull/10923)
+
+## Blogging from PocketCHIP
+
+I recently built a website workflow ([DocPad](http://www.docpad.org) + [GitHub](http://www.github.com) + [Azure](http://azure.microsoft.com)) that allows me to author and post blog posts in plain old Markdown from just about anywhere. As I confirmed yesterday, that means I can even blog from my PocketCHIP! I essentially just grab [my website's repository on GitHub](https://github.com/hxlnt/nobadmemories.com) from my PocketCHIP Terminal, author a new blog post in Markdown, and push changes back to the repository. Because I have Azure set to watch and recompile when the GitHub repository changes, the DocPad deployment script will be rerun and the website will be automatically served up with updates. No FTP, no local node process. Love it.
+
+I'll write this up in a more detailed post soon, but in the meantime, [here's the first PocketCHIP-authored blog post I uploaded](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
 
 ## Oops! I bricked my PocketCHIP
 
