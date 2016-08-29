@@ -23,7 +23,7 @@ Next Thing Co.'s [https://getchip.com/pages/pocketchip](PocketC.H.I.P.) looks li
 
 The PocketC.H.I.P. is a hackable computer with a touchscreen display, QWERTY keyboard, rechargeable battery, GPIO breakouts, headphone jack, WiFi, and bluetooth, all in one adorable handheld device. The brain of the PocketC.H.I.P. is the C.H.I.P., a $9 Linux computer with a 1 GHz ARM7 processor and 512 MB RAM. 
 
-Admittedly, the touchscreen is a little finicky, the keyboard a little fatiguing for extended use, the 512 MB of RAM a little short, and the plastic casing a little creaky. But overall, it feels like a great deal of care went into the design and the right tradeoffs for value and cost were made. (The PocketC.H.I.P. currently retails for $69 USD.) Little touches like the pencil stand, lanyard hole, faceted case, and beautiful graphic design have tremendous impact.
+Admittedly, the touchscreen is a little finicky, the keyboard a little fatiguing for extended use, the 512 MB of RAM a little short, and the plastic casing a little creaky. But overall, it feels like a great deal of care went into the design and that the right tradeoffs for value and cost were made. (The PocketC.H.I.P. currently retails for $69 USD.) Little touches like the pencil stand, lanyard hole, faceted case, and beautiful graphic design have tremendous impact.
 
 To learn more about the PocketC.H.I.P. and C.H.I.P., check out Next Thing Co.'s [documentation](http://docs.getchip.com/).
 
