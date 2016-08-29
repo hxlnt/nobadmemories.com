@@ -3,7 +3,7 @@ layout: 'content'
 title: "Rae's Guide to PocketCHIP"
 description: "Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketCHIP to share all I've learned, built, and, ahem, broken from time to time."
 while: 'listening to Consideration by Rihanna (ft. SZA).'
-date: 2016-08-29T00:36
+date: 2016-08-29T00:55
 ---
 
 About a week ago, I received a brand-new PocketCHIP, and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketCHIP to share all I've learned, built, and, *ahem*, broken from time to time.
@@ -29,13 +29,17 @@ To learn more about the PocketCHIP and CHIP, check out Next Thing Co.'s [documen
 
 ## Installing new software on your PocketCHIP
 
+PocketCHIP comes with a few applications preloaded; among them, the Pico-8 game console-plus-IDE steals the show. But what if you want to venture into new territory with your device?
+
 To look for applications that you may be able to install on the PocketCHIP, you can browse the [Debian Jessie Package listing](https://packages.debian.org/jessie/) and look for stable-release packages that list supported architecture as "all" or "armhf." If you find an application you want to try, you can install it by opening the Terminal and entering `sudo apt-get install name-of-package` where *name-of-package* is the name of the package you want to install as listed on the Debian package website. Note that before you install your first application, you should run `sudo apt-get update` to update APT ("Advanced Package Tool"). To remove a package, enter `sudo apt-get remove name-of-package`.
 
 By the way, this might be a good time to mention web browsers. Many folks don't realize that the PocketCHIP comes with a browser; just go to terminal and type `surf nobadmemories.com`. If you find this browser lacking, you can install a different one.
 
 ## Blogging from PocketCHIP
 
-My website workflow allows me to do all sorts of funny stuff like writing blog posts from my PocketCHIP How fun is that? I'll write this up soon, but in the meantime, [here's the first PocketCHIP-authored blog post I uploaded](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
+I built a website workflow ([DocPad](http://www.docpad.org) + [GitHub](http://www.github.com) + [Azure](http://azure.microsoft.com)) that allows me to author and post blog posts in plain old Markdown from just about anywhere. As I confirmed yesterday, that means I can even blog posts from my PocketCHIP! I essentially just clone [my website's repository on GitHub](https://github.com/hxlnt/nobadmemories.com) to my PocketCHIP, author a new blog post in Markdown, and push it back to the repository from Terminal. Because I have Azure set to watch and recompile when the GitHub repository changes, the DocPad deployment script will be rerun and the website will be automatically served up with updates! 
+
+I'll write this up in a more detailed post soon, but in the meantime, [here's the first PocketCHIP-authored blog post I uploaded](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
 
 ## Visual Studio Code on PocketCHIP
 
