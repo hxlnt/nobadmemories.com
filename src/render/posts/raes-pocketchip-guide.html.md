@@ -31,9 +31,13 @@ To learn more about the PocketCHIP and CHIP, check out Next Thing Co.'s [documen
 
 PocketCHIP comes with a few applications preloaded; among them, the [Pico-8 game console-plus-IDE](http://www.lexaloffle.com/pico-8.php) steals the show. But what if you want to venture into new territory with your device?
 
-To look for applications that you may be able to install on the PocketCHIP, you can browse the [Debian Jessie Package listing](https://packages.debian.org/jessie/) and look for stable-release packages that list supported architecture as "all" or "armhf." If you find an application you want to try, you can install it by opening the Terminal and entering `sudo apt-get install name-of-package` where *name-of-package* is the name of the package you want to install as listed on the Debian package website. Note that before you install your first application, you should run `sudo apt-get update` to update APT ("Advanced Package Tool"). To remove a package, enter `sudo apt-get remove name-of-package`.
+To find applications that you may be able to install on the PocketCHIP, you can take a look the [Debian Jessie Package listing](https://packages.debian.org/jessie/) and browse stable-release packages that list supported architecture as "all" or "armhf." If you find an application you want to try, first ensure that you've connected to WiFi from the Home Screen settings menu. Then, you can install software by opening the Terminal and entering `sudo apt-get install name-of-package` where *name-of-package* is the name of the package you want to install per the Debian package website. 
 
-By the way, this might be a good time to mention web browsers. Many folks don't realize that the PocketCHIP comes with a browser; just go to terminal and type `surf nobadmemories.com`. If you find this browser lacking, you can install a different one.
+Speaking of `sudo`, the default PocketCHIP password for commands prefixed with `sudo` is *chip.* You should probably change that at some point. It's easy: just enter the command `passwd` into Terminal and follow the directions provided.
+
+Note that before you install your first application, you should run `sudo apt-get update` to update APT (the "Advanced Package Tool"). To remove a package that you no longer want, enter `sudo apt-get remove name-of-package`.
+
+Applications you install won't be automatically added to the Home Screen, though some folks have posted tutorials for customizing Home Screens on [the Next Thing Co. forums](https://bbs.nextthing.co/). Applications you install can be opened from Terminal. Did you know that PocketCHIP already comes with some applications that aren't on the Home Screen? For example, a web browser can be accessed from Terminal by typing `surf nobadmemories.com`.
 
 ## Blogging from PocketCHIP
 
