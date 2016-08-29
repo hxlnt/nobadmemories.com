@@ -49,7 +49,7 @@ I'll write this up in a more detailed post soon, but in the meantime, [here's th
 
 ## Visual Studio Code IDE on PocketCHIP
 
-I can't tell you whether it's practical to have Visual Studio Code on your PocketCHIP, but I can absolutely confirm that it's both *possible* and *fun!*
+I can't tell you whether it's practical to have Visual Studio Code on your PocketCHIP, but I can confirm that it's both *possible* and *fun!*
 
 ![Custom build of VS Code on PocketCHIP](/img/vscode2.jpg)
 
@@ -65,7 +65,7 @@ After a few late nights and with a little luck, my build worked. I was SO EXCITE
 
 ![Javascript syntax highlighting in VS Code](/img/pocketjavascript.jpg)
 
-That said, I'll admit that VS Code on PocketCHIP isn't a slam-dunk recommendation yet. I'm not sure whether it can be attributed to user error, the PocketCHIP's modest specs, or the fact that VS Code is somehow running on a niche device with a custom Debian OS that's only been out for a few weeks on architecture that's not officially supported. The experience is, admittedly, not yet quite as good as you'd expect it to be on a Real Computer.
+That said, I'll admit that VS Code on PocketCHIP isn't a slam-dunk recommendation yet. It's a little buggy, and I'm not sure whether to attribute that to user error, the PocketCHIP's modest specs, or the fact that VS Code is somehow running on a niche device with a custom Debian OS that's only been out for a few weeks on architecture that's not officially supported.
 
 I mostly took on this endeavor for the challenge, to be the first one to get this lovable IDE working on this lovable device. I learned a LOT about Linux and building from source. (Did I mention that I'd never used Linux before last week?) In the course of this adventure, I also had a pull request accepted for VS Code's compile documentation, which was really exciting, and now I'm motivated to continue contributing to VS Code and improving the VS Code ARM7 user experience! So. Worth. It.
 
