@@ -3,14 +3,13 @@ layout: 'content'
 title: "Rae's Guide to PocketC.H.I.P."
 description: "Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketC.H.I.P. to share all I've learned, built, and, ahem, broken from time to time."
 while: 'listening to Consideration by Rihanna (ft. SZA).'
-date: 2016-08-29T00:25
+date: 2016-08-29T00:36
 ---
 
 About a week ago, I received a brand-new PocketC.H.I.P., and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketC.H.I.P. to share all I've learned, built, and, *ahem*, broken from time to time.
 
 1. [What is PocketC.H.I.P.?](#what-is-pocketchip)
-2. [PocketC.H.I.P. Terminal cheat sheet](#pocketchip-terminal-cheat-sheet)
-3. [Customizing your PocketC.H.I.P.](#customizing-your-pocketchip)
+3. [Installing new software on your PocketC.H.I.P.](#installing-new-software-on-your-pocketchip)
 4. [Blogging from PocketC.H.I.P.](#blogging-from-pocketchip)
 5. [Visual Studio Code on PocketC.H.I.P](#visual-studio-code-on-pocketchip)
 6. [Oops! I bricked my PocketC.H.I.P.!](#oops-i-bricked-my-pocketchip)
@@ -28,24 +27,11 @@ Admittedly, the touchscreen is a little finnicky, the keyboard a little fatiguin
 
 To learn more about the PocketC.H.I.P. and C.H.I.P., check out Next Thing Co.'s [documentation](http://docs.getchip.com/).
 
-## PocketC.H.I.P. Linux cheat sheet
-
-(Note: This is incomplete; I'll continue to update over time as things occur to me.)
+## Installing new software on your PocketC.H.I.P.
 
 To look for applications that you may be able to install on the PocketC.H.I.P., you can browse the [Debian Jessie Package listing](https://packages.debian.org/jessie/) and look for stable-release packages that list supported architecture as "all" or "armhf." If you find an application you want to try, you can install it by opening the Terminal and entering `sudo apt-get install name-of-package` where *name-of-package* is the name of the package you want to install as listed on the Debian package website. Note that before you install your first application, you should run `sudo apt-get update` to update APT ("Advanced Package Tool"). To remove a package, enter `sudo apt-get remove name-of-package`.
 
-| Terminal command | Description |
-| ---------------- |-------------- |
-| cd *mydir*       | Changes current directory to *mydir* |
-| ls               | Directory listing |
-| mkdir *mydir*    | Creates a directory called *mydir* |
-| rm *myfile*      | Deletes a file called *myfile* |
-| [Up arrow]       | Cycles through previously-typed commands |
-
-
-## Customizing your PocketC.H.I.P.
-
-Coming soon!
+By the way, this might be a good time to mention web browsers. Many folks don't realize that the PocketC.H.I.P. comes with a browser; just go to terminal and type `surf nobadmemories.com`. If you find this browser lacking, you can install a different one.
 
 ## Blogging from PocketC.H.I.P.
 
@@ -59,9 +45,9 @@ I can't tell you whether it's practical to have Visual Studio Code on your Pocke
 
 OK, wait... what?
 
-[VS Code](http://code.visualstudio.com) is Microsoft's cross-platform, open-source IDE. Though the "VS" technically stands for Visual Studio, VS Code has more in common with lightweight IDEs like Atom and Sublime. I like VS Code a LOT, largely because it is very customizable, has really nice built-in node.js debugging tools, and has easy git workflow integration. BUT, I will save my fangirling for another day...
+[VS Code](http://code.visualstudio.com) is Microsoft's cross-platform, open-source IDE. Though the "VS" technically stands for Visual Studio, VS Code has more in common with lightweight IDEs like Atom and Sublime. I like VS Code a LOT: it's very customizable, has really nice built-in node.js debugging tools, and has easy git workflow integration. BUT, I digress...
 
-While I was impatiently waiting for my PocketC.H.I.P. to arrive last week, I decided that I really needed to install VS Code on it because, um, how cool would that be? I'd never actually used Linux before, but I knew there were binaries on the VS Code website, soooo... how hard could it be, right? (I hear all y'all Linux users laughing at last week's me. It's fine.)
+While I was impatiently waiting for my PocketC.H.I.P. to arrive last week, I decided that I really needed to install VS Code on it because, um, I don't know. Bragging rights, maybe? I'd never actually used Linux before, but I knew there were binaries on the VS Code website, soooo... how hard could it be, right? (I hear all y'all Linux users laughing at last week's me. It's fine.)
 
 Soon after my PocketC.H.I.P. arrived, and propelled by sheer enthusiasm alone, I got to work. 
 
