@@ -3,7 +3,7 @@ layout: 'content'
 title: 'Rae's Guide to PocketC.H.I.P.'
 description: "Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketC.H.I.P. to share all I've learned, built, and, ahem, broken from time to time."
 while: 'listening to Consideration by Rihanna (ft. SZA).'
-date: 2016-08-28T23:44
+date: 2016-08-28T23:47
 ---
 
 About a week ago, I received a brand-new PocketC.H.I.P., and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketC.H.I.P. to share all I've learned, built, and, *ahem*, broken from time to time.
@@ -40,7 +40,7 @@ Coming soon!
 
 ![Blogging from PocketC.H.I.P.](img/blogging.jpg)
 
-Coming soon!
+My website workflow allows me to do all sorts of funny stuff like writing blog posts from my PocketC.H.I.P. How fun is that? I'll write this up soon, but in the meantime, [here's the first PocketC.H.I.P.-authored blog post I uploaded](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
 
 # Visual Studio Code on PocketC.H.I.P.
 
