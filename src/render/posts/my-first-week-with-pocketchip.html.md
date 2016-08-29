@@ -17,7 +17,7 @@ About a week ago, I received a brand-new PocketCHIP, and I haven't been able to 
 
 ## What is PocketCHIP?
 
-Next Thing Co.'s [PocketCHIP](https://getchip.com/pages/pocketchip]) looks like what you might if you crossed a Raspberry Pi with a Game Boy. 
+Next Thing Co.'s [PocketCHIP](https://getchip.com/pages/pocketchip]) looks like what you might get if you crossed a Raspberry Pi with a Game Boy. 
 
 ![PocketCHIP photo from getchip.com](/img/pocket.jpg)
 
