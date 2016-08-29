@@ -6,7 +6,7 @@ while: 'listening to Consideration by Rihanna (ft. SZA).'
 date: 2016-08-29T00:55
 ---
 
-About a week ago, I received a brand-new PocketCHIP, and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketCHIP to share all I've learned, built, and, *ahem*, broken from time to time.
+About a week ago, I received a brand-new PocketCHIP, and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to start putting together an ever-evolving guide to all things PocketCHIP to share all I've learned, built, and, *ahem*, broken from time to time.
 
 1. [What is PocketCHIP?](#what-is-pocketchip)
 3. [Installing new software on your PocketCHIP](#installing-new-software-on-your-pocketchip)
@@ -37,7 +37,7 @@ By the way, this might be a good time to mention web browsers. Many folks don't 
 
 ## Blogging from PocketCHIP
 
-I built a website workflow ([DocPad](http://www.docpad.org) + [GitHub](http://www.github.com) + [Azure](http://azure.microsoft.com)) that allows me to author and post blog posts in plain old Markdown from just about anywhere. As I confirmed yesterday, that means I can even blog posts from my PocketCHIP! I essentially just clone [my website's repository on GitHub](https://github.com/hxlnt/nobadmemories.com) to my PocketCHIP, author a new blog post in Markdown, and push it back to the repository from Terminal. Because I have Azure set to watch and recompile when the GitHub repository changes, the DocPad deployment script will be rerun and the website will be automatically served up with updates! 
+I built a website workflow ([DocPad](http://www.docpad.org) + [GitHub](http://www.github.com) + [Azure](http://azure.microsoft.com)) that allows me to author and post blog posts in plain old Markdown from just about anywhere. As I confirmed yesterday, that means I can even blog posts from my PocketCHIP! I essentially just grab [my website's repository on GitHub](https://github.com/hxlnt/nobadmemories.com) from my PocketCHIP Terminal, author a new blog post in Markdown, and push changes back to the repository. Because I have Azure set to watch and recompile when the GitHub repository changes, the DocPad deployment script will be rerun and the website will be automatically served up with updates. 
 
 I'll write this up in a more detailed post soon, but in the meantime, [here's the first PocketCHIP-authored blog post I uploaded](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
 
@@ -47,11 +47,9 @@ I can't tell you whether it's practical to have Visual Studio Code on your Pocke
 
 ![Custom build of VS Code on PocketCHIP](/img/vscode2.jpg)
 
-OK, wait... what?
+OK, wait... what? Yes.
 
-[VS Code](http://code.visualstudio.com) is Microsoft's cross-platform, open-source IDE. Though the "VS" technically stands for Visual Studio, VS Code has more in common with lightweight IDEs like Atom and Sublime. I like VS Code a LOT: it's very customizable, has really nice built-in node.js debugging tools, and has easy git workflow integration. BUT, I digress...
-
-While I was impatiently waiting for my PocketCHIP to arrive last week, I decided that I really needed to install VS Code on it because, um, I don't know. Bragging rights, maybe? I'd never actually used Linux before, but I knew there were binaries on the VS Code website, soooo... how hard could it be, right? (I hear all y'all Linux users laughing at last week's me. It's fine.)
+While I was impatiently waiting for my PocketCHIP to arrive last week, I decided that I really needed to install [VS Code]((http://code.visualstudio.com)) on it because, um, I don't know. Bragging rights, maybe? I'd never actually used Linux before, but I knew there were binaries on the VS Code website, soooo... how hard could it be, right? (I hear all y'all Linux users laughing at last week's me. It's fine.)
 
 Soon after my PocketCHIP arrived, and propelled by sheer enthusiasm alone, I got to work. 
 
