@@ -3,7 +3,7 @@ layout: 'content'
 title: "Rae's Guide to PocketCHIP"
 description: "Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketCHIP to share all I've learned, built, and, ahem, broken from time to time."
 while: 'listening to Consideration by Rihanna (ft. SZA).'
-date: 2016-08-29T00:55
+date: 2016-08-29T01:00
 ---
 
 About a week ago, I received a brand-new PocketCHIP, and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to start putting together an ever-evolving guide to all things PocketCHIP to share all I've learned, built, and, *ahem*, broken from time to time.
