@@ -38,8 +38,6 @@ Coming soon!
 
 ## Blogging from PocketC.H.I.P.
 
-![Blogging from PocketC.H.I.P.](/img/blogging.jpg)
-
 My website workflow allows me to do all sorts of funny stuff like writing blog posts from my PocketC.H.I.P. How fun is that? I'll write this up soon, but in the meantime, [here's the first PocketC.H.I.P.-authored blog post I uploaded](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
 
 ## Visual Studio Code on PocketC.H.I.P.
@@ -50,21 +48,21 @@ I can't tell you whether it's practical to have Visual Studio Code on your Pocke
 
 OK, wait... what?
 
-[VS Code](http://code.visualstudio.com) is Microsoft's cross-platform, open-source IDE. Though the VS technically stands for Visual Studio, VS Code has more in common with lightweight IDEs like Atom and Sublime. I like VS Code a LOT, largely because it is very customizable, has really nice built-in node.js debugging tools, and has easy git workflow integration. BUT, I will save my fangirling for another day...
+[VS Code](http://code.visualstudio.com) is Microsoft's cross-platform, open-source IDE. Though the "VS" technically stands for Visual Studio, VS Code has more in common with lightweight IDEs like Atom and Sublime. I like VS Code a LOT, largely because it is very customizable, has really nice built-in node.js debugging tools, and has easy git workflow integration. BUT, I will save my fangirling for another day...
 
-While I was impatiently waiting for my PocketC.H.I.P. to arrive last week, I decided that I really needed to install VS Code on it because, um, how cool would it be to write code on the go? I'd never actually used Linux before, but I knew there were binaries on the VS Code website, soooo... how hard could it be, right? (I hear all y'all Linux users laughing at last week's me. It's fine.)
+While I was impatiently waiting for my PocketC.H.I.P. to arrive last week, I decided that I really needed to install VS Code on it because, um, how cool would that be? I'd never actually used Linux before, but I knew there were binaries on the VS Code website, soooo... how hard could it be, right? (I hear all y'all Linux users laughing at last week's me. It's fine.)
 
-Soon after my PocketC.H.I.P. arrived, and propelled by sheer enthusiasm alone, I got a build working! And as it turns out, there actually wasn't a binary that could run on the PocketC.H.I.P.'s ARM7 architecture (see below), so I set my sights on compiling it all from source.
+Soon after my PocketC.H.I.P. arrived, and propelled by sheer enthusiasm alone, I got to work. 
 
-Due to the PocketC.H.I.P.'s limited specs, the `npm install` that brings in all the necessary modules for building from source will result in an out-of-memory error. So, to build VS Code on a PocketC.H.I.P., I discovered that I needed to first create a 1 GB swapfile on a USB stick. Directions for how to do this (see "Arch Linux Swap") are available [here](http://raspberrypimaker.com/adding-swap-to-the-raspberrypi/). (Thanks to [John Gerryts](https://twitter.com/phonikg) for the hot tip via twitter!) 
+As it turned out, there actually wasn't a binary that could run on the PocketC.H.I.P.'s ARM7 architecture, so I built VS Code from source, which had its own challenges. Due to the PocketC.H.I.P.'s limited specs, the `npm install` that brings in all the necessary modules for building from source will result in an out-of-memory error. So, to build VS Code on a PocketC.H.I.P., I discovered that I needed to first create a 1 GB swapfile on a USB stick. Directions for how to do this (see "Arch Linux Swap") are available [here](http://raspberrypimaker.com/adding-swap-to-the-raspberrypi/). (Thanks to [John Gerryts](https://twitter.com/phonikg) for the hot tip via twitter!) 
 
-After a few late nights and with a little luck, my build worked. I was SO EXCITED when VS Code successfully compiled and popped up. It looked just like my PC and Mac versions! 
+After a few late nights and with a little luck, my build worked. I was SO EXCITED when VS Code successfully compiled and popped up. It looked just like the PC and Mac versions! 
 
 ![Javascript syntax highlighting in VS Code](/img/pocketjavascript.jpg)
 
-I'll admit that VS Code on PocketC.H.I.P. isn't a slam-dunk recommendation yet. I'm not sure whether it can be attributed to user error, the PocketC.H.I.P.'s modest specs, or the fact that VS Code is somehow running on a niche device with a custom Debian OS that's only been out for a few weeks on architecture that's not officially supported. The experience is, admittedly, not yet quite as good as you'd expect it to be on a Real Computer.
+That said, I'll admit that VS Code on PocketC.H.I.P. isn't a slam-dunk recommendation yet. I'm not sure whether it can be attributed to user error, the PocketC.H.I.P.'s modest specs, or the fact that VS Code is somehow running on a niche device with a custom Debian OS that's only been out for a few weeks on architecture that's not officially supported. The experience is, admittedly, not yet quite as good as you'd expect it to be on a Real Computer.
 
-In any case, I mostly took on this endeavor for the challenge, to be the first one to get this lovable IDE working on this lovable device. I learned a LOT about Linux and building from source. (Did I mention that I'd never used Linux before last week?) In the course of this adventure, I also had a pull request accepted for VS Code's compile documentation, which was really exciting, and now I'm motivated to continue contributing to VS Code and improving the VS Code ARM7 user experience! So. Worth. It.
+I mostly took on this endeavor for the challenge, to be the first one to get this lovable IDE working on this lovable device. I learned a LOT about Linux and building from source. (Did I mention that I'd never used Linux before last week?) In the course of this adventure, I also had a pull request accepted for VS Code's compile documentation, which was really exciting, and now I'm motivated to continue contributing to VS Code and improving the VS Code ARM7 user experience! So. Worth. It.
 
 Additional resources: [Microsoft's build-from-source guide](https://github.com/Microsoft/vscode/wiki/How-to-Contribute#build-and-run-from-source), [ARM7 pull request](https://github.com/Microsoft/vscode/pull/10923)
 
