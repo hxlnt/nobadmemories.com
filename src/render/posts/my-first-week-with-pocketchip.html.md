@@ -53,7 +53,7 @@ As it turned out, while there were [a number of 32- and 64-bit Linux packages](h
 
 Though the ARM7 architecture wasn't officially supported, and I'd never built a Linux application from source, and seemingly no one had ever installed VS Code on a PocketCHIP before... how hard could it be, right? (I hear all y'all Linux users laughing at last week's me. It's fine.)
 
-Due to the PocketCHIP's limited specs, the `npm install` that brings in all the necessary modules for building from source results in an out-of-memory error. (Well, it actually just results in the `npm install` silently failing, but I eventually found the error logs and pieced it together.) So, to build VS Code on a PocketCHIP, I discovered that I needed to first create a 1 GB swapfile on a USB stick. Directions for how to do this are available [here](http://raspberrypimaker.com/adding-swap-to-the-raspberrypi/). (See "Arch Linux Swap," and thanks to [John Gerryts](https://twitter.com/phonikg) for the hot tip via twitter!) 
+There were a fair number of puzzles to solve in this process. For example, due to the PocketCHIP's limited specs, the `npm install` that brings in all the necessary modules for building from source results in an out-of-memory error. (Well, it actually just results in the `npm install` silently failing, but I eventually found the error logs and pieced it together.) So, to build VS Code on a PocketCHIP, I discovered that I needed to first create a 1 GB swapfile on a USB stick. Directions for how to do this are available [here](http://raspberrypimaker.com/adding-swap-to-the-raspberrypi/). (See "Arch Linux Swap," and thanks to [John Gerryts](https://twitter.com/phonikg) for the hot tip via twitter!) 
 
 After a few late nights, a lot of dependency installations, and a little luck, my VS Code build worked. I was SO EXCITED when it compiled and popped up for the first time. It looked just like the PC and Mac versions! 
 
@@ -61,7 +61,7 @@ After a few late nights, a lot of dependency installations, and a little luck, m
 
 That said, I'll admit that VS Code on PocketCHIP isn't a slam-dunk recommendation yet. It's a little buggy, and I'm not sure whether to attribute that to user error, the PocketCHIP's modest specs, or the fact that VS Code is somehow running on a niche device with a custom Debian OS that's only been out for a few weeks on architecture that's not officially supported.
 
-I mostly took on this endeavor for the challenge, to be the first one to get this lovable IDE working on this lovable device. I learned a LOT about Linux and building from source. (Did I mention that I'd never used Linux before last week?) In the course of this adventure, I also had a pull request accepted for VS Code's compile documentation, which was really exciting, and now I'm motivated to continue contributing to VS Code and improving the VS Code ARM7 user experience! So. Worth. It. So much fun.
+I mostly took on this endeavor for the challenge, to be the first one to get this lovable IDE working on this lovable device. I learned a LOT about Linux and building from source. (Did I mention that I'd never even *used* Linux that much before last week?) In the course of this adventure, I also had a pull request accepted for VS Code's compile documentation, which was really exciting, and now I'm motivated to contribute to VS Code and perhaps even improve the ARM7 user experience! So. Worth. It. So much fun.
 
 If you decide to Be Like Rae&trade; and build something from source on the PocketCHIP, here are a few tips and thoughts:
 
