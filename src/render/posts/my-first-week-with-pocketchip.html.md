@@ -6,10 +6,10 @@ while: 'listening to Consideration by Rihanna (ft. SZA).'
 date: 2016-08-29T01:51
 ---
 
-About a week ago, I received a brand-new PocketCHIP, and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to start putting together all that I've learned, built, and, *ahem*, broken so far.
+About a week ago, I received a brand-new PocketCHIP, and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to put together all that I've learned, built, and, *ahem*, broken so far.
 
 1. [What is PocketCHIP?](#what-is-pocketchip)
-2. [Installing new software on your PocketCHIP](#installing-new-software-on-your-pocketchip)
+2. [Installing new software on PocketCHIP](#installing-new-software-on-your-pocketchip)
 3. [Visual Studio Code IDE on PocketCHIP](#visual-studio-code-ide-on-pocketchip)
 4. [Blogging from PocketCHIP](#blogging-from-pocketchip)
 5. [Oops! I bricked my PocketCHIP!](#oops-i-bricked-my-pocketchip)
@@ -71,9 +71,9 @@ I recently built a website workflow ([DocPad](http://www.docpad.org) + [GitHub](
 
 I'll write this up in a more detailed post soon, but in the meantime, [here's the first PocketCHIP-authored blog post I uploaded](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
 
-## Oops! I bricked my PocketCHIP
+## Oops! I bricked my PocketCHIP!
 
-I won't ask you how it happened. But if you've bricked or somehow Really Screwed Up your PocketCHIP, you can make it all right again by reflashing it. Please note that reflashing restores your PocketCHIP to like-new condition (*i.e.,* your files and other downloads will be erased forever).
+I won't ask you how it happened. But if you've bricked or somehow Really Screwed Up your PocketCHIP like I did once, you can make it all right again by reflashing it. Please note that reflashing restores your PocketCHIP to like-new condition (*i.e.,* your files and other downloads will be erased forever).
 
 The PocketCHIP can very handily be reflashed using Next Thing Co.'s [web-based CHIP Flasher](http://flash.getchip.com/), which works on Mac and Windows. Choose PocketCHIP in the web app, then follow the instructions. You can bridge the FEL and ground pins without removing the CHIP from its casing; just use the breakout area at the top.
 
