@@ -29,7 +29,7 @@ To learn more about the PocketCHIP and CHIP, check out Next Thing Co.'s [documen
 
 ## Installing new software on your PocketCHIP
 
-PocketCHIP comes with a few applications preloaded; among them, the Pico-8 game console-plus-IDE steals the show. But what if you want to venture into new territory with your device?
+PocketCHIP comes with a few applications preloaded; among them, the [Pico-8 game console-plus-IDE](http://www.lexaloffle.com/pico-8.php) steals the show. But what if you want to venture into new territory with your device?
 
 To look for applications that you may be able to install on the PocketCHIP, you can browse the [Debian Jessie Package listing](https://packages.debian.org/jessie/) and look for stable-release packages that list supported architecture as "all" or "armhf." If you find an application you want to try, you can install it by opening the Terminal and entering `sudo apt-get install name-of-package` where *name-of-package* is the name of the package you want to install as listed on the Debian package website. Note that before you install your first application, you should run `sudo apt-get update` to update APT ("Advanced Package Tool"). To remove a package, enter `sudo apt-get remove name-of-package`.
 
