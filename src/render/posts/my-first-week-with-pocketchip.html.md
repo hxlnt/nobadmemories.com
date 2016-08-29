@@ -3,7 +3,7 @@ layout: 'content'
 title: "My first week with PocketCHIP"
 description: "Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketCHIP to share all I've learned, built, and, ahem, broken from time to time."
 while: 'listening to Consideration by Rihanna (ft. SZA).'
-date: 2016-08-29T01:51
+date: 2016-08-29T02:17
 ---
 
 About a week ago, I received a brand-new PocketCHIP, and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to put together all that I've learned, built, and, *ahem*, broken so far.
@@ -65,9 +65,13 @@ Additional resources: [Microsoft's build-from-source guide](https://github.com/M
 
 ## Blogging from PocketCHIP
 
-I recently built a website workflow ([DocPad](http://www.docpad.org) + [GitHub](http://www.github.com) + [Azure](http://azure.microsoft.com)) that allows me to author and post blog posts in plain old Markdown from just about anywhere. As I confirmed yesterday, that means I can even blog from my PocketCHIP! I essentially just grab [my website's repository on GitHub](https://github.com/hxlnt/nobadmemories.com) from my PocketCHIP Terminal, author a new blog post in Markdown, and push changes back to the repository. Because I have Azure set to watch and recompile when the GitHub repository changes, the DocPad deployment script will be rerun and the website will be automatically served up with updates. No FTP, no local node process. Love it.
+If you look closely at the photo above, you'll see a piece of the code that generates the No Bad Memories webpage. As it turns out, I can even blog from my PocketCHIP! 
 
-I'll write this up in a more detailed post soon, but in the meantime, [here's the first PocketCHIP-authored blog post I uploaded](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
+I recently built a website workflow ([DocPad](http://www.docpad.org) + [GitHub](http://www.github.com) + [Azure](http://azure.microsoft.com)) that allows me to author and post blog posts in plain old Markdown from just about anywhere, PocketCHIP. I essentially just grab [my website's repository on GitHub](https://github.com/hxlnt/nobadmemories.com) from my PocketCHIP Terminal, author a new blog post in Markdown, and push changes back to the repository. Because I have Azure set to watch and recompile when the GitHub repository changes, the DocPad deployment script will be rerun and the website will be automatically served up with updates. No FTP, no local node process. Love it.
+
+It doesn't matter whether the files are edited in VS Code, one of the PocketCHIP's built-in editors like Write or Nano, or some other text editor entirely. The key ingredient is git, which can be installed with the Terminal command `sudo apt-get install git`, and a GitHub repository dedicated to housing the DocPad source files.
+
+I'll write this up in a more detailed post soon, but in the meantime, [here's the first PocketCHIP-authored blog post I made](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
 
 ## Oops! I bricked my PocketCHIP!
 
