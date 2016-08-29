@@ -81,6 +81,6 @@ One thing that's really important to note is that reflashing seems to not work w
 
 ## Corrections? Tips? Contributions?
 
-Because this website is entirely available [on GitHub](https://github.com/hxlnt/nobadmemories.com/tree/master/src/render/posts), you can actually submit pull requests on individual blog posts like this one. (The horror!) If all of that sounded like a foreign language to you, no worries. You can also let me know on twitter ([@partytimeHXLNT](http://www.twitter.com/partytimehxlnt)) or via email ([rachelsimoneweil /at/ gmail /dot/ com](mailto:rachelsimoneweil@gmail.com)).
+What are you doing with your PocketCHIP? Got any suggestions or things I should try out? Throw all your best PocketCHIP finds in the comments section below. Or hey, seeing as this website is entirely available [on GitHub](https://github.com/hxlnt/nobadmemories.com/tree/master/src/render/posts), you could just submit a pull request! (The horror!)
 
 *Note: Given the content of this article, I'd like to mention that I am happily employed by Microsoft. That said, I publish my own honest opinions and experiences. Also, I do not represent any particular product development team. Yeah, really, OK, and thank you~!*
