@@ -9,7 +9,7 @@ date: 2016-08-29T01:51
 About a week ago, I received a brand-new PocketCHIP, and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to put together all that I've learned, built, and, *ahem*, broken so far.
 
 1. [What is PocketCHIP?](#what-is-pocketchip)
-2. [Installing new software on PocketCHIP](#installing-new-software-on-your-pocketchip)
+2. [Installing new software on PocketCHIP](#installing-new-software-on-pocketchip)
 3. [Visual Studio Code IDE on PocketCHIP](#visual-studio-code-ide-on-pocketchip)
 4. [Blogging from PocketCHIP](#blogging-from-pocketchip)
 5. [Oops! I bricked my PocketCHIP!](#oops-i-bricked-my-pocketchip)
@@ -27,7 +27,7 @@ Admittedly, the touchscreen is a little finicky, the keyboard a little fatiguing
 
 To learn more about the PocketCHIP and CHIP, check out Next Thing Co.'s [documentation](http://docs.getchip.com/).
 
-## Installing new software on your PocketCHIP
+## Installing new software on PocketCHIP
 
 PocketCHIP comes with a few applications preloaded; among them, the [Pico-8 game console-plus-IDE](http://www.lexaloffle.com/pico-8.php) steals the show. But what if you want to venture into new territory with your device?
 
