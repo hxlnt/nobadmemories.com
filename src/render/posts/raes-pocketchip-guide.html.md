@@ -16,11 +16,11 @@ About a week ago, I received a brand-new PocketC.H.I.P., and I haven't been able
 6. [Oops! I bricked my PocketC.H.I.P.!](#oops-i-bricked-my-pocketchip)
 7. [Corrections? Tips? Contributions?](#corrections-tips-contributions) 
 
-# What is PocketC.H.I.P.?
+## What is PocketC.H.I.P.?
 
 Next Thing Co.'s [https://getchip.com/pages/pocketchip](PocketC.H.I.P.) looks like what you might if you crossed a Raspberry Pi with a Game Boy. 
 
-![PocketC.H.I.P. photo from getchip.com](img/pocket.jpg)
+![PocketC.H.I.P. photo from getchip.com](/img/pocket.jpg)
 
 The PocketC.H.I.P. is a hackable computer with a touchscreen display, QWERTY keyboard, rechargeable battery, GPIO breakouts, headphone jack, WiFi, and bluetooth all in one incredibly chic handheld device. The brain of the PocketC.H.I.P. is the C.H.I.P., a $9 Linux computer with a 1 GHz ARM7 processor and 512 MB RAM. The whole PocketC.H.I.P. package currently retails for $69 USD, which is really not bad considering all you're getting.
 
@@ -28,25 +28,25 @@ Admittedly, the touchscreen is a little finnicky, the keyboard a little fatiguin
 
 To learn more about the PocketC.H.I.P. and C.H.I.P., check out Next Thing Co.'s [documentation](http://docs.getchip.com/).
 
-# PocketC.H.I.P. Linux cheat sheet
+## PocketC.H.I.P. Linux cheat sheet
 
 Coming soon!
 
-# Customizing your PocketC.H.I.P.
+## Customizing your PocketC.H.I.P.
 
 Coming soon!
 
-# Blogging from PocketC.H.I.P.
+## Blogging from PocketC.H.I.P.
 
-![Blogging from PocketC.H.I.P.](img/blogging.jpg)
+![Blogging from PocketC.H.I.P.](/img/blogging.jpg)
 
 My website workflow allows me to do all sorts of funny stuff like writing blog posts from my PocketC.H.I.P. How fun is that? I'll write this up soon, but in the meantime, [here's the first PocketC.H.I.P.-authored blog post I uploaded](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
 
-# Visual Studio Code on PocketC.H.I.P.
+## Visual Studio Code on PocketC.H.I.P.
 
 I can't tell you whether it's practical to have Visual Studio Code on your PocketC.H.I.P., but I can absolutely confirm that it's both *possible* and *fun!*
 
-![Custom build of VS Code on PocketC.H.I.P.](img/vscode2.jpg)
+![Custom build of VS Code on PocketC.H.I.P.](/img/vscode2.jpg)
 
 OK, wait... what?
 
@@ -68,7 +68,7 @@ In any case, I mostly took on this endeavor for the challenge, to be the first o
 
 Additional resources: [Microsoft's build-from-source guide](https://github.com/Microsoft/vscode/wiki/How-to-Contribute#build-and-run-from-source), [ARM7 pull request](https://github.com/Microsoft/vscode/pull/10923)
 
-# Oops! I bricked my PocketC.H.I.P.
+## Oops! I bricked my PocketC.H.I.P.
 
 I won't ask you how it happened. But if you've bricked or somehow Really Screwed Up your PocketC.H.I.P., you can make it all right again by reflashing it. Please note that reflashing restores your PocketC.H.I.P. to like-new condition (*i.e.,* your files and other downloads will be erased forever).
 
@@ -76,7 +76,7 @@ The PocketC.H.I.P. can very handily be reflashed using Next Thing Co.'s [web-bas
 
 One thing that's really important to note is that reflashing seems to not work with USB 3.0 ports and is quite picky about the type of USB cable used. If you're on a computer that only has USB 3.0 ports, you can place an older USB hub between the PocketC.H.I.P. and the USB 3.0 port to "downgrade" it to USB 2.0. If you're having issues reflashing, you might want to try swapping out the micro-USB cable for one of higher quality.
 
-# Corrections? Tips? Contributions?
+## Corrections? Tips? Contributions?
 
 Because this website is entirely available [on GitHub](https://github.com/hxlnt/nobadmemories.com/tree/master/src/render/posts), you can actually submit pull requests on individual blog posts like this one. (The horror!) If all of that sounded like a foreign language to you, no worries. You can also let me know on twitter ([@partytimeHXLNT](http://www.twitter.com/partytimehxlnt)) or via email ([rachelsimoneweil /at/ gmail /dot/ com](mailto:rachelsimoneweil@gmail.com)).
 
