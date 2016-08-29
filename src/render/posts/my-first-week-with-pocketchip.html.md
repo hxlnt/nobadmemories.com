@@ -2,7 +2,7 @@
 layout: 'content'
 title: "My first week with PocketCHIP"
 description: "Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketCHIP to share all I've learned, built, and, ahem, broken from time to time."
-while: 'listening to Consideration by Rihanna (ft. SZA).'
+while: 'drinking coffee.'
 date: 2016-08-29T10:51
 ---
 
@@ -10,7 +10,7 @@ About a week ago, I received a brand-new PocketCHIP, and I haven't been able to 
 
 1. [What is PocketCHIP?](#what-is-pocketchip)
 2. [Installing new software on PocketCHIP](#installing-new-software-on-pocketchip)
-3. [The hard way: Building from Source](#the-hard-way-building-from-source)
+3. [The hard way: Building from source](#the-hard-way-building-from-source)
 4. [Blogging from PocketCHIP](#blogging-from-pocketchip)
 5. [Oops! I bricked my PocketCHIP!](#oops-i-bricked-my-pocketchip)
 6. [Corrections? Tips? Contributions?](#corrections-tips-contributions) 
