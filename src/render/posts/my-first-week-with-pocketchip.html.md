@@ -47,7 +47,7 @@ I can't tell you whether it's practical to have Visual Studio Code on your Pocke
 
 OK, wait... what? Yes.
 
-While I was impatiently waiting for my PocketCHIP to arrive last week, I decided that I really needed to install [VS Code]((http://code.visualstudio.com) on it because, um, I don't know. Bragging rights, maybe? I'd never actually used Linux before, but I knew there were binaries on the VS Code website, soooo... how hard could it be, right? (I hear all y'all Linux users laughing at last week's me. It's fine.)
+While I was impatiently waiting for my PocketCHIP to arrive last week, I decided that I really needed to install the [VS Code IDE]((http://code.visualstudio.com) on it because, um, I don't know. Bragging rights, maybe? I'd never actually used Linux before, but I knew there were binaries on the VS Code website, soooo... how hard could it be, right? (I hear all y'all Linux users laughing at last week's me. It's fine.)
 
 Soon after my PocketCHIP arrived, and propelled by sheer enthusiasm alone, I got to work. 
 
