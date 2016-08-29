@@ -22,9 +22,9 @@ Next Thing Co.'s [https://getchip.com/pages/pocketchip](PocketC.H.I.P.) looks li
 
 ![PocketC.H.I.P. photo from getchip.com](/img/pocket.jpg)
 
-The PocketC.H.I.P. is a hackable computer with a touchscreen display, QWERTY keyboard, rechargeable battery, GPIO breakouts, headphone jack, WiFi, and bluetooth all in one incredibly chic handheld device. The brain of the PocketC.H.I.P. is the C.H.I.P., a $9 Linux computer with a 1 GHz ARM7 processor and 512 MB RAM. The whole PocketC.H.I.P. package currently retails for $69 USD, which is really not bad considering all you're getting.
+The PocketC.H.I.P. is a hackable computer with a touchscreen display, QWERTY keyboard, rechargeable battery, GPIO breakouts, headphone jack, WiFi, and bluetooth, all in one adorable handheld device. The brain of the PocketC.H.I.P. is the C.H.I.P., a $9 Linux computer with a 1 GHz ARM7 processor and 512 MB RAM. 
 
-Admittedly, the touchscreen is a little finnicky, the keyboard a little fatiguing for extended use, the 512 MB of RAM a little short, and the plastic casing a little creaky. But overall, it feels like a great deal of care went into the design and the right tradeoffs for value and cost were made. Little touches like the pencil stand, lanyard hole, faceted case, and beautiful graphic design have tremendous impact.
+Admittedly, the touchscreen is a little finnicky, the keyboard a little fatiguing for extended use, the 512 MB of RAM a little short, and the plastic casing a little creaky. But overall, it feels like a great deal of care went into the design and the right tradeoffs for value and cost were made. (The PocketC.H.I.P. currently retails for $69 USD.) Little touches like the pencil stand, lanyard hole, faceted case, and beautiful graphic design have tremendous impact.
 
 To learn more about the PocketC.H.I.P. and C.H.I.P., check out Next Thing Co.'s [documentation](http://docs.getchip.com/).
 
@@ -60,7 +60,7 @@ Due to the PocketC.H.I.P.'s limited specs, the `npm install` that brings in all 
 
 After a few late nights and with a little luck, my build worked. I was SO EXCITED when VS Code successfully compiled and popped up. It looked just like my PC and Mac versions! 
 
-![Javascript syntax highlighting in VS Code](img/pocketjavascript.jpg)
+![Javascript syntax highlighting in VS Code](/img/pocketjavascript.jpg)
 
 I'll admit that VS Code on PocketC.H.I.P. isn't a slam-dunk recommendation yet. I'm not sure whether it can be attributed to user error, the PocketC.H.I.P.'s modest specs, or the fact that VS Code is somehow running on a niche device with a custom Debian OS that's only been out for a few weeks on architecture that's not officially supported. The experience is, admittedly, not yet quite as good as you'd expect it to be on a Real Computer.
 
