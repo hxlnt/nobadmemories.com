@@ -3,7 +3,7 @@ layout: 'content'
 title: "Rae's Guide to PocketCHIP"
 description: "Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketCHIP to share all I've learned, built, and, ahem, broken from time to time."
 while: 'listening to Consideration by Rihanna (ft. SZA).'
-date: 2016-08-29T01:00
+date: 2016-08-29T01:17
 ---
 
 About a week ago, I received a brand-new PocketCHIP, and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to start putting together an ever-evolving guide to all things PocketCHIP to share all I've learned, built, and, *ahem*, broken from time to time.
@@ -11,7 +11,7 @@ About a week ago, I received a brand-new PocketCHIP, and I haven't been able to 
 1. [What is PocketCHIP?](#what-is-pocketchip)
 3. [Installing new software on your PocketCHIP](#installing-new-software-on-your-pocketchip)
 4. [Blogging from PocketCHIP](#blogging-from-pocketchip)
-5. [Visual Studio Code on PocketC.H.I.P](#visual-studio-code-on-pocketchip)
+5. [Visual Studio Code IDE on PocketCHIP](#visual-studio-code-ide-on-pocketchip)
 6. [Oops! I bricked my PocketCHIP!](#oops-i-bricked-my-pocketchip)
 7. [Corrections? Tips? Contributions?](#corrections-tips-contributions) 
 
@@ -45,7 +45,7 @@ I built a website workflow ([DocPad](http://www.docpad.org) + [GitHub](http://ww
 
 I'll write this up in a more detailed post soon, but in the meantime, [here's the first PocketCHIP-authored blog post I uploaded](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
 
-## Visual Studio Code on PocketCHIP
+## Visual Studio Code IDE on PocketCHIP
 
 I can't tell you whether it's practical to have Visual Studio Code on your PocketCHIP, but I can absolutely confirm that it's both *possible* and *fun!*
 
