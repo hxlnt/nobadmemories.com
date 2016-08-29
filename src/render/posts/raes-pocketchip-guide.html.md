@@ -3,13 +3,13 @@ layout: 'content'
 title: "Rae's Guide to PocketC.H.I.P."
 description: "Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketC.H.I.P. to share all I've learned, built, and, ahem, broken from time to time."
 while: 'listening to Consideration by Rihanna (ft. SZA).'
-date: 2016-08-28T23:47
+date: 2016-08-29T00:25
 ---
 
 About a week ago, I received a brand-new PocketC.H.I.P., and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketC.H.I.P. to share all I've learned, built, and, *ahem*, broken from time to time.
 
 1. [What is PocketC.H.I.P.?](#what-is-pocketchip)
-2. [PocketC.H.I.P. Linux cheat sheet](#pocketchip-linux-cheat-sheet)
+2. [PocketC.H.I.P. Terminal cheat sheet](#pocketchip-terminal-cheat-sheet)
 3. [Customizing your PocketC.H.I.P.](#customizing-your-pocketchip)
 4. [Blogging from PocketC.H.I.P.](#blogging-from-pocketchip)
 5. [Visual Studio Code on PocketC.H.I.P](#visual-studio-code-on-pocketchip)
@@ -30,7 +30,18 @@ To learn more about the PocketC.H.I.P. and C.H.I.P., check out Next Thing Co.'s 
 
 ## PocketC.H.I.P. Linux cheat sheet
 
-Coming soon!
+(Note: This is incomplete; I'll continue to update over time as things occur to me.)
+
+To look for applications that you may be able to install on the PocketC.H.I.P., you can browse the [Debian Jessie Package listing](https://packages.debian.org/jessie/) and look for stable-release packages that list supported architecture as "all" or "armhf." If you find an application you want to try, you can install it by opening the Terminal and entering `sudo apt-get install name-of-package` where *name-of-package* is the name of the package you want to install as listed on the Debian package website. Note that before you install your first application, you should run `sudo apt-get update` to update APT ("Advanced Package Tool"). To remove a package, enter `sudo apt-get remove name-of-package`.
+
+| Terminal command | Description |
+| ---------------- |-------------- |
+| cd *mydir*       | Changes current directory to *mydir* |
+| ls               | Directory listing |
+| mkdir *mydir*    | Creates a directory called *mydir* |
+| rm *myfile*      | Deletes a file called *myfile* |
+| [Up arrow]       | Cycles through previously-typed commands |
+
 
 ## Customizing your PocketC.H.I.P.
 
