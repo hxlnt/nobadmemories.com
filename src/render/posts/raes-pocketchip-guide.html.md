@@ -1,6 +1,6 @@
 ---
 layout: 'content'
-title: 'Rae's Guide to PocketC.H.I.P.'
+title: "Rae's Guide to PocketC.H.I.P."
 description: "Insofar as one can be an expert after just a week, I decided to start putting together a guide to all things PocketC.H.I.P. to share all I've learned, built, and, ahem, broken from time to time."
 while: 'listening to Consideration by Rihanna (ft. SZA).'
 date: 2016-08-28T23:47
