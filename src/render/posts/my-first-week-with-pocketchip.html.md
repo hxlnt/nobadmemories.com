@@ -8,12 +8,12 @@ date: 2016-08-29T10:51
 
 About a week ago, I received a brand-new PocketCHIP, and I haven't been able to put it down since. Insofar as one can be an expert after just a week, I decided to put together all that I've learned, built, and, *ahem*, broken so far.
 
-1. [What is PocketCHIP?](#what-is-pocketchip)
+1. [What is PocketCHIP?](#what-is-pocketchip-)
 2. [Installing new software on PocketCHIP](#installing-new-software-on-pocketchip)
 3. [The hard way: Building from source](#the-hard-way-building-from-source)
 4. [Blogging from PocketCHIP](#blogging-from-pocketchip)
-5. [Oops! I bricked my PocketCHIP!](#oops-i-bricked-my-pocketchip)
-6. [Corrections? Tips? Contributions?](#corrections-tips-contributions) 
+5. [Oops! I bricked my PocketCHIP!](#oops-i-bricked-my-pocketchip-)
+6. [Corrections? Tips? Contributions?](#corrections-tips-contributions-) 
 
 ## What is PocketCHIP?
 
