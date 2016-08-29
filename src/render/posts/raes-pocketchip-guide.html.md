@@ -59,7 +59,7 @@ While I was impatiently waiting for my PocketCHIP to arrive last week, I decided
 
 Soon after my PocketCHIP arrived, and propelled by sheer enthusiasm alone, I got to work. 
 
-As it turned out, there actually wasn't a binary that could run on the PocketCHIP's ARM7 architecture, so I built VS Code from source, which had its own challenges. Due to the PocketCHIP's limited specs, the `npm install` that brings in all the necessary modules for building from source will result in an out-of-memory error. So, to build VS Code on a PocketCHIP, I discovered that I needed to first create a 1 GB swapfile on a USB stick. Directions for how to do this (see "Arch Linux Swap") are available [here](http://raspberrypimaker.com/adding-swap-to-the-raspberrypi/). (Thanks to [John Gerryts](https://twitter.com/phonikg) for the hot tip via twitter!) 
+As it turned out, there actually wasn't a binary that could run on the PocketCHIP's ARM7 architecture, so I built VS Code from source, which had its own challenges. Due to the PocketCHIP's limited specs, the `npm install` that brings in all the necessary modules for building from source will result in an out-of-memory error. So, to build VS Code on a PocketCHIP, I discovered that I needed to first create a 1 GB swapfile on a USB stick. Directions for how to do this are available [here](http://raspberrypimaker.com/adding-swap-to-the-raspberrypi/). (See "Arch Linux Swap," and thanks to [John Gerryts](https://twitter.com/phonikg) for the hot tip via twitter!) 
 
 After a few late nights and with a little luck, my build worked. I was SO EXCITED when VS Code successfully compiled and popped up. It looked just like the PC and Mac versions! 
 
