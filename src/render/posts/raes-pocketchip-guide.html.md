@@ -37,11 +37,13 @@ Speaking of `sudo`, the default PocketCHIP password for commands prefixed with `
 
 Note that before you install your first application, you should run `sudo apt-get update` to update APT (the "Advanced Package Tool"). To remove a package that you no longer want, enter `sudo apt-get remove name-of-package`.
 
-Applications you install won't be automatically added to the Home Screen, though some folks have posted tutorials for customizing Home Screens on [the Next Thing Co. forums](https://bbs.nextthing.co/). Applications you install can be opened from Terminal. Did you know that PocketCHIP already comes with some applications that aren't on the Home Screen? For example, a web browser can be accessed from Terminal by typing `surf nobadmemories.com`.
+Applications you install won't be automatically added to the Home Screen, though some folks have posted tutorials for customizing Home Screens on [the Next Thing Co. forums](https://bbs.nextthing.co/). Applications you install can be opened from Terminal. 
+
+Did you know that PocketCHIP already comes with some applications that aren't on the Home Screen? For example, a web browser can be accessed from Terminal by typing `surf nobadmemories.com`.
 
 ## Blogging from PocketCHIP
 
-I built a website workflow ([DocPad](http://www.docpad.org) + [GitHub](http://www.github.com) + [Azure](http://azure.microsoft.com)) that allows me to author and post blog posts in plain old Markdown from just about anywhere. As I confirmed yesterday, that means I can even blog from my PocketCHIP! I essentially just grab [my website's repository on GitHub](https://github.com/hxlnt/nobadmemories.com) from my PocketCHIP Terminal, author a new blog post in Markdown, and push changes back to the repository. Because I have Azure set to watch and recompile when the GitHub repository changes, the DocPad deployment script will be rerun and the website will be automatically served up with updates. 
+I recently built a website workflow ([DocPad](http://www.docpad.org) + [GitHub](http://www.github.com) + [Azure](http://azure.microsoft.com)) that allows me to author and post blog posts in plain old Markdown from just about anywhere. As I confirmed yesterday, that means I can even blog from my PocketCHIP! I essentially just grab [my website's repository on GitHub](https://github.com/hxlnt/nobadmemories.com) from my PocketCHIP Terminal, author a new blog post in Markdown, and push changes back to the repository. Because I have Azure set to watch and recompile when the GitHub repository changes, the DocPad deployment script will be rerun and the website will be automatically served up with updates. No FTP, no local node process. Love it.
 
 I'll write this up in a more detailed post soon, but in the meantime, [here's the first PocketCHIP-authored blog post I uploaded](http://nobadmemories.com/blog/2016/08/whaaa-blogging-from-my-pocketchip).
 
