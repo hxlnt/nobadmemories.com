@@ -11,8 +11,8 @@ venue:
   name: "Lipscomb University"
   location: "Nashville, TN USA"
   link: "http://www.lipscomb.edu/"
-date: 2016-11-20T8:00
-enddate: 2016-11-21T18:00
+date: 2016-11-20 8:00
+enddate: 2016-11-21 18:00
 type: "TECH"
 ---
 
