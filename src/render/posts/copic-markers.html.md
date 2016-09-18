@@ -60,21 +60,30 @@ In the spirit of the first point about choosing colors based on their applicatio
 
 <button style="background-color:#EBEBEC; width:20%;">T0</button> <button style="background-color:#E9E9E7; width:20%;">T1</button> 
 
+
 <button style="background-color:#FFF8F1; width:20%;">E0000</button> <button style="background-color:#FFEFE1; width:20%;">E41</button> <button style="background-color:#F2E6D6; width:20%;">E42</button> <button style="background-color:#C5B9A8; width:20%;">E44</button>
+
 
 <button style="background-color:#FCD7D0; width:20%;">R20</button> <button style="background-color:#FEDAC1; width:20%;">YR01</button> <button style="background-color:#F9B7B2; width:20%;">R22</button> <button style="background-color:#F6917C; width:20%;">R05</button>
 
+
 <button style="background-color:white; width:20%;"></button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#FAC9D7; width:20%;">RV13</button> 
+
 
 <button style="background-color:#E5DEEF; width:20%;">BV000</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#AAB8DB; width:20%;">BV02</button> 
 
+
 <button style="background-color:white; width:20%;"></button> <button style="background-color:#DCECF9; width:20%;">B21</button> <button style="background-color:#93C2E9; width:20%;">B23</button> <button style="background-color:#10537E; color:white; width:20%;">B99</button>
+
 
 <button style="background-color:#E6F3ED; width:20%;">BG000</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#BDE3DC; width:20%;">BG23</button>
 
+
 <button style="background-color:#E3F3F3; width:20%;">G00</button> <button style="background-color:#D6EBD4; width:20%;">YG41</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#7CC578; width:20%;">G07</button>
 
+
 <button style="background-color:white; width:20%;"></button> <button style="background-color:#DAD6AF; width:20%;">YG91</button> <button style="background-color:#D3E59E; width:20%;">YG13</button>
+
 
 <button style="background-color:white; width:20%;"></button>  <button style="background-color:#FFECC0; width:20%;">Y21</button>
 
