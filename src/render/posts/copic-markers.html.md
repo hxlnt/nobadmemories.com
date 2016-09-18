@@ -58,25 +58,25 @@ While this system is really helpful to know about when choosing colors, it's not
 
 In the spirit of the first point about choosing colors based on their application, I'm hesitant to make recommendations for a starter set. However, the three markers I use most frequently are T1 (Toner Gray No. 1), BV000 (Iridescent Mauve), and BG000 (Pale Aqua). They're all very light but can be built up into darker shades of gray, purple, and teal, respectively. They're also excellent for toning and shading. If pressed to make up a 24-marker set of my most-used colors, I'd probably select these. (I also super-love the black 0.35 Multiliner SP pen for outlining.)
 
-<button style="background-color:#EBEBEC; width:84px;">T0</button> <button style="background-color:#E9E9E7; width:84px;">T1</button> 
+<button style="background-color:#EBEBEC; width:20%;">T0</button> <button style="background-color:#E9E9E7; width:20%;">T1</button> 
 
-<button style="background-color:#FFF8F1; width:84px;">E0000</button> <button style="background-color:#FFEFE1; width:84px;">E41</button> <button style="background-color:#F2E6D6; width:84px;">E42</button> <button style="background-color:#C5B9A8; width:84px;">E44</button>
+<button style="background-color:#FFF8F1; width:20%;">E0000</button> <button style="background-color:#FFEFE1; width:20%;">E41</button> <button style="background-color:#F2E6D6; width:20%;">E42</button> <button style="background-color:#C5B9A8; width:20%;">E44</button>
 
-<button style="background-color:#FCD7D0; width:84px;">R20</button> <button style="background-color:#FEDAC1; width:84px;">YR01</button> <button style="background-color:#F9B7B2; width:84px;">R22</button> <button style="background-color:#F6917C; width:84px;">R05</button>
+<button style="background-color:#FCD7D0; width:20%;">R20</button> <button style="background-color:#FEDAC1; width:20%;">YR01</button> <button style="background-color:#F9B7B2; width:20%;">R22</button> <button style="background-color:#F6917C; width:20%;">R05</button>
 
-<button style="background-color:white; width:84px;"></button> <button style="background-color:white; width:84px;"></button> <button style="background-color:#FAC9D7; width:84px;">RV13</button> 
+<button style="background-color:white; width:20%;"></button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#FAC9D7; width:20%;">RV13</button> 
 
-<button style="background-color:#E5DEEF; width:84px;">BV000</button> <button style="background-color:white; width:84px;"></button> <button style="background-color:#AAB8DB; width:84px;">BV02</button> 
+<button style="background-color:#E5DEEF; width:20%;">BV000</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#AAB8DB; width:20%;">BV02</button> 
 
-<button style="background-color:white; width:84px;"></button> <button style="background-color:#DCECF9; width:84px;">B21</button> <button style="background-color:#93C2E9; width:84px;">B23</button> <button style="background-color:#10537E; color:white; width:84px;">B99</button>
+<button style="background-color:white; width:20%;"></button> <button style="background-color:#DCECF9; width:20%;">B21</button> <button style="background-color:#93C2E9; width:20%;">B23</button> <button style="background-color:#10537E; color:white; width:20%;">B99</button>
 
-<button style="background-color:#E6F3ED; width:84px;">BG000</button> <button style="background-color:white; width:84px;"></button> <button style="background-color:#BDE3DC; width:84px;">BG23</button>
+<button style="background-color:#E6F3ED; width:20%;">BG000</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#BDE3DC; width:20%;">BG23</button>
 
-<button style="background-color:#E3F3F3; width:84px;">G00</button> <button style="background-color:#D6EBD4; width:84px;">YG41</button> <button style="background-color:white; width:84px;"></button> <button style="background-color:#7CC578; width:84px;">G07</button>
+<button style="background-color:#E3F3F3; width:20%;">G00</button> <button style="background-color:#D6EBD4; width:20%;">YG41</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#7CC578; width:20%;">G07</button>
 
-<button style="background-color:white; width:84px;"></button> <button style="background-color:#DAD6AF; width:84px;">YG91</button> <button style="background-color:#D3E59E; width:84px;">YG13</button>
+<button style="background-color:white; width:20%;"></button> <button style="background-color:#DAD6AF; width:20%;">YG91</button> <button style="background-color:#D3E59E; width:20%;">YG13</button>
 
-<button style="background-color:white; width:84px;"></button>  <button style="background-color:#FFECC0; width:84px;">Y21</button>
+<button style="background-color:white; width:20%;"></button>  <button style="background-color:#FFECC0; width:20%;">Y21</button>
 
 These might not be the right colors for you. Heck, I don't even know if they're the right colors for me! But hopefully you can see which colors have relationships in columns and/or rows.
 
@@ -90,4 +90,4 @@ Recently, I started thinking about printing a small run of Copic-colored zines. 
 
 ## Where to find Copic markers and supplies
 
-Copics can be found at art supply shops such as Blick and shops like Kinokuniya that carry Japanese stationery and art supplies. In my experience, the larger chains like Jo Ann and Michael's either don't carry Copics or keep them behind glass at the front of the store to prevent theft. Any art or craft shop should have paper for use with Copics. Try watercolor paper or an alcohol-marker pad. Or just experiment! And have fun!
+Copic markers can be found at art supply shops such as Blick and shops like Kinokuniya that carry Japanese stationery and art supplies. In my experience, the larger chains like Jo Ann and Michael's either don't carry Copics or keep them behind glass at the front of the store to prevent theft. Any art or craft shop should have paper for use with Copics. Try watercolor paper or an alcohol-marker pad. Or just experiment! And have fun!
