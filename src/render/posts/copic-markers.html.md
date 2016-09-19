@@ -7,7 +7,7 @@ date: 2016-09-18T05:49
 tagged: ["art"]
 ---
 
-I got really into Copic markers when I was a graduate student in design school. Available in more than 350 shades and accompanied by a whole cast of accessories and modular parts, Copic markers can become a dizzying (and expensive) obsession. So, why all the hype?
+I got really into Copic markers when I was in design school. Available in more than 350 shades and accompanied by a whole cast of accessories and modular parts, Copic markers can become a dizzying (and expensive) obsession. So, why all the hype?
 
 ![Copic markers and pens](/img/copic1.JPG)
 
@@ -56,35 +56,36 @@ While this system is really helpful to know about when choosing colors, it's not
 3. Think of your marker collection as a wardrobe. You want as many markers to coordinate with as many other markers as possible.
 4. There are a number of Copic markers that are very similar to one another, even if they aren't sequential in the numbering system. For example, G00 and BG11 are basically indistinguishable, even though they have different color families, saturation values, and brightness values. A good resource to consult is [Sandy Allnock's Copic Hex Chart](http://sandyallnock.com/hexchart/). For $6 USD, you'll get a downloadable PDF of a custom Copic chart in which each color is arranged in space by color similarity. You'll get two versions: one that's been colored in with real markers and scanned, and another that's blank for you to print and fill in on your own. The Copic Hex Chart has saved me a lot of headaches when it comes to identifying colors I might be interested in trying. I take both versions of the chart with me to the art supply store and test in-store markers on the blank chart. (If you wanted, you could mark or outline colors you own to distinguish them from markers you tried but didn't buy.) For best results, the blank chart should be printed on a thick, toothy paper. Thinner, shinier printer paper won't highlight the subtleties of the colors as well. And if you can, bring a daylight-tinted flashlight with you to your art supply store; warm light is deceptive! The Copic Hex Chart is well worth the $6, but Copic does also offer [free downloadable color charts and Photoshop swatch sets](https://imaginationinternationalinc.com/copic/101/downloadable-resources/) if you want to take a look at those.
 
-In the spirit of the first point about choosing colors based on their application, I'm hesitant to make recommendations for a starter set. However, the three markers I use most frequently are T1 (Toner Gray No. 1), BV000 (Iridescent Mauve), and BG000 (Pale Aqua). They're all very light but can be built up into darker shades of gray, purple, and teal, respectively. They're also excellent for toning and shading. If pressed to make up a 24-marker set of my most-used colors, I'd probably select these. (I also super-love the black 0.35 Multiliner SP pen for outlining.)
+In the spirit of the first point about choosing colors based on their application, I'm hesitant to make recommendations for a starter set. However, the three markers I use most frequently are T0 (Toner Gray No. 0), BV000 (Iridescent Mauve), and BG000 (Pale Aqua). They're all very light but can be built up into darker shades of gray, purple, and teal, respectively. They're also excellent for toning and shading. If pressed to make up a 24-marker set of my most-used colors, I'd probably select these. (I also super-love the black 0.35 Multiliner SP pen for outlining.)
 
 <button style="background-color:#EBEBEC; width:20%;">T0</button> <button style="background-color:#E9E9E7; width:20%;">T1</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:white; width:20%;"></button>
 
 <button style="background-color:#FFF8F1; width:20%;">E0000</button> <button style="background-color:#FFEFE1; width:20%;">E41</button> <button style="background-color:#F2E6D6; width:20%;">E42</button> <button style="background-color:#C5B9A8; width:20%;">E44</button>
 
+<button style="background-color:white; width:20%;"></button> <button style="background-color:#FEDAC1; width:20%;">YR01</button> <button style="background-color:#FEDCC6; width:20%;">YR02</button>
 
-<button style="background-color:#FCD7D0; width:20%;">R20</button> <button style="background-color:#FEDAC1; width:20%;">YR01</button> <button style="background-color:#F9B7B2; width:20%;">R22</button> <button style="background-color:#F6917C; width:20%;">R05</button>
+<button style="background-color:#FCD7D0; width:20%;">R20</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#F9B7B2; width:20%;">R22</button> <button style="background-color:#F6917C; width:20%;">R05</button>
 
 
 <button style="background-color:white; width:20%;"></button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#FAC9D7; width:20%;">RV13</button> <button style="background-color:white; width:20%;"></button>
 
 
-<button style="background-color:#E5DEEF; width:20%;">BV000</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#AAB8DB; width:20%;">BV02</button> <button style="background-color:white; width:20%;"></button>
+<button style="background-color:#E5DEEF; width:20%;">BV000</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#AAB8DB; width:20%;">BV02</button> <button style="background-color:#7F74B5; width:20%;">FV2</button>
 
 
 <button style="background-color:white; width:20%;"></button> <button style="background-color:#DCECF9; width:20%;">B21</button> <button style="background-color:#93C2E9; width:20%;">B23</button> <button style="background-color:#10537E; color:white; width:20%;">B99</button>
 
 
-<button style="background-color:#E6F3ED; width:20%;">BG000</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#BDE3DC; width:20%;">BG23</button> <button style="background-color:white; width:20%;"></button>
+<button style="background-color:#E6F3ED; width:20%;">BG000</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:white; width:20%;"></button> <button style="background-color:white; width:20%;"></button>
 
 
-<button style="background-color:#E3F3F3; width:20%;">G00</button> <button style="background-color:#D6EBD4; width:20%;">YG41</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#7CC578; width:20%;">G07</button>
+<button style="background-color:white; width:20%;"></button> <button style="background-color:#D6EBD4; width:20%;">YG41</button> <button style="background-color:#D3E59E; width:20%;">YG13</button> <button style="background-color:#7CC578; width:20%;">G07</button>
 
 
-<button style="background-color:white; width:20%;"></button> <button style="background-color:#DAD6AF; width:20%;">YG91</button> <button style="background-color:#D3E59E; width:20%;">YG13</button> <button style="background-color:white; width:20%;"></button>
+<button style="background-color:white; width:20%;"></button> <button style="background-color:#DAD6AF; width:20%;">YG91</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:white; width:20%;"></button>
 
 
-<button style="background-color:white; width:20%;"></button> <button style="background-color:#FFECC0; width:20%;">Y21</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:white; width:20%;"></button>
+<button style="background-color:white; width:20%;"></button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#EBCE8A; width:20%;">Y23</button> <button style="background-color:white; width:20%;"></button>
 
 These might not be the right colors for you. Heck, I don't even know if they're the right colors for me! But hopefully you can see which colors have relationships in columns and/or rows.
 
