@@ -62,7 +62,7 @@ In the spirit of the first point about choosing colors based on their applicatio
 
 <button style="background-color:#FFF8F1; width:20%;">E0000</button> <button style="background-color:#FFEFE1; width:20%;">E41</button> <button style="background-color:#F2E6D6; width:20%;">E42</button> <button style="background-color:#C5B9A8; width:20%;">E44</button>
 
-<button style="background-color:white; width:20%;"></button> <button style="background-color:#FEDAC1; width:20%;">YR01</button> <button style="background-color:#FEDCC6; width:20%;">YR02</button>
+<button style="background-color:white; width:20%;"></button> <button style="background-color:#FEDAC1; width:20%;">YR01</button> <button style="background-color:#FEDCC6; width:20%;">YR02</button> <button style="background-color:white; width:20%;"></button>
 
 <button style="background-color:#FCD7D0; width:20%;">R20</button> <button style="background-color:white; width:20%;"></button> <button style="background-color:#F9B7B2; width:20%;">R22</button> <button style="background-color:#F6917C; width:20%;">R05</button>
 
