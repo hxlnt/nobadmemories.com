@@ -7,6 +7,6 @@ date: 2016-11-04T06:55
 tagged: ["todays-workspace"]
 ---
 
-Coding, writing, sketching, and laughing about old NES and SNES games with Legitimate Electronics Rockstar [Andy Reitano](http://www.andyreitano.com) in his Batlab.
+Coding, writing, sketching, and laughing about old NES and SNES games with Legitimate Electronics Rockstar [Andy Reitano](http://www.andrewreitano.com) in the Batlab.
 
-![the Batlab](/img/image.jpeg)
+![the Batlab](/img/batlab.jpg)
