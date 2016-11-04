@@ -3,7 +3,7 @@ layout: 'content'
 title: "Today's workspace: Batlab Electronics"
 description: "NYC"
 while: "writing technical documentation and listening to the Korean DDR soundtrack."
-date: 2016-11-04T06:55
+date: 2016-11-04T18:55
 tagged: ["todays-workspace"]
 ---
 
