@@ -5,6 +5,7 @@ description: "Paul Atkinson's *Delete: A Design History of Computer Vapourware* 
 while: "...?"
 date: 2016-01-29T17:00
 tagged: ["books"]
+keyimg: "/img/delete.jpg"
 ---
 
 I recently had the opportunity to review Paul Atkinson’s book *[Delete: A Design History of Computer Vapourware](http://www.amazon.com/Delete-Design-History-Computer-Vapourware/dp/0857853473/ref=asap_bc?ie=UTF)*.

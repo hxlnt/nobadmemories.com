@@ -5,6 +5,7 @@ description: "Yesterday, I went to a used book shop in Dallas and picked up this
 while: "taking a break from cleaning the studio."
 date: 2016-09-06T15:03
 tagged: ["books"]
+keyimg: "/img/appletshirtscover.JPG"
 ---
 
 Yesterday, I picked up this great find for just $8 at a used book store in Dallas: *Apple T-Shirts: A Yearbook of History at Apple Computer.*

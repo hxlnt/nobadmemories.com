@@ -5,6 +5,7 @@ description: "Available in more than 350 shades and accompanied by a whole cast 
 while: "staying up way past my bedtime."
 date: 2016-09-18T05:49
 tagged: ["art"]
+keyimg: "/img/copic2.JPG"
 ---
 
 I got really into Copic markers when I was in design school. Available in more than 350 shades and accompanied by a whole cast of accessories and modular parts, Copic markers can become a dizzying (and expensive) obsession. So, why all the hype?
