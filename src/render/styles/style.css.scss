@@ -100,6 +100,23 @@ html {
     box-sizing: border-box;
     overflow-x: hidden;
     }
+td.blogsummary {
+    background-color: rgba(52,177,233,1);
+    background: -moz-linear-gradient(-45deg, $gradient);
+    background: -webkit-linear-gradient(-45deg, $gradient);
+    background: linear-gradient(135deg, $gradient);
+    background-position: center center; 
+    background-size: cover; 
+    width:200px;
+}
+
+
+a.blogsummarytitle, a.blogsummarytitle:visited {
+    background:white;
+    opacity: 1;
+    text-decoration: none;
+
+}
 header {
     position: fixed;
     top: 0;
@@ -258,8 +275,9 @@ button {
     border-radius: 8px;}
 
 button.tech { background-color: rgba(200, 240, 100, .6);  }
-button.acad { background-color: rgba(220, 100, 200, .6);;  }
-button.exhb { background-color: rgba(100, 220, 220, .6);; }
+button.acad { background-color: rgba(220, 100, 200, .6);  }
+button.exhb { background-color: rgba(100, 220, 220, .6); }
+button.tag { background-color: rgba(52,177,233,1); }
 
 /* Media queries */
 @media screen and (max-aspect-ratio: 4/5) {
@@ -387,7 +405,11 @@ button.exhb { background-color: rgba(100, 220, 220, .6);; }
     color: dodgerblue; }
     
     p:first-of-type {
-        margin-top: 13vw;
+        margin-top: 14vw;
+    }
+    p.blogp:first-of-type {
+        margin-top: auto;
+        margin-bottom: auto;
     }
         h1, h1 a {
     font-size: 4vw;
