@@ -33,7 +33,6 @@ var likes3 = [
     "computer love stories" 
 ]
 
-
 var index1 = Math.floor(Math.random()*likes1.length);
 var index2 = Math.floor(Math.random()*likes2.length);
 var index3 = Math.floor(Math.random()*likes3.length);
@@ -42,4 +41,5 @@ $(function(){
     $('span#like1').text(likes1[index1]);
     $('span#like2').text(likes2[index2]);
     $('span#like3').text(likes3[index3]);
+    $('p.likes').fadeIn();
 });

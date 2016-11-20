@@ -117,6 +117,10 @@ a.blogsummarytitle, a.blogsummarytitle:visited {
     text-decoration: none;
 
 }
+
+p.likes {
+    display:none;
+}
 header {
     position: fixed;
     top: 0;
