@@ -2,7 +2,7 @@
 layout: 'content'
 title: "Fun and games with node.js"
 description: "If you're interested in trying your hand at making a node.js game, here are a few open-source games and amusements to get you started."
-while: "hanging out in Nashville for the Nodevember conference."
+while: "hanging out in Nashville."
 date: 2016-11-20T08:48
 keyimg: "/img/dealwithit.gif"
 ---
