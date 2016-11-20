@@ -29,10 +29,16 @@ If you're interested in trying your hand at making a node.js game, here are a fe
 
 Many of these examples also involve [socket.io](http://socket.io), an easy-to-use Javascript framework for sending data between a node server and clients in real time. The socket.io website has [a tutorial that walks through building a browser-based, real-time chat client](http://socket.io/get-started/) that can be helpful to go through if you're just getting started with websockets and real-time communication. (At the time of writing, the demos on their website weren't working, but perhaps they're all patched up by now.)
 
-Finally, here are links to two fun node.js projects I built this year. The source code is available for these projects as well.
+Here are links to two fun node.js projects I built this year. The source code is available for these projects as well.
  - [ConnectedNES](http://www.nobadmemories.com/connectednes): a WiFi modem peripheral and twitter stream for the original NES game console.
  - [the dealwithit bot](http://www.nobadmemories.com/dealwithit): A web app that uses computer vision to drop pixelated shades on everyone in a photo.
 
 ![Deal with it](/img/dealwithit.gif)
+
+And last but not least, here are a few of my favorite developer resources for getting started with Javascript and node.js.
+ - [JavaScript for Cats](http://jsforcats.com/) by Max Ogden
+ - [Programming--the Real Basics!](https://dev.opera.com/articles/programming-the-real-basics/) by Chris Heilmann
+
+I also keep a running list of all my favorite coding bookmarks&mdash;all languages, all skill levels&mdash;on a GitHub repository called [Resources](http://www.github.com/hxlnt/Resources). Do check it out!
 
 Working on a game with node.js? Reach out on [twitter](http://www.twitter.com/partytimehxlnt) if you do that sort of thing. I'd love to see what you're working on!
