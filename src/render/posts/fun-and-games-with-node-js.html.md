@@ -37,6 +37,8 @@ Here are links to two fun node.js projects I built this year. The source code is
 
 And last but not least, here are a few of my favorite developer resources for getting started with Javascript and node.js.
  - [JavaScript for Cats](http://jsforcats.com/) by Max Ogden
+ - [Node.js for Beginners](https://code.tutsplus.com/tutorials/nodejs-for-beginners--net-26314) by Maciej Sopyło
+ - [NODESCHOOL](https://nodeschool.io/) by... lots of collaborators!
  - [Programming--the Real Basics!](https://dev.opera.com/articles/programming-the-real-basics/) by Chris Heilmann
 
 I also keep a running list of all my favorite coding bookmarks&mdash;all languages, all skill levels&mdash;on a GitHub repository called [Resources](http://www.github.com/hxlnt/Resources). Do check it out!
