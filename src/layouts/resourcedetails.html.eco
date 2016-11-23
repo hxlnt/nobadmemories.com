@@ -35,14 +35,13 @@
     </header>
     <main>
         <slug>
-            <span class="slug"><a href="/projects">Art + Code</a>  &hearts;  
-                        <%- @document.name %>
-                    </span>
+            <span class="slug"><a href="/resources">Resources</a>  &hearts;  
+                <%- @document.name %>
+            </span>
         </slug>
         <content>
 				<article>
-                    
-                <%- @content %>
+                        <%- @document.name %>
 				</article>
 			</content>
 

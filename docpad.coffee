@@ -50,8 +50,8 @@ docpadConfig =
 
 			# The website's styles
 			styles: [
-				
 				'/styles/style.css'
+				'/styles/fontawesome/css/font-awesome.min.css'
 			]
 
 			# The website's scripts
@@ -114,6 +114,8 @@ docpadConfig =
     			document.set('relativeOutDirPath', '/').setMeta({isPost: true})
 		events: ->
 			@getCollection('html').findAllLive({relativeOutDirPath: 'events'})
+		resources: ->
+			@getCollection('html').findAllLive({relativeOutDirPath: 'resources'})
 
 
 	# =================================

@@ -28,7 +28,8 @@
         <nav>
             <h1><a href="http://www.nobadmemories.com">No <span id="bad">Bad</span> Memories</a></h1>
             <div id="navlinks">
-                <a href="/about">About</a> <a href="/blog">Blog</a> <a href="/events">Events</a> <a href="/projects">Art+Code</a> 
+                <a href="/about">About</a> <a href="/blog">Blog</a> <a href="/events">Events</a><BR>
+                <a href="/projects">Art+Code</a> <a href="/resources">Resources</a>
             </div>
         </nav>
     </header>
