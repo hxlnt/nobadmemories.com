@@ -30,4 +30,5 @@ For the comfort it provided and for leading to my eventual NES hobby, *Pinball* 
 
 *Bonus: Did you know that there's a slightly different of the game designed for the Nintendo Vs. "red-tent" head-to-head arcade system? More information is available at [the International Arcade Museum website](http://www.arcade-museum.com/game_detail.php?game_id=10364).
 
-![Pinball for Nintendo Vs.](/img/pinballvs.png)
+![Pinball Vs.](/img/pinballvs.png)
+![Pinball for Nintendo Vs. Source: IAM/KLOV forums.](/img/redtent.jpg)
