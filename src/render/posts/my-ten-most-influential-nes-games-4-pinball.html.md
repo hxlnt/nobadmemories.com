@@ -12,8 +12,6 @@ During the last [Fantastic Arcade](http://www.fantasticarcade.com), I was talkin
 
 ![Pinball](/img/pinball.png)
 
-*Pinball* is among the most minimalist games ever released for the NES. 
-
 *Pinball* (Nintendo, 1984) was a launch title in the US, and it has the distinction of being the first video game (that I know of, at least) credited to Nintendo legend Satoru Iwata. *Pinball* is a pinball simulation game with one top board and one bottom board. The sound and visual effects aren't particularly exciting, there's no in-game music, and there's no real win state. There is a bonus level featuring a looping Mario-rescues-the-princess minigame, but otherwise, *Pinball* is exceptionally plain. 
 
 It's also the first NES game I felt compelled to dissect, fully understand, and play over and over. *Pinball* was the first NES game that I got nerdy about and the first one I wanted to ROM-hack as a teenager. (I didn't pursue it after looking at the scrambled heap of tiles that made up the game's graphics.)
