@@ -28,7 +28,7 @@ It's not a novel concept now, I suppose, but in the early 2000s, old console gam
 
 For the comfort it provided and for leading to my eventual NES hobby, *Pinball* has earned a top spot among my favorite and most influential NES games.
 
-*Bonus: Did you know that there's a slightly different of the game designed for the Nintendo Vs. "red-tent" head-to-head arcade system? More information is available at [the International Arcade Museum website](http://www.arcade-museum.com/game_detail.php?game_id=10364).
+*Bonus: Did you know that there's a slightly different of the game designed for the Nintendo Vs. "red-tent" head-to-head arcade system? More information is available at [the International Arcade Museum website](http://www.arcade-museum.com/game_detail.php?game_id=10364).*
 
 ![Pinball Vs.](/img/pinballvs.png)
 ![Pinball for Nintendo Vs. Source: IAM/KLOV forums.](/img/redtent.jpg)
