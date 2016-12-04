@@ -8,7 +8,7 @@ tagged: ["books"]
 keyimg: "/img/pcbs.jpg"
 ---
 
-Just in from Amazon: *Make Your Own PCBs with EAGLE* by Simon Monk.
+Just in from Amazon is *Make Your Own PCBs with EAGLE* by Simon Monk.
 
 ![Make Your Own PCBs with EAGLE](/img/pcbs.jpg)
 
