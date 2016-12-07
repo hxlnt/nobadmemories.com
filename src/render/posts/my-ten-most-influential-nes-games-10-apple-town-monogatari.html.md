@@ -26,6 +26,6 @@ Where old-school platformers mimic stereotypically boyish novels, *Apple Town Mo
 
 In one respect, yes, it's a game in which you watch a girl brush her teeth, talk on the phone, and dance. Perhaps it's not a game at all&mdash;maybe it's just a screensaver. (I find that the games I make are on the whole more influenced by screensavers than by video games.) In any case, I quite like the idea of a slow-paced, digital dollhouse that you can watch while you're dreaming. This idea has had a big impact on the games I make today and on what I believe makes a game good or interactive, fun or fantastic.
 
-*Bonus: Did you know that the two ports of* Litle Computer People *that feature female characters are Japan-only releases? The second of these was released for the PC-8801.*
+*Bonus: Did you know that the two ports of* Little Computer People *that feature female characters are Japan-only releases? The second of these was released for the PC-8801.*
 
 ![Little Computer People, PC-8801](/img/lcp-pc8801.gif)
