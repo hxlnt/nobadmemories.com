@@ -8,7 +8,7 @@ tagged: ["games"]
 keyimg: "/img/appletownstory2.gif"
 ---
 
-This is the second in a series of posts about NES games. As I described in [an earlier post](/my-ten-most-influential-nes-games-4-pinball), I've decided to share my highly subjective, personal top-ten list of NES games based on how **influential** they were to me, one at a time and in no particular order. Number 10 on the list is *Apple Town Monogatari: Little Computer People (アップルタウン物語: Little Computer People)* for the Famicom Disk System.
+This is the second in a series of posts about NES games. As I described in [an earlier post](/my-ten-most-influential-nes-games-4-pinball), I've decided to share my highly subjective, personal top-ten list of NES games based on how **influential** they were to me, one at a time and in no particular order. Number 10 on the list is a game for the Famicom Disk System&mdash;not strictly the NES, I know, but close enough for our purposes. That game is *Apple Town Monogatari: Little Computer People (アップルタウン物語: Little Computer People).*
 
 ![Apple Town Monogatari](/img/appletownstory2.gif)
 
