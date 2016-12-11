@@ -8,7 +8,7 @@ tagged: ["games"]
 keyimg: "/img/hkworld2.png"
 ---
 
-This is the second in a series of posts about NES games. As I described in [an earlier post](/my-ten-most-influential-nes-games-4-pinball), I've decided to share my highly subjective, personal top-ten list of NES games based on how **influential** they were to me, one at a time and in no particular order. *Hello Kitty World* easily snags the #3 spot on my top-ten NES list. 
+This is the third in a series of posts about NES games. As I described in [an earlier post](/my-ten-most-influential-nes-games-4-pinball), I've decided to share my highly subjective, personal top-ten list of NES games based on how **influential** they were to me, one at a time and in no particular order. *Hello Kitty World* easily snags the #3 spot on my top-ten NES list. 
 
 ![Hello Kitty world gameplay](/img/hkworld2.png)
 
