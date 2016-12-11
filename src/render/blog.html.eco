@@ -8,7 +8,7 @@ title: 'Blog'
     <tr height="200">
     <td width="200" height="200" 
         <% if post.keyimg: %>
-               style="background-image:url('<%- post.keyimg %>'); background-size:cover; background-repeat:no-repeat;"
+               style="background-image:url('<%- post.keyimg %>'); background-size:cover; background-repeat:no-repeat; background-position: center;"
         <% else: %>
                class="blogsummary"
             <% end %>
