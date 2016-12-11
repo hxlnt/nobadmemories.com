@@ -20,9 +20,9 @@ The *Balloon Kid* soundtrack was created by music legend Hip Tanaka, responsible
 
 Fortunately, *Balloon Kid* did get a release of sorts in Japan. In 1992, the game was reskinned and ported to the Famicom. The result? *Hello Kitty World.*
 
-It's a shame that *Hello Kitty World* wasn't released in the US. After all, the game is a first-party NES game featuring Hello-Freaking-Kitty! 
-
 ![Hello Kitty World bonus level](/img/hkworld.png)
+
+It's a shame that *Hello Kitty World* wasn't released in the US. After all, the game is a first-party NES game featuring Hello-Freaking-Kitty! 
 
 *Hello Kitty World* grabbed my attention as a teenager because it was challenging yet cute, made with superstar talent and built on superstar IP yet obscure (at least in the US). *Hello Kitty World* has a mosaic of qualities not often found together in one NES game. It was really *THE* game that had me thinking about alternative timelines in video game history. *What if this game had shipped with the NES console instead of Super Mario Bros.? How would video game history be different today?*
 
