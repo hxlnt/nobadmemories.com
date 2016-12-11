@@ -12,7 +12,7 @@ This is the third in a series of posts about NES games. As I described in [an ea
 
 ![Hello Kitty world gameplay](/img/hkworld2.png)
 
-Do you know the classic NES game *Balloon Fight?* There was a cute sequel for the Game Boy called *Balloon Kid*. The game features Alice, a girl armed with a trio of balloons who can float over and around various obstacles that would pop her balloons. When on a platform, Alice can inflate a new balloon&mdash;via rapid button mashing&mdash;to replace one that's been popped. And then she's off to float on by to the end of the level.
+Do you know the classic NES game *Balloon Fight?* There was a cute sequel for the Game Boy called *Balloon Kid*. The game features Alice, a girl armed with balloons who can float over and around various obstacles that would pop her balloons. When on a platform, Alice can inflate a new balloon&mdash;via rapid button mashing&mdash;to replace one that's been popped. And then she's off to float on by to the end of the level.
 
 ![Cover art: Balloon Kid](/img/balloonkid.png)
 
