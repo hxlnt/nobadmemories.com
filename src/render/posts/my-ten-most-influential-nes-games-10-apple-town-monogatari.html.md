@@ -29,3 +29,5 @@ In one respect, yes, it's a game in which you watch a girl brush her teeth, talk
 *Bonus: Did you know that the two ports of* Little Computer People *that feature female characters are Japan-only releases? The second of these was released for the PC-8801.*
 
 ![Little Computer People, PC-8801](/img/lcp-pc8801.gif)
+
+*Bonus #2: Did you know that the soundtrack of* Apple Town Monogatari *was composed by Nobuo Uematsu?*
