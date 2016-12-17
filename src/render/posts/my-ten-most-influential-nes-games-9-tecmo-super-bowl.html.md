@@ -28,6 +28,6 @@ The animation, art, and music in *Tecmo Super Bowl* are excellent. *I don't need
 
 The second factor that makes *Tecmo Super Bowl* influential for me is the incredible fan community that exists around this game. If you didn't already know, hardcore *Tecmo Super Bowl* enthusiasts have been hacking the game for years to reflect each year's NFL (and now college) team rosters. There are tournaments, leagues, t-shirts, and [numerous](http://tecmobowlers.com/) [websites](http://tecmobowl.org/) dedicated to *Temco Super Bowl* and its surrounding culture.
 
-[!Intro to Tecmo Super Bowl](/img/tsb49ers.png)
+![Intro to Tecmo Super Bowl](/img/tsb49ers.png)
 
 While I'm not part of the Tecmo Bowl scene, it's pretty inspiring to see what kind of impact a beautifully-crafted sports game can have, even 25 years later. I always return to *Tecmo Super Bowl* when I need an extra little push to get more out of the NES hardware in my own projects. And, who knows? Maybe someday I'll actually sit down and play all the through it for once.
