@@ -1,11 +1,11 @@
 ---
 layout: 'content'
 title: "My ten most influential NES games: #6 Dance Aerobics"
-description: "I quite like the idea of a slow-paced, digital dollhouse that you can watch while you're dreaming."
-while: 'my foot is falling asleep.'
-date: 2016-12-18T13:34
+description: "The key piece of technology that made all of this possible is the NES Power Pad, a vinyl mat controller containing a flexible circuit board and a grid of 12 buttons."
+while: 'sitting by the fire.'
+date: 2016-12-19T04:09
 tagged: ["games"]
-keyimg: "/img/appletownstory2.gif"
+keyimg: "/img/familytraineraerobicsstudio.gif"
 ---
 
 I'm now reaching the halfway point in my highly subjective, personal top-ten list of NES games based on how **influential** they were to me, one at a time and in no particular order. 
