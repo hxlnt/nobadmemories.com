@@ -21,7 +21,6 @@ So far, I've identified four of the games on the list.
 7. ?????
 8. ?????
 9. *[Tecmo Super Bowl](/my-ten-most-influential-nes-games-9-tecmo-super-bowl)*
-
 10. *[Apple Town Monogatari: Little Computer People](/my-ten-most-influential-nes-games-10-apple-town-monogatari)*
 
 Let's add another game to the list, shall we? The number 6 spot belongs to NES fitness game *Dance Aerobics*.
