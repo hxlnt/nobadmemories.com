@@ -45,7 +45,7 @@ In addition to the main workout mode, *Dance Aerobics* contains other mini-games
 
 *Dance Aerobics* occupies an interesting space in the NES library. It is a game that can be won or lost, yet it also belongs alongside home-console "productivity software": word processors, electronic planners, fortune tellers, coloring books, and brain trainers. It's a game that's *useful,* ostensibly. Get in shape while having fun!
 
-*Dance Aerobics* was one of the only NES games with advertising that conceived of the game as being playable by both girls and boys. Most NES ads in the US featured boys at the controls; in fact, I can only think of four advertisements in which girls or women are shown actually playing a game. One of these is the Power Pad print ad shown below, via [Vintage Computing and Gaming](http://www.vintagecomputing.com/index.php/archives/910/retro-scan-of-the-week-the-power-pad). As far as I know, this is also the *only* print ad to show an African-American kid playing an NES game. (Though if you know of another example, please let me know in the comments!)
+*Dance Aerobics* was one of the only NES games with advertising that conceived of the game as being playable by both girls and boys. Most NES ads in the US featured boys at the controls; in fact, I can only think of four advertisements in which girls or women are shown actually playing a game. One of these is the Power Pad print ad shown below, via [Vintage Computing and Gaming](http://www.vintagecomputing.com/index.php/archives/910/retro-scan-of-the-week-the-power-pad). As far as I know, this is also the only print ad to show an African-American kid playing an NES game. (Though if you know of another, please let me know in the comments! It's disappointing to think that this is really the *only* example. Come on, Nintendo of America!)
 
 ![Power Pad advertisement](/img/nintendo_powerpad_large.jpg)
 
@@ -57,9 +57,9 @@ What else can be said of *Dance Aerobics?* [Its soundtrack](https://www.youtube.
 
 While I was writing the game, I played a lot of *Dance Aerobics* to study the Power Pad as an interface and to think about how to best write code for it. There are some things you have to think about with the Power Pad that don't apply to the standard controller. For example, the player needs to stand on the mat, meaning two buttons&mdash;though not always the same two buttons&mdash;will always be pressed. 
 
-If you haven't played *Dance Aerobics* and have an NES and a Power Pad, you should definitely give the game a try. It's unique, standing apart from much of the NES library. It's quite difficult, too! Thanks for the inspiration, *Dance Aerobics!*
+If you haven't played *Dance Aerobics* and have an NES and a Power Pad, you should definitely give the game a try. It's unique and quite difficult, too! Thanks for the inspiration, *Dance Aerobics!*
 
-*Bonus: The generative-music-visualizer video game genre, to which* TRACK+FEEL II *belongs, was founded in 1976 by the Atari Video Music.*
+*Bonus: The generative-music-visualizer video game genre, to which* TRACK+FEEL II *belongs, was founded in 1976 by the [Atari Video Music](http://www.atarimuseum.com/videogames/dedicated/videomusic/videomusic.html).*
 
 ![Atari Video Music ad](/img/atarivideomusic.jpg)
 
