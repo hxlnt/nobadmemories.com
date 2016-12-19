@@ -21,6 +21,7 @@ So far, I've identified four of the games on the list.
 7. ?????
 8. ?????
 9. *[Tecmo Super Bowl](/my-ten-most-influential-nes-games-9-tecmo-super-bowl)*
+
 10. *[Apple Town Monogatari: Little Computer People](/my-ten-most-influential-nes-games-10-apple-town-monogatari)*
 
 Let's add another game to the list, shall we? The number 6 spot belongs to NES fitness game *Dance Aerobics*.
@@ -44,6 +45,8 @@ In addition to the main workout mode, *Dance Aerobics* contains other mini-games
 *Dance Aerobics* is great for a number of reasons. For one, I always find it interesting to think about those video games that seemed to come out of nowhere&mdash;as *DDR* did in 1998&mdash;and to consider their lesser-known inspirations. *Dance Aerobics*, truly ahead of its time with a similar mechanic to that of *DDR*, predates it by about 10 years.
 
 *Dance Aerobics* occupies an interesting space in the NES library. It is a game that can be won or lost, yet it also belongs alongside home-console "productivity software": word processors, electronic planners, fortune tellers, coloring books, and brain trainers. It's a game that's *useful,* ostensibly. Get in shape while having fun!
+
+![Dance Aerobics](/img/exercise.png)
 
 *Dance Aerobics* was one of the only NES games with advertising that conceived of the game as being playable by both girls and boys. Most NES ads in the US featured boys at the controls; in fact, I can only think of four advertisements in which girls or women are shown actually playing a game. One of these is the Power Pad print ad shown below, via [Vintage Computing and Gaming](http://www.vintagecomputing.com/index.php/archives/910/retro-scan-of-the-week-the-power-pad). As far as I know, this is also the only print ad to show an African-American kid playing an NES game. (Though if you know of another, please let me know in the comments! It's disappointing to think that this is really the *only* example. Come on, Nintendo of America!)
 
