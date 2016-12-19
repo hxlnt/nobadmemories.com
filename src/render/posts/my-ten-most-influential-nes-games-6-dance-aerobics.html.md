@@ -5,7 +5,7 @@ description: "The key piece of technology that made all of this possible is the 
 while: 'sitting by the fire.'
 date: 2016-12-19T04:09
 tagged: ["games"]
-keyimg: "/img/familytraineraerobicsstudio.gif"
+keyimg: "/img/exercise.png"
 ---
 
 I'm now reaching the halfway point in my highly subjective, personal top-ten list of NES games based on how **influential** they were to me, one at a time and in no particular order. 
