@@ -14,24 +14,14 @@ So far, I've identified four of the games on the list.
 
 1. ?????
 2. ?????
-<<<<<<< HEAD
 3. *[Hello Kitty World](/blog/2016/12/my-ten-most-influential-nes-games-3-hello-kitty-world)*
 4. *[Pinball](/blog/12/my-ten-most-influential-nes-games-4-pinball)*
-=======
-3. *[Hello Kitty World](/blog/my-ten-most-influential-nes-games-3-hello-kitty-world)*
-4. *[Pinball](/blog/my-ten-most-influential-nes-games-4-pinball)*
->>>>>>> 57610be99e0b0a279537f506ccbeeb954b79172c
 5. ?????
 6. ?????
 7. ?????
 8. ?????
-<<<<<<< HEAD
 9. *[Tecmo Super Bowl](/blog/12/my-ten-most-influential-nes-games-9-tecmo-super-bowl)*
 10. *[Apple Town Monogatari: Little Computer People](/blog/12/my-ten-most-influential-nes-games-10-apple-town-monogatari)*
-=======
-9. *[Tecmo Super Bowl](/blog/my-ten-most-influential-nes-games-9-tecmo-super-bowl)*
-10. *[Apple Town Monogatari: Little Computer People](/blog/my-ten-most-influential-nes-games-10-apple-town-monogatari)*
->>>>>>> 57610be99e0b0a279537f506ccbeeb954b79172c
 
 Let's add another game to the list, shall we? The number 6 spot belongs to NES fitness game *Dance Aerobics*.
 
