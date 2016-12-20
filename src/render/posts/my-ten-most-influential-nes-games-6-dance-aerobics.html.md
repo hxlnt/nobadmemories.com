@@ -5,7 +5,7 @@ description: "The key piece of technology that made all of this possible is the 
 while: 'sitting by the fire.'
 date: 2016-12-19T04:09
 tagged: ["games"]
-keyimg: "/img/familytraineraerobicsstudio.gif"
+keyimg: "/img/exercise.png"
 ---
 
 I'm now reaching the halfway point in my highly subjective, personal top-ten list of NES games based on how **influential** they were to me, one at a time and in no particular order. 
@@ -14,14 +14,24 @@ So far, I've identified four of the games on the list.
 
 1. ?????
 2. ?????
+<<<<<<< HEAD
 3. *[Hello Kitty World](/blog/2016/12/my-ten-most-influential-nes-games-3-hello-kitty-world)*
 4. *[Pinball](/blog/12/my-ten-most-influential-nes-games-4-pinball)*
+=======
+3. *[Hello Kitty World](/blog/my-ten-most-influential-nes-games-3-hello-kitty-world)*
+4. *[Pinball](/blog/my-ten-most-influential-nes-games-4-pinball)*
+>>>>>>> 57610be99e0b0a279537f506ccbeeb954b79172c
 5. ?????
 6. ?????
 7. ?????
 8. ?????
+<<<<<<< HEAD
 9. *[Tecmo Super Bowl](/blog/12/my-ten-most-influential-nes-games-9-tecmo-super-bowl)*
 10. *[Apple Town Monogatari: Little Computer People](/blog/12/my-ten-most-influential-nes-games-10-apple-town-monogatari)*
+=======
+9. *[Tecmo Super Bowl](/blog/my-ten-most-influential-nes-games-9-tecmo-super-bowl)*
+10. *[Apple Town Monogatari: Little Computer People](/blog/my-ten-most-influential-nes-games-10-apple-town-monogatari)*
+>>>>>>> 57610be99e0b0a279537f506ccbeeb954b79172c
 
 Let's add another game to the list, shall we? The number 6 spot belongs to NES fitness game *Dance Aerobics*.
 
