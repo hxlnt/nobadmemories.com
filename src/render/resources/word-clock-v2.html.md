@@ -6,7 +6,7 @@ author:
     name: "Garrett Bartley"
     url: "http://www.garrettbartley.com/"
 language: "English"
-resourceFormat: "article"
+resourceFormat: "globe"
 tags: ["electronics"]
 descNeeded: true
 ---

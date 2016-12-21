@@ -5,7 +5,7 @@ url: "https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-
 author:
     name: "Miguel Grinberg"
 language: "English"
-resourceFormat: article
+resourceFormat: globe
 tags: ["python"]
 descNeeded: true
 ---

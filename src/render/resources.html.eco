@@ -6,73 +6,60 @@ title: 'Resources'
     <p>Below are tutorials, articles, videos, books, and other resources for makers and creative-types.</p>
     <h2>Art and design</h2>
     <ul>
-    <% for resource in @getCollection('resources').sortArray(title: 1): %>
+    <% for resource in @getCollection('resources'): %>
         <% if "art and design" in resource.tags: %>
             <li>
-                <a href="<%- resource.url %>" target="new">
-                <%= "<em>" if resource.resourceFormat == "book") %>
-                <%- resource.name %></a></em>
+                <i class="fa fa-fw fa-<%- resourceFormat %>" aria-hidden="true"></i> <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em>
             </li>
         <% end %>
     <% end %>
     </ul>
     <h2>Assembly, BASIC, and retrocomputing</h2>
     <ul>
-    <% for resource in @getCollection('resources').sortArray(title: 1): %>
+    <% for resource in @getCollection('resources'): %>
         <% for "retrocomputing" in resource.tags: %>
             <li>
-                <% if resource.resourceFormat == "article": %><i class="fa fa-fw fa-globe" aria-hidden="true"></i> 
-                <% else if resource.resourceFormat == "code": %><i class="fa fa-fw fa-code" aria-hidden="true"></i> 
-                <% else if resource.resourceFormat == "resource": %><i class="fa fa-fw fa-globe" aria-hidden="true"></i> 
-                <% else if resource.resourceFormat == "video": %><i class="fa fa-fw fa-video-camera" aria-hidden="true"></i> 
-                <% else if resource.resourceFormat == "book": %><i class="fa fa-fw fa-book" aria-hidden="true"></i> <em>
-                <% end %><a href="<%- resource.url %>" target="new"><%- resource.name %></a></em><BR>
-                <% if resource.descNeeded == true: %><%- resource.content %><% end %>
+                <i class="fa fa-fw fa-<%- resourceFormat %>" aria-hidden="true"></i> <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em>
             </li>
         <% end %>
     <% end %>
     </ul>
     <h2>Electronics and microcontrollers</h2>
     <ul>
-    <% for resource in @getCollection('resources').sortArray(title: 1): %>
+    <% for resource in @getCollection('resources'): %>
         <% if "electronics" in resource.tags or "microcontrollers" in resource.tags: %>
             <li>
-                <% if resource.resourceFormat == "article": %><i class="fa fa-fw fa-globe" aria-hidden="true"></i> <% else if resource.resourceFormat == "code": %><i class="fa fa-fw fa-code" aria-hidden="true"></i> <% else if resource.resourceFormat == "resource": %><i class="fa fa-fw fa-list" aria-hidden="true"></i> <% else if resource.resourceFormat == "video": %><i class="fa fa-fw fa-video-camera" aria-hidden="true"></i> <% else if resource.resourceFormat == "book": %><i class="fa fa-fw fa-book" aria-hidden="true"></i> <em><% end %><a href="<%- resource.url %>" target="new"><%- resource.name %></a></em><BR>
-                <% if resource.descNeeded == true: %><%- resource.content %><% end %>
+                <i class="fa fa-fw fa-<%- resourceFormat %>" aria-hidden="true"></i> <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em>
             </li>
         <% end %>
     <% end %>
     </ul>
     <h2>Javascript and Node.js</h2>
     <ul>
-    <% for resource in @getCollection('resources').sortArray(title: 1): %>
+    <% for resource in @getCollection('resources'): %>
         <% if "javascript" in resource.tags: %>
             <li>
-                <% if resource.resourceFormat == "article": %><i class="fa fa-fw fa-globe" aria-hidden="true"></i> <% else if resource.resourceFormat == "code": %><i class="fa fa-fw fa-code" aria-hidden="true"></i> <% else if resource.resourceFormat == "resource": %><i class="fa fa-fw fa-list" aria-hidden="true"></i> <% else if resource.resourceFormat == "video": %><i class="fa fa-fw fa-video-camera" aria-hidden="true"></i> <% else if resource.resourceFormat == "book": %><i class="fa fa-fw fa-book" aria-hidden="true"></i> <em><% end %><a href="<%- resource.url %>" target="new"><%- resource.name %></a></em><BR>
-                <% if resource.descNeeded == true: %><%- resource.content %><% end %>
+                <i class="fa fa-fw fa-<%- resourceFormat %>" aria-hidden="true"></i> <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em>
             </li>
         <% end %>
     <% end %>
     </ul>
     <h2>Machine learning</h2>
     <ul>
-    <% for resource in @getCollection('resources').sortArray(title: 1): %>
+    <% for resource in @getCollection('resources'): %>
         <% if "machine learning" in resource.tags: %>
             <li>
-                <% if resource.resourceFormat == "article": %><i class="fa fa-fw fa-globe" aria-hidden="true"></i> <% else if resource.resourceFormat == "code": %><i class="fa fa-fw fa-code" aria-hidden="true"></i> <% else if resource.resourceFormat == "resource": %><i class="fa fa-fw fa-list" aria-hidden="true"></i> <% else if resource.resourceFormat == "video": %><i class="fa fa-fw fa-video-camera" aria-hidden="true"></i> <% else if resource.resourceFormat == "book": %><i class="fa fa-fw fa-book" aria-hidden="true"></i> <em><% end %>
-                <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em><BR>
-                <% if resource.descNeeded == true: %><%- resource.content %><% end %>
+                <i class="fa fa-fw fa-<%- resourceFormat %>" aria-hidden="true"></i> <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em>
             </li>
         <% end %>
     <% end %>
     </ul>
     <h2>Python</h2>
     <ul>
-    <% for resource in @getCollection('resources').sortArray(title: 1): %>
+    <% for resource in @getCollection('resources'): %>
         <% if "python" in resource.tags: %>
             <li>
-                <% if resource.resourceFormat == "article": %><i class="fa fa-fw fa-globe" aria-hidden="true"></i> <% else if resource.resourceFormat == "code": %><i class="fa fa-fw fa-code" aria-hidden="true"></i> <% else if resource.resourceFormat == "resource": %><i class="fa fa-fw fa-list" aria-hidden="true"></i> <% else if resource.resourceFormat == "video": %><i class="fa fa-fw fa-video-camera" aria-hidden="true"></i> <% else if resource.resourceFormat == "book": %><i class="fa fa-fw fa-book" aria-hidden="true"></i> <em><% end %><a href="<%- resource.url %>" target="new"><%- resource.name %></a></em><BR>
-                <% if resource.descNeeded == true: %><%- resource.content %><% end %>
+                <i class="fa fa-fw fa-<%- resourceFormat %>" aria-hidden="true"></i> <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em>
             </li>
         <% end %>
     <% end %>

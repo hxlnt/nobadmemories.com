@@ -6,7 +6,7 @@ author:
     name: "Phillip Burgess"
     url: "#"
 language: "English"
-resourceFormat: "article"
+resourceFormat: "globe"
 tags: ["electronics"]
 descNeeded: true
 ---

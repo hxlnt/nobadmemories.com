@@ -115,7 +115,7 @@ docpadConfig =
 		events: ->
 			@getCollection('html').findAllLive({relativeOutDirPath: 'events'})
 		resources: ->
-			@getCollection('html').findAllLive({relativeOutDirPath: 'resources'})
+			@getCollection('html').findAllLive({relativeOutDirPath: 'resources'},[{title:-1}])
 
 
 	# =================================

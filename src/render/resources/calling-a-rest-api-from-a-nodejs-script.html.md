@@ -6,7 +6,7 @@ language: "English"
 author:
     name: "Jonathan Chaffer"
     url: "#"
-resourceFormat: article
+resourceFormat: globe
 tags: ["javascript"]
 descNeeded: false
 ---

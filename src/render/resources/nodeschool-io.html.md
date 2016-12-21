@@ -3,7 +3,7 @@ layout: "resourcedetails"
 name: "NODESCHOOL"
 url: "https://nodeschool.io/"
 language: "English"
-resourceFormat: resource
+resourceFormat: globe
 tags: ["javascript"]
 descNeeded: true
 ---

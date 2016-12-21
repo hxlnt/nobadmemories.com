@@ -3,7 +3,7 @@ layout: "resourcedetails"
 name: "three.js"
 url: "https://github.com/mrdoob/three.js"
 language: "English"
-resourceFormat: code
+resourceFormat: "code"
 tags: ["javascript"]
 descNeeded: true
 ---
