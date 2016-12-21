@@ -9,6 +9,17 @@ title: 'Resources'
     <% for resource in @getCollection('resources').sortArray(title: 1): %>
         <% if "art and design" in resource.tags: %>
             <li>
+                <% if resource.resourceFormat == "article": %>
+                    <i class="fa fa-fw fa-globe" aria-hidden="true"></i> 
+                <% else if resource.resourceFormat == "code": %>
+                    <i class="fa fa-fw fa-code" aria-hidden="true"></i> 
+                <% else if resource.resourceFormat == "resource": %>
+                    <i class="fa fa-fw fa-list" aria-hidden="true"></i> 
+                <% else if resource.resourceFormat == "video": %>
+                    <i class="fa fa-fw fa-video-camera" aria-hidden="true"></i> 
+                <% else if resource.resourceFormat == "book": %>
+                    <i class="fa fa-fw fa-book" aria-hidden="true"></i> <em>
+                <% end %>
                 <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em><BR>
                 <% if resource.descNeeded == true: %><%- resource.content %><% end %>
             </li>
