@@ -17,7 +17,7 @@ title: 'Resources'
     <h2>Assembly, BASIC, and retrocomputing</h2>
     <ul>
     <% for resource in @getCollection('resources'): %>
-        <% for "retrocomputing" in resource.tags: %>
+        <% if "retrocomputing" in resource.tags: %>
             <li>
                 <i class="fa fa-fw fa-<%- resourceFormat %>" aria-hidden="true"></i> <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em>
             </li>
