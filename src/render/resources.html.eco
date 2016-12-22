@@ -16,7 +16,7 @@ title: 'Resources'
     </ul>
     <h2>Assembly, BASIC, and retrocomputing</h2>
     <ul>
-    <% for resource in @getCollection('resources').sortArray(title: 1): %> 
+    <% for resource in @getCollection('resources').sortArray(name: 1): %> 
         <% if "retrocomputing" in resource.tags: %>
             <li>
                 <i class="fa fa-fw fa-<%- resource.resourceFormat %>" aria-hidden="true"></i> <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em>
@@ -52,7 +52,7 @@ title: 'Resources'
                 <i class="fa fa-fw fa-<%- resource.resourceFormat %>" aria-hidden="true"></i> <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em>
             </li>
         <% end %>
-    <% end %>
+    <% end %> 
     </ul>
     <h2>Python</h2>
     <ul>
