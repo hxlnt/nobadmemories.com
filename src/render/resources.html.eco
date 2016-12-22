@@ -44,3 +44,23 @@ title: 'Resources'
         <% end %>
     <% end %>
     </ul>
+    <h2>Machine learning</h2>
+    <ul>
+    <% for resource in @getCollection('resources'): %>
+        <% if "machine learning" in resource.tags: %>
+            <li>
+                <i class="fa fa-fw fa-<%- resource.resourceFormat %>" aria-hidden="true"></i> <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em>
+            </li>
+        <% end %>
+    <% end %>
+    </ul>
+    <h2>Python</h2>
+    <ul>
+    <% for resource in @getCollection('resources'): %>
+        <% if "python" in resource.tags: %>
+            <li>
+                <i class="fa fa-fw fa-<%- resource.resourceFormat %>" aria-hidden="true"></i> <a href="<%- resource.url %>" target="new"><%- resource.name %></a></em>
+            </li>
+        <% end %>
+    <% end %>
+    </ul>
