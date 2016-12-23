@@ -26,7 +26,7 @@ Right away, *Zooming Secretary* was remarkable to me for raising the bar for NES
 
 ![Ivan Vasilievich Changes His Profession](http://femicom.org/articles/ZSposter.jpg)
 
-It was so interesting to hear a game developer talk about drawing inspiration from *outside* gaming. I'd so frequently heard  developers talk about other video games that inspired them but not the cartoons, books, roadside attractions, and other cultural forms that can bring so much freshness to games. At the time, I was relatively new to game development myself, and I thought myself an anomoly for drawing primary influence from childhood playthings such as dollhouses, electronic diaries, and teen magazines. But after the pinwizz interview, I began to embrace this practice even more and with more intention.
+It was so interesting to hear a game developer talk about drawing inspiration from *outside* gaming. I'd so frequently heard  developers talk about other video games that inspired them but not the cartoons, books, roadside attractions, and other cultural forms that can bring so much freshness to games. At the time, I was relatively new to game development, and I thought myself an anomoly for drawing primary influence from childhood playthings such as dollhouses, electronic diaries, and teen magazines. But after the pinwizz interview, I began to embrace this practice even more and with more intention.
 
 There's yet another reason that *Zooming Secretary* left an indelible impression on me. Looking back, I realize that the game made me feel something I rarely feel with video games: a personal connection with the protagonist.
 
