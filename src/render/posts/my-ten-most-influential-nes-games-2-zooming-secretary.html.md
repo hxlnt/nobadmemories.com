@@ -10,11 +10,13 @@ keyimg: "http://femicom.org/articles/ZS.gif"
 
 Oh, hello there! I'm still chugging along on my highly subjective, personal top-ten list of NES games based on how **influential** they were to me, one at a time and in no particular order. The second spot on my list goes to NES homebrew title *Zooming Secretary* by Shiru and pinwizz. 
 
-![Zooming Secretary](/img/Zooming_Secretary2.png)
+![Zooming Secretary](/img/Zooming_Secretary.png)
 
 I wrote about *Zooming Secretary* for [FEMICOM Museum](http://www.femicom.org) when the game came out in 2011:
 
 > *Zooming Secretary* is a breath of fresh air, or perhaps a gulp of fresh coffee. This platformer-meets-office sim, released in December 2011, is an entirely new game created for an entirely retro system: the 1980s-era Nintendo Entertainment System. Indeed, it's hard to think of a video game with more old-yet-new charm. It is minimalist yet pixel perfect, a Donkey Kong world furnished in mid-century Steelcase. The creators of *Zooming Secretary* are [veteran NES programmer Shiru](http://shiru.untergrund.net/software.shtml#nes) and artist pinwizz, both of whom live in Moscow. The duo finished the game in about six months—an impressive feat given the technical knowledge needed to create a game for the decades-old console. [They've made the game available for free as an NES ROM](http://shiru.untergrund.net/software.shtml#nes) that can be played in an emulator or, with enough patience and solder, put on an NES cartridge.
+
+![Zooming Secretary](http://femicom.org/articles/ZS.gif)
 
 In *Zooming Secretary*, you play as a secretary who answers an unending parade of phone calls. Each caller wants to know some bit of information that must be retrieved from one of the level's filing cabinets. To complete each level, you must quickly navigate between filing cabinets and ringing phones while avoiding obstacles like talkative coworkers that (literally) slow you down.
 
@@ -34,6 +36,6 @@ When *Zooming Secretary* came out at the end of 2011, I was working my first "re
 
 *Zooming Secretary* was this wonderful amalgamation of every change I was going through in my life right at the time it came out. In it, I saw this beautiful 8-bit version of... myself, running from beautiful filing cabinet to beautiful rotary telephone. A few months later, I quit my job as a textbook editor and began attending design school, where I studied [the cultural implications of retro game aesthetic](https://repositories.lib.utexas.edu/handle/2152/26343).
 
-![Zooming Secretary](http://femicom.org/articles/ZS.gif)
+![Zooming Secretary](/img/Zooming_Secretary2.png)
 
 If you're interested in learning more about *Zooming Secretary*, I'd encourage you to [check out the entire FEMICOM interview with pinwizz](http://www.femicom.org/articles/nes-homebrew-artist-pinwizz.php) and to [play the game](http://shiru.untergrund.net/software.shtml#nes) for yourself! I hope you enjoy it as much as I have.
