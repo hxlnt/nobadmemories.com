@@ -34,7 +34,7 @@ When *Zooming Secretary* came out at the end of 2011, I was working my first "re
 
 <p><iframe src="https://player.vimeo.com/video/24011392" width="850" height="478" frameborder="0"></iframe></p>
 
-*Zooming Secretary* was this wonderful amalgamation of every change I was going through in my life right at the time it came out. In it, I saw this beautiful 8-bit version of... myself, running from beautiful filing cabinet to beautiful rotary telephone. A few months later, I quit my job as a textbook editor and began attending design school, where I studied [the cultural implications of retro game aesthetic](https://repositories.lib.utexas.edu/handle/2152/26343).
+*Zooming Secretary* was this wonderful amalgamation of my life's changes. In it, I saw this beautiful 8-bit version of... myself, running from beautiful filing cabinet to beautiful rotary telephone. A few months later, I quit my job as a textbook editor and began attending design school, where I studied [the cultural implications of retro game aesthetic](https://repositories.lib.utexas.edu/handle/2152/26343).
 
 ![Zooming Secretary](/img/Zooming_Secretary2.png)
 
