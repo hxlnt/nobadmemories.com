@@ -5,7 +5,7 @@ description: "The second spot on my list goes to NES homebrew title Zooming Secr
 while: 'drinking a cup of coffee.'
 date: 2016-12-23T07:53
 tagged: ["games"]
-keyimg: "/img/Zooming_Secretary2.png"
+keyimg: "http://femicom.org/articles/ZS.gif"
 ---
 
 Oh, hello there! I'm still chugging along on my highly subjective, personal top-ten list of NES games based on how **influential** they were to me, one at a time and in no particular order. The second spot on my list goes to NES homebrew title *Zooming Secretary* by Shiru and pinwizz. 
