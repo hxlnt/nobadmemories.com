@@ -30,7 +30,7 @@ There's yet another reason that *Zooming Secretary* left an indelible impression
 
 When *Zooming Secretary* came out at the end of 2011, I was working my first "real job" after earning an undergraduate degree in chemistry. I worked as a science textbook editor, and one responsibility I had was fact checking. I had a filing cabinet&mdash;much like the one in the game&mdash;where I held dossiers about the periodic table, genetic engineering, and other scientific topics. I also happened to be quite enamored with mid-century office furniture, perhaps instigated by some mix of the Herman Miller design exhibition that had recently come to Austin and the popularity of the TV show *Mad Men*. Finally, in my free time, I'd begun taking NES glitch art and homebrew more seriously, having just come off a big NES glitch art performance at Blip Festival in New York City.
 
-<iframe src="https://player.vimeo.com/video/24011392" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/24011392"></iframe>
 
 *Zooming Secretary* was this wonderful amalgamation of every change I was going through in my life right at the time it came out. In it, I saw this beautiful 8-bit version of... myself, running from beautiful filing cabinet to beautiful rotary telephone. A few months later, I quit my job as a textbook editor and began attending design school, where I studied [the cultural implications of retro game aesthetic](https://repositories.lib.utexas.edu/handle/2152/26343).
 
