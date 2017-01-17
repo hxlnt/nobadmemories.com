@@ -11,11 +11,11 @@ I've been wanting to use [ConnectedNES](http://www.nobadmemories.com/connectedne
 
 With a little help from a Python script I wrote, you can now pipe recorded gameplay presses via FCUEX over WiFi and to real hardware.
 
-!["ConnectedNES TASBot"](/img/tasplayer.mp4)
+![ConnectedNES TASBot](/img/tasplayer.mp4)
 
 To reduce impact on the microcontroller, I implemented a compression algorithm on keypress recordings that outputs two arrays. One array contains the series of keypresses, each one stored as a single byte (*e.g.,* 0b10001000). The other array contains a series of time values (in frames) for which the corresponding keypress is valid (*e.g.,* 0b11110001). Keypresses that go for longer than 255 frames are sent in a second byte-byte pair, so the arrays are perfectly matched.
 
-!["ConnectedNES TASBot"](/img/tasplayer.png)
+![ConnectedNES TASBot](/img/tasplayer.png)
 
 It was incredibly accurate for my own playthrough *Super Mario Bros.*, though at this time not accurate enough to play back glitch-happy, precision runs like [this one](http://tasvideos.org/1715M.html).
 
