@@ -11,7 +11,7 @@ I've been wanting to use [ConnectedNES](http://www.nobadmemories.com/connectedne
 
 With a little help from a Python script I wrote, you can now pipe recorded gameplay presses via FCUEX over WiFi and to real hardware.
 
-<p><video width="100%" height="auto" controls>
+<p><video width="100%" height="auto" controls loop>
   <source src="http://www.nobadmemories.com/img/tasplayer.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video></p>
