@@ -4,7 +4,7 @@ title: "Another use for ConnectedNES: a WiFi TASBot"
 description: "With a little help from a Python script I wrote, you can now pipe recorded gameplay presses via FCUEX over WiFi and to real hardware."
 while: "listening to the rain."
 date: 2017-01-17T13:08
-keyimg: "tasplayer.png"
+keyimg: "/img/tasplayer.png"
 ---
 
 I've been wanting to use [ConnectedNES](http://www.nobadmemories.com/connectednes) for something other than monitoring my twitter feeds, so I built this prototype last night for autoplaying NES games on real hardware, a la [TASBot](http://tasvideos.org/TASBot.html).
