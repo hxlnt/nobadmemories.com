@@ -2,7 +2,7 @@
 layout: 'content'
 title: "Today's workspace: At home with disco lights"
 description: "NYC"
-while: "co-working with people in New York City via FaceTime."
+while: "late-night co-working with people in New York City via FaceTime."
 date: 2017-01-27T23:16
 tagged: ["todays-workspace", "hardware-hacking"]
 keyimg: "/img/under2.gif"
