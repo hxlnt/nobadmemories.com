@@ -28,6 +28,10 @@ As we learn in the attract-mode cinema, Barbie has a busy day ahead of her. We c
 
 ![Weird Dreams](/img/weirddreamsamiga2.png)
 
+The references to Dali here (and perhaps a pajama set modeled after Picasso harlequin attire?) are just... yup. Yup. Good.
+
+![Harlequin's Family](/img/harlequin.jpg)
+
 *Barbie* doesn't get *that* weird, to be sure. The settings and enemies recall everyday places, people, and things. But the scale and motion of everything is disconcerting. Is Barbie life-size, interacting with the real world? Are those high heels are possessed with an evil spirit?
 
 Unlike many platforming protagonists, Barbie is unable to attack enemies outright. Instead, she feeds her animal friends different snacks in exchange for helping her evade or attack enemies. (The snacks are also charms from her charm bracelet, which never made sense to me. Is it like a candy bracelet made out of little snausages?) 
