@@ -58,7 +58,7 @@ I remember coming across internet commentary about *Barbie* years ago and thinki
 
 *Barbie* was the inspiration for several of my own NES projects. The most direct influence appeared in my *Mega Man 2* ROM hack titled *Mega Man 2 (Barbie Dreams Type Hack)*. This hack simply replaces the font in *Mega Man 2* with the font from *Barbie* in the hopes of showing how much even 7-by-7-pixel letterforms can contain some hint of gender stereotype and can affect our opinion of the quality of something. I recall someone on twitter calling the hack "the stupidest thing I've ever seen."
 
-![Barbie Dreams Type Hack](barbietype.png)
+![Barbie Dreams Type Hack](/img/barbietype.png)
 
 *Barbie* was also an inspiration for the pink high heels in the NES glitch art *BAD CHECKSUM/High Heels*, which is featured on the cover of Nathan Altice's NES text [*I AM ERROR*](https://www.amazon.com/Am-Error-Nintendo-Computer-Entertainment/dp/0262028778/ref=sr_1_1?ie=UTF8&qid=1485862354&sr=8-1&keywords=i+am+error).
 
