@@ -48,7 +48,7 @@ It's easy to hate on both Barbie and *Barbie.* Game reviewers constantly use Bar
 
  Ouch. I'm *right here,* y'all.
 
-![Barbie gameplay: Mermaid level](barbiemermaid.png)
+![Barbie gameplay: Mermaid level](/img/barbiemermaid.png)
 
 I don't mean to suggest that *Barbie* is a fantastic game. It's not. In my view, there are some genuinely meh things about it. The controls are weird. The graphics are inconsistent; for example, 2D and faux-3D styles are mixed together with little coherence. The music is... fine.
 
