@@ -58,7 +58,7 @@ I remember coming across internet commentary about *Barbie* years ago and thinki
 
 *Barbie* was the inspiration for several of my own NES projects. The most direct influence appeared in my *Mega Man 2* ROM hack titled *Mega Man 2 (Barbie Dreams Type Hack)*, which I recall someone on twitter calling "the stupidest thing I've ever seen." *Barbie* was also an inspiration for the pink high heels in the NES glitch art *BAD CHECKSUM/High Heels*, which is featured on the cover of Nathan Altice's NES text [*I AM ERROR*](https://www.amazon.com/Am-Error-Nintendo-Computer-Entertainment/dp/0262028778/ref=sr_1_1?ie=UTF8&qid=1485862354&sr=8-1&keywords=i+am+error).
 
-[Barbie wakes from her dream](/img/Barbie2.png)
+![Barbie wakes from her dream](/img/Barbie2.png)
 
 In summary, *Barbie* is cute, and it's based on a toy that absolutely loved as a kid. Playing this NES game is a fun diversion that's given me a lot to think about and inspiration in my own work. It gets a hard-earned spot on my list of most influential NES games.
 
