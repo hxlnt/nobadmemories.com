@@ -28,7 +28,7 @@ As we learn in the attract-mode cinema, Barbie has a busy day ahead of her. We c
 
 ![Weird Dreams](/img/weirddreamsamiga2.png)
 
-The references to Dali here (and perhaps a pajama set modeled after Picasso harlequin attire?) are just... yup. Yup. Good.
+The references to Dali in this game (and a pajama set modeled after Picasso harlequin attire, perhaps?) are just... yup. Yup. Good.
 
 ![Harlequin's Family](/img/harlequin.jpg)
 
