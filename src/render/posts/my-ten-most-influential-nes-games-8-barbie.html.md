@@ -20,7 +20,7 @@ First, let's talk a little bit about the gameplay of *Barbie*. The entirety of t
 
 ![Barbie's dream](/img/barbiedream.png)
 
-As we learn in the attract-mode cinema, Barbie has a busy day ahead of her. We come to realize that the game is one giant ~stress dream~ in which Barbie mentally plays back all her hopes and fears. (I can relate.) The book she was reading before she fell asleep, her upcoming date with Ken, the errands she needs to take care of, all of them get mashed up into a surreal, playable dreamscape. Good luck with that! 
+As we learn in the attract-mode cinema, Barbie has a busy day ahead of her. We come to realize that the game is one giant ~stress dream~ in which Barbie mentally plays back all her hopes and fears. (I can relate.) The book she was reading before she fell asleep, her upcoming date with Ken, the errands she needs to take care of, all of them get mashed up into a surreal, playable dreamscape. So, you know, good luck with that! 
 
 ![Barbie soda fountain level](/img/barbiesoda.png)
 
@@ -56,13 +56,13 @@ But you know what? These are issues in a LOT of NES games! There are so many NES
 
 I remember coming across internet commentary about *Barbie* years ago and thinking to myself, "Really? Is no one going to do their homework on a video game just because it's *pink?* Too lazy? Too embarassed?" *Barbie* got me thinking about what it means to consider an NES game "good" or "bad" and how those internalized feelings about the inferiority of all things pink or fashion-oriented can unfairly color our view of a video game. Or a music video. Or a real-life human being.These thoughts were what eventually prompted me to start [FEMICOM Museum](http://femicom.org).
 
-*Barbie* was the inspiration for several of my own NES projects. The most direct influence appeared in my *Mega Man 2* ROM hack titled *Mega Man 2 (Barbie Dreams Type Hack)*. This hack simply replaces the font in *Mega Man 2* with the font from *Barbie* in the hopes of showing how much even 7-by-7-pixel letterforms can contain some hint of gender stereotype and can affect our opinion of the quality of something. I recall someone on twitter calling the hack "the stupidest thing I've ever seen."
+*Barbie* was the inspiration for several of my own NES projects. The most direct influence appeared in my *Mega Man 2* ROM hack titled *Mega Man 2 (Barbie Dreams Type Hack)*. This hack simply replaces the font in *Mega Man 2* with the font from *Barbie* in the hopes of showing how 7-by-7-pixel letterforms can contain some hint of gender stereotype and can affect our opinion of the quality of something. I recall someone on twitter calling the hack "the stupidest thing I've ever seen." Success.
 
 ![Barbie Dreams Type Hack](/img/barbietype.png)
 
-*Barbie* was also an inspiration for the pink high heels in the NES glitch art *BAD CHECKSUM/High Heels*, which is featured on the cover of Nathan Altice's NES text [*I AM ERROR*](https://www.amazon.com/Am-Error-Nintendo-Computer-Entertainment/dp/0262028778/ref=sr_1_1?ie=UTF8&qid=1485862354&sr=8-1&keywords=i+am+error).
+*Barbie* was also an inspiration for the pink high heels in the NES glitch art *BAD CHECKSUM/High Heels*, which is featured on the cover of Nathan Altice's NES book [*I AM ERROR*](https://www.amazon.com/Am-Error-Nintendo-Computer-Entertainment/dp/0262028778/ref=sr_1_1?ie=UTF8&qid=1485862354&sr=8-1&keywords=i+am+error).
 
-In summary, *Barbie* is cute, and it's based on a toy that absolutely loved as a kid. Playing this NES game is a fun diversion that's given me a lot to think about and inspiration in my own work. It gets a hard-earned spot on my list of most influential NES games.
+In summary, *Barbie* is cute, and it's based on a toy that I absolutely loved as a kid. Playing this NES game is a fun diversion that's given me a lot to think about and inspiration in my own work. It gets a hard-earned spot on my list of most influential NES games.
 
 ![Barbie wakes from her dream](/img/Barbie2.png)
 
