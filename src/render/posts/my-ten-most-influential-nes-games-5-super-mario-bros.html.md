@@ -34,8 +34,8 @@ If you've missed any of the previous entries in this series and want to catch up
 2. *[Zooming Secretary](/blog/2016/12/my-ten-most-influential-nes-games-2-zooming-secretary)*
 3. *[Hello Kitty World](/blog/2016/12/my-ten-most-influential-nes-games-3-hello-kitty-world)*
 4. *[Pinball](/blog/2016/12/my-ten-most-influential-nes-games-4-pinball)*
-5. *[Super Mario Bros.](/blog/2017/12/my-ten-most-influential-nes-games-)*
-6. *[Dance Aerobics](/blog/2016/01/my-ten-most-influential-nes-games-6-dance-aerobics)*
+5. *[Super Mario Bros.](/blog/2017/01/my-ten-most-influential-nes-games-super-mario-bros)*
+6. *[Dance Aerobics](/blog/2016/12/my-ten-most-influential-nes-games-6-dance-aerobics)*
 7. ?????
 8. ?????
 9. *[Tecmo Super Bowl](/blog/2016/12/my-ten-most-influential-nes-games-9-tecmo-super-bowl)*
