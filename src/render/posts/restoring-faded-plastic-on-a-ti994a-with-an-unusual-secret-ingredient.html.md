@@ -22,4 +22,4 @@ The TI-99/4A looks even better in person than it does in the video. So shiny and
 
 I'm looking forward to fixing up my Atari 2600 shell next time. And now that I've purchased this trim restorer, maybe I'll actually use it on my car, too! Ha!
 
-(*Video soundtrack:* [TRACK+FEEL II (memoryboy remix)]((https://partytimehexcellent.bandcamp.com/)) *by [chalkboards](https://chalkboards.bandcamp.com/).*)
+(*Video soundtrack:* [TRACK+FEEL II (memoryboy remix)](https://partytimehexcellent.bandcamp.com/) *by [chalkboards](https://chalkboards.bandcamp.com/).*)
