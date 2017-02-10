@@ -10,7 +10,7 @@ keyimg: "/img/wash2.gif"
 I noticed that the black plastic on my TI-99/4A had become dull and cloudy-gray with age. So, I decided to try freshening it up with something a little unusual: automotive trim restorer. Why not? I find cleaning and restoring old electronics really, *really* satisfying, so I hope you enjoy this video as much as I do. 
 
 <p><video width="100%" height="auto" controls loop>
-  <source src="http://www.nobadmemories.com/img/TI99Restore2.mp4" type="video/mp4">
+  <source src="http://www.nobadmemories.com/img/TIRestore2.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video></p>
 
