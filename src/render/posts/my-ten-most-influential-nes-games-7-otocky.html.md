@@ -4,7 +4,7 @@ title: "My ten most influential NES games: #7 Otocky"
 description: "Otocky defies genre boundaries by incorporating gentle, playful music composition mechanics."
 date: 2017-02-10T22:55
 tagged: ["games"]
-keyimg: "/img/otocky.png"
+keyimg: "/img/flying.png"
 
 ---
 
