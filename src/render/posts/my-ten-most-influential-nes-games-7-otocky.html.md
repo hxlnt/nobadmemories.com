@@ -5,11 +5,12 @@ description: "Otocky defies genre boundaries by incorporating gentle, playful mu
 date: 2017-02-10T22:55
 tagged: ["games"]
 keyimg: "/img/otocky.png"
+
 ---
 
 With just two games left to discuss, I've come near the end of documenting my most personally-influential NES games. Today's article is dedicated to the whimsical musical-shooter, *Otocky* (ASCII, 1987).
 
-![flying.png](Otocky)
+![Otocky](/img/flying.png)
 
 I've tried my best to rank these ten games by how influential they've been. Now, after some reflection, I think *Otocky* belongs in a higher spot on the list than #7. But barring my going back and rewriting months of blog posts, there it remains.
 
@@ -26,7 +27,7 @@ I've tried my best to rank these ten games by how influential they've been. Now,
 
 *Otocky* is a Famicom Disk System game designed by interactive artist Toshio Iwai, who is better known for his cult-classic Nintendo DS game *Electroplankton* (and perhaps less known for his unreleased Super Famicom/SNES game [Sound Fantasy](https://www.unseen64.net/category/nin/super-nintendo/page/24/)). 
 
-![Electroplankton](electroplankton.jpg)
+![Electroplankton](/img/electroplankton.jpg)
 
 Like *Electroplankton* and *Sound Fantasy*, *Otocky* defies genre boundaries by incorporating gentle, playful music composition mechanics. *Otocky* looks and plays a bit like a side-scrolling shooter, but it's much more. 
 
@@ -36,7 +37,7 @@ Like *Electroplankton* and *Sound Fantasy*, *Otocky* defies genre boundaries by 
 
 In addition to this main story mode, *Otocky* offers a freeplay mode devoid of enemies to allow you to focus on composing tunes. There's even a *Mario Paint*-esque music maker mode that lets you compose music.
 
-![Sound editor](maker.png)
+![Sound editor](/img/maker.png)
 
 There are so many things I love about *Otocky.* The art style is really interesting. I love the final stage in particular because it doesn't look NES-y to me. Music notes fly by in a dizzying array of colors thanks to rolling palette and attribute table rewrites. It's a great effect.
 
