@@ -25,7 +25,7 @@ I've tried my best to rank these ten games by how influential they've been. Now,
 9. *[Tecmo Super Bowl](/blog/2016/12/my-ten-most-influential-nes-games-9-tecmo-super-bowl)*
 10. *[Apple Town Monogatari: Little Computer People](/blog/2016/12/my-ten-most-influential-nes-games-10-apple-town-monogatari)*
 
-*Otocky* is a Famicom Disk System game designed by interactive artist Toshio Iwai, who is better known for his cult-classic Nintendo DS game *Electroplankton* (and perhaps less known for his unreleased Super Famicom/SNES game [Sound Fantasy](https://www.unseen64.net/category/nin/super-nintendo/page/24/)). 
+*Otocky* is a Famicom Disk System game designed by interactive artist Toshio Iwai, who is better known for his cult-classic Nintendo DS game *Electroplankton* (and perhaps less known for his unreleased Super Famicom/SNES game *[Sound Fantasy](https://www.unseen64.net/category/nin/super-nintendo/page/24/)*). 
 
 ![Electroplankton](/img/electroplankton.jpg)
 
