@@ -5,7 +5,7 @@ url: "http://www.smspower.org/Development/Index"
 author:
     name: "SMS Power!"
     url: "http://www.smspower.com/"
-resourceFormat: resource
+resourceFormat: "globe"
 tags: ["retrocomputing"]
 descNeeded: true
 ---

@@ -27,6 +27,28 @@ title: 'Events'
                 </p>
             <% end %>
         <% end %> 
+    <h2>Past events, 2017</h2>
+        <% for event in @getCollection('events').sortArray(date: 1): %>
+		    <% if event.date < new Date && event.momentYear == "2017": %>
+                <p> 
+                <% if event.type == "TECH": %>
+                    <button class="tech">TECH</button>
+                <% else if event.type == "ACAD": %>
+                    <button class="acad">ACAD</button>
+                <% else if event.type == "EXHB": %>
+                    <button class="exhb">EXHB</button>                    
+                <% end %>
+                <a href="<%- event.url %>">  
+                    <% if event.presentation: %>"<%- event.presentation.name %>"</a><BR><%- event.momentDate %>
+                        <% if event.enddate: %>&ndash;<%- event.momentEndDate %><% end %> at 
+                        <% if event.event: %><%- event.event.name %><% else: %><%- event.venue.name %><% end %> 
+                    <% else: %>
+                        <%- event.event.name %></a><BR><%- event.momentDate %>
+                        <% if event.enddate: %>&ndash;<%- event.momentEndDate %><% end %> at <%- event.venue.name %> 
+                    <% end %>
+                    in <%- event.venue.location %></a></p>
+            <% end %>
+        <% end %> 
     <h2>Past events, 2016</h2>
         <% for event in @getCollection('events').sortArray(date: 1): %>
 		    <% if event.date < new Date && event.momentYear == "2016": %>

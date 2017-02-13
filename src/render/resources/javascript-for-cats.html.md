@@ -5,7 +5,7 @@ url: "http://jsforcats.com/"
 author:
     name: "Max Ogden"
 language: "English"
-resourceFormat: article
+resourceFormat: globe
 tags: ["javascript"]
 descNeeded: true
 ---

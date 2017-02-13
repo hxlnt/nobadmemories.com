@@ -51,7 +51,7 @@ docpadConfig =
 			# The website's styles
 			styles: [
 				'/styles/style.css'
-				'/styles/fontawesome/css/font-awesome.min.css'
+				'/vendor/fontawesome/css/font-awesome.min.css'
 			]
 
 			# The website's scripts

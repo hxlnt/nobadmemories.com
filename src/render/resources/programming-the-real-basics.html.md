@@ -5,7 +5,7 @@ url: "https://dev.opera.com/articles/programming-the-real-basics/"
 author:
     name: "Chris Heilmann"
 language: "English"
-resourceFormat: article
+resourceFormat: "globe"
 tags: ["javascript"]
 descNeeded: true
 ---

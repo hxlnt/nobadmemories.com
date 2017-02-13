@@ -5,7 +5,7 @@ url: "https://www.youtube.com/watch?v=VY9SBPo1Oy8"
 author:
     name: "Matt Evans"
 language: "English"
-resourceFormat: video
+resourceFormat: video-camera
 tags: ["electronics"]
 descNeeded: false
 ---

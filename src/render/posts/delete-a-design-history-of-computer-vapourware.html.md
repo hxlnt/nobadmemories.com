@@ -1,6 +1,6 @@
 ---
 layout: 'content'
-title: "Delete: A Design History of Computer Vaporware"
+title: "Today's book: Delete: A Design History of Computer Vaporware"
 description: "Paul Atkinson's *Delete: A Design History of Computer Vapourware* is highly recommended for those interested in computer hardware design or retrocomputing."
 while: "...?"
 date: 2016-01-29T17:00

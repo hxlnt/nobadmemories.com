@@ -5,7 +5,7 @@ url: "https://www.youtube.com/watch?v=nMZJwspSkAc"
 author:
     name: "Ben Heck"
 language: "English"
-resourceFormat: video
+resourceFormat: video-camera
 tags: ["electronics"]
 descNeeded: true
 ---

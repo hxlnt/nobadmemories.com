@@ -2,7 +2,7 @@
 layout: "resourcedetails"
 name: "romhacking.net"
 url: "http://www.romhacking.net"
-resourceFormat: resource
+resourceFormat: "globe"
 tags: ["retrocomputing"]
 descNeeded: true
 ---

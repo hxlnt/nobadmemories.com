@@ -3,7 +3,7 @@ layout: "resourcedetails"
 name: "idiomatic.js"
 url: "https://github.com/rwaldron/idiomatic.js"
 language: "English"
-resourceFormat: article
+resourceFormat: globe
 tags: ["javascript"]
 descNeeded: true
 ---

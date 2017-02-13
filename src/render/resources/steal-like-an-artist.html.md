@@ -6,7 +6,7 @@ author:
     name: "Austin Kleon"
     url: "http://austinkleon.com"
 language: "English"
-resourceFormat: book
+resourceFormat: "book"
 tags: ["art and design"]
 descNeeded: false
 ---

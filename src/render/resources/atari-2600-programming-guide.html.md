@@ -6,7 +6,7 @@ author:
     name: "AtariAge"
     url: "http://www.atariage.com/"
 language: "English"
-resourceFormat: resource
+resourceFormat: globe
 tags: ["retrocomputing"]
 descNeeded: false
 ---
