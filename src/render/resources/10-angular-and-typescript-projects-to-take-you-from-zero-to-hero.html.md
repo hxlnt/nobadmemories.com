@@ -5,7 +5,7 @@ url: "https://blog.codewithdan.com/2017/02/08/10-angular-and-typescript-projects
 author:
     name: "Dan Wahlin"
 language: "English"
-resourceFormat: article
+resourceFormat: globe
 tags: ["javascript"]
 descNeeded: false
 ---
