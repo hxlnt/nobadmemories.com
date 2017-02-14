@@ -12,4 +12,4 @@ This light table started its life as an upright lightbox for viewing film, perha
 
 ![My workspace](/img/workspace.jpg)
 
-Once turned on its side and given 4 legs and a little electrical work, it became a handy light table for tracing artwork or just providing a lovely white glow to the room.
+Once turned on its side and given 4 legs and a little electrical work, it became a handy light table for tracing artwork and providing a lovely white glow to the room.
