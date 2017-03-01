@@ -24,7 +24,7 @@ The way the limitations of the NES are tested is masterful. The game is packed w
 
 (This beautiful GIF is from [this article](http://1morecastle.com/2014/03/kirbys-adventure-jump-animation/) on 1 More Castle.)
 
-The *Kirby's Adventure* soundtrack is its own bit of masterpiece. I've joked with friends that it's just about impossible to be around me when I'm listening to the soundtrack. (I burned it to a CD to listen to in my car.) When I was teaching at UT, I spent nearly a whole class period dissecting it. The steel drums on DPCM! The triangle-wave channel pitched way up and the square wave pitched way down! Mwah, mwah, mwah~!
+The *Kirby's Adventure* soundtrack is its own bit of masterpiece. It's, again, technically and aesthetically masterful. I burned the soundtrack to a CD to listen to in my car. When I was teaching at UT, I spent nearly a whole class period dissecting it. The steel drums on DPCM! The triangle-wave channel pitched way up and the square wave pitched way down! Mwah, mwah, mwah~!
 
 *Kirby's Adventure* is a delight to play, too. You can't help but love the sweet details of the claw-machine and quick draw minigames. Every level has new surprises. And with frequent save points, the game doesn't require the patience and free time of an 8-year-old to complete beginning to end.
 
