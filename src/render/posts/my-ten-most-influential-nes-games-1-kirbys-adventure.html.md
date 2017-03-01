@@ -14,17 +14,17 @@ This shouldn't come as a surprise to anyone who knows me. I'm pretty up front ab
 
 ![Kirby](/img/kirby.PNG)
 
-Writing this post is difficult because there are so many things I love about *Kirby's Adventure,* and I don't want to miss a thing, in the words of Aerosmith.
+Writing this post is difficult because there are so many things I love about *Kirby's Adventure,* and I don't want to miss a thing, in the words of Aerosmith. (That song is about Kirby, right?)
 
-OK, well... *Kirby's Adventure* is a technical and aesthetic *masterpiece.* The art of the game is absolutely incredible. The rounded stars, The palette&mdash;MY GOD!&mdash;the palette in this game. Kirby's sprite animations are so expressive and beautifully crafted. (Did you know that Kirby's blobby shape was initially a placeholder for "real graphics?" The developers were won over by the lovable fluff-ball and decided to keep him that way.) 
+OK, well... *Kirby's Adventure* is a technical and aesthetic *masterpiece.* The art of the game is absolutely incredible. The rounded stars, the palette&mdash;MY GOD!&mdash;the palette in this game. Kirby's sprite animations are so expressive and beautifully crafted. (Kirby's blobular shape was initially a placeholder graphic created during development. However, the developers were won over by the lovable fluff-ball and decided to keep him that way.)
 
-The way the limitations of the NES are tested is masterful. The game is packed with graphic tiles, allowing for numerous detailed backgrounds and animations like this one, found in the Butter Building level.
+The way in which *Kirby's Adventure* tests the limitations of the NES is masterful. The game is packed with graphic tiles, allowing for numerous detailed backgrounds and animations like this one, found in the Butter Building level.
 
 ![Butter Building](http://1morecastle.com/wp-content/uploads/2014/03/kirby_fly_butter_building.gif)
 
 (This beautiful GIF is from [this article](http://1morecastle.com/2014/03/kirbys-adventure-jump-animation/) on 1 More Castle.)
 
-The *Kirby's Adventure* soundtrack is in itself a work of art. It's, again, technically and aesthetically masterful. I burned the soundtrack to a CD to listen to in my car. When I was teaching at UT, I spent nearly a whole class period dissecting it. The steel drums on DPCM! The triangle-wave channel pitched way up and the square wave pitched way down! Mwah, mwah, mwah~!
+The *Kirby's Adventure* soundtrack is in itself a work of art. It's, again, technically and aesthetically masterful. I'm so obsessed with it that I have a copy of the soundtrack on CD so I can listen to it ever-so-intently in my car. When I was teaching at UT, I spent nearly a whole class period dissecting a few tracks from the game. The steel drums on DPCM! The triangle-wave channel pitched way up and the square wave pitched way down! Mwah, mwah, mwah~!
 
 *Kirby's Adventure* is a delight to play, too. You can't help but love the sweet details of the claw-machine and quick draw minigames. Every level has new surprises. And with frequent save points, the game doesn't require the patience and free time of an 8-year-old to complete beginning to end.
 
@@ -32,11 +32,11 @@ The game is good, no doubt, but it's also been incredibly influential to me. Thi
 
 ![Drop shadow!](/img/kirbymenu.PNG)
 
-It has also demonstrated that a game need not be overly violent, difficult, or tough to be among the best, if not at the very top. Kirby can be both cute AND the star of quite possibly the best game to ever grace the NES platform.
+It has also demonstrated that a game need not be overly violent, difficult, or tough to be among the best. Cute games tend to get a reputation for being poorly designed and executed, but *Kirby's Adventure* smashes that stereotype. Kirby can be both cute AND the star of quite possibly the best game to ever grace the NES platform.
 
-*Kirby's Adventure* is a game that keeps a smile on my face from beginning to end. If you haven't played it, I highly recommend it. It's available on all sorts of contemporary platforms, including Nintendo 3DS, Wii U, and the NES Classic Edition.
+*Kirby's Adventure* is a game that keeps a smile on my face from beginning to end. If you haven't played it, I highly recommend that you do. It's available on all sorts of contemporary platforms, including Nintendo 3DS, Wii U, and the NES Classic Edition.
 
-Lastly, courtesy of 1 More Castle is a GIF of Kirby jumping through clouds, galaxies, and balloons. What a joy.
+Lastly, courtesy of 1 More Castle is a GIF of Kirby jumping through clouds, galaxies, and balloons. What a joy. I love you, Kirby. <3
 
 ![The end!](/img/kirbys_adventure_masterpiece.gif)
 
