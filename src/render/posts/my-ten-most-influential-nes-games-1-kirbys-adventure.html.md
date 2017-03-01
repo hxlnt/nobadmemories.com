@@ -20,7 +20,7 @@ OK, well... *Kirby's Adventure* is a technical and aesthetic *masterpiece.* The 
 
 The way in which *Kirby's Adventure* tests the limitations of the NES is masterful. The game is packed with graphic tiles, allowing for numerous detailed backgrounds and animations like this one, found in the Butter Building level.
 
-![Butter Building](http://1morecastle.com/wp-content/uploads/2014/03/kirby_fly_butter_building.gif)
+![Butter Building](/img/butter.gif)
 
 (This beautiful GIF is from [this article](http://1morecastle.com/2014/03/kirbys-adventure-jump-animation/) on 1 More Castle.)
 
