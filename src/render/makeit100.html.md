@@ -23,9 +23,8 @@ makeit100 is a collection of 100 microexperiments in art and code. My goal is to
 4. The code will probably be messy.
 5. Each microexperiment will be followed by documented and personal reflection.
 
-
 ## The microexperiments
 
-  1.  **Phenotyped** A visualization of simple Mendelian codominance over five generations of flowers.
+1. **Phenotyped** A visualization of simple Mendelian codominance over five generations of flowers.
 
       HTML, CSS, Javascript | [Source](http://www.github.com/hxlnt/makeit100/001%20Phenotyped/) | [Demo](http://rawgit.com/hxlnt/makeit100/master/001%20Phenotyped/index.html)
