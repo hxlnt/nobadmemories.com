@@ -1,11 +1,11 @@
 ---
 layout: 'content'
 title: "My ten most influential NES games: #1 Kirby's Adventure"
-description: "The key piece of technology that made all of this possible is the NES Power Pad, a vinyl mat controller containing a flexible circuit board and a grid of 12 buttons."
-while: 'sitting by the fire.'
-date: 2016-12-19T04:09
+description: "*Kirby's Adventure* is a game that keeps a smile on my face from beginning to end"
+while: 'hanging out with the pets.'
+date: 2017-03-01T01:08
 tagged: ["games"]
-keyimg: "/img/exercise.png"
+keyimg: "/img/kirbys_adventure_masterpiece.gif"
 ---
 
 I've been writing about my top-ten influential NES games since December, and it seems we're coming to a close with this final post. The game that takes my #1 spot is the whimsical platformer *Kirby's Adventure* (HAL, 1992).
@@ -24,7 +24,7 @@ The way the limitations of the NES are tested is masterful. The game is packed w
 
 (This beautiful GIF is from [this article](http://1morecastle.com/2014/03/kirbys-adventure-jump-animation/) on 1 More Castle.)
 
-The *Kirby's Adventure* soundtrack is its own bit of masterpiece. It's, again, technically and aesthetically masterful. I burned the soundtrack to a CD to listen to in my car. When I was teaching at UT, I spent nearly a whole class period dissecting it. The steel drums on DPCM! The triangle-wave channel pitched way up and the square wave pitched way down! Mwah, mwah, mwah~!
+The *Kirby's Adventure* soundtrack is in itself a work of art. It's, again, technically and aesthetically masterful. I burned the soundtrack to a CD to listen to in my car. When I was teaching at UT, I spent nearly a whole class period dissecting it. The steel drums on DPCM! The triangle-wave channel pitched way up and the square wave pitched way down! Mwah, mwah, mwah~!
 
 *Kirby's Adventure* is a delight to play, too. You can't help but love the sweet details of the claw-machine and quick draw minigames. Every level has new surprises. And with frequent save points, the game doesn't require the patience and free time of an 8-year-old to complete beginning to end.
 
