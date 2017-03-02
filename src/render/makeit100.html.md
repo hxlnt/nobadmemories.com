@@ -13,18 +13,15 @@ img: "phenotyped.png"
 isProject: true
 ---
 
-makeit100 is a collection of 100 microexperiments in art and code. My goal is to complete and document all 100 projects in 2017 through this website and [on GitHub](http://www.github.com/hxlnt/makeit100).
+makeit100 is a collection of 100 microexperiments in art and code. The project is ongoing and will be documented here and/or [on GitHub](http://www.github.com/hxlnt/makeit100).
 
 ## The makeit100 manifesto
 
-1. A microexperiment is a low-risk way to try something new. It doesn't constitute a completed project nor is it necessarily even a good idea.
-2. A microexperiment doesn't need to have an application, point, or purpose outside of freeform learning.
-3. Microexperiments will likely build on previous work; some may even repeat it in part or whole.
-4. The code will probably be messy.
-5. Each microexperiment will be followed by documented and personal reflection.
+1. **Be small** A microexperiment is a low-risk way to try something new. It doesn't constitute a completed project. A microexperiment doesn't need to have an application, point, or purpose outside of freeform learning.
+2. **Be unoriginal** Microexperiments will likely build on the previous work of others or myself; some might even be repeats or do-overs of previous makeit100 microexperiments.
+3. **Be messy** The code and execution won't be perfect. It's OK.
+4. **Reflect on the process** Each microexperiment should be followed by documentation and/or some kind of personal reflection or takeaway.
 
 ## The microexperiments
 
-1. **Phenotyped** A visualization of simple Mendelian codominance over five generations of flowers.
-
-    HTML, CSS, Javascript | [Source](http://www.github.com/hxlnt/makeit100/001%20Phenotyped/) | [Demo](http://rawgit.com/hxlnt/makeit100/master/001%20Phenotyped/index.html)
+1. **Phenotyped** A visualization of simple Mendelian codominance over five generations of flowers.<BR>HTML, CSS, Javascript | [Source](http://www.github.com/hxlnt/makeit100/001%20Phenotyped/) | [Demo](http://rawgit.com/hxlnt/makeit100/master/001%20Phenotyped/index.html)
