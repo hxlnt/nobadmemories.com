@@ -9,7 +9,7 @@ title: 'Resources'
   - For Javascript and web development, I use [npm](http://npmjs.org) (package manager), [VS Code](http://code.visualstudio.com) (IDE/debugger), and Chrome (browser).
   - This website is built with [DocPad](http://docpad.org) (like Jekyll for Javascript) and is hosted on [Azure](http://azure.microsoft.com).
   - I use [git](https://git-scm.com/) and [GitHub](http://github.com) for source control and sharing code.
-  - I use [Wakatime](https://wakatime.com/) to track how much time I spend coding in various languages and on various projects.
+  - I use [Wakatime](https://wakatime.com/) to track how much time I spend coding in various languages and on various projects. Here's my coding activity by language over the past 30 days:
 
   <figure><embed src="https://wakatime.com/share/@hxlnt/47749de7-8b68-42f7-a105-bfe4bef1c801.svg"></embed></figure>
 
