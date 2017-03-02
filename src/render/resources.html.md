@@ -11,10 +11,8 @@ title: 'Resources'
   - I use [git](https://git-scm.com/) and [GitHub](http://github.com) for source control and sharing code.
   - I use [Wakatime](https://wakatime.com/) to track how much time I spend coding in various languages and on various projects. Here's my coding activity by language over the past 30 days:
 
+<figure><embed src="https://wakatime.com/share/@hxlnt/47749de7-8b68-42f7-a105-bfe4bef1c801.svg"></embed></figure>
 
-  <figure><embed src="https://wakatime.com/share/@hxlnt/47749de7-8b68-42f7-a105-bfe4bef1c801.svg"></embed></figure>
-
-  
   - For creating visual assets, I use Adobe Photoshop (photo editing), Illustrator (vector art), and InDesign (page layouts).
   - I split my time between a PC and a Mac.
 
