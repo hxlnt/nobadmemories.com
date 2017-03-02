@@ -31,7 +31,7 @@ makeit100 is a collection of 100 microexperiments in art and code. The project i
     </td>
     <td valign="top">
       <p class="blogp">
-        <strong>**001 Phenotyped** A visualization of simple Mendelian codominance over five generations of flowers.</strong><BR>
+        <strong>001 Phenotyped</strong> A visualization of simple Mendelian codominance over five generations of flowers.<BR>
         HTML, CSS, Javascript | <a href="http://www.github.com/hxlnt/makeit100/001%20Phenotyped/" target="new">Source</a> | <a href="http://rawgit.com/hxlnt/makeit100/master/001%20Phenotyped/index.html" target="new">Demo</a>
       </p>
     </td>
