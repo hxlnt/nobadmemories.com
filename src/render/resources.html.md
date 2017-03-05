@@ -5,12 +5,13 @@ title: 'Resources'
 
 Here are collected learning resources and random factoids about my process and inspirations.
 
+## Resources
   1. Learning resources
-      - [8-bit consoles and computers](#8-bit-consoles-and-computers)
-      - [Art and design theory](#art-and-design-theory)
-      - [Javascript](#javascript)
-      - [Microcontrollers and electronics](#microcontrollers-and-electronics)
-      - [Python](#python)
+  - [8-bit consoles and computers](#8-bit-consoles-and-computers)
+  - [Art and design theory](#art-and-design-theory)
+  - [Javascript](#javascript)
+  - [Microcontrollers and electronics](#microcontrollers-and-electronics)
+  - [Python](#python)
   2. [My dev toolkit](#my-dev-toolkit)
   3. [Art+code friends](#art+code-friends)
   4. [Other inspirations](#other-inspirations)
