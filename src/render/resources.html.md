@@ -54,7 +54,7 @@ Here are collected learning resources and random factoids about my process and i
   - [Hack Everything: Repurposing Everyday Devices](https://www.youtube.com/watch?v=VY9SBPo1Oy8)
   - [Introduction to Interfaces](https://www.youtube.com/watch?v=nMZJwspSkAc)
   - [oled.js](https://github.com/noopkat/oled-js)
-  - [Word Clock](https://www.hackster.io/wgbartley/word-clock-v2-26adee)
+  - [Word Clock v2](https://www.hackster.io/wgbartley/word-clock-v2-26adee)
 
 
 ## Python
