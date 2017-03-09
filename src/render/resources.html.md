@@ -17,14 +17,19 @@ Here are collected learning resources and random factoids about my process and i
   - [SMS Development](http://www.smspower.org/Development/Index)
 
 
-## Art and design theory
+## Art and design
   - *[Design Noir: The Secret Life of Electronic Objects](https://www.amazon.com/Design-Noir-Secret-Electronic-Objects/dp/3764365668/)* by Anthony Dunne and Fiona Raby
   - *[The Future of Nostalgia](https://www.amazon.com/Future-Nostalgia-Svetlana-Boym/dp/0465007082/)* by Svetlana Boym
   - *[Hello World: Where Design Meets Life](https://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)* by Alice Rawsthorn
   - *[No More Rules: Graphic Design and Postmodernism](https://www.amazon.com/No-More-Rules-Graphic-Postmodernism/dp/0300100345/)* by Rick Poynor
+  - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
   - *[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me)* by Austin Kleon
+  - [Tech Trek: Create your own font](http://www.rookiemag.com/2016/04/trek-tech-font/)
   - *[Ways of Seeing](https://www.amazon.com/Ways-Seeing-Based-BBC-Television/dp/0140135154/)* by John Berger
 
+## Crafts and DIY
+  - [Conductive thread](https://learn.adafruit.com/conductive-thread/overview)
+  - [DIY neon sign](http://www.rookiemag.com/2015/12/diy-neon-sign/)
 
 ## Javascript
   - [Angular 2 from the Ground Up](https://www.youtube.com/watch?v=IWVAPIDXzFY)
