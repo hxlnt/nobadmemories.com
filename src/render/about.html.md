@@ -7,6 +7,6 @@ Rachel Simone Weil (b. 1984) is an experimental designer whose work offers alter
 
 Weil has a BA in Chemistry and an MFA in Design. She currently works as a technical evangelist at <a href="http://www.microsoft.com" target="new">Microsoft</a>. In addition, she heads up <a href="http://www.femicom.org/" target="new">FEMICOM Museum</a> and helps run numerous indie game events in Austin, TX, including <a href="http://www.fantasticarcade.com/" target="new">Fantastic Arcade</a>, <a href="http://www.juegosrancheros.com/" target="new">Juegos Rancheros</a>, and the <a href="http://juegosrancheros.com/the-museum-of-human-amusement/" target="new">Museum of Human Amusement</a>.
 
-Twitter: <a href="http://www.twitter.com/partytimehxlnt">@partytimeHXLNT</a> &hearts; Github: <a href="http://www.github.com/hxlnt">HXLNT</a></p>
+Twitter: <a href="http://www.twitter.com/partytimehxlnt">@partytimeHXLNT</a> &hearts; GitHub: <a href="http://www.github.com/hxlnt">HXLNT</a></p>
 
 My recent inspirations and obsessions: *A Different World*, gardening, generative-art Twitter bots, *Kimagure Orange Road*, Sun Ra
