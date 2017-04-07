@@ -2,9 +2,9 @@
 layout: 'content'
 title: "My ten most influential NES games"
 description: "A summary of the previous posts on NES games"
-date: 2017-04-05T01:37
+date: 2017-04-07T01:46
 tagged: ["games"]
-keyimg: "/img/hkworld.png"
+keyimg: "/img/hkworld3.png"
 
 ---
 
