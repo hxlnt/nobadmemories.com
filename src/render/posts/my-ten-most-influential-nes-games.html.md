@@ -5,7 +5,7 @@ description: "A summary of the previous posts on NES games"
 date: 2017-04-07T01:46
 tagged: ["games"]
 keyimg: "/img/hkworld3.png"
-
+while: enjoying today's warm weather.
 ---
 
 Throughout December, January, February, and March, I blogged about the ten NES games most influential to me. 
