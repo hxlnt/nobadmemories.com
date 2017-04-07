@@ -10,8 +10,7 @@ while: enjoying today's warm weather.
 
 Throughout December, January, February, and March, I blogged about the ten NES games most influential to me. 
 
-I realized that while I still feel good about the ten games I chose, I wish I'd chosen a slightly different order. So here's my newgangled and reordered top-ten list with links to each article.
-
+I realized that while I still feel good about the ten games I chose, I wish I'd chosen a slightly different order. So here's my newfangled and reordered top-ten list with links to each article.
 
 ![Kirby's Adventure](/img/kirbys_adventure_masterpiece.gif)
 
