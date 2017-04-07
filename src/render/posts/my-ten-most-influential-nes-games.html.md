@@ -24,11 +24,13 @@ I've collected quick links to all the posts below. I also realized that while I 
 
 5. *[Pinball](/blog/2016/12/my-ten-most-influential-nes-games-4-pinball)* "planted the initial seed in my mind that I might like to begin collecting NES games."
 
-6. *[Dance Aerobics](/blog/2016/12/my-ten-most-influential-nes-games-6-dance-aerobics)* " was one of the biggest inspirations for the first NES game that I released in 2012: *[TRACK+FEEL II](https://partytimehexcellent.itch.io/trackfeel-ii)*."
+6. *[Dance Aerobics](/blog/2016/12/my-ten-most-influential-nes-games-6-dance-aerobics)* "was one of the biggest inspirations for the first NES game that I released in 2012: *[TRACK+FEEL II](https://partytimehexcellent.itch.io/trackfeel-ii)*."
 
 7. *[Barbie](/blog/2017/01/my-ten-most-influential-nes-games-8-barbie)* "is a fun diversion that's given me a lot to think about and inspiration in my own work."
 
 8. *[Apple Town Monogatari: Little Computer People](/blog/2016/12/my-ten-most-influential-nes-games-10-apple-town-monogatari)* has "tiny, pixelated rooms whose smallest details are a pleasure to observe."
+
+![Apple Town Monogatari](/img/appletownstory2.gif)
 
 9. *[Zooming Secretary](/blog/2016/12/my-ten-most-influential-nes-games-2-zooming-secretary)* "was remarkable to me for raising the bar for NES homebrew games."
 
