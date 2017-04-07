@@ -10,7 +10,7 @@ while: enjoying today's warm weather.
 
 Throughout December, January, February, and March, I blogged about the ten NES games most influential to me. 
 
-I've collected quick links to all the posts below. I also realized that while I still feel good about the ten games I chose, I wish I'd chosen a slightly different order. So here's my reordered top-ten list.
+I realized that while I still feel good about the ten games I chose, I wish I'd chosen a slightly different order. So here's my newgangled and reordered top-ten list with links to each article.
 
 ![Hello Kitty World](/img/hkworld3.png)
 
