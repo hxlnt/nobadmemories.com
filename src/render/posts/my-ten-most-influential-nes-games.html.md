@@ -38,7 +38,7 @@ I realized that while I still feel good about the ten games I chose, I wish I'd 
     ![Apple Town Monogatari](/img/appletownstory2.gif)
 9. *[Zooming Secretary](/blog/2016/12/my-ten-most-influential-nes-games-2-zooming-secretary)* "was remarkable to me for raising the bar for NES homebrew games."
 
-    ![Zooming Secretary](/img/Zooming_Secretary.png)
+    ![Zooming Secretary](/img/Zooming_Secretary2.png)
 10. *[Tecmo Super Bowl](/blog/2016/12/my-ten-most-influential-nes-games-9-tecmo-super-bowl)* "seems to defy [the constraints of the NES]."
 
     ![Skyline in Tecmo Super Bowl intro](/img/tsbskyline.png)
