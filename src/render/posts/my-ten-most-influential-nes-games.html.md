@@ -36,7 +36,6 @@ I realized that while I still feel good about the ten games I chose, I wish I'd 
 
     ![Dance Aerobics](/img/exercise.png)
 
-
 7. *[Barbie](/blog/2017/01/my-ten-most-influential-nes-games-8-barbie)* "is a fun diversion that's given me a lot to think about and inspiration in my own work."
 
     ![Barbie GIF](/img/barbie.gif)
