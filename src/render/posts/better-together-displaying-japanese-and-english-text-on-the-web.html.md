@@ -78,7 +78,7 @@ I maintain the website for [FEMICOM Museum](http://www.femicom.org), an archive 
 
 ![m7kenji interview](/img/kenjiinterview.png)
 
-Even though it would be less work to just set ```<html lang="ja-jp" />``` and get the benefit of proper Japanese text rendering throughout the site, there would be significant drawbacks. First of all, my website would show up for Japanese users as being a "Japanese-language website," and thus the browser would likely not automatically offer them English-to-Japanese translation for navigating the site. Browser functionality for English-language users might be limited, too. Finally, setting ```<html lang="ja-jp" />``` may limit my website's discoverability in English-language web searches. So, it's best if I set ```html lang``` to ```en-us``` and then mark specific blocks of text with Japanese-language styling via the element-level ```lang``` attribute.
+Even though it would be less work to just set ```<html lang="ja-jp" />``` and get the benefit of proper Japanese text rendering throughout the site, there would be significant drawbacks. First of all, my website would show up for Japanese users as being a "Japanese-language website," and thus the browser would likely not automatically offer them English-to-Japanese translation for navigating the site. Browser functionality for English-language users might be limited, too. Finally, setting ```<html lang="ja-jp" />``` may limit my website's discoverability in English-language web searches. So, it's best if I set ```html lang``` to ```en-us``` and then mark specific blocks of text such as interviews with Japanese-language styling via the element-level ```lang``` attribute.
 
 As W3C notes, what browsers actually do with ```lang``` data varies. It is seen as an area of growth, meaning browsers may offer more features and support around ```lang``` attributes in the future. 
 
@@ -98,7 +98,7 @@ If you aren't familiar with Japanese text, the image might not seem so weird. So
 
 So, let this example remind you to think about Japanese text when you're CSSing! :)
 
-Just like the Roman letters used in English, Japanese text can be assigned `font-family` stacks. Most named fonts and font families that we're familiar with for Western languages do not also have an associated Japanese character set. Instead, if you assign a specific, the browser will try to be smart and choose a matching default serif, sans-serif, or monospace font to render the Japanese characters. However, it might not make the right choice. So, it's best to specify a serif, sans-serif, or monospace fallback. Here is some markup showing different generic font families and how they look in the Chrome, Safari, and Edge.
+Just like the Roman letters used in English, Japanese text can be assigned `font-family` stacks. Most named fonts and font families that we're familiar with for Western languages do not also have an associated Japanese character set. Instead, if you assign a specific font in CSS, the browser will try to be smart and choose a matching default serif, sans-serif, or monospace font to render the Japanese characters. However, it might not make the right choice. So, it's best to specify a serif, sans-serif, or monospace fallback. Here is some markup showing different generic font families and how they look in the Chrome, Safari, and Edge.
 
 ```
     <style>
