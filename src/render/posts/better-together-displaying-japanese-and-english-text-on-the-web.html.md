@@ -120,7 +120,9 @@ Just like the Roman letters used in English, Japanese text can be assigned `font
     </style>
 ```
 
-![Browser samples](/img/fonts1.png)
+![Chrome browser samples](/img/fonts1-1.png)
+
+![Edge/Safari rowser samples](/img/fonts1-2.png)
 
 Interestingly, the cursive fallback for Japanese text differs depending on whether the user is on a PC or a Mac. For PCs, ```cursive``` falls back to Comic Sans, which is a sans-serif font. Thus, the Japanese text is also sans-serif. On a Mac, ```cursive``` falls back to Apple Chancery, which is a calligraphic font that more closely matches the generic Japanese serif font. There are two other font fallback categories (```fantasy``` and ```monospace```) that are worth playing with as well. A third, ```system-ui```, is a draft spec as of current writing.
 
