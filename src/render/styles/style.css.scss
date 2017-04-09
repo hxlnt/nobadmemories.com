@@ -297,6 +297,7 @@ button.tag { background-color: rgba(52,177,233,1); }
     }
     article {
         padding-right: 5vw;
+        margin-top:14vw;
     }
     slug {
         display: none;
@@ -367,6 +368,10 @@ button.tag { background-color: rgba(52,177,233,1); }
         width: 30vw;
         padding: 4vw;
         }
+            article {
+        padding-right: 5vw;
+        margin-top:14vw;
+    }
         a.social {
     color: ghostwhite;
     font-family: 'Helvetica', 'Arial', sans-serif;
@@ -405,9 +410,9 @@ button.tag { background-color: rgba(52,177,233,1); }
     font-family: 'Helvetica', 'Arial', sans-serif;
     color: dodgerblue; }
     
-    p:first-of-type {
+/*     p:first-of-type {
         margin-top: 14vw;
-    }
+    } */
     p.blogp:first-of-type {
         margin-top: auto;
         margin-bottom: auto;
