@@ -1,11 +1,11 @@
 ---
 layout: 'content'
-title: "Better together: Displaying Japanese and English together text on the web"
-description: "Better together: Displaying Japanese and English together text on the web"
-while: "lounging on the patio."
-date: 2017-04-08T15:39
+title: "Better together: Displaying Japanese and English text on the web"
+description: "Better together: Displaying Japanese and English text on the web"
+while: "staying in on a Saturday night."
+date: 2017-04-09T00:08
 tagged: ["web"]
-keyimg: "/img/copic2.JPG"
+keyimg: "/img/akazukinchacha.PNG"
 ---
 
 If you've ever made an English-language website that contains a bit of Japanese (or other non-Roman) text, you might have run into difficulties getting the text to display beautifully across browsers and platforms. Below, I'll share a few tips for working with English and Japanese type together on the web.
