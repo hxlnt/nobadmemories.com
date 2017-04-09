@@ -34,7 +34,7 @@ Adding ```<meta charset="utf-8" />``` enables the proper display of all Unicode 
 
 ## Setting document and element lang attributes
 
-Setting ```<meta charset="utf-8" />``` allows the browser to properly render Japanese characters because its a specification for *all* Unicode characters. But there's nothing here that would actually specify to the browser the language(s) displayed. You can and should do this by setting a ```lang``` attribute on the entire page (```html```) and, optionally, on specific elements. For example:
+Setting ```<meta charset="utf-8" />``` allows the browser to properly render Japanese characters because it's setting the character set to basically *all* Unicode characters. But there's nothing here that would actually tell the browser which languages are displayed. You can&mdash;*and should*&mdash;do this by setting a ```lang``` attribute on the entire page (```html```) and, optionally, on specific elements. For example:
 
 ```
 <!doctype HTML>
