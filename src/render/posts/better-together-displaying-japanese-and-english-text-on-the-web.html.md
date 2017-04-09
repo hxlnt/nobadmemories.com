@@ -35,7 +35,7 @@ You might not notice any difference on fully-English pages, but this line is nec
 
 Adding ```<meta charset="utf-8" />``` enables the proper display of all Unicode characters, including those in Chinese-Japanese-Korean (CJK) scripts. (Note: You should also be sure that the HTML file you created is saved with UTF-8 encoding. This is usually the default for web development IDEs, but you can check your IDE settings to confirm. If you have access to it, you can also check encoding settings on the web server.)
 
-## Setting document and element ```lang``` attributes
+## Setting document and element lang attributes
 
 Setting ```<meta charset="utf-8" />``` allows the browser to properly render Japanese characters because its a specification for *all* Unicode characters. But there's nothing here that would actually specify to the browser the language(s) displayed. You can and should do this by setting a ```lang``` attribute on the entire page (```html```) and, optionally, on specific elements. For example:
 
@@ -106,13 +106,19 @@ Just like the Roman letters used in English, Japanese text can be assigned `font
     <meta charset="utf-8" />
     <style>
         h1, h1:lang(ja-jp) { 
-            font-family: serif; font-size: 24px; font-weight: normal; 
+            font-family: serif; 
+            font-size: 24px; 
+            font-weight: normal; 
             }
         h2, h2:lang(ja-jp) { 
-            font-family: sans-serif; font-size: 24px; font-weight: normal; 
+            font-family: sans-serif; 
+            font-size: 24px; 
+            font-weight: normal; 
             }
         h3, h3:lang(ja-jp) { 
-            font-family: cursive; font-size: 24px; font-weight : normal; 
+            font-family: cursive; 
+            font-size: 24px; 
+            font-weight: normal; 
             }
     </style>
 </head>
