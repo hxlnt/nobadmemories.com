@@ -136,10 +136,8 @@ Interestingly, the cursive fallback for Japanese text differs depending on wheth
 In the end, unfortunately, we only get three Japanese fonts to play with: system default serif, system default sans-serif, and and system default monospace. However, we can bring in more interesting typography with a little extra effort. Here are a few ideas:
 
   1. With a little experimentation, you can add other Japanese system fonts to existing web-safe font stacks. PCs and Macs have their own sets of Japanese fonts, and distribution of these fonts isn't going to be incredibly high, so these fonts should be incorporated with plenty of fallbacks. On a Mac, the Hiragino Kaku family meshes well with the Arials, while Microsoft's Yu Gothic fits right in with Segoe.
-
-  ![Yu Gothic UI Semilight](/img/yugothic.png)
   2. Google Fonts has several Japanese fonts as part of a new [early access web font program](https://fonts.google.com/earlyaccess). Some of these are third-party Japanese fonts. However, more interesting is Google's Noto project: an effort to create an all-in-one font for all major character sets at multiple weights, including the CJK languages. As Google puts it, "Noto fonts are intended to be visually harmonious across multiple languages, with compatible heights and stroke thicknesses." Noto has both serif and sans-serif options for Japanese text, and they're both quite pleasant. At the present time, the [Noto project's GitHub repository](https://github.com/googlei18n/noto-fonts) shows CJK and emoji as the only unreleased web fonts, but again, you can [grab them in early access](https://fonts.google.com/earlyaccess). Personally, I am really looking forward to trying this out.
 
-  ![Noto Serif Black 900](/img/notoserif900.PNG)
+![Noto Serif Black 900](/img/notoserif900.PNG)
 
 Well, I hope this has been helpful to you! There's a lot more to know about displaying Japanese text. Setting up vertical type, ```<ruby>``` tags for *[furigana](https://en.wikipedia.org/wiki/Ruby_character)*... the list goes on! But hopefully this is a good start. If you have any other best practices or tips for working with CJK + English text on the web, feel free to leave 'em in the comments. Happy HTMLing! じゃあね。
