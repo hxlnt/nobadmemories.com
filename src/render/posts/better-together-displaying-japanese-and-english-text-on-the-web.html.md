@@ -66,7 +66,7 @@ The ```lang``` declaration is made up of two parts: the language (`ja` for Japan
 If Japanese characters are encoded properly without it, why bother including the ```lang``` attribute at all? 
 
   1. Depending on the user's browsers, OS, and settings, the value of ```lang``` may trigger the browser to offer better translation and search functionality. For example, declaring an ```html lang``` may prompt users' browsers to initiate convenient translation options on page load.
-  2. For mixed-language pages, you may want to offer different CSS rules for different scripts. You can set ```lang``` styles in CSS that apply to any element with a matching ```lang``` value. For example, ```<h1 lang="ja-jp">日本語</h1>``` could be styled by CSS like this: ```:lang(ja-jp) { font-family: Arial, sans-serif; line-height: 1.5rem; }``` This is a more syntactically-pleasant solution than, say, creating a CSS class and marking up the header as ```<h1 class="japaneseText">日本語</h1>```.
+  2. For mixed-language pages, you may want to offer different CSS rules for different scripts. You can set ```lang``` styles in CSS that apply to any element with a matching ```lang``` value. For example, a ```<h1 lang="ja-jp">``` could be styled by CSS like this: ```:lang(ja-jp) { font-family: Arial, sans-serif; line-height: 1.5rem; }``` This is a more syntactically-pleasant solution than, say, creating a CSS class and marking up the header as ```<h1 class="japaneseText">```.
   3. For Japanese in particular, some browsers are a little confused by Unicode characters that appear both in Japanese and Chinese. As a result, the default font the browser uses for rendering Japanese text can change mid-sentence (or even mid-word)! As it turns out, this is reeeeally distracting. I'll talk about a bit more later.
 
 Once again, the W3C has [detailed guidelines and best practices](http://www.w3.org/International/questions/qa-lang-why) for a variety of situations as well as a great [CSS-specific guide to languages](http://www.w3.org/International/questions/qa-css-lang) that covers advanced features like style inheritance for languages, style settings specific to Asian languages, and more.
@@ -102,8 +102,6 @@ So, let this example remind you to think about Japanese text when you're CSSing!
 Just like the Roman letters used in English, Japanese text can be assigned `font-family` stacks. Most named fonts and font families that we're familiar with for Western languages do not also have an associated Japanese character set. Instead, if you assign a specific, the browser will try to be smart and choose a matching default serif, sans-serif, or monospace font to render the Japanese characters. However, it might not make the right choice. So, it's best to specify a serif, sans-serif, or monospace fallback. Here is some markup showing different generic font families and how they look in the Chrome, Safari, and Edge.
 
 ```
-<head>
-    <meta charset="utf-8" />
     <style>
         h1, h1:lang(ja-jp) { 
             font-family: serif; 
@@ -121,12 +119,6 @@ Just like the Roman letters used in English, Japanese text can be assigned `font
             font-weight: normal; 
             }
     </style>
-</head>
-<body>
-    <h1 lang="ja-jp">serif ひらがな、カタカナ、漢字</h1>
-    <h2 lang="ja-jp">sans-serif ひらがな、カタカナ、漢字</h2>
-    <h3 lang="ja-jp">cursive ひらがな、カタカナ、漢字</h3>
-</body>
 ```
 
 ![Browser samples](/img/fonts1.png)
