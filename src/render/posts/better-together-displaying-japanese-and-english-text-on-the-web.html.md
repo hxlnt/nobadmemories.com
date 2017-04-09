@@ -12,12 +12,9 @@ If you've ever made an English-language website that contains a bit of Japanese 
 
 ![Akazukin Chacha](/img/akazukinchacha.PNG)
 
-The tl;dr is:
-  1. Always declare ```<meta charset="utf-8" />``` right after the opening ```<head>``` tag in your HTML document,
-  2. Set site-wide and element-level ```lang``` attributes, and 
-  3. Use a rich, cross-platform font stack that will not mix serif, sans-serif, and monospace typography when English and Japanese appear together. (Spoilers: Google has an interesting solution in the works.)
+The tl;dr is: Always declare ```<meta charset="utf-8" />``` right after the opening ```<head>``` tag in your HTML document, set site-wide and element-level ```lang``` attributes, and use a rich, cross-platform font stack that will not mix serif, sans-serif, and monospace typography when English and Japanese appear together. (Spoilers: Google has an interesting solution in the works.)
 
-Now, on with the show...
+OK now, on with the show...
 
 ## Specifying character encoding
 
