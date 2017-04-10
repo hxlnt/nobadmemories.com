@@ -152,11 +152,12 @@ Take a look at https://developer.microsoft.com/en-us/windows/hardware/windows-dr
 No. That said, here's a pretty simple way of duplicating the image and cropping and blurring the dupe: [http://jsfiddle.net/nbLcs241/](http://jsfiddle.net/nbLcs241/). Here's another similar sample that uses image masking, which could be helpful for gradients and more complex shapes: [https://designshack.net/articles/css/csstiltshift/](https://designshack.net/articles/css/csstiltshift/).
 
 **How can you run a Python script on a Raspbian at boot?**
- > `sudo crontab -e`
- >
- > `@reboot python /home/user/myfile.py &`
- >
- > `sudo reboot`
+
+```
+sudo crontab -e
+@reboot python /home/user/myfile.py &
+sudo reboot
+```
 
 **In Hugo, how do you change the URL associated with a taxonomy page?**
 In `config.yaml`, set taxonomy values as URL path (Ex: `genre: collection/genre`). Then, include the path in the page's .md frontmatter (e.g., `collection/genre: action`).
@@ -164,18 +165,8 @@ In `config.yaml`, set taxonomy values as URL path (Ex: `genre: collection/genre`
 
 ## Food and drink
 
-**What kind of cocktail can I make with Crème Yvette aside from more popular ones like Blue Moon and Aviation?**
- > Yvette Collins:
- >
- > 1 fl. oz. gin
- >
- > 1 fl. oz. lemon juice
- >
- > 0.5 fl. oz. Crème Yvette
- >
- > 0.5 fl. oz. lavender simple syrup (4:4:1 ratio of sugar:water:dried lavender buds)
- >
- > 2 fl. oz. sparkling water or sparkling lemonade
+**What kind of cocktail can I make with Crème Yvette aside from more popular ones like Blue Moon and Aviation?**<BR>
+Yvette Collins:<BR>1 fl. oz. gin<BR>1 fl. oz. lemon juice<BR>0.5 fl. oz. Crème Yvette<BR>0.5 fl. oz. lavender simple syrup (4:4:1 ratio of sugar:water:dried lavender buds)<BR>2 fl. oz. sparkling water or sparkling lemonade
 
 **Where can you go to eat in Pioneer Square after 10 PM?**
 Damn the Weather is open until midnight.
