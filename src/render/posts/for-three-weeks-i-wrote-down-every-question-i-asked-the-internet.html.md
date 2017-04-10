@@ -38,7 +38,7 @@ This won't be embarassing, right?
 
 **Q: What is the grass pattern in *Animal Crossing: City Folk?***
 
- > ![](/img/grass.jpeg)
+![Grass](/img/grass.jpeg)
 
 **Q: How many flowers and trees do you need per acre in *Animal Crossing: City Folk?***
 
@@ -195,19 +195,19 @@ This won't be embarassing, right?
 
 **Q: Can you natively put a CSS blur filter on part of an image without duplicating it and blurring the dupe?**
 
- > No. That said, here's a pretty simple way of duplicating the image and cropping and blurring the dupe: [http://jsfiddle.net/nbLcs241/](http://jsfiddle.net/nbLcs241/). Here's another similar sample that uses image masking, which could be helpful for gradients and more complex shapes: [https://designshack.net/articles/css/csstiltshift/](https://designshack.net/articles/css/csstiltshift/).
+> No. That said, here's a pretty simple way of duplicating the image and cropping and blurring the dupe: [http://jsfiddle.net/nbLcs241/](http://jsfiddle.net/nbLcs241/). Here's another similar sample that uses image masking, which could be helpful for gradients and more complex shapes: [https://designshack.net/articles/css/csstiltshift/](https://designshack.net/articles/css/csstiltshift/).
 
 **Q: How can you run a Python script on a Raspbian at boot?**
 
- > `sudo crontab -e`
- >
- > `@reboot python /home/user/myfile.py &`
- >
- > `sudo reboot`
+> `sudo crontab -e`
+>
+> `@reboot python /home/user/myfile.py &`
+>
+> `sudo reboot`
 
 **Q: In Hugo, how do you change the URL associated with a taxonomy page?**
 
- > In `config.yaml`, set taxonomy values as URL path (Ex: `genre: collection/genre`). Then, include the path in the page's .md frontmatter (e.g., `collection/genre: action`).
+> In `config.yaml`, set taxonomy values as URL path (Ex: `genre: collection/genre`). Then, include the path in the page's .md frontmatter (e.g., `collection/genre: action`).
 
 
 ## Food and drink
@@ -297,15 +297,15 @@ This won't be embarassing, right?
 
 **Q: What does a fully-grown elephant tree look like?**
 
- > ![](/img/elephanttree.jpeg)
+![Elephant tree](/img/elephanttree.jpeg)
 
 **Q: What does a king protea look like?**
 
- > ![](/img/king.jpeg)
+![King protea](/img/king.jpeg)
 
 **Q: What does *Myrtillocactus geometrizans forma cristata* look like?**
 
- > ![](/img/plant.jpeg)
+![Plant](/img/plant.jpeg)
 
 **Q: What time does East Austin Succulents close on weekends?**
 
