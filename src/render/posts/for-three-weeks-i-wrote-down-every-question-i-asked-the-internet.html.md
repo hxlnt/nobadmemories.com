@@ -89,7 +89,7 @@ Hold down the - and Power buttons for 10 seconds.
 [http://router.vuejs.org/en](http://router.vuejs.org/en).
 
 **In Javascript, how do you find the index of an array of objects corresponding to a specific key-value pair within an object?**
-`myArray.findIndex(item =item.mykey === "myvalue")`.
+`myArray.findIndex(item => item.mykey === "myvalue")`.
 
 **Should I implement vuex for accessing DocumentDB data within a Vue.js app?**
 If I'm only accessing the data, it's probably not necessary. (See [https://vuejs.org/v2/guide/state-management.html](https://vuejs.org/v2/guide/state-management.html).) Later, if I decide to allow editing DocumentDB data from the web app, I probably should implement vuex.
