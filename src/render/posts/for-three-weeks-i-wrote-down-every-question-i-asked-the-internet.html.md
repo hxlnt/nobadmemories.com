@@ -12,7 +12,7 @@ Have you ever opened up your internet browsing history and been... eheh, *shocke
 
 As a person with eclectic and sometimes niche interests, I was curious to learn about my browsing habits in a personal, homegrown way. What do I wonder about in the course of a day or week? What do I actually learn? Do my questions thrown into the internet void ever get an answer?
 
-So I did an unusual experiment: Every time I Googled something, I rewrote my search terms in the form of a question. Once I found the answer, I summarized it in my notes. I did this every day for three weeks. At the end, I had an FAQ of sorts. (Or RAQ for "recently asked questions...?)
+So I did an unusual experiment: Every time I Googled something, I rewrote my search terms in the form of a question. Once I found the answer, I summarized it in my notes. I did this every day for three weeks. At the end, I had an FAQ of sorts. (Or RAQ for "recently asked questions"...?)
 
 It was interesting to see what kinds of things I looked up. Technical documentation was the most frequently looked-up thing for me. During this three-week stretch, I was learning [Vue.js](http://vuejs.org) and [Hugo](http://gohugo.io), so a lot of my queries were, like, "How do I do this in Vue.js?" or "How would I do that in Hugo?" Other popular topics were houseplant care and gameplay questions about *Animal Crossing: City Folk,* which I had just started playing.
 
