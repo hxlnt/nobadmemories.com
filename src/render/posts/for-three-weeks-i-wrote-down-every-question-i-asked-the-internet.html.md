@@ -8,7 +8,7 @@ date: 2017-04-09T19:30
 keyimg: '/img/plant.jpeg'
 ---
 
-Have you ever opened up your internet browsing history and been... eheh, *shocked* by the sheer number of things you look up in a given day? One innocent click a few hours ago somehow turned into a weird Wikipedia rabbit hole. Twenty, thirty links later, you're looking up Tom Collins recipes, electronic schematic diagrams for obsolete fax machines, and the history of silent films. 
+Have you ever opened up your internet browsing history and been... eheh, *shocked* by the sheer number of things you look up in a given day? One innocent click a few hours ago somehow turned into a weird Wikipedia rabbit hole. Twenty, thirty links later, you're looking up brownie recipes, electronic schematic diagrams for obsolete fax machines, and the history of silent films. 
 
 As a person with eclectic and sometimes niche interests, I was curious to learn about my browsing habits in a personal, homegrown way. What do I wonder about in the course of a day or week? What do I actually learn? Do my questions thrown into the internet void ever get an answer?
 
@@ -31,18 +31,23 @@ This won't be embarassing, right?
 **Q: What does the empty lamp do in *Animal Crossing: City Folk?***
 > It is used to summon Wisp, who will grant you one of a set lists of wishes such as removing weeds from your town.
 
+
 **Q: How can I improve the environment in *Animal Crossing: City Folk?***
 > Make sure trees and flowers appear throughout the town and that there are no weeds or trash on the ground.
+
 
 **Q: What is the grass pattern in *Animal Crossing: City Folk?***
 
 ![Grass](/img/grass.jpeg)
 
+
 **Q: How many flowers and trees do you need per acre in *Animal Crossing: City Folk?***
 > 12 to 16 trees and 6 to 10 healthy flowers per acre (16x16 area).
 
+
 **Q: How can you tell if a painting is authentic in *Animal Crossing: City Folk?***
 > You can't; painting authenticity is determined randomly.
+
 
 ## Art
 
