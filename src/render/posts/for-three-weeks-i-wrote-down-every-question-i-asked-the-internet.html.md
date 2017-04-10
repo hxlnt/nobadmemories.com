@@ -14,17 +14,17 @@ As a person with eclectic and sometimes niche interests, I was curious to learn 
 
 So I did an unusual experiment: Every time I Googled something, I rewrote my search terms in the form of a question. Once I found the answer, I summarized it in my notes. I did this every day for three weeks. At the end, I had an FAQ of sorts. (Or RAQ for "recently asked questions...?)
 
-It was interesting to see what kinds of things I looked up. Technical documentation was the most frequently looked-up thing for me. During this three-week stretch, I was learning [Vue.js](http://vuejs.org) and [Hugo](http://gohugo.io), so a lot of my queries were, like, "How do I do this in Vue.js," "How would I do that in Hugo," etc. Other popular topics were houseplant care and gameplay questions about *Animal Crossing: City Folk,* which I had just started playing.
+It was interesting to see what kinds of things I looked up. Technical documentation was the most frequently looked-up thing for me. During this three-week stretch, I was learning [Vue.js](http://vuejs.org) and [Hugo](http://gohugo.io), so a lot of my queries were, like, "How do I do this in Vue.js?" or "How would I do that in Hugo?" Other popular topics were houseplant care and gameplay questions about *Animal Crossing: City Folk,* which I had just started playing.
 
-I learned during this exercise that I look up things for other people more than I would have guessed. For example, I'll see a conversation happening on twitter and think, "Oh, I should send this person such-and-such resource," which I then have to look up.
+I learned during this exercise that I look up things for other people more than I would have guessed. For example, I'd see a conversation happening on Twitter and think, "Oh, I should send this person such-and-such resource," which I would then have to look up.
 
-Rewriting search terms in the form of a question was an interesting exercise, as was actually summarizing the answer and making sure you learned a concrete thing.
+Rewriting search terms in the form of a question was an interesting exercise. So was summarizing the answer and making sure I actually learned a concrete thing.
 
 After a while, I began consulting my notes to re-find an answer I'd learned, or to grab a documentation URL I'd already jotted down.
 
 Reproduced below are all the questions I Googled over the course of three weeks, along with my answers. While the initial recordkeeping was done by date, I've reorganized the Q&A by topic *then* date.
 
-This won't be embarassing, right?
+This won't be embarassing, right? :)
 
 ## *Animal Crossing: City Folk*
 
