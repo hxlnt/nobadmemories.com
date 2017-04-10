@@ -4,7 +4,7 @@ title: 'For three weeks, I wrote down every question I asked the internet (and e
 description: "For three weeks, I wrote down every question I asked the internet (and every answer I found)."
 while: 'snuggling Bubblegum.'
 tagged: ['misc']
-date: 2017-04-09T019:30
+date: 2017-04-09T19:30
 keyimg: '/img/plant.jpeg'
 ---
 
