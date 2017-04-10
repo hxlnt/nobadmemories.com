@@ -6,6 +6,7 @@ while: 'snuggling Bubblegum.'
 tagged: ['misc']
 date: 2017-04-09T19:30
 keyimg: '/img/plant.jpeg'
+feature: true
 ---
 
 Have you ever opened up your internet browsing history and been... eheh, *shocked* by the sheer number of things you look up in a given day? One innocent click a few hours ago somehow turned into a weird Wikipedia rabbit hole. Twenty, thirty links later, you're looking up brownie recipes, electronic schematic diagrams for obsolete fax machines, and the history of silent films. 

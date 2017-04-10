@@ -5,6 +5,7 @@ description: "With a little help from a Python script I wrote, you can now pipe 
 while: "listening to the rain."
 date: 2017-01-17T13:08
 keyimg: "/img/tasplayer.png"
+feature: true
 ---
 
 I've been wanting to use [ConnectedNES](http://www.nobadmemories.com/connectednes) for something other than monitoring my twitter feeds, so I built this prototype last night for autoplaying NES games on real hardware, a la [TASBot](http://tasvideos.org/TASBot.html).

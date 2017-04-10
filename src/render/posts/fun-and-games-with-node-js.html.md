@@ -5,6 +5,7 @@ description: "If you're interested in trying your hand at making a node.js game,
 while: "hanging out in Nashville."
 date: 2016-11-20T08:48
 keyimg: "/img/dealwithit.gif"
+feature: true
 ---
 
 I'm [giving a talk today](http://nobadmemories.com/events/nodevember-2016/) at [Nodevember](http://nodevember.org), a Javascript and node conference taking place in Nashville. My talk, titled "Fun and games with [Node.js](http://nodejs.org)," makes two key points:

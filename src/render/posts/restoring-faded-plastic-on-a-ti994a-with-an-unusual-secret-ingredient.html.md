@@ -5,6 +5,7 @@ description: "I find cleaning and restoring old electronics really, *really* sat
 while: "drinking my morning coffee."
 date: 2017-02-09T09:20
 keyimg: "/img/wash2.gif"
+feature: true
 ---
 
 I noticed that the black plastic on my TI-99/4A had become dull and cloudy-gray with age. So, I decided to try freshening it up with something a little unusual: automotive trim restorer. Why not? I find cleaning and restoring old electronics really, *really* satisfying, so I hope you enjoy this video as much as I do. 

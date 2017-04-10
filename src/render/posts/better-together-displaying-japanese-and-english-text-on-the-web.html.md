@@ -6,6 +6,7 @@ while: "staying in on a Saturday night."
 date: 2017-04-09T00:08
 tagged: ["web"]
 keyimg: "/img/akazukinchacha.PNG"
+feature: true
 ---
 
 If you've ever made an English-language website that contains a bit of Japanese (or other non-Roman) text, you might have run into difficulties getting the text to display beautifully across browsers and platforms. Below, I'll share a few tips for working with English and Japanese type together on the web.
