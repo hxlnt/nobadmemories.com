@@ -16,7 +16,12 @@ docpadConfig =
 		dateurls:
 			dateFormat: '/b[l]og/YYYY/MM'
 			cleanurl: true
-
+		plugins:
+		  rss:
+		    default:
+		      collection: 'posts'
+		      url: '/rss.xml' # optional, this is the default 
+		      title: 'No Bad Memories ):-:( Rachel Simone Weil' #optional, default to site title 
 
 	# =================================
 	# Template Data
