@@ -10,7 +10,7 @@ feature: true
 
 So, I just tried out Paint 3D for the first time today, and it's pretty fun, not gonna lie. 
 
-I usually hate trying to fumble my way around 3D art software. But Paint 3D is addicting! The reward-to-effort ratio is high, which I like. You can start with a really dumb idea, and then in about 10 minutes, with absolutely no training or instruction, your dumb idea becomes a dumb 3D reality!
+I usually hate trying to fumble my way around 3D art software. While Paint 3D doesn't have the features of programs like Maya and Blender, it is *a lot* less intimidating. The reward-to-effort ratio is high. You can start with a really dumb idea, and then in about 10 minutes, with absolutely no training or instruction, your dumb idea becomes a dumb 3D reality!
 
 What is this? A Memphis-Milano chess piece? A retrofuturist cocktail stirrer?
 
@@ -22,6 +22,6 @@ You can spray paint and Comic Sans-ify everything just like you would in MS Pain
 
 You can export files as flat graphics or as 3D files, which is pretty cool. 
 
-Anyway, yeah, two thumbs up for free, dead-simple, up-and-running art things. It's not Maya, it doesn't do what Blender does, but it is fun. 
+Anyway, yeah, two thumbs up for dead-simple, up-and-running art things. Again, it's definitely not ZBrush, it doesn't do what Blender does, but it is fun. And free.
 
 And for the first time ever, I'm actually considering making a 3D video game with this. I *am* full of dumb ideas, after all.
