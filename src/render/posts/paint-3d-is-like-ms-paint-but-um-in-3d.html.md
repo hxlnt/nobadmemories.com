@@ -20,4 +20,8 @@ You can spray paint and Comic Sans-ify everything just like you would in MS Pain
 
 ![Yuk OHs](/img/yuk.png)
 
-You can export files as flat graphics or as 3D files, which is pretty cool. Anyway, yeah, two thumbs up for free, dead-simple, up-and-running art things. For the first time ever, I'm actually considering making a 3D video game with this. I *am* full of dumb ideas, after all.
+You can export files as flat graphics or as 3D files, which is pretty cool. 
+
+Anyway, yeah, two thumbs up for free, dead-simple, up-and-running art things. It's not Maya, it doesn't do what Blender does, but it is fun. 
+
+And for the first time ever, I'm actually considering making a 3D video game with this. I *am* full of dumb ideas, after all.
