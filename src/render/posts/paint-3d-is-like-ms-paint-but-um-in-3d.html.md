@@ -22,6 +22,6 @@ You can spray paint and Comic Sans-ify everything just like you would in MS Pain
 
 You can export files as flat graphics or as 3D files, which is pretty cool. 
 
-Anyway, yeah, two thumbs up for dead-simple, up-and-running art things. Again, it's definitely not ZBrush, it doesn't do what Blender does, but it is fun. And free.
+Anyway, yeah, two thumbs up for dead-simple, up-and-running art things. Again, it's definitely not ZBrush, it doesn't do what Blender does, but it is fun. And free. It just comes with Windows 10 now.
 
 And for the first time ever, I'm actually considering making a 3D video game with this. I *am* full of dumb ideas, after all.
