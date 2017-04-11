@@ -8,7 +8,9 @@ keyimg: "/img/GIF2.gif"
 feature: true
 ---
 
-So, I got the latest Windows update with Paint 3D, and the app is pretty fun, not gonna lie. I usually hate trying to fumble my way around 3D art software. Bu Paint 3D is pretty addicting. You can start with a really dumb idea, and then in about 10 minutes, with absolutely no training or instruction, your dumb idea becomes a dumb 3D reality!
+So, I just tried out Paint 3D for the first time today, and it's pretty fun, not gonna lie. 
+
+I usually hate trying to fumble my way around 3D art software. But Paint 3D is addicting! The reward-to-effort ratio is high, which I like. You can start with a really dumb idea, and then in about 10 minutes, with absolutely no training or instruction, your dumb idea becomes a dumb 3D reality!
 
 What is this? A Memphis-Milano chess piece? A retrofuturist cocktail stirrer?
 
