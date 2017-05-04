@@ -38,7 +38,8 @@
     "docpad-plugin-marked": "~2.3.0",
     "docpad-plugin-moment": "~2.0.2",
     "docpad-plugin-nodesass": "~2.8.2",
-    "docpad-plugin-partials": "~2.9.2"
+    "docpad-plugin-partials": "~2.9.2",
+    "docpad-plugin-rss": "~2.3.1"
   },
   "devDependencies": {
     "docpad-plugin-livereload": "~2.7.1"

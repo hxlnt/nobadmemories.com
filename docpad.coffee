@@ -16,7 +16,12 @@ docpadConfig =
 		dateurls:
 			dateFormat: '/b[l]og/YYYY/MM'
 			cleanurl: true
-
+		plugins:
+		  rss:
+		    default:
+		      collection: 'posts'
+		      url: '/rss.xml' # optional, this is the default 
+		      title: 'No Bad Memories ):-:( Rachel Simone Weil' #optional, default to site title 
 
 	# =================================
 	# Template Data
@@ -107,7 +112,7 @@ docpadConfig =
 		# Create a collection called posts
 		# That contains all the documents that will be going to the out path posts
 		posts: ->
-			@getCollection('html').findAllLive({relativeOutDirPath: 'posts'})
+			@getCollection('html').findAllLive({relativeOutDirPath: 'posts', feature:true})
 		projects: ->
 			#@getCollection('html').findAllLive({relativeOutDirPath: 'projects'})
 			@getCollection("html").findAllLive({$or:{relativeOutDirPath:'projects', isProject: true}}).on 'add', (document) ->

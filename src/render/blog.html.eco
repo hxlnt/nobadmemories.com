@@ -6,7 +6,7 @@ title: 'Blog'
        <table border="0"> 
     <% for post in @getCollection('posts').sortArray(date: -1): %>
     <tr height="200">
-    <td width="200" height="200" 
+    <td width="210" height="210" 
         <% if post.keyimg: %>
                style="background-image:url('<%- post.keyimg %>'); background-size:cover; background-repeat:no-repeat; background-position: center;"
         <% else: %>

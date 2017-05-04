@@ -5,7 +5,6 @@ description: "Otocky defies genre boundaries by incorporating gentle, playful mu
 date: 2017-02-10T22:55
 tagged: ["games"]
 keyimg: "/img/flying.png"
-
 ---
 
 With just two games left to discuss, I've come near the end of documenting my most personally-influential NES games. Today's article is dedicated to the whimsical musical-shooter, *Otocky* (ASCII, 1987).

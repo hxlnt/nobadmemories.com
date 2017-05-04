@@ -117,7 +117,7 @@ a.blogsummarytitle, a.blogsummarytitle:visited {
     text-decoration: none;
 
 }
-
+code {background-color:rgba(52,177,233,.20);}
 p.likes {
     display:none;
 }
@@ -399,7 +399,7 @@ button.tag { background-color: rgba(52,177,233,1); }
     line-height: 2.5rem; 
     }
     
-    li, li a {    font-size: 1.25rem;
+    li, li a, li code {    font-size: 1.25rem;
     line-height: 1.5rem; 
     padding-bottom: 1.5rem;
     }
