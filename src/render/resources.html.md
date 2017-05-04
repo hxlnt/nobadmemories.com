@@ -79,7 +79,7 @@ Here are collected learning resources and random factoids about my process and i
 <figure><embed src="https://wakatime.com/share/@hxlnt/6b7e5073-b32a-49e4-8194-fd641d32f1aa.svg"></embed></figure>
 
 
-## Art+code friends
+## Art and code friends
   - [Alan Watts](http://www.clawfun.com) (Austin)
   - [Andy Reitano](http://www.andrewreitano.com/) (NYC)
   - [Ben Esposito](http://torahhorse.com) (LA)
