@@ -22,7 +22,7 @@ Here are collected learning resources and random factoids about my process and i
   - [Tech Trek: Create your own font](http://www.rookiemag.com/2016/04/trek-tech-font/)
 
 
-## C\#
+## C# ##
   - [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
 
 
