@@ -5,12 +5,12 @@ description: "Paul Atkinson's *Delete: A Design History of Computer Vapourware* 
 while: "...?"
 date: 2016-01-29T17:00
 tagged: ["books"]
-keyimg: "/img/delete.jpg"
+keyimg: "https://hxlntblob.blob.core.windows.net/nbm/delete.jpg"
 ---
 
 I recently had the opportunity to review Paul Atkinson’s book *[Delete: A Design History of Computer Vapourware](http://www.amazon.com/Delete-Design-History-Computer-Vapourware/dp/0857853473/ref=asap_bc?ie=UTF)*.
 
-![Delete](/img/delete.jpg)
+![Delete](https://hxlntblob.blob.core.windows.net/nbm/delete.jpg)
 
 *Delete* is highly recommended for those interested in computer hardware design or retrocomputing. The volume is packed with gorgeous, never-before-seen color images of computers that were announced but never commercially produced. Atkinson’s interviews with the designers and executives closest to these unrealized products are fascinating.
 

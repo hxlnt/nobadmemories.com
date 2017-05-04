@@ -4,7 +4,7 @@ title: "My ten most influential NES games"
 description: "A summary of the previous posts on NES games"
 date: 2017-04-07T01:46
 tagged: ["games"]
-keyimg: "/img/hkworld3.png"
+keyimg: "https://hxlntblob.blob.core.windows.net/nbm/hkworld3.png"
 while: "enjoying today's warm weather."
 feature: true
 ---
@@ -15,13 +15,13 @@ I realized that while I still feel good about the ten games I chose, I wish I'd 
 
 1. *[Kirby's Adventure](/blog/2017/03/my-ten-most-influential-nes-games-1-kirbys-adventure)* "is a technical and aesthetic *masterpiece.*"
 
-    ![Kirby's Adventure](/img/kirbys_adventure_masterpiece.gif)
+    ![Kirby's Adventure](https://hxlntblob.blob.core.windows.net/nbm/kirbys_adventure_masterpiece.gif)
 2. *[Otocky](/blog/2017/02/my-ten-most-influential-nes-games-7-otocky)* "beautifully dances on the line between experimental art game and traditional arcade shooter." 
 
     ![Otocky](/img/flying.png)
 3. *[Hello Kitty World](/blog/2016/12/my-ten-most-influential-nes-games-3-hello-kitty-world)* "grabbed my attention as a teenager because it was challenging yet cute, made with superstar talent, and built on superstar IP."
 
-    ![Hello Kitty World](/img/hkworld3.png)
+    ![Hello Kitty World](https://hxlntblob.blob.core.windows.net/nbm/hkworld3.png)
 4. *[Super Mario Bros.](/blog/2017/01/my-ten-most-influential-nes-games-5-super-mario-bros)* "continues to represent something above and beyond its gameness."
 
     ![Super Mario Bros.](/img/smb.png)

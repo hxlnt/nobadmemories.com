@@ -4,7 +4,7 @@ title: "Paint 3D is like MS Paint but, um, in 3D"
 description: "Paint 3D is like MS Paint but, um, in 3D"
 while: "enjoying a cold Topo Chico..."
 date: 2017-04-10T22:50
-keyimg: "/img/GIF2.gif"
+keyimg: "https://hxlntblob.blob.core.windows.net/nbm/GIF2.gif"
 feature: true
 ---
 
@@ -14,11 +14,11 @@ I usually hate trying to fumble my way around 3D art software. While Paint 3D do
 
 What is this? A Memphis-Milano chess piece? A retrofuturist cocktail stirrer?
 
-![GIF](/img/gif2.gif)
+![GIF](https://hxlntblob.blob.core.windows.net/nbm/gif2.gif)
 
 You can spray paint and Comic Sans-ify everything just like you would in MS Paint, but, you know, 3D...!
 
-![Yuk OHs](/img/yuk.png)
+![Yuk OHs](https://hxlntblob.blob.core.windows.net/nbm/yuk.png)
 
 You can export files as flat graphics or as 3D files, which is pretty cool. 
 
