@@ -18,17 +18,11 @@ Here are collected learning resources and random factoids about my process and i
 
 
 ## Art and design
-  - *[Design Noir: The Secret Life of Electronic Objects](https://www.amazon.com/Design-Noir-Secret-Electronic-Objects/dp/3764365668/)* by Anthony Dunne and Fiona Raby
-  - *[The Future of Nostalgia](https://www.amazon.com/Future-Nostalgia-Svetlana-Boym/dp/0465007082/)* by Svetlana Boym
-  - *[Hello World: Where Design Meets Life](https://www.amazon.com/Hello-World-Where-Design-Meets/dp/1468308068)* by Alice Rawsthorn
-  - *[No More Rules: Graphic Design and Postmodernism](https://www.amazon.com/No-More-Rules-Graphic-Postmodernism/dp/0300100345/)* by Rick Poynor
   - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
-  - *[Steal like an Artist: 10 Things Nobody Told You about Being Creative](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me)* by Austin Kleon
   - [Tech Trek: Create your own font](http://www.rookiemag.com/2016/04/trek-tech-font/)
-  - *[Ways of Seeing](https://www.amazon.com/Ways-Seeing-Based-BBC-Television/dp/0140135154/)* by John Berger
 
 
-## C#
+## C\#
   - [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
 
 
@@ -37,7 +31,7 @@ Here are collected learning resources and random factoids about my process and i
   - [DIY neon sign](http://www.rookiemag.com/2015/12/diy-neon-sign/)
 
 
-## Javascript
+## Javascript and Node.js
   - [Angular 2 from the Ground Up](https://www.youtube.com/watch?v=IWVAPIDXzFY)
   - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful)  
   - [Calling a REST API from a NodeJS Script](https://rapiddg.com/blog/calling-rest-api-nodejs-script)
@@ -47,12 +41,16 @@ Here are collected learning resources and random factoids about my process and i
   - [Introducing JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
   - [Javascript30: 30-day Vanilla JS Coding Challenge](http://wesbos.com/javascript30/)
   - [JavaScript for Cats](http://jsforcats.com/)
-  - [Microsoft Cognitive Services](http://www.microsoft.com/cognitive)
+  - [Node Hero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
   - [Node.js web app using the Azure Table Service](https://docs.microsoft.com/en-us/azure/app-service-web/storage-nodejs-use-table-storage-web-site)
   - [NODESCHOOL](https://nodeschool.io/)
   - [Programming--the Real Basics!](https://dev.opera.com/articles/programming-the-real-basics/)
   - [three.js](https://github.com/mrdoob/three.js)
   - [Vue.js](https://vuejs.org/)
+
+
+## Machine learning
+  - [Microsoft Cognitive Services](http://www.microsoft.com/cognitive)
 
 
 ## Microcontrollers and electronics
@@ -76,8 +74,7 @@ Here are collected learning resources and random factoids about my process and i
   - This website is built with [DocPad](http://docpad.org) (like Jekyll for Javascript) and is hosted on [Azure](http://azure.microsoft.com).
   - I use [git](https://git-scm.com/) and [GitHub](http://github.com) for source control and sharing code.
   - I use [Wakatime](https://wakatime.com/) to track how much time I spend coding in various languages and on various projects.
-  - For creating visual assets, I use Adobe Photoshop (photo editing), Illustrator (vector art), and InDesign (page layouts). I also sketch out ideas with Copic markers and Copic Multiliner pens.
-  - I split my time between a PC (SurfaceBook) and a Mac (5K iMac).
+  - I split my time between a PC (Surface Book) and a Mac (5K iMac).
 
 <figure><embed src="https://wakatime.com/share/@hxlnt/6b7e5073-b32a-49e4-8194-fd641d32f1aa.svg"></embed></figure>
 
@@ -101,12 +98,10 @@ Here are collected learning resources and random factoids about my process and i
 
 
 ## Other inspirations
-  - **Animation** *Jem and the Holograms*, *Kimagure Orange Road*, *Maison Ikkoku*, *My Little Pony*, *Sailor Moon*, *Touch*
+  - **Animation** *Barbie: Life in the Dreamhouse*, *Jem and the Holograms*, *Kimagure Orange Road*, *Maison Ikkoku*, *My Little Pony*, *Sailor Moon*
   - **Arcades** Babycastles, Hello Kitty Kawaii Paradise, Icchoume Playland, Musee Mecanique, Museum of Human Amusement
-  - **Artists/designers** Aaron Douglas, Akemi Takada, April Greiman, the Atlas Group, Bruno Munari, Daniel Weil, John Pound, Marcel Duchamp, Michael Ray Charles, Paul Rand, Sadie Benning, Susan Kare, Stereo Tennis, Stuart Davis
-  - **Places** Austin, Marfa, NYC, Seattle, Terlingua, Tokyo, Toronto
-  - **Comics** *Archie* series, *Barbie*, *Ghost World*, *Nancy*, *Video Girl Ai*
-  - **Films** *Electric Dreams*, *The Fits*, *A Girl's Own Story*, *Space is the Place*, *Xanadu*
-  - **Music** Electric Light Orchestra, The Fiery Furnaces, Frank Ocean, Janelle Monae, Kero Kero Bonito, Neil Cicierega, Of Montreal, Omodaka, Perrey and Kingsley, Shonen Knife, Yellow Magic Orchestra
+  - **Artists/designers** Aaron Douglas, Akemi Takada, April Greiman, the Atlas Group, Bruno Munari, Paul Rand, Sadie Benning, Susan Kare, Stereo Tennis
+  - **Books** *6502 Assembly Language Programming*, *'80s Girly Design Collection*, *The Archive*, *As Long as It's Pink*, *Design Noir*, *The Elements of Style*, *Feminism and Youth Culture*, *From Barbie to Mortal Kombat*, *The Future of Nostalgia*, *The Man-Made World*, *No More Rules*, *Steal like an Artist*, *Understanding Jim Crow*, *Ways of Seeing*, *Women, Media, and Consumption in Japan*
+  - **Comics** *Archie*, *Barbie*, *Ghost World*, *Nancy*, *Video Girl Ai*
+  - **Films** *Electric Dreams*, *A Girl's Own Story*, *Space is the Place*, *Xanadu*
   - **Video games and software** After Dark, *Animal Crossing*, *Herpit* series, *Katamari Damacy* series, *Kirby's Adventure*, *Otocky*, Pico-8, *Magical Shop*, *Sim City*, *Skate 3*, *Sonic Dreams Collection*, *Style Savvy* series, *Tomodachi Collection*, *Zero Zero*
-
