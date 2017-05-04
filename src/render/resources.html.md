@@ -30,11 +30,15 @@ Here are collected learning resources and random factoids about my process and i
   - [Conductive thread](https://learn.adafruit.com/conductive-thread/overview)
   - [DIY neon sign](http://www.rookiemag.com/2015/12/diy-neon-sign/)
 
+## Golang
+  - [Hugo](http://gohugo.io/)
+  - [A Tour of Go](https://tour.golang.org/welcome/1)
 
 ## Javascript and Node.js
   - [Angular 2 from the Ground Up](https://www.youtube.com/watch?v=IWVAPIDXzFY)
   - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful)  
   - [Calling a REST API from a NodeJS Script](https://rapiddg.com/blog/calling-rest-api-nodejs-script)
+  - [Choo](https://choo.io/)
   - [Ember.js Guides and Tutorials](https://guides.emberjs.com/v2.11.0/)
   - [Excel to JSON](https://github.com/mhaemmerle/excel-to-json)
   - [idiomatic.js](https://github.com/rwaldron/idiomatic.js)
@@ -69,12 +73,11 @@ Here are collected learning resources and random factoids about my process and i
 
 ## My dev toolkit
   - For NES development, I use NESASM 3 (compiler), YY-CHR (graphics tool), [FamiTracker](http://www.famitracker.com/) (music tool), FCEUX (emulator), HxD (hex editor), and [VS Code](http://code.visualstudio.com) (IDE).
-  - For Javascript and web development, I use [npm](http://npmjs.org) (package manager), [VS Code](http://code.visualstudio.com) (IDE/debugger), and Chrome (browser).
+  - For Javascript and web development, I use [VS Code](http://code.visualstudio.com) (IDE/debugger) and Chrome (browser).
   - I use Adobe Photoshop for prototyping, editing photos, and making animated GIFs. I use Adobe Illustrator for creating vector art and Adobe InDesign for page layout.
-  - This website is built with [DocPad](http://docpad.org) (like Jekyll for Javascript) and is hosted on [Azure](http://azure.microsoft.com).
   - I use [git](https://git-scm.com/) and [GitHub](http://github.com) for source control and sharing code.
-  - I use [Wakatime](https://wakatime.com/) to track how much time I spend coding in various languages and on various projects.
   - I split my time between a PC (Surface Book) and a Mac (5K iMac).
+  - I use [Wakatime](https://wakatime.com/) to track how much time I spend coding in various languages and on various projects:
 
 <figure><embed src="https://wakatime.com/share/@hxlnt/6b7e5073-b32a-49e4-8194-fd641d32f1aa.svg"></embed></figure>
 
