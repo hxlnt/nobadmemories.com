@@ -76,8 +76,6 @@ Once you've selected everything, click Create. (Note: One thing that can throw f
 
 Next, find the Web App you just created by going to the All resources tab (the grid of nine green squares at the far left) and clicking on your Web App. It should have a blue globe next to it. On the Overview tab, you'll see the URL for your website; click on it, and you'll be taken to a generic placeholder landing page for your app.
 
-![Create Web App](https://hxlntblob.blob.core.windows.net/nbm/webapp4.png)
-
 
 ## Connect the Azure Web App to GitHub
 
