@@ -64,7 +64,7 @@ Next, you'll want to sign up for or log in to your [Azure account](http://azure.
 
 ![Create Web App](https://hxlntblob.blob.core.windows.net/nbm/webapp.png)
 
-Give your web app a unique URL like `your-cool-name`.azurewebsites.net. Create a new resource group and name it something like `your-cool-name`-RG. Then, under App Service Plan, choose New. 
+Give your web app a unique URL like `your-cool-name`.azurewebsites.net. Create a new resource group and name it something like `your-cool-name`-RG. Then, under App Service Plan, choose Create New. 
 
 ![Create Web App](https://hxlntblob.blob.core.windows.net/nbm/webapp2.png)
 
