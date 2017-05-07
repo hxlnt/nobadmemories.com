@@ -9,4 +9,4 @@ Weil has a BA in Chemistry and an MFA in Design. She currently works as a techni
 
 Twitter: <a href="http://www.twitter.com/partytimehxlnt">@partytimeHXLNT</a> &hearts; GitHub: <a href="http://www.github.com/hxlnt">HXLNT</a></p>
 
-My recent inspirations and obsessions: 1960s French pop, houseplants, Sun Ra, *80s Girly Design Collection*, Seattle
+My recent inspirations and obsessions: the [Cybertwee](http://cybertwee.net/) collective

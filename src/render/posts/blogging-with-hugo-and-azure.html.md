@@ -11,7 +11,7 @@ feature: true
 
 I'm a huge fan of static-site generators. Static-site generators, or SSGs, are tools that help you rapidly and easily create websites such as blogs and portfolios. [Jekyll](https://jekyllrb.com/), [Hugo](http://gohugo.io), [Hexo](http://hexo.io), and [Docpad](http://docpad.org) are a few of the more popular SSGs out there.
 
-I've tried, ahem, *a lot* of SSGs, and [Hugo](http://gohugo.io) is definitely my favorite. It feels like the right balance of not-too-opinionated/not-too-freewheeling, it gets frequent updates and bug fixes, it has an active community, and the documentation is excellent. Another benefit of Hugo is that it's written in Golang, meaning sites build rapidly.
+I've tried, ahem, *a lot* of SSGs, and [Hugo](http://gohugo.io) is definitely my favorite. It feels like the right balance of not-too-opinionated/not-too-freewheeling, it gets frequent updates and bug fixes, it has an active community, and the documentation is excellent. Another benefit of Hugo is that it's written in [Golang](https://golang.org/), meaning sites build rapidly.
 
 I'm working on a big blog post and technical talk about SSGs: what they are, how they work, and how they make building personal websites actually, y'know, fun. So, if you're new to SSG Land, be on the lookout for that post. In the meantime, I've written up a tutorial for deploying [Hugo](http://gohugo.io) sites to [Azure Web Apps](http://azure.microsoft.com).
 
