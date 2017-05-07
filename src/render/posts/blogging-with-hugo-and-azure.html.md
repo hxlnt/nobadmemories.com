@@ -83,7 +83,7 @@ Back in Azure under your Web App, click Deployment options, then Choose Source, 
 
 ![Connect to GitHub repo](https://hxlntblob.blob.core.windows.net/nbm/webapp5.png)
 
-Fill in all the information about the repo and branch you want to connect. Now, when you click on Deployment options, you should either see the deployment marked as in progress or completed.
+Fill in all the information about the repo and branch you want to connect. After a minute or two, when you click on Deployment options, you should either see the deployment marked as in progress or completed.
 
 ![Deploy](https://hxlntblob.blob.core.windows.net/nbm/deploy.png)
 
