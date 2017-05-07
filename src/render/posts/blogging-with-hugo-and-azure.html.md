@@ -24,7 +24,7 @@ So, let's see how to deploy a Hugo site to an Azure Web App. This tutorial assum
 
 ## Create a GitHub repository for your Hugo website source
 
-Don't have a Hugo site? Want a starter project to play with? You've got it! Simply fork [https://github.com/hxlnt/hugo-on-azure](https://github.com/hxlnt/hugo-on-azure). It already has the necessary Azure deployment files in it as well as a simple theme I created. So it's ready to go! Note that it's really simple. You should check out the [Hugo docs](http://gohugo.io) when you're ready to build the real deal.
+Don't have a Hugo site? Want a starter project to play with? You've got it! Simply fork [https://github.com/hxlnt/hugo-on-azure](https://github.com/hxlnt/hugo-on-azure). It already has the necessary Azure deployment files in it as well as a simple theme I created. So it's ready to go! 
 
 If you already have a Hugo site built, you don't need to fork the sample project. Simply create a new GitHub repository for your Hugo website source. You should not include build output here (the `public` folder)&mdash;just the source. You will want to be sure to include the theme and config files. Then, add the following two files at the root of the repository:
 
@@ -103,7 +103,9 @@ First, you added your Hugo website source via GitHub. Since Azure Web Apps is co
 
 ## Expanding on the demo
 
-The demo site is quite barebones to keep it simple and instructive. But there are a *lot* of features you can add: tags, blog post listings with excerpts, sorting and filtering, and more. For my personal SSG sites, I move all of my images and video to blob storage on Azure. There are a few good reasons to do that, but the best one for me is that it's simply cheaper. 
+The demo site is quite barebones to keep it simple and instructive. But there are a *lot* of features you can add: tags, blog post listings with excerpts, sorting and filtering, and more. When you're ready to graduate from this simple example, check out the [Hugo docs](http://gohugo.io) when you're ready to build the real deal.
+
+For my personal SSG sites, I move all of my images and video to blob storage on Azure. There are a few good reasons to do that, but the best one for me is that it's simply cheaper. 
 
 If you want to see a full website that takes advantage of Hugo, check out the site I built for [FEMICOM Museum](http://www.femicom.org). (You'll notice some similarity between it and the demo site because I definitely repurposed all that sweet, sweet CSS.)
 
