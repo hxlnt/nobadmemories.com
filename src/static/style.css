@@ -12,6 +12,7 @@ code {
   overflow-x: scroll;
   word-break: keep-all;
   word-wrap: initial;
+  max-width:500px;
 }
 
 span.slug {

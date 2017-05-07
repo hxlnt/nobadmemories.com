@@ -28,13 +28,13 @@ Don't have a Hugo site? Want a starter project to play with? You've got it! Simp
 
 If you already have a Hugo site built, you don't need to fork the sample project. Simply create a new GitHub repository for your Hugo website source. You should not include build output here (the `public` folder)&mdash;just the source. You will want to be sure to include the theme and config files. Then, add the following two files at the root of the repository:
 
-.deployment
+.deployment:
 ```
 [config]
 command = azure-deploy.cmd
 ```
 
-azure-deploy.cmd
+azure-deploy.cmd:
 ```
 @ECHO ON
 
@@ -64,24 +64,24 @@ Next, you'll want to sign up for or log in to your [Azure account](http://azure.
 
 ![Create Web App](https://hxlntblob.blob.core.windows.net/nbm/webapp.png)
 
-Give your web app a unique URL: `your-cool-name`.azurewebsites.net. Create a new resource group and name it something like `your-cool-name`-RG. 
+Give your web app a unique URL like `your-cool-name`.azurewebsites.net. Create a new resource group and name it something like `your-cool-name`-RG. Then, under App Service Plan, choose New. 
 
 ![Create Web App](https://hxlntblob.blob.core.windows.net/nbm/webapp2.png)
 
-Under App Service Plan, choose New. Choose a name and location near you. For pricing tier, the free plan should be fine for our purposes. (The more expensive ones give you things like custom domain names, more storage space, etc.) 
+Choose a name and location near you. For pricing tier, the free plan should be fine for our purposes. (The more expensive ones give you things like custom domain names, more storage space, etc.) 
 
 ![Create Web App](https://hxlntblob.blob.core.windows.net/nbm/webapp3.png)
 
 Once you've selected everything, click Create. (Note: One thing that can throw folks off about the Azure Portal is that some of the buttons to submit or create resources are at the bottom of the page.) It should take around 2 minutes for the Web App to deploy.
 
-Next, find the Web App you just created by going to the All resources tab (the grid of nine green squares) and clicking on your Web App. It should have a blue globe next to it. On the Overview tab, you'll see the URL for your website; click on it, and you'll be taken to a generic placeholder landing page for your app.
+Next, find the Web App you just created by going to the All resources tab (the grid of nine green squares at the far left) and clicking on your Web App. It should have a blue globe next to it. On the Overview tab, you'll see the URL for your website; click on it, and you'll be taken to a generic placeholder landing page for your app.
 
 ![Create Web App](https://hxlntblob.blob.core.windows.net/nbm/webapp4.png)
 
 
 ## Connect Azure Web App to GitHub
 
-In your Web App, click Deployment options, then Choose Source, then GitHub.
+Back in Azure under your Web App, click Deployment options, then Choose Source, then GitHub.
 
 ![Connect to GitHub repo](https://hxlntblob.blob.core.windows.net/nbm/webapp5.png)
 
