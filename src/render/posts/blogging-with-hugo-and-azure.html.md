@@ -70,8 +70,6 @@ Give your web app a unique URL like `your-cool-name`.azurewebsites.net. Create a
 
 Choose a name and location near you. For pricing tier, the free plan should be fine for our purposes. (The more expensive ones give you things like custom domain names, more storage space, etc.) 
 
-![Create Web App](https://hxlntblob.blob.core.windows.net/nbm/webapp3.png)
-
 Once you've selected everything, click Create. (Note: One thing that can throw folks off about the Azure Portal is that some of the buttons to submit or create resources are at the bottom of the page.) It should take around 2 minutes for the Web App to deploy.
 
 Next, find the Web App you just created by going to the All resources tab (the grid of nine green squares at the far left) and clicking on your Web App. It should have a blue globe next to it. On the Overview tab, you'll see the URL for your website; click on it, and you'll be taken to a generic placeholder landing page for your app.
