@@ -2,7 +2,7 @@
 layout: 'content'
 title: Hanging posters with clothespins
 description: "..."
-while: 'cleaning the studio'
+while: 'cleaning the studio.'
 date: 2017-05-12T19:54
 keyimg: "https://hxlntblob.blob.core.windows.net/nbm/poster.jpg"
 feature: true

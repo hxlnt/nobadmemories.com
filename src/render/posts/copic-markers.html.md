@@ -5,13 +5,13 @@ description: "Available in more than 350 shades and accompanied by a whole cast 
 while: "staying up way past my bedtime."
 date: 2016-09-18T05:49
 tagged: ["art"]
-keyimg: "https://hxlntblob.blob.core.windows.net/nbm/copic2.JPG"
+keyimg: "https://hxlntblob.blob.core.windows.net/nbm/copic2.jpg"
 feature: true
 ---
 
 I got really into Copic markers when I was in design school. Available in more than 350 shades and accompanied by a whole cast of accessories and modular parts, Copic markers can become a dizzying (and expensive) obsession. So, why all the hype?
 
-![Copic markers and pens](https://hxlntblob.blob.core.windows.net/nbm/copic1.JPG)
+![Copic markers and pens](https://hxlntblob.blob.core.windows.net/nbm/copic1.jpg)
 
 After building up a small collection over a few years and doing *lots and lots* of experimentation and reading, I thought I'd share my experiences and reflections on Copic markers.
 
@@ -23,7 +23,7 @@ While sets are available, Copic markers can be purchased individually, allowing 
 
 Copic Sketch markers, which are the most widely-available variety in my local art supply stores, are double-ended markers with one chisel nib and one brush end. The brush nib doesn't have bristles, but the felt tip is quite flexible and can be bent or flicked to vary the thickness of a stroke.
 
-![Copic Sketch nibs](https://hxlntblob.blob.core.windows.net/nbm/copic2.JPG)
+![Copic Sketch nibs](https://hxlntblob.blob.core.windows.net/nbm/copic2.jpg)
 
 One major difference between Copics and many other markers is the smoothness and sheer, buildable color. Copics don't lay down fully-opaque color, allowing for gradient and color-blending effects. Copics are not prone to streakiness, though the color does have a bit of noise to it. It's a nice noise, though. Like a perfectly-tuned noise filter in Photoshop.
 
@@ -39,13 +39,13 @@ First, it's really helpful to understand how the Copic color numbering system wo
 
 The letters in a Copic code represent the color family, such as "B" for blue or "YG" for yellow-green. The first number represents the saturation of the color. You can think of it as correlating to the amount of gray in a color. Low numbers are very vibrant, while higher numbers look grayer or muddier. After this first saturation digit, any subsequent numbers represent the color's brightness. Low numbers are lighter, brighter colors, while high numbers are darker or deeper. It might help to look at a few examples.
 
-![Copic colors B01, B02, and B21](https://hxlntblob.blob.core.windows.net/nbm/copic3.JPG)
+![Copic colors B01, B02, and B21](https://hxlntblob.blob.core.windows.net/nbm/copic3.jpg)
 
 Let's break down the color B01. Its color family is B (blue). Its saturation number is 0, meaning it is a very vibrant, pure blue with little muddiness or gray. And its brightness number is 1, meaning it's relatively light. Color B02 is the same vibrant blue but with a larger second digit, meaning that it's simply a darker or deeper version of B01. Compare this to color B21. It is just as light as B01 but has a higher saturation number, meaning it has a grayer or muddier appearance. (To my eye, it looks more purple, too; the perception, theory, and reality of the color system aren't always in alignment.)
 
 In the center column of swatches shown here, there are three colors that have the same saturation and brightness digits but come from different color families. You can see that they go together fairly well.
 
-![Copic colors YG13, BG13, and RV13](https://hxlntblob.blob.core.windows.net/nbm/copic4.JPG)
+![Copic colors YG13, BG13, and RV13](https://hxlntblob.blob.core.windows.net/nbm/copic4.jpg)
 
 Understanding this color system is particularly helpful if you're looking to blend colors. You'll typically get the best results by blending colors that have the same saturation digit (the first number). If you mix colors that have differing amounts of gray, your result can look muddier than expected. YG91 has a dramatically different saturation digit than YG13, for example, so these two wouldn't be good candidates for blending into one another.
 
