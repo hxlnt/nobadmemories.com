@@ -61,6 +61,7 @@ Here's some info about my work process as well as a bunch of links out to Good I
 
 ## C# ##
   - [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
+  - [Understanding C#: Using System.Console to build text-mode games](http://broadcast.oreilly.com/2010/08/understanding-c-text-mode-games.html)
 
 
 ## Crafts and DIY
