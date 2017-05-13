@@ -8,13 +8,9 @@ keyimg: "https://hxlntblob.blob.core.windows.net/nbm/poster.jpg"
 feature: true
 ---
 
-This is my favorite way to hang posters in my studio space.
+This is how I hang posters in my studio space.
 
-Materials:
-
-  - 3M Command Strips
-  - Wooden clothespins
-  - Scissors
+All you need are 3M Command Strips, wooden clothespins, and scissors.
 
 First, cut a Command Strip lengthwise.
 
@@ -30,6 +26,6 @@ Remove the black and white ("wall side") backing and affix to the wall. I usuall
 
 With this method, there's no adhesive on the poster itself. You also have a lot of leeway in repositioning the poster to get it nice and straight without having to reposition the clothespins. And, of course, the clothespins are reusable!
 
-And as a bonus, you can also use clothespins at the bottom of a poster to temporarily weigh it down and straighten it out.
+As a bonus, you can also use clothespins at the bottom of a poster to temporarily weigh it down and straighten it out.
 
 ![Weighing down poster](https://hxlntblob.blob.core.windows.net/nbm/weight.gif)
