@@ -47,6 +47,8 @@ Here's some info about my work process as well as a bunch of links out to Good I
   - [8-bit Workshop](http://www.8bitworkshop.com)
   - *[6502 Assembly Language](http://www.amazon.com/Assembly-Language-Programming-Self-teaching-Guides/dp/0471861200)* by Judi N. Fernandez, Donna N. Tabler, and Ruth Ashley
   - [Atari 2600 Programming Guide](http://www.atariage.com/2600/programming/)
+  - [Easy 6502](http://skilldrick.github.io/easy6502/)
+  - [Folkscanomy Computer: Books on Computers and Programming](https://archive.org/details/folkscanomy_computer)
   - *[Making Games for the Atari 2600](https://www.amazon.com/Making-Games-Atari-2600-Steven/dp/1541021304/)* by Steven Hugg
   - [NesDev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki)
   - [newcoleco's Colecovision homebrew videos](https://www.youtube.com/playlist?list=PL7C48074376C9BAA0)
@@ -62,6 +64,7 @@ Here's some info about my work process as well as a bunch of links out to Good I
 ## C# ##
   - [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
   - [Colorful console mode applications in C#](http://www.c-sharpcorner.com/uploadfile/scottlysle/colorful-console-mode-applications-in-C-Sharp/)
+  - *[Murach's C# 2015](https://www.murach.com/shop/murach-s-c-2015-detail)*
   - [Understanding C#: Using System.Console to build text-mode games](http://broadcast.oreilly.com/2010/08/understanding-c-text-mode-games.html)
 
 
@@ -81,6 +84,7 @@ Here's some info about my work process as well as a bunch of links out to Good I
   - [Ember.js Guides and Tutorials](https://guides.emberjs.com/v2.11.0/)
   - [Excel to JSON](https://github.com/mhaemmerle/excel-to-json)
   - [idiomatic.js](https://github.com/rwaldron/idiomatic.js)
+  - [Intro to JS Drawing & Animation: Object-Oriented Design](https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/p/object-types)
   - [Introducing JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
   - [Javascript30: 30-day Vanilla JS Coding Challenge](http://wesbos.com/javascript30/)
   - [JavaScript for Cats](http://jsforcats.com/)
@@ -90,6 +94,7 @@ Here's some info about my work process as well as a bunch of links out to Good I
   - [Programming--the Real Basics!](https://dev.opera.com/articles/programming-the-real-basics/)
   - [three.js](https://github.com/mrdoob/three.js)
   - [Vue.js](https://vuejs.org/)
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 
 ## Machine learning
