@@ -9,13 +9,13 @@ quote:
   text: "Deal with It Bot lets you put a pair of virtual shades on anyone."
   source: "Kill Screen"
   link: "https://killscreen.com/articles/deal-with-it-bot-lets-you-put-a-pair-of-virtual-shades-on-anyone/"
-img: "dealwithit.gif"
+img: "https://hxlntblob.blob.core.windows.net/nbm/dealwithit.gif"
 isProject: true
 ---
 
 The dealwithit bot is a web app that detects all faces in a photo and slides on a pair of pixel shades. Truly a worthwhile use of the bountiful technological feast made possible by machine learning and artificial intelligence. Deal with it. Test it out at [aifunclub.azurewebsites.net](http://aifunclub.azurewebsites.net).
 
-![Data deals with it](/img/dealwithit.gif)
+![Data deals with it](https://hxlntblob.blob.core.windows.net/nbm/dealwithit.gif)
 
 ## What's under the hood
 

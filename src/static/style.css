@@ -8,6 +8,13 @@ slug {
   width: 100%;
   text-align: left; }
 
+code {
+  overflow-x: scroll;
+  word-break: keep-all;
+  word-wrap: initial;
+  max-width:500px;
+}
+
 span.slug {
   display: block;
   transform: rotate(90deg);

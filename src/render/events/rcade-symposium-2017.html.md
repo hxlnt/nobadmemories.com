@@ -5,7 +5,7 @@ event:
   link: "http://rcade.camden.rutgers.edu/2017symposium.html"
   desc: "The Rutgers-Camden Archive of Digital Ephemera (R-CADE) provides scholars and artists the opportunity to do hands-on work with digital ephemera."
 presentation:
-  name: "Keynote"
+  name: "PINK CRAP"
 venue: 
   name: "Rutgers University-Camden"
   location: "Philadelphia, PA USA"

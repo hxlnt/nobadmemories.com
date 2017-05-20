@@ -5,7 +5,7 @@ description: "Insofar as one can be an expert after just a week, I decided to st
 while: 'drinking coffee.'
 date: 2016-08-29T10:51
 tagged: ["hardware-hacking"]
-keyimg: "/img/pocketjavascript.jpg"
+keyimg: "https://hxlntblob.blob.core.windows.net/nbm/pocketjavascript.jpg"
 feature: true
 ---
 
@@ -22,7 +22,7 @@ About a week ago, I received a brand-new PocketCHIP, and I haven't been able to 
 
 Next Thing Co.'s [PocketCHIP](https://getchip.com/pages/pocketchip]) looks like what you might get if you crossed a Raspberry Pi with a Game Boy. 
 
-![PocketCHIP photo from getchip.com](/img/pocket.jpg)
+![PocketCHIP photo from getchip.com](https://hxlntblob.blob.core.windows.net/nbm/pocket.jpg)
 
 The PocketCHIP is a hackable computer with a touchscreen display, QWERTY keyboard, rechargeable battery, GPIO breakouts, headphone jack, WiFi, and bluetooth, all in one adorable handheld device. The brain of the PocketCHIP is the CHIP, a $9 Linux computer with a 1 GHz ARM7 processor and 512 MB RAM. 
 
@@ -60,7 +60,7 @@ There were a fair number of puzzles to solve in this process. For example, due t
 
 After a few late nights, a lot of dependency installations, and a little luck, my VS Code build worked. I was SO EXCITED when it compiled and popped up for the first time. It looked just like the PC and Mac versions! 
 
-![Javascript syntax highlighting in VS Code](/img/pocketjavascript.jpg)
+![Javascript syntax highlighting in VS Code](https://hxlntblob.blob.core.windows.net/nbm/pocketjavascript.jpg)
 
 That said, I'll admit that VS Code on PocketCHIP isn't a slam-dunk recommendation yet. It's a little buggy, and I'm not sure whether to attribute that to user error, the PocketCHIP's modest specs, or the fact that VS Code is somehow running on a niche device with a custom Debian OS that's only been out for a few weeks on architecture that's not officially supported.
 

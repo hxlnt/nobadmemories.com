@@ -5,7 +5,7 @@ description: "For three weeks, I wrote down every question I asked the internet 
 while: 'snuggling Bubblegum.'
 tagged: ['misc']
 date: 2017-04-09T19:30
-keyimg: '/img/plant.jpeg'
+keyimg: 'https://hxlntblob.blob.core.windows.net/nbm/plant.jpeg'
 feature: true
 ---
 
@@ -35,7 +35,7 @@ This won't be embarassing, right? :)
 
 **What is the grass pattern in *Animal Crossing: City Folk?***
 
-![Grass](/img/grass.jpeg)
+![Grass](https://hxlntblob.blob.core.windows.net/nbm/grass.jpeg)
 
 
 **How many flowers and trees do you need per acre in *Animal Crossing: City Folk?*** 12 to 16 trees and 6 to 10 healthy flowers per acre (16x16 area).
@@ -225,15 +225,15 @@ Physical exfoliants include coffee grounds, cornmeal, rice powder, and poppy see
 
 **What does a fully-grown elephant tree look like?**
 
-![Elephant tree](/img/elephanttree.jpeg)
+![Elephant tree](https://hxlntblob.blob.core.windows.net/nbm/elephanttree.jpeg)
 
 **What does a king protea look like?**
 
-![King protea](/img/king.jpeg)
+![King protea](https://hxlntblob.blob.core.windows.net/nbm/king.jpeg)
 
 **What does *Myrtillocactus geometrizans forma cristata* look like?**
 
-![Plant](/img/plant.jpeg)
+![Plant](https://hxlntblob.blob.core.windows.net/nbm/plant.jpeg)
 
 **What time does East Austin Succulents close on weekends?**
 East Austin Succulents closes at 5PM every day.
@@ -279,5 +279,5 @@ Yes, he played the man in the ape suit in the chase scenes.
 **What does the name "Unabomber" mean?**
 It comes from an FBI alias for Ted Kaczynski referring to him as UNABOM, or UNiversity and Airline BOMber.
 
-** How late is Kinokuniya in Seattle open today?**
+**How late is Kinokuniya in Seattle open today?**
 Until 9 PM.
