@@ -9,7 +9,7 @@ date: 2016-05-05T07:45-05:00
 github: 
   name: "ConnectedNES"
   link: "http://www.github.com/hxlnt/connectednes/"
-img: "connectednes1.gif"
+img: "https://hxlntblob.blob.core.windows.net/nbm/connectednes1.gif"
 isProject: true
 ---
 
