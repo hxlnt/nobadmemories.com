@@ -83,6 +83,7 @@ Here's some info about my work process as well as a bunch of links out to Good I
   - [Choo](https://choo.io/)
   - [Ember.js Guides and Tutorials](https://guides.emberjs.com/v2.11.0/)
   - [Excel to JSON](https://github.com/mhaemmerle/excel-to-json)
+  - [How to store user data in Electron](https://medium.com/@ccnokes/how-to-store-user-data-in-electron-3ba6bf66bc1e)
   - [idiomatic.js](https://github.com/rwaldron/idiomatic.js)
   - [Intro to JS Drawing & Animation: Object-Oriented Design](https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/p/object-types)
   - [Introducing JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
