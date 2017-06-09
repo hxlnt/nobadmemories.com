@@ -4,7 +4,7 @@ title: "Fira Code: a monospace font with programmer-friendly ligatures"
 description: "Fira Code: a monospace font with programmer-friendly ligatures"
 while: "coworking."
 date: 2017-06-08T17:46
-keyimg: "https://hxlntblob.blob.core.windows.net/nbm/firacode.PNG"
+keyimg: "https://hxlntblob.blob.core.windows.net/nbm/firacode2.png"
 feature: true
 ---
 
@@ -16,7 +16,7 @@ To install Fira Code, just [download the latest release](https://github.com/tons
 
 ![Install Fira Code](https://hxlntblob.blob.core.windows.net/nbm/install-firacode.gif)
 
-To use Fira Code, enable the font *and* enable ligatures in your IDE. Step-by-step instructions for the most popular IDEs are [here](https://github.com/tonsky/FiraCode/wiki). For VS Code, I needed to restart the app to get the new font to kick in. But after that, well, a beautiful thing. Check out those ligatuuuuuuuuures~.
+To use Fira Code, enable the font *and* enable ligatures in your IDE. Step-by-step instructions for the most popular IDEs are [here](https://github.com/tonsky/FiraCode/wiki). For VS Code, I needed to restart the app to get the new font to kick in. But after that, well, a beautiful thing. Check out those ligatuuuuuuuuures~. (Purple boxes are my annotation.)
 
 ![Fira Code sample](https://hxlntblob.blob.core.windows.net/nbm/firacode2.png)
 
