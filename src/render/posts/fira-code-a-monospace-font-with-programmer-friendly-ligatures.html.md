@@ -8,19 +8,15 @@ keyimg: "https://hxlntblob.blob.core.windows.net/nbm/firacode.PNG"
 feature: true
 ---
 
-Earlier today, my pal [Audrey](http://loveme.computer) showed me a cool typography project that I hadn't seen before. It's over a year old, so I'm clearly late to the party, but I thought I'd share it for others who might be unaware as I was.
+Earlier today, my pal [Audrey](http://loveme.computer) showed me a cool typography project on GitHub that I hadn't seen before. It's over a year old, so I'm clearly late to the party, but I thought I'd share it for others who might be unaware as I was.
 
-[Fira Code](https://github.com/tonsky/FiraCode) is a monospace font that uses ligatures to render common coding sequences like `!==`, `<=`, and `=>` into programmer-friendly versions that are a bit easier on the eyes. It's an ideal font to use in your code editor of choice. And because ligatures just affect rendering, Fira Code won't insert mysterious, invisible unicode or anything like that into your files. (I like mysterious unicode, but not so much in my source files.)
+[Fira Code](https://github.com/tonsky/FiraCode) is a monospace font that uses ligatures to render common coding sequences like `!==`, `<=`, and `=>` into programmer-friendly versions that are a bit easier on the eyes. It's an ideal font to use in your code editor. And because ligatures just affect rendering, Fira Code won't insert mysterious, invisible unicode or anything like that into your files. (I like mysterious unicode, but not so much in my source files.)
 
-To install Fira Code, just [download the latest release](https://github.com/tonsky/FiraCode/releases), and install the fonts as you would normally for your platform. There are step-by-step instructions [here](https://github.com/tonsky/FiraCode/wiki); here's how you do it in Windows:
+To install Fira Code, just [download the latest release](https://github.com/tonsky/FiraCode/releases) and install the fonts as you would normally for your platform. There are step-by-step instructions [here](https://github.com/tonsky/FiraCode/wiki). Here's how you do it in Windows:
 
 ![Install Fira Code](https://hxlntblob.blob.core.windows.net/nbm/install-firacode.gif)
 
-To use Fira Code, enable the font *and* enable ligatures in your IDE. Each IDE is a little different, but here's how it works for VS Code:
-
-![Add to IDE](https://hxlntblob.blob.core.windows.net/nbm/ide.gif)
-
-As you can see, once I added the font and enabled ligatures, everything looked real bad. All I need is a quick restart of VS Code to actually kick in the new font. After that, well, it's a beautiful thing...
+To use Fira Code, enable the font *and* enable ligatures in your IDE. Step-by-step instructions for the most popular IDEs are [here](https://github.com/tonsky/FiraCode/wiki). For VS Code, I needed to restart the app to get the new font to kick in. But after that, well, a beautiful thing. Check out those ligatuuuuuuuuures~.
 
 ![Fira Code sample](https://hxlntblob.blob.core.windows.net/nbm/firacode.PNG)
 
