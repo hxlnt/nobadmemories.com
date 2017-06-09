@@ -47,6 +47,7 @@ Here's some info about my work process as well as a bunch of links out to Good I
   - [8-bit Workshop](http://www.8bitworkshop.com)
   - *[6502 Assembly Language](http://www.amazon.com/Assembly-Language-Programming-Self-teaching-Guides/dp/0471861200)* by Judi N. Fernandez, Donna N. Tabler, and Ruth Ashley
   - [Atari 2600 Programming Guide](http://www.atariage.com/2600/programming/)
+  - [awesome-gbdev](https://github.com/avivace/awesome-gbdev)
   - [Easy 6502](http://skilldrick.github.io/easy6502/)
   - [Folkscanomy Computer: Books on Computers and Programming](https://archive.org/details/folkscanomy_computer)
   - *[Making Games for the Atari 2600](https://www.amazon.com/Making-Games-Atari-2600-Steven/dp/1541021304/)* by Steven Hugg
