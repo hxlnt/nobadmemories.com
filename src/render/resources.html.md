@@ -70,6 +70,7 @@ Here's some info about my work process as well as a bunch of links out to Good I
 
 ## Crafts and DIY
   - [Conductive thread](https://learn.adafruit.com/conductive-thread/overview)
+  - [Cutting rubber stamps with your Cricut Explore](https://www.youtube.com/watch?v=wMAjJWXHhqc)
   - [DIY neon sign](http://www.rookiemag.com/2015/12/diy-neon-sign/)
 
 ## Golang
