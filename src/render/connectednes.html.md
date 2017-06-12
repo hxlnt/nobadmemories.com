@@ -9,7 +9,7 @@ date: 2016-05-05T07:45-05:00
 github: 
   name: "ConnectedNES"
   link: "http://www.github.com/hxlnt/connectednes/"
-img: "connectednes1.gif"
+img: "http://www.nobadmemories.com/img/connectednes1.gif"
 isProject: true
 ---
 
@@ -17,7 +17,7 @@ ConnectedNES is a unique open-source project released in May 2016 that wirelessl
 
 ## What is ConnectedNES?
 
-![Loading screen](/img/connectednes1.gif)
+![Loading screen](http://www.nobadmemories.com/img/connectednes1.gif)
 
 ConnectedNES is comprised of:
 
@@ -32,7 +32,7 @@ ConnectedNES is written across three languages: Javascript, Arduino C/C++, and 6
 
 When you play NES games, you press buttons on the controller, and the controller in turn sends a signal made of bits (1s and 0s) through the controller cable and into the NES console. These bits indicate which buttons were pressed or not pressed, and this information is then used to control the game. As it turns out, tweets, images, and other digital content is also made up of bits. What if we could use the controller port to stream different kinds of data into the NES? We’d have something a lot like ConnectedNES!
 
-![The Photon sends data to NES port](/img/4905.jpg)
+![The Photon sends data to NES port](http://www.nobadmemories.com/img/4905.jpg)
 
 Here’s a breakdown of how the ConnectedNES Twitter client works:
 
@@ -42,7 +42,7 @@ Here’s a breakdown of how the ConnectedNES Twitter client works:
 4. Some of the digital pins on the Photon are wired to an NES controller cable. (The Photon is powered via the controller cable, so no additional power supply is needed.) The data is written to those pins and, as far as the NES can tell, it begins to receive a very rapid stream of “button presses.” But as we know, those “button presses” actually represent a tweet!
 5. Inside the NES is a custom cartridge containing a “game” that displays the incoming data. The NES cannot natively display ASCII characters, so graphical tiles representing the basic ASCII table must be included in the custom NES ROM. I’ve also added pretty little animated balloons and things.
 
-!["Modem"](/img/smaller-modem.jpg)
+!["Modem"](http://www.nobadmemories.com/img/smaller-modem.jpg)
 
 ## Does ConnectedNES do anything aside from display tweets?
 
@@ -52,7 +52,7 @@ Presently, the firmware and software are set up to display a predetermined Twitt
 
 In 2015, my good friend and fellow console-hacker [Andy Reitano](http://www.andrewreitano.com/) stayed with me for a few days, and—per our custom—we decided to build something funny together. We have a great time talking about our highly obscure programming hobby and even more fun putting it to good use. I loved the idea of having a game as iconic and canonical as *Super Mario Bros.* be just, like, weirdly interrupted by a Twitter notification ticker. And I knew Andy had made something called “NES Transfer Tool,” a protocol for streaming data from a laptop through the NES’s controller port. (Yes, all the credit for that clever idea goes rightly to him.) And then it occurred to me that the Particle Photon could make the whole thing wireless… and thus *Social Media Bros.* was born, giving us in-game Twitter notifications on the original *Super Mario Bros.* cartridge.
 
-![Social Media Bros.](/img/social1.JPG)
+![Social Media Bros.](http://www.nobadmemories.com/img/social1.JPG)
 
 There were some interesting challenges in putting together this project. I worked from the disassembly of Super Mario Bros., commenting out code to gain enough bytes to write in new assembly subroutines. Luigi had to be removed from the game to accomodate the “modem.” (Sorry, Green Mario!) For those who are familiar with the technical limitations of the NES, I also had to be careful to retain the “Sprite 0” pixel that keeps the status bar static at the top of the screen. In *Super Mario Bros.,* that pixel is contained in the floating coin, which I didn’t exactly want in my Twitter display.
 

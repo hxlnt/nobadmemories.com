@@ -47,6 +47,7 @@ Here's some info about my work process as well as a bunch of links out to Good I
   - [8-bit Workshop](http://www.8bitworkshop.com)
   - *[6502 Assembly Language](http://www.amazon.com/Assembly-Language-Programming-Self-teaching-Guides/dp/0471861200)* by Judi N. Fernandez, Donna N. Tabler, and Ruth Ashley
   - [Atari 2600 Programming Guide](http://www.atariage.com/2600/programming/)
+  - [awesome-gbdev](https://github.com/avivace/awesome-gbdev)
   - [Easy 6502](http://skilldrick.github.io/easy6502/)
   - [Folkscanomy Computer: Books on Computers and Programming](https://archive.org/details/folkscanomy_computer)
   - *[Making Games for the Atari 2600](https://www.amazon.com/Making-Games-Atari-2600-Steven/dp/1541021304/)* by Steven Hugg
@@ -84,6 +85,7 @@ Here's some info about my work process as well as a bunch of links out to Good I
   - [Choo](https://choo.io/)
   - [Ember.js Guides and Tutorials](https://guides.emberjs.com/v2.11.0/)
   - [Excel to JSON](https://github.com/mhaemmerle/excel-to-json)
+  - [How to store user data in Electron](https://medium.com/@ccnokes/how-to-store-user-data-in-electron-3ba6bf66bc1e)
   - [idiomatic.js](https://github.com/rwaldron/idiomatic.js)
   - [Intro to JS Drawing & Animation: Object-Oriented Design](https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/p/object-types)
   - [Introducing JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
