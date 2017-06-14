@@ -40,7 +40,7 @@ title: 'Events'
                 <% end %>
                 <a href="<%- event.url %>">  
                     <% if event.presentation: %>"<%- event.presentation.name %>"</a><BR><%- event.momentDate %>
-                        <% if event.enddate: %>&ndash;<%- event.momentEndDate %><% end %> at 
+                        <% if event.enddate: %>&ndash; <%- event.momentEndDate %><% end %> at 
                         <% if event.event: %><%- event.event.name %><% else: %><%- event.venue.name %><% end %> 
                     <% else: %>
                         <%- event.event.name %></a><BR><%- event.momentDate %>
