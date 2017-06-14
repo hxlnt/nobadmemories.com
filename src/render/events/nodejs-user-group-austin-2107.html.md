@@ -5,7 +5,7 @@ event:
 presentation:
   name: "VS Code + machine learning + Node.js = magic!"
   link: "https://www.meetup.com/noders/events/240773380/"
-  desc: "In this talk, MRachel Weil will give a tour of essential VS Code features, tips, and tricks that will improve productivity and all-around happiness for Node.js developers."
+  desc: "In this talk, Rachel Weil will give a tour of essential VS Code features, tips, and tricks that will improve productivity and all-around happiness for Node.js developers."
 venue: 
   name: "Spanning"
   location: "Austin, TX USA"
