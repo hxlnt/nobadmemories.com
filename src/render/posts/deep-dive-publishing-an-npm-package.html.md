@@ -54,7 +54,7 @@ A few things that you *should* get in order before publishing:
 2. Review npm's guides for [publishing modules](https://docs.npmjs.com/getting-started/publishing-npm-packages) and [versioning](https://docs.npmjs.com/getting-started/semantic-versioning).
 3. Optimize your README.md and package.json files.
 
-If you're already developing Node.js apps, you likely know some of the things a `package.json` does for you, like listing dependencies and custom testing scripts. But perhaps there are some prompts in `npm init` that you might gloss over quickly, like license, version, description, and keywords. However, these fields are used to automatically populate content on the npm website, so be sure that they're in good working order!
+If you're already developing Node.js apps, you likely know some of the cool things a `package.json` does, like listing dependencies and custom testing scripts. But perhaps there are some prompts in `npm init` that you gloss over quickly, like license, version, description, and keywords. However, these fields are used to automatically populate content on the npm website, so be sure that they're in good working order!
 
 The description and keyword fields in your `package.json` will improve developers' ability to search for your module on the npm website. As you can see below, the description appears directly below your module name in search results. 
 
