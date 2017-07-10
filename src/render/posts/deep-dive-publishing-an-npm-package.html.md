@@ -38,7 +38,7 @@ I decided that for my first Node module, I wanted create a wrapper around the [V
 
 While interacting with REST APIs isn't *too* hard, whether with vanilla Javascript, JQuery, or Node modules like `request`, I found a few good reasons to create this module. For one, the project would be small, well-scoped, and with clear objectives: implement the functionality of the REST API. Second, I was motivated to build the module because I had a personal project could benefit from automated video subtitle generation, and a Video Indexer Node module didn't exist yet. The third reason was a bit of an epiphany for me, one that emerged as I was in the process of coding.
 
-**A Node wrapper for REST API provides deep discovery on what the API can do, functioning as an alternative, practical form of documentation.**
+**A Node wrapper for a REST API provides deep discovery on what the API can do, functioning as an alternative, practical form of documentation.**
 
 In retrospect, I thought about how REST API Node modules like [azure-storage](https://github.com/Azure/azure-sdk-for-node), [project-oxford](https://github.com/felixrieseberg/project-oxford), and [twilio](https://github.com/twilio/twilio-node) have helped me better understand the capabilities and every corner of the APIs underneath them. *Writing* such a Node module creates an even deeper understanding. The abstraction provided by a Node module allows the developer to focus on the cool stuff the API can do&mdash;the verbs and nouns&mdash;instead of the not-so-interesting details of managing promises or callbacks or header content types.
 
