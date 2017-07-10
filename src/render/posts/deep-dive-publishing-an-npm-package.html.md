@@ -20,17 +20,17 @@ To be as succinct as possible:
 2. *Node modules* are reusable, shareable bits of Node.js code. (I really wish they were called "Nodules," but alas...)
 3. The sharing of Node modules is facilitated by [npm](http://npmjs.org), a package management service for Node.js.
 
-So, publishing an npm package involves writing **server-side Javascript** in such a way that it is modular and **shareable**, then making that code available to others through **npm**.
+So, publishing an npm package involves writing a **Node module** comprised of **server-side Javascript**, then **sharing** that code via the **npm** package manager.
 
-Sharing open-source code... isn't that what GitHub's for? Sure! In fact, the module I wrote is hosted in [a repo on GitHub](https://github.com/hxlnt/video-indexer), not on the npm website itself. npm simply provides a way to search for Node modules via their website and to easily download and update packages via the npm command-line tool. Using npm is a better practice than, for example, searching for a random code sample on the web, editing it to try to get it working with your project (if you're lucky!), periodically checking the website to see if there were improvements or bug fixes that you missed, RE-editing the code to work with your project, and so on and so forth. Once you get the hang of npm, I think you'll find it to be an improvement over the copy-and-paste methods of the 90s. :)
+Sharing open-source code... isn't that what GitHub's for? Sure! In fact, the module I wrote is hosted in [a repo on GitHub](https://github.com/hxlnt/video-indexer), not on the npm website itself. npm simply provides a way to search for packages via their website and to easily download and update them via the npm command-line tool. Using npm is a better practice than, for example, searching for a random code sample on the web, editing it to try to get it working with your project (if you're lucky!), periodically checking the website to see if there were improvements or bug fixes that you missed, RE-editing the code to work with your project, and so on. Once you get the hang of npm, you'll likely find it to be an improvement over the copy-and-paste methods of the 90s. :)
 
 ## How I chose my first project to publish as a Node module
 
 > "If you find yourself having to write the same code for yourself over and over, it might be time to make it a module!" &mdash;Someone, probably
 
-The above advice that I might have received once upon a time seems fair. If you're having to write the same boilerplate Node.js again and again, maybe others are, too.
+The above advice seems fair enough. If you're having to write the same boilerplate Node.js again and again, maybe others are, too.
 
-However, I rarely find myself in this predicament. Most of the Node.js boilerplate I poach from my own projects consists of the few lines of code that bring in an already-existing module. Everything else is problem solving, math, clever trickery with bitwise math, unclever trickery just to get something to work...
+However, I rarely find myself in this predicament. Most of the Node.js boilerplate I poach from my own projects consists of the few lines of code that bring in other modules. Everything else is problem solving, math, clever trickery with bitwise math, unclever trickery just to get something to work... So, what to make?
 
 I decided that for my first Node module, I wanted create a wrapper around the [Video Indexer REST API](http://videoindexer.ai), which ingests video and provides AI-powered analysis such as transcript generation, speaker recognition, and sentiment analysis. 
 
