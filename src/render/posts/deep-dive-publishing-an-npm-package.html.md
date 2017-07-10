@@ -70,7 +70,7 @@ Note: I initially thought that the content from the `README.md` and `package.jso
 
 A few other assorted thoughts on what *wasn't* successful for me.
 
-1. **Starting with someone else's Node module as a go-by.** I thought I could learn good patterns and practices by patterning my module after a more mature one to which I had previously contributed on GitHub. But the time it took to understand every line and decision made it impractical. I was better off to have a quick look through the code and then put it aside to start from scratch on my own work.
+1. **Starting with someone else's Node module as a go-by.** I thought I could learn good tips by patterning my module after a more mature one to which I had previously contributed on GitHub. But the time it took to understand every line and decision made it impractical. I was better off to have a quick look through the code and then put it aside to start from scratch on my own work.
 2. **Test-driven development.** This is a strategy I've really wanted to try out. As a former scientist, this habit of mind is already how I approach coding. However, this wasn't the right project for picking up this practice. With such a small, well-scoped, and straightforward project, implementing mocha and chai took up a disproportionate part of my development time, making me question the benefits of the approach altogether. (It reminds me of my failed attempt to learn how to read the sheet music for "Mary Had a Little Lamb" on piano&mdash;it's much faster to feel it out on the keys, but that strategy has its limits for more complex music.)
 
 ## What's next?
