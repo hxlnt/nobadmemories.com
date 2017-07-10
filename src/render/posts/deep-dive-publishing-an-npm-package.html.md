@@ -75,7 +75,13 @@ A few other assorted thoughts on what *wasn't* successful for me.
 
 ## What's next?
 
-Continuing to work on `video-indexer`, of course! It's cool to have chosen a module associated with a relatively new API (it was just announced a few months ago). I get to be a bit of a leading-edge expert on the API, and I'm excited to watch what new directions it takes.
+Continuing to work on `video-indexer`, of course! 
+
+**`npm publish` doesn't mean the package is done: it means the work has just begun!**
+
+I'm certain that there are more features, best practices, and learnings in my future.
+
+It's cool to have chosen a module associated with a relatively new API (it was just announced a few months ago). I get to be a bit of a leading-edge expert on the API, and I'm excited to watch what new directions it takes.
 
 ![npm Search](https://hxlntblob.blob.core.windows.net/nbm/commodore2.png)
 
