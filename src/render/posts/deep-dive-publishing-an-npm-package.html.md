@@ -78,6 +78,6 @@ A few other assorted thoughts on what *wasn't* successful for me.
 
 Continuing to work on `video-indexer`, of course! It's cool to have chosen a module associated with a relatively new API (it was just announced a few months ago). I get to be a bit of a leading-edge expert on the API, and I'm excited to watch what new directions it takes.
 
-So, if you're a new or wannabe Node.js developer, I hope this look at publishing npm packages was helpful to you. And, of course, I'd love to see you over at the `video-indexer` [repository](https://github.com/hxlnt/video-indexer) if you'd like to test out the module or contribute code!
-
 ![npm Search](https://hxlntblob.blob.core.windows.net/nbm/commodore2.png)
+
+So, if you're a new or wannabe Node.js developer, I hope this look at publishing npm packages was helpful to you. And, of course, I'd love to see you over at the `video-indexer` [repository](https://github.com/hxlnt/video-indexer) if you'd like to test out the module or contribute code!
