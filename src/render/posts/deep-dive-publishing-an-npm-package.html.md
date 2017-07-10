@@ -46,7 +46,7 @@ I'm happy with the project I chose. I was able to complete it over a weekend, I 
 
 ## Working toward npm publish
 
-While I've written [plenty](https://github.com/hxlnt/feather-nodebot) [of](https://github.com/hxlnt/strikethispose) [Node.js](http://nobadmemories.com/connectednes) [apps](http://nobadmemories.com/dealwithit) before, this was my first time to publish a utility to npm. I imagined that I wouldn't publish the module until the code was sparkling clean, complete, and perfect. (You know, normal code, right? Eheh...) But being able to run `npm install video-indexer`, as it turns out, is crucial to enable myself and others to use and test the module IRL. If we all believed that open-source code isn't useful until it's perfect, well... we probably wouldn't have much open source at all.
+While I've written [plenty](https://github.com/hxlnt/feather-nodebot) [of](https://github.com/hxlnt/strikethispose) [Node.js](http://nobadmemories.com/connectednes) [apps](http://nobadmemories.com/dealwithit) before, this was my first time to publish a utility to npm. I imagined that I wouldn't publish the module until the code was sparkling clean, complete, and perfect. (You know, normal code, right? Eheh...) But being able to run `npm install video-indexer`, as it turns out, is crucial to enable myself and others to use and test the module IRL. And if we all believed that open-source code isn't useful until it's perfect, well... we probably wouldn't have much open source at all.
 
 A few things that you *should* get in order before publishing:
 
