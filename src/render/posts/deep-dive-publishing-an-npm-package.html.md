@@ -64,7 +64,7 @@ Once users click on the package to go to its npm website entry, they can see add
 
 ![npm Search](https://hxlntblob.blob.core.windows.net/nbm/npmland-anno.png)
 
-Note: I initially thought that the README.md would automatically update when I pushed a new commit to GitHub. They do not. They only updated once I ran `npm publish`.
+Note: I initially thought that the content from the `README.md` and `package.json` would automatically update when I pushed a new commit to GitHub. They do not. They only updated once I ran `npm publish`.
 
 ## What didn't work
 
