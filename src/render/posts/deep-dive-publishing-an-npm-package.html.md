@@ -52,7 +52,7 @@ A few things that you *should* get in order before publishing:
 
 1. [Sign up for an npm account](http://www.npmjs.org) (required for publishing).
 2. Review npm's guides for [publishing modules](https://docs.npmjs.com/getting-started/publishing-npm-packages) and [versioning](https://docs.npmjs.com/getting-started/semantic-versioning).
-3. Optimize your `README.md` and `package.json`.
+3. Optimize your README.md and package.json files.
 
 If you're already developing Node.js apps, you likely know some of the things a `package.json` does for you, like listing dependencies and custom testing scripts. But perhaps there are some prompts in `npm init` that you might gloss over quickly, like license, version, description, and keywords. However, these fields are used to automatically populate content on the npm website, so be sure that they're in good working order!
 
