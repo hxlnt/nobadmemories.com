@@ -15,9 +15,11 @@ My books are like little mementos; I remember each one's origin story. *Féminis
 
 There's certainly some subconscious aspect to one's bookshelf that's meant to declare, "Hey, visitor, look at these eclectic books that illustrate how quirky and scholarly [or insert other adjectives here] I am!" I'm guilty of that line of thinking. That said, as far as I know, no one who has visited my studio space has actually bothered to review the contents of my bookshelf. Only in my imagination do my friends nod, tracing a finger across the spines, declaring, "Hmmm, yes, fine selection of oboslete technical manuals and toy collecting guides!"
 
-In my studio, I have one of those IKEA shelving grids&mdash;you know, the ones with 13" cubbies that perfectly fit records?&mdash;where all my books live. My goal was to reduce my collection of books from seven full cubbies to four. That's 52 inches of books.
+In my studio, I have one of those IKEA shelving grids&mdash;you know, the ones with 13" cubbies that perfectly fit records?&mdash;where all my books live. My goal was to reduce my collection of books from seven full cubbies to four. That's 52 inches of books. 
 
 ![Elephant magazine](https://hxlntblob.blob.core.windows.net/nbm/elephant.jpg)
+
+Books that didn't make the cut would get packed up into boxes, where presumably they'll be dealt with at a later time. 
 
 I made the arbitrary decision to exclude comic books and zines from these shelves but to allow longer-form graphic novels and manga. My thought here is that comics and zines don't really stand up on their own in bookshelf world: too floppy, no spine, easily crushed by hardback books and negligent reshelving. I prefer to keep 'em in binders or portfolios. So, comics and zines get their own cubby. OK.
 
@@ -25,8 +27,8 @@ In the end, here are the books I decided to keep in the four book cubbies. No sh
 
 Enjoy the list below. And if the mood strikes you, nod along as you whisper, "Oh, I read a chapter of this in art school..."
 
- - *80sガーリーデザインコレクション* [80s Girly Design Collection]
- - *80sガールズ大百科* [80s Girls' Encyclopedia]
+ - *80sガーリーデザインコレクション*
+ - *80sガールズ大百科*
  - *Amusement Machines*
  - *Apple T-Shirts*
  - *The Art of Computer Designing*
@@ -53,7 +55,7 @@ Enjoy the list below. And if the mood strikes you, nod along as you whisper, "Oh
  - *Grafix* (Vol. 1)
  - *Hertzian Tales*
  - *The History of Nintendo: 1980-1991*
- - *HOW TO マシン語 Z80/6809 マスター編*　[How to Machine Language Z80/6809 Master Edition]
+ - *HOW TO マシン語 Z80/6809 マスター編*
  - *HTML5 Games*
  - *I AM ERROR*
  - *Illustration in Japan* (Vol. 3)
@@ -68,7 +70,7 @@ Enjoy the list below. And if the mood strikes you, nod along as you whisper, "Oh
  - *The New Illustration*
  - *No More Rules: Graphic Design and Postmodernism*
  - *Paul Rand*
- - *ピコっとハニエル* (Vol. 1) [Pikotto Hanieru (Vol. 1)]
+ - *ピコっとハニエル* (Vol. 1)
  - *Pioneers&mdash;Layout Design*
  - *Popular Computing* (January 1985)
  - *Popular Computing* (February 1985) 
@@ -81,7 +83,7 @@ Enjoy the list below. And if the mood strikes you, nod along as you whisper, "Oh
  - *Steal like an Artist*
  - *Studio Secrets for the Graphic Artist*
  - *Susan Kare ICONS*
- - *高田明美アートブック２ クリステラ* [Takada Akemi Art Book 2: Crystella]
+ - *高田明美アートブック２ クリステラ*
  - *Video Girl Ai* (Vol. 1)
  - *Video Girl Ai* (Vol. 2)
  - *Video Girl Ai* (Vol. 3)
