@@ -19,7 +19,7 @@ In my studio, I have one of those IKEA shelving grids&mdash;you know, the ones w
 
 ![Elephant magazine](https://hxlntblob.blob.core.windows.net/nbm/elephant.jpg)
 
-Books that didn't make the cut would get packed up into boxes, where presumably they'll be dealt with at a later time. 
+Books that didn't make the cut would get packed up into boxes. Presumably they'll be dealt with at a later time. 
 
 I made the arbitrary decision to exclude comic books and zines from these shelves but to allow longer-form graphic novels and manga. My thought here is that comics and zines don't really stand up on their own in bookshelf world: too floppy, no spine, easily crushed by hardback books and negligent reshelving. I prefer to keep 'em in binders or portfolios. So, comics and zines get their own cubby. OK.
 
