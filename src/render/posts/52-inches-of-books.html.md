@@ -55,6 +55,7 @@ Enjoy the list below. And if the mood strikes you, nod along as you whisper, "Oh
  - *Grafix* (Vol. 1)
  - *Hertzian Tales*
  - *The History of Nintendo: 1980-1991*
+ - *How to Build Your Own Working Microcomputer*
  - *HOW TO マシン語 Z80/6809 マスター編*
  - *HTML5 Games*
  - *I AM ERROR*
@@ -70,6 +71,7 @@ Enjoy the list below. And if the mood strikes you, nod along as you whisper, "Oh
  - *The New Illustration*
  - *No More Rules: Graphic Design and Postmodernism*
  - *Paul Rand*
+ - *Permanence and Change: An Anatomy of Purpose*
  - *ピコっとハニエル* (Vol. 1)
  - *Pioneers&mdash;Layout Design*
  - *Popular Computing* (January 1985)
@@ -79,6 +81,7 @@ Enjoy the list below. And if the mood strikes you, nod along as you whisper, "Oh
  - *Psycho-Pictography: The New Way to Use the Miracle Power of Your Mind*
  - *Retrofonts*
  - *QuizFest* (August 2014)
+ - *Sex from Scratch*
  - *So Pretty/Very Rotten*
  - *Steal like an Artist*
  - *Studio Secrets for the Graphic Artist*
