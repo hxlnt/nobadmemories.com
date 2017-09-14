@@ -3,8 +3,7 @@ layout: 'default'
 title: 'Resources'
 ---
 
-
-My design and programming bookmarks now live at [https://github.com/hxlnt/Resources](this GitHub repo).
+My design and programming bookmarks now live at [this GitHub repo](https://github.com/hxlnt/Resources).
 
 ## My dev toolkit
   - For NES development, I use NESASM 3 (compiler), YY-CHR (graphics tool), [FamiTracker](http://www.famitracker.com/) (music tool), FCEUX (emulator), HxD (hex editor), and [VS Code](http://code.visualstudio.com) (IDE).
