@@ -1,0 +1,93 @@
+<!doctype HTML>
+
+<HEAD>
+    <SCRIPT src="https://hxlntblob.blob.core.windows.net/nbm/alterdark/js/jquery-3.2.1.min.js"></SCRIPT>
+    <SCRIPT src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></SCRIPT>
+    <LINK rel="stylesheet" href="https://hxlntblob.blob.core.windows.net/nbm/alterdark/css/spectrum.css" type="text/css" />
+    <LINK rel="stylesheet" href="https://hxlntblob.blob.core.windows.net/nbm/alterdark/css/style.css" type="text/css" />
+</HEAD>
+
+<BODY>
+    <DIV id="pagecontainer">
+    <DIV id="maincontainer">
+        <DIV class="flexcontainer">
+            <DIV id="minimize">
+                &ndash;
+            </DIV>
+            <DIV id="menubar">
+                Alter Dark Control ver. 0.1
+            </DIV>
+            <DIV id="menu">
+                V
+            </DIV>
+        </DIV>
+    <DIV class="flexcontainer">
+        <DIV id="leftheader">
+            <IMG src="https://hxlntblob.blob.core.windows.net/nbm/alterdark/img/alterdark.png" width="300" />
+        </DIV>
+        <DIV id="rightheader">
+            &hearts; Customize and download NES "screensavers" right from the comfort of your browser!<BR />
+            By <A href="http://www.nobadmemories.com/" target="new">Rachel Simone Weil</A><BR>
+                <A href="http://www.github.com/alterdark" target="new">Alter Dark on GitHub</A>
+        </DIV>
+    </DIV>
+    <DIV class="flexcontainer">
+        <DIV id="leftcontent">
+        <STRONG>Theme</STRONG>
+            <SELECT id="background" size="7">
+                <OPTION value="0" selected>
+                    Solid
+                </OPTION>
+                <OPTION value="1">
+                    Night Sky
+                </OPTION>
+                <OPTION value="2">Shapesy</OPTION>
+                <OPTION value="3">Princess Castle</OPTION>
+                <OPTION value="4">Glitch World</OPTION>
+            </SELECT><BR><BR>
+                <DIV id="previewarea">
+            <STRONG>Theme preview</STRONG><BR>
+            <img src="https://hxlntblob.blob.core.windows.net/nbm/alterdark/img/solid.png" id="previewimg" />
+            </DIV>
+        </DIV>
+        <DIV id="rightcontent">
+            <DIV id="colors">
+                <STRONG>Colors</STRONG><BR>
+                    <TABLE width="300">
+                        <TR>
+                            <TD valign="top" width="100%"><INPUT type="text" class="showPaletteOnly" id="bgpala0" /> Background<BR>
+                            <INPUT type="text" class="showPaletteOnly" id="bgpalb1"/> Text (optional)</TD>
+                        </TR>
+                    </TABLE>
+            <BR><BR>
+            <STRONG>Text</STRONG><BR>
+            <INPUT type="radio" id="notext" name="radiotext" checked="checked"/> None
+            <INPUT type="radio" id="customtext" name="radiotext"/> Custom text<BR>
+                        <INPUT type="text" maxlength="28" id="text1" /><BR>
+                        <INPUT type="text" maxlength="28" id="text2" />
+            <BR><BR>
+            <STRONG>Animation</STRONG><BR>
+            <INPUT type="radio" name="radioanim" id="noanim" checked="checked"> None
+            <INPUT type="radio" name="radioanim" id="hearts"> Hearts
+            <INPUT type="radio" name="radioanim" id="aliens"> Aliens<BR><BR>
+            SLOW <input type="range" min="1" max="3" value="2" id="animspeed">FAST<BR>    
+            </DIV>
+                    <BR>
+            <DIV id="dlarea">
+                    <BUTTON id="download">
+                        <u>D</u>ownload screensaver
+                    </BUTTON>
+            </DIV>
+        </DIV>
+    </DIV>
+    </DIV>
+</DIV>
+
+    
+    <SCRIPT src="https://hxlntblob.blob.core.windows.net/nbm/alterdark/js/FileSaver.min.js"></SCRIPT>
+    <SCRIPT src="https://hxlntblob.blob.core.windows.net/nbm/alterdark/js/spectrum.js"></SCRIPT>
+    <SCRIPT src="https://hxlntblob.blob.core.windows.net/nbm/alterdark/js/script.js"></SCRIPT>
+
+</BODY>
+
+</HTML>
