@@ -7,6 +7,7 @@ event:
 venue: 
   name: "Bullock Texas State History Museum"
   location: "Austin, TX USA"
+  link: "https://www.thestoryoftexas.com/"
 date: 2017-07-29 10:00
 type: "EXHB"
 ---
