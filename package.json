@@ -27,8 +27,8 @@
     "url": "http://github.com/docpad/docpad-skeleton-h5bp.git"
   },
   "engines": {
-    "node": "4.4.7",
-    "npm": "3.9.5"
+    "node": "4.8.4",
+    "npm": "3.10.10"
   },
   "dependencies": {
     "docpad": "~6.75.0",
