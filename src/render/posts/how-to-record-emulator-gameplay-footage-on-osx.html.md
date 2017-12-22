@@ -4,7 +4,7 @@ title: "How to record emulator gameplay footage on OSX"
 description: "OpenEmu gameplay recording"
 while: "goofing off."
 date: 2017-12-21T21:16
-keyimg: "https://hxlntblob.blob.core.windows.net/nbm/phone.png"
+keyimg: "https://hxlntblob.blob.core.windows.net/nbm/quicktime.png"
 feature: true
 ---
 
