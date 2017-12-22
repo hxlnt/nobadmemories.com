@@ -24,9 +24,7 @@ There's an open-source OSX extension that allows the audio output of one applica
 3. Launch Audio MIDI Setup by going to the Launchpad and clicking into Other OR by browsing to Applications/Utilities/.
 4. Click the + in the bottom left of the window to create a new Multi-Output Device. Then, make sure both Built-in Output and Soundflower (2ch) are checked. Click the gear icon at the bottom left and select "Use this device for sound output."
 5. Open QuickTime Player and go to File > New Screen Recording. Click the arrow next to the record button and select Soundflower (2ch). 
-
 ![Screenshot of QuickTime](https://hxlntblob.blob.core.windows.net/nbm/quicktime.png)
-
 6. Click the record button, draw a box around the visible playfield, and click Start Recording.
 7. Click on the OpenEmu window to reactivate it, and start capturing your footage! You might want to select Controls > Restart Emulation in OpenEmu to get the gameplay footage right from the beginning. 
 8. To stop recording, right click on QuickTime in the dock and select Stop Screen Recording. The movie will open, and at this point you can either save it (File > Save...) or trim it (Edit > Trim...) before saving.
