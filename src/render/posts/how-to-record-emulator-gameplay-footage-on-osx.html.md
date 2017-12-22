@@ -11,11 +11,11 @@ feature: true
 I recently found a great trick for recording gameplay footage with audio in [OpenEmu](http://openemu.org/) for Mac OSX.
 
 <p><video width="100%" height="auto" controls loop>
-  <source src="https://hxlntblob.blob.core.windows.net/nbm/citytrouble.mp4" type="video/mp4">
+  <source src="https://hxlntblob.blob.core.windows.net/nbm/citytrouble.m4v" type="video/mp4">
 Your browser does not support the video tag.
 </video></p>
 
-Looks good, right? (And, why yes, I *did* lend my voice to that title screen audio for *City Trouble!* "Let's get it on!")
+Looks good, right? (And, why yes, I *did* lend my voice to that title screen audio for *City Trouble!* Let's get it on!)
 
 There's an open-source OSX extension that allows the audio output of one application to serve as the audio *input* for another. And it's pretty easy to get up and running.
 
