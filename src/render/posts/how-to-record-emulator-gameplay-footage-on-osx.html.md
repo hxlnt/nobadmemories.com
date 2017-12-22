@@ -29,10 +29,10 @@ There's an open-source OSX extension that allows the audio output of one applica
 
 6. Click the record button, draw a box around the visible playfield, and click Start Recording.
 7. Click on the OpenEmu window to reactivate it, and start capturing your footage! You might want to select Controls > Restart Emulation in OpenEmu to get the gameplay footage right from the beginning. 
-8. To stop recording, right click on QuickTime in the taskbar and select Stop Screen Recording. The movie will open, and at this point you can either save it (File > Save...) or trim it (Edit > Trim...) before saving.
+8. To stop recording, right click on QuickTime in the dock and select Stop Screen Recording. The movie will open, and at this point you can either save it (File > Save...) or trim it (Edit > Trim...) before saving.
 
 Now you have a high-quality recording of your gameplay, complete with audio! (Hint: QuickTime saves files with a .mov, which doesn't always play nice with Twitter and other browser uploads. However, you can rename the file with a .m4v extension to get around these issues.)
 
-When you're done, reenable your default output device. The Soundflower multi-output device you created will be saved for the next time you want to reenable it.
+When you're done, reenable your default output device. The Soundflower multi-output device you created will be saved for the next time you want to reenable it. Hint: You can also change default output devices by clicking the volume icon on the taskbar.
 
 I hope this has been helpful to anyone wanting a quick and easy way to record high-quality gameplay footage from OpenEmu. Enjoy!
