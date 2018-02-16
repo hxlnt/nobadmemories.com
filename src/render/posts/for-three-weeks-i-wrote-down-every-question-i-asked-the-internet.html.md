@@ -152,7 +152,7 @@ Take a look at https://developer.microsoft.com/en-us/windows/hardware/windows-dr
 **Can you natively put a CSS blur filter on part of an image without duplicating it and blurring the dupe?**
 No. That said, here's a pretty simple way of duplicating the image and cropping and blurring the dupe: [http://jsfiddle.net/nbLcs241/](http://jsfiddle.net/nbLcs241/). Here's another similar sample that uses image masking, which could be helpful for gradients and more complex shapes: [https://designshack.net/articles/css/csstiltshift/](https://designshack.net/articles/css/csstiltshift/).
 
-**How can you run a Python script on a Raspbian at boot?**
+**How can you run a Python script on Raspbian at boot?**
 
 ```
 sudo crontab -e
@@ -161,7 +161,7 @@ sudo reboot
 ```
 
 **In Hugo, how do you change the URL associated with a taxonomy page?**
-In `config.yaml`, set taxonomy values as URL path (Ex: `genre: collection/genre`). Then, include the path in the page's .md frontmatter (e.g., `collection/genre: action`).
+In `config.yaml`, set taxonomy values as URL path (Ex: `genre: collection/genre`). Then, include the path in the page's Markdown frontmatter (e.g., `collection/genre: action`).
 
 
 ## Food and drink
