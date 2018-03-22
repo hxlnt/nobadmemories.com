@@ -18,10 +18,11 @@ With around 18,000 attendees this year, GHC is an enormous conference. And the v
 
 
  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We can't help but be in awe of what it's like when 18k <a href="https://twitter.com/hashtag/WomenInTech?src=hash&amp;ref_src=twsrc%5Etfw">#WomenInTech</a> come together at <a href="https://twitter.com/hashtag/GHC17?src=hash&amp;ref_src=twsrc%5Etfw">#GHC17</a>. We're so humbled & inspired by all of you. 
- <a href="https://t.co/xa8wOB5g65"><img src="https://pbs.twimg.com/media/DLZ9z3zUQAAzxgP.jpg"></a></p>&mdash; Microsoft Women (@MicrosoftWomen) <a href="https://twitter.com/MicrosoftWomen/status/916057924597719040?ref_src=twsrc%5Etfw">October 5, 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+ <a href="https://t.co/xa8wOB5g65"><img src="https://pbs.twimg.com/media/DLZ9z3zUQAAzxgP.jpg"></a></p>&mdash; Microsoft Women (@MicrosoftWomen) <a href="https://twitter.com/MicrosoftWomen/status/916057924597719040?ref_src=twsrc%5Etfw">October 5, 2017</a></blockquote>
+ <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-That said, I didn't spend the conference thinking to myself, *"Wow, there sure are a lot of women here!"* or *"This is soooo weird...! Where are the men?"* In fact, for the majority of the time I was at Grace Hopper, the gender imbalance *barely registered.* I simply didn't notice it. 
+<p>That said, I didn't spend the conference thinking to myself, *"Wow, there sure are a lot of women here!"* or *"This is soooo weird...! Where are the men?"* In fact, for the majority of the time I was at Grace Hopper, the gender imbalance *barely registered.* I simply didn't notice it.</p>
 
 That feeling of not noticing actually gave me pause once I acknowledged it. It was a good reminder of how easy it is to not think about wildly unbalanced demographics when you happen to be a part of the wildly unbalanced majority. I think one part of fostering awesome, diverse tech communities is cultivating that constant "Be aware!" inner voice.
 
