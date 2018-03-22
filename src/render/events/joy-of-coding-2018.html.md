@@ -11,7 +11,7 @@ venue:
   name: "De Doelen"
   location: "Rotterdam, NL"
   link: "https://www.dedoelen.nl/home/"
-date: 2017-06-08 13:00
+date: 2018-06-08 13:00
 type: "TECH"
 ---
 
