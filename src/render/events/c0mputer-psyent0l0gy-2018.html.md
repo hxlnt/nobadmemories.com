@@ -3,7 +3,7 @@ layout: "eventdetails"
 event:
   name: "C0MPUTER P$YENT0L0GY"
   link: "http://schedule.fuseboxfestival.com/festival/irl-computer-scientology"
-  desc: "C0MPUTER P$YENT0L0GY is a 6-step audit syste, to free to modern technoself from the current limits of conciousness."
+  desc: "C0MPUTER P$YENT0L0GY is a 6-step audit system to free the modern technoself from the current limits of conciousness."
 venue: 
   name: "Museum of Human Achievement"
   location: "Austin, TX USA"
