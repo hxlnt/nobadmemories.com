@@ -8,5 +8,5 @@ presentation:
   name: "Rachel Weil on Femicom and the Value of Preserving Classic 'Girl' Video Games"
   desc: "On the podcast Adam and Rachel had a lively discussion about gender expectations, the negative effects of marketing towards girls and boys, their favorite classic games and even their favorite savory breakfasts."
 date: 2018-03-07 17:24
-type: "TECH"
+type: "ACAD"
 ---
