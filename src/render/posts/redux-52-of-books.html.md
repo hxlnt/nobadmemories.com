@@ -9,13 +9,13 @@ keyimg: "http://nobadmemories.com/img/redux.jpg"
 feature: true
 ---
 
-Nearly one year ago, I blogged about thinning the contents of my bookshelf to contain just my most essential reference materials. My goal was to squeeze everything into four 13" shelves (hence, 52 inches of books).
+Nearly one year ago, [I blogged about thinning the contents of my bookshelf](http://nobadmemories.com/blog/2017/09/inches-of-books/) to contain just my most essential reference materials. My goal was to squeeze everything into four 13" shelves (hence, 52 inches of books).
 
 I've more or less maintained the same footprint since then, but books have come into and out of rotation. I was curious to see what books stuck around for the year, which ones went on loan to friends or departed to greener pastures, and which ones gained must-have status.
 
 ![Bookshelf](http://nobadmemories.com/img/redux.jpg)
 
-Here are the results, with new additions **in bold**.
+Here are the results, with new additions **in bold** and departed books removed.
 
  - *80sガーリーデザインコレクション*
  - **_80sガーリー雑誌広告コレクション_**
@@ -94,23 +94,4 @@ Here are the results, with new additions **in bold**.
  - **_夢見る少女たち Dreaming Girls_**
  - *The ZX Spectrum Book/The Commodore 64 Book*
 
-Twenty-two books were added and fifty-one stayed put, resulting in a grand total of 73 books. The following seventeen books and magazines did not make the cut or are loan.
-
- - *ASTRO girl!* (July 2014)
- - *Design as Art*
- - *Designing Embedded Hardware*
- - *Electronics Illustrated* (June 1959)
- - *Game Graphics*
- - *Grafix* (Vol. 1)
- - *HTML5 Games*
- - *The Nature of Code*
- - *Popular Computing* (January 1985)
- - *Popular Computing* (February 1985)
- - *Popular Computing* (April 1985)
- - *Psycho-Pictography: The New Way to Use the Miracle Power of Your Mind*
- - *Retrofonts*
- - *Sex from Scratch*
- - *Video Girl Ai* (Vol. 3)
- - *Wabi-Sabi for Artists, Designers, Poets & Philosophers*
- - *The Web Design Annual*
- - *What Is Obscenity?: The Story of a Good for Nothing Artist and Her Pussy*
+Twenty-two books were added and 51 stayed put, resulting in a grand total of 73 books. Most of the new additions are art, craft, or design related, but there are a few pertaining to technology thrown in as well. 

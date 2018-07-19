@@ -10,7 +10,7 @@ My design and programming bookmarks now live at [this GitHub repo](https://githu
   - For Javascript and web development, I use [VS Code](http://code.visualstudio.com) (IDE/debugger) and Chrome (browser).
   - I use Adobe Photoshop for prototyping, editing photos, and making animated GIFs. I use Adobe Illustrator for creating vector art and Adobe InDesign for page layout.
   - I use [git](https://git-scm.com/) and [GitHub](http://github.com) for source control and sharing code.
-  - I split my time between a PC (Surface Book) and a Mac (5K iMac).
+  - I split my time between a PC and a Mac.
   - I use [Wakatime](https://wakatime.com/) to track how much time I spend coding in various languages and on various projects:
 
 <figure><embed src="https://wakatime.com/share/@hxlnt/6b7e5073-b32a-49e4-8194-fd641d32f1aa.svg"></embed></figure>
