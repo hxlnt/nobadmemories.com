@@ -23,7 +23,7 @@ My design and programming bookmarks now live at [this GitHub repo](https://githu
   - [Devine Lu Linvega](http://www.wiki.xxiivv.com/) (Montreal)
   - [Jenny Jiao Hsia](http://qdork.com) (NYC)
   - [Jeremiah Johnson](http://www.datacorruption.org) (NYC)
-  - [Katie Rose Pipkin](http://katierosepipkin.com) (Pittsburgh)
+  - [Everest Pipkin](http://everestpipkin.com) (Pittsburgh)
   - [Kenji Kishi](http://m7kenji.com) (Tokyo)
   - [Kent Sheely](http://www.kentsheely.com) (LA)
   - [Nathalie Lawhead](http://alienmelon.com) (Irvine)
@@ -36,9 +36,9 @@ My design and programming bookmarks now live at [this GitHub repo](https://githu
 
 ## Other inspirations
   - **Animation** *Barbie: Life in the Dreamhouse*, *Jem and the Holograms*, *Kimagure Orange Road*, *Maison Ikkoku*, *My Little Pony*, *Sailor Moon*
-  - **Arcades** Babycastles, Hello Kitty Kawaii Paradise, Icchoume Playland, Musee Mecanique, Museum of Human Amusement
+  - **Arcades** Add-a-Ball, Babycastles, Hello Kitty Kawaii Paradise, Icchoume Playland, Musee Mecanique, Museum of Human Amusement
   - **Artists/designers** Aaron Douglas, Akemi Takada, April Greiman, the Atlas Group, Bruno Munari, Paul Rand, Sadie Benning, Susan Kare, Stereo Tennis
-  - **Books** *6502 Assembly Language Programming*, *'80s Girly Design Collection*, *The Archive*, *As Long as It's Pink*, *Design Noir*, *The Elements of Style*, *Feminism and Youth Culture*, *From Barbie to Mortal Kombat*, *The Future of Nostalgia*, *The Man-Made World*, *No More Rules*, *Steal like an Artist*, *Understanding Jim Crow*, *Ways of Seeing*, *Women, Media, and Consumption in Japan*
-  - **Comics** *Archie*, *Barbie/Barbie Fashion*, *Ghost World*, *It Ain't Me Babe*, *Nancy*, *Video Girl Ai*
-  - **Films** *Electric Dreams*, *A Girl's Own Story*, *Space is the Place*, *Xanadu*
+  - **Books** *6502 Assembly Language Programming*, *'80s Girly Design Collection*, *As Long as It's Pink*, *Design Noir*, *The Elements of Style*, *Feminism and Youth Culture*, *From Barbie to Mortal Kombat*, *The Future of Nostalgia*, *The Man-Made World*, *No More Rules*, *Steal like an Artist*, *Understanding Jim Crow*, *Ways of Seeing*, *Women, Media, and Consumption in Japan*
+  - **Comics** *Archie*, *Barbie/Barbie Fashion*, *Nancy*, *Suspect Device*, *Video Girl Ai*
+  - **Films** *Electric Dreams*, *Ghost World*, *A Girl's Own Story*, *Space is the Place*, *Xanadu*
   - **Video games and software** After Dark, *Animal Crossing*, *Herpit* series, *Katamari Damacy* series, *Kirby's Adventure*, *Otocky*, Pico-8, *Magical Shop*, *Sim City*, *Skate 3*, *Sonic Dreams Collection*, *Style Savvy* series, *Tomodachi Collection*, *Zero Zero*
