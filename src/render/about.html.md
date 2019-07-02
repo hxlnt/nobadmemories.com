@@ -7,7 +7,7 @@ Howdy! I'm Rachel Simone Weil, an experimental designer whose work offers altern
 
 ![Hello Kitty Land ROM hack, 2003](https://hxlntblob.blob.core.windows.net/nbm/kitty.gif)
 
-I have a BA in Chemistry and an MFA in Design. I currently work on F12 tools for the Edge browser <a href="http://www.microsoft.com" target="new">Microsoft</a>. I also run <a href="http://www.femicom.org/" target="new">FEMICOM Museum</a>, a digital and physical archive of 20th-century femme tech.
+I have a BA in Chemistry and an MFA in Design. I currently work on developer tools for the Edge browser at <a href="http://www.microsoft.com" target="new">Microsoft</a>. I also run <a href="http://www.femicom.org/" target="new">FEMICOM Museum</a>, a digital and physical archive of 20th-century femme tech.
 
 Twitter: <a href="http://www.twitter.com/partytimehxlnt">@partytimeHXLNT</a> &hearts; GitHub: <a href="http://www.github.com/hxlnt">HXLNT</a></p>
 
