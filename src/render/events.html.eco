@@ -3,7 +3,7 @@ layout: 'default'
 title: 'Events'
 ---
 
-    <p>Below is a list of selected technical and academic talks, panels, and exhibitions/performances. Please check the <a href="http://www.juegosrancheros.com/" target="new">Juegos Rancheros website</a> for information on upcoming events related to Juegos Rancheros, Fantastic Arcade, and the Museum of Human Amusement.</p>
+    <p>Below is a list of selected technical and academic talks, panels, and exhibitions/performances.</p>
     <h2>Upcoming events</h2>
         <% for event in @getCollection('events').sortArray(date: 1): %>
             <% if event.date >= new Date: %>
