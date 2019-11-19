@@ -9,7 +9,7 @@ keyimg: "http://nobadmemories.com/img/itdoesntmatter.jpg"
 feature: true
 ---
 
- > Whether intended it or not, art carries a meaning or political attitude. Therefore, artists should either create with that meaning in mind or retroactively seek it to ensure that their practice is aligned with their values.
+Whether intended it or not, art carries a meaning or political attitude. Therefore, artists should either create with that meaning in mind or retroactively seek it to ensure that their practice is aligned with their values.
 
 Many artists beginning their practice are skeptical of artist statements and the idea that all art must *mean something.* Many of us have, in the course of an art gallery visit, shifted our gaze between the alien countenance of an abstract portrait and that small placard to its right: "See how the brushstrokes reveal hidden truths about labor, poverty, and racial inequality." Back to the portrait, then back again to the placard. Some of us have been asked to stretch our imaginations so far—with little help from the art historian and curator—that we conclude that artist statements are, at best, wishful guesses and, at worst, lies told in the service of keeping wayward liberal-arts majors employed.
 
