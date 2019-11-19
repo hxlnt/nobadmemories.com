@@ -40,7 +40,7 @@
         <content>
 				<article>
 					<%- @content %>
-                    <p><span class="article-endmatter">Posted <strong><%- @document.momentDate %></strong> at <strong><%- @document.momentTime %></strong> while <strong> <%- @document.while %></strong>
+                    <p><span class="article-endmatter">Posted <strong><%- @document.momentDate %></strong> at <strong><%- @document.momentTime %></strong>
                     </p>
                         <div id="disqus_thread"></div>
 				</article>
