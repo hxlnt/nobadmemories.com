@@ -13,7 +13,7 @@ Throughout December, January, February, and March, I blogged about the ten NES g
 
 I realized that while I still feel good about the ten games I chose, I wish I'd chosen a slightly different order. So here's my newfangled and reordered top-ten list with links to each article.
 
-1. *[Kirby's Adventure](/blog/2017/03/my-ten-most-influential-nes-games-1-kirbys-adventure)* "is a technical and aesthetic *masterpiece.*" [Read more...]((/blog/2017/03/my-ten-most-influential-nes-games-1-kirbys-adventure)
+1. *[Kirby's Adventure](/blog/2017/03/my-ten-most-influential-nes-games-1-kirbys-adventure)* "is a technical and aesthetic *masterpiece.*" [Read more...](/blog/2017/03/my-ten-most-influential-nes-games-1-kirbys-adventure)
 ![Kirby's Adventure](https://hxlntblob.blob.core.windows.net/nbm/kirbys_adventure_masterpiece.gif)
 2. *[Otocky](/blog/2017/02/my-ten-most-influential-nes-games-7-otocky)* "beautifully dances on the line between experimental art game and traditional arcade shooter." [Read more...](/blog/2017/02/my-ten-most-influential-nes-games-7-otocky)
 ![Otocky](/img/flying.png)
