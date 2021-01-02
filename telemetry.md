@@ -14,6 +14,9 @@ practice:
         - date: 2021-01-01
           minutes: 200
           notes: Working on my website
+        - date: 2021-01-01
+          minutes: 50
+          notes: Working on my website
 reading:
     - title: Design as Art
       author: Bruno Munari
