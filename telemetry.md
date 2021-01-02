@@ -24,7 +24,7 @@ practice:
           minutes: 32
           notes: Working on my website
         - date: 2021-01-01T20:48:30-06:00
-          minutes: 45
+          minutes: 92
           notes: Working on my website
 reading:
     - title: Design as Art
@@ -32,6 +32,8 @@ reading:
       progress:
         - date: 2021-01-01T09:26:30-06:00
           percent: 7
+        - date: 2021-01-01T23:00:00-06:00
+          percent: 10
 venues:
     - name:
       citystate:
