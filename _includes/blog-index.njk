@@ -1,0 +1,26 @@
+{% include "partials/header.njk" %}
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            </div>
+            <div class="col-md-10">
+                <h2>{{ posttitle }}
+                </h2>
+                <h2> {{ page.date.toLocaleDateString('en-us', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }) }}
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                {{ content | safe }}
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+
+    {% include "partials/footer.njk" %}

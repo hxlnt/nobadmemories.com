@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>NO REFUNDS | NO CASH VALUE | NO BAD MEMORIES</title>
+
+    <meta name="description" content="NO BAD MEMORIES is the personal website of artist Rachel Simone Weil.">
+    <meta name="author" content="Rachel Simone Weil">
+
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <div class="container-fluid" height="100%">
+        <div class="row">
+            <div class="col-md-12" style="padding: 10px 10% 10px 10%;">
+                <h1>
+                    No <strong>Bad</strong> Memories
+                </h1>
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="row">
+                        {% if title[0] == "E" %}
+                            <div class="col-md-2 headerblock" style="background-color:var(--color4);">
+                        {% elif title[0] == "M" %}
+                            <div class="col-md-2 headerblock" style="background-color:var(--color2);">
+                        {% else %}
+                            <div class="col-md-2 headerblock" style="background-color:var(--color1);">
+                        {% endif %}
+                            </div>
+                            <div class="col-md-10">
+                              <h2>{{ title }}
+                              </h2>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-9">
+                      <div class="row">
+                          <div class="col-md-8">
+                          <p>{{ intro }}</p>
+                          </div>
+                          <div class="col-md-4">
+                          </div>
+                      </div>
+                  </div>
+              </div>
