@@ -14,12 +14,13 @@ practice:
         - date: 2021-01-01
           minutes: 200
           notes: Working on my website
-        - date: 2021-01-01
-          minutes: 60
+        - date: 2021-01-02
+          minutes: 110
           notes: Working on my website
 reading:
     - title: Design as Art
       author: Bruno Munari
+      year: 1967
       progress:
         - date: 2021-01-01
           percent: 10
@@ -27,6 +28,7 @@ reading:
           percent: 15
     - title: Music Theory for Electronic Music Producers
       author: J. Anthony Allen
+      year: 2018
       progress:
         - date: 2021-01-02
           percent: 7
