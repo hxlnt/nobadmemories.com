@@ -29,6 +29,12 @@ h1 {
     margin: -15px;
 }
 
+h3{
+    font-family: 'Helvetica', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+}
+
 figure {
     /* background-color:var(--color3-light); */
 }

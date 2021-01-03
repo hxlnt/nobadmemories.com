@@ -5,7 +5,7 @@ intro: I'm experimenting with some different ways to track progress in certain a
 practice:
     - music:
         - date: 2021-01-01
-          minutes: 204
+          minutes: 205
           notes: Learning and documenting the controls of the Korg Volca Sample
         - date: 2021-01-02
           minutes: 85
@@ -15,7 +15,7 @@ practice:
           minutes: 200
           notes: Working on my website
         - date: 2021-01-02
-          minutes: 110
+          minutes: 200
           notes: Working on my website
 reading:
     - title: Design as Art
@@ -25,7 +25,7 @@ reading:
         - date: 2021-01-01
           percent: 10
         - date: 2021-01-02
-          percent: 15
+          percent: 17
     - title: Music Theory for Electronic Music Producers
       author: J. Anthony Allen
       year: 2018
