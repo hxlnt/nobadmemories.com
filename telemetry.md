@@ -1,7 +1,7 @@
 ---
 layout: telemetry.njk
 title: Experiments → Telemetry
-intro: I'm experimenting with some different ways to track progress in certain areas and skills; the contents of this page may be in constant flux.
+intro: I'm experimenting with some different ways to track progress in certain areas and skills; the contents of this page may be in flux.
 practice:
     - music:
         - date: 2021-01-01
@@ -31,7 +31,7 @@ reading:
       year: 2018
       progress:
         - date: 2021-01-02
-          percent: 7
+          percent: 19
 placesofinterest:
     - name:
       citystate:
