@@ -52,8 +52,12 @@ h2 {
     line-height: 24px; 
 }
 
+code { 
+    background-color: var(--color4-light); 
+    color: var(--color3); }
+
 ol {
-    list-style: none;
+    /* list-style: none; */
     padding-left: 0;
 }
 
@@ -85,6 +89,8 @@ p, a, li {
     color: #050505;
     font-size: medium;
 }
+
+p { padding-bottom: 1.5em; }
 
 a {
     text-decoration: none;

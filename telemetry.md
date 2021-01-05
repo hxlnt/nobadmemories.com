@@ -32,6 +32,8 @@ reading:
           percent: 10
         - date: 2021-01-02
           percent: 17
+        - date: 2021-01-04
+          percent: 19
     - title: Music Theory for Electronic Music Producers
       author: J. Anthony Allen
       year: 2018
@@ -39,7 +41,9 @@ reading:
         - date: 2021-01-02
           percent: 7
         - date: 2021-01-03
-          percent: 24
+          percent: 22
+        - date: 2021-01-04
+          percent: 30
 placesofinterest:
     - name:
       citystate:
