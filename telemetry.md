@@ -1,6 +1,7 @@
 ---
 layout: telemetry.njk
 title: Experiments → Telemetry
+date: Last Modified
 intro: I'm experimenting with some different ways to track progress in certain areas and skills; the contents of this page may be in flux.
 practice:
     - music:
@@ -29,6 +30,9 @@ practice:
         - date: 2021-01-06
           minutes: 5
           notes: Working on my website
+        - date: 2021-01-07
+          minutes: 30
+          notes: Working on my website
 reading:
     - title: Design as Art
       author: Bruno Munari
@@ -44,6 +48,8 @@ reading:
           percent: 24
         - date: 2021-01-06
           percent: 29
+        - date: 2021-01-07
+          percent: 34
     - title: Music Theory for Electronic Music Producers
       author: J. Anthony Allen
       year: 2018
