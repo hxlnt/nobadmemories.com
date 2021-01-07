@@ -26,6 +26,9 @@ practice:
         - date: 2021-01-05
           minutes: 35
           notes: Working on my website
+        - date: 2021-01-06
+          minutes: 5
+          notes: Working on my website
 reading:
     - title: Design as Art
       author: Bruno Munari
@@ -39,6 +42,8 @@ reading:
           percent: 19
         - date: 2021-01-05
           percent: 24
+        - date: 2021-01-06
+          percent: 29
     - title: Music Theory for Electronic Music Producers
       author: J. Anthony Allen
       year: 2018
@@ -49,6 +54,10 @@ reading:
           percent: 22
         - date: 2021-01-04
           percent: 30
+        - date: 2021-01-05
+          percent: 32
+        - date: 2021-01-06
+          percent: 33
 placesofinterest:
     - name:
       citystate:
@@ -68,4 +77,10 @@ walking:
   - date: 2021-01-04
     steps: 2328
     distancemiles: 0.96
+  - date: 2021-01-05
+    steps: 2117
+    distancemiles: 0.87
+  - date: 2021-01-06
+    steps: 1445
+    distancemiles: 0.6
 ---
