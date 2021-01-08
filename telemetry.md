@@ -91,4 +91,7 @@ walking:
   - date: 2021-01-06
     steps: 1445
     distancemiles: 0.6
+  - date: 2021-01-07
+    steps: 2412
+    distancemiles: 1
 ---
