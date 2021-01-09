@@ -4,7 +4,7 @@ layout: blog-index.njk
 title: Experiments → Blog 
 date: 2021-01-09
 posttitle: "Retrospective: Hosting a mutual-aid fundraiser on Discord"
-intro: "<h2>Retrospective: Hosting a mutual-aid fundraiser on Discord</h2><p><em>Posted Friday, January 9, 2021</em></p>"
+intro: "<p><strong>Retrospective: Hosting a mutual-aid fundraiser on Discord</strong><br><em>Posted Friday, January 9, 2021</em></p>"
 ---
 
 In November of 2020, the boxes began to really stack up. A few by the hallway, then a looming tower near the kitchen. Spurred by months of COVID-19-induced isolation at home, I'd put myself on a mission to finally go through all my possessions and throw or give away what was no longer needed. Around the same time, my thoughts turned to making a charitable donation. Given the difficult circumstances 2020 brought, I wanted to be thoughtful about making a positive impact for those affected. 

@@ -33,7 +33,10 @@ practice:
         - date: 2021-01-07
           minutes: 30
           notes: Working on my website
-        - date: 2021-01-8
+        - date: 2021-01-08
+          minutes: 10
+          notes: Working on my website
+        - date: 2021-01-09
           minutes: 10
           notes: Working on my website
 reading:
@@ -56,7 +59,7 @@ reading:
         - date: 2021-01-08
           percent: 59
         - date: 2021-01-09
-          percent: 84
+          percent: 85
     - title: Music Theory for Electronic Music Producers
       author: J. Anthony Allen
       year: 2018
@@ -100,6 +103,6 @@ walking:
     steps: 2412
     distancemiles: 1
   - date: 2021-01-08
-    steps: 787
-    distancemiles: .33
+    steps: 1295
+    distancemiles: .54
 ---
