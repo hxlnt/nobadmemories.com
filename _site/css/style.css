@@ -45,6 +45,16 @@ figcaption {
     padding-top: 12px;
 }
 
+blockquote {
+    padding-top: 12px;
+    padding-left: 24px;
+    border-left: 12px solid var(--color1-light);
+}
+
+blockquote p, blockquote li {
+    font-family: 'Helvetica', 'Helvetica Neue', 'Arial', sans-serif;
+}
+
 h2 {
     font-family: 'Consolas', monospace;
     font-size: medium;
