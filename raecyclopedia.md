@@ -26,6 +26,10 @@ entries:
       - https://homeguides.sfgate.com/germinate-pepper-seeds-indoors-38209.html
       - https://growhotpeppers.com/germinating-pepper-seeds/
     tag: gardening
+  - date: 2021-01-10
+    question: Is there an app that lets me easily edit markdown files on GitHub from my phone?
+    answer: "Yes, (and it's oddly not the official GitHub app): Working Copy."
+    tag: coding
 
 
 
