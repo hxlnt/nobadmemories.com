@@ -24,6 +24,11 @@ jobs:
           path: $GITHUB_WORKSPACE/site
       - name: action-push
         uses: ludeeus/action-push@0.0.1
+        with:
+          ACTION_MAIL = "partytimehexcellent@gmail.com"
+          ACTION_NAME = "Rachel Simone Weil"
+          ACTION_BRANCH = "11ty"
+          ACTION_MESSAGE = "Push built site back to GitHub."
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v0.0.1-preview
