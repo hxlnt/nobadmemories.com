@@ -22,13 +22,11 @@ jobs:
         uses: mcfitzgerald/action-build-eleventy@2.01
         with:
           path: $GITHUB_WORKSPACE/site
-      - name: action-push
-        uses: ludeeus/action-push@0.0.1
+      - name: Push built site to repo
+        uses: actions-go/push@master
         with:
-          ACTION_MAIL: "partytimehexcellent@gmail.com"
-          ACTION_NAME: "Rachel Simone Weil"
-          ACTION_BRANCH: "11ty"
-          ACTION_MESSAGE: "Push built site back to GitHub."
+          author-email: 'partytimehexcellent@gmail.com'
+          commit-message: '[Auto] Update built files.'
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v0.0.1-preview
