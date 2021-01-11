@@ -81,6 +81,12 @@ reading:
           percent: 39
         - date: 2021-01-10
           percent: 43
+    - title: The Curated Closet
+      author: Anuschka Rees
+      year: 2016
+      progress:
+        - date: 2021-01-11
+          percent: 19
 placesofinterest:
     - name:
       citystate:
@@ -116,6 +122,6 @@ walking:
     steps: 2063
     distancemiles: .85
   - date: 2021-01-10
-    steps: 2929
-    distancemiles: 1.21
+    steps: 3055
+    distancemiles: 1.26
 ---
