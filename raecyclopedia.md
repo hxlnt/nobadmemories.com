@@ -2,7 +2,7 @@
 layout: raecyclopedia.njk
 title: Experiments → Raecyclopedia
 date: Last Modified
-intro: In 2017, I catalogued everything I looked up online and published it in a question-and-answer format, like that of an FAQ section. This is an ongoing replication of that experiment, collecting what I've learned since January 1, 2021.
+intro: For three weeks in 2017, I catalogued everything I looked up online and published it in a question-and-answer format to gain some insights into my own interests and self-teaching. This is an ongoing replication of that experiment, collecting what I've learned since January 1, 2021.
 entries:
   - date: 2021-01-07
     question: Do violets only bloom once?
