@@ -6,6 +6,60 @@
             <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
             </div>
             <div class="col-md-10">
+                <h2>Art
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                <ul>
+                    {% for item in entries %}
+                        {% if item.tag == "art" %}
+                            <li><strong>{{ item.question }}</strong><br>{{item.answer}}</li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            </div>
+            <div class="col-md-10">
+                <h2>Coding
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                <ul>
+                    {% for item in entries %}
+                        {% if item.tag == "coding" %}
+                            <li><strong>{{ item.question }}</strong><br>{{item.answer}}</li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            </div>
+            <div class="col-md-10">
                 <h2>Cooking
                 </h2>
             </div>
