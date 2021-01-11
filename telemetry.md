@@ -39,6 +39,9 @@ practice:
         - date: 2021-01-09
           minutes: 55
           notes: Working on my website
+        - date: 2021-01-10
+          minutes: 10
+          notes: Working on my website
 reading:
     - title: Design as Art
       author: Bruno Munari
@@ -76,6 +79,8 @@ reading:
           percent: 33
         - date: 2021-01-09
           percent: 39
+        - date: 2021-01-10
+          percent: 43
 placesofinterest:
     - name:
       citystate:
@@ -110,4 +115,7 @@ walking:
   - date: 2021-01-09
     steps: 2063
     distancemiles: .85
+  - date: 2021-01-10
+    steps: 2929
+    distancemiles: 1.21
 ---
