@@ -46,4 +46,12 @@ entries:
     tag: travel
     sources: 
       - https://www.kosovo-info.com/where-is-kosovo/
+  - date: 01-12-2021
+    question: What is ritual bread?
+    answer: It is a kind of ornately-decorated bread made for festivals or religious occasions in Eastern Europe.
+    tag: cooking
+    sources:
+      - https://en.m.wikipedia.org/wiki/Kalach_(food)
+      - https://www.thewitchery.ca/product/ritual-breads/
+      - http://www.omda.bg/public/engl/ethnography/ritual_bread.htm
 ---
