@@ -89,6 +89,8 @@ reading:
       progress:
         - date: 2021-01-11
           percent: 19
+        - date: 2021-01-12
+          percent: 22
 placesofinterest:
     - name:
       citystate:
