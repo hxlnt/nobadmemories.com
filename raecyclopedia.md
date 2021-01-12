@@ -40,4 +40,10 @@ entries:
       - https://clmr.infoteca.it/bw5ne2/opac.aspx?web=ICNY&SRC=SBAS&lng=ENG
       - https://www.toledomuseum.org/search?search_text=munari
       - https://www.moma.org/artists/4163
+  - date: 01-12-2021
+    question: Where is Kosovo located?
+    answer: Kosovo is in the center of Balkans, a group of European countries east of Italy, south of Hungary, and north of Greece.
+    tag: travel
+    sources: 
+      - https://www.kosovo-info.com/where-is-kosovo/
 ---
