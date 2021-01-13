@@ -130,7 +130,10 @@ walking:
     distancemiles: 1.26
   - date: 2021-01-11
     steps: 1689
-    distancemiles: 0.7
+    distancemiles: .7
+  - date: 2021-01-12
+    steps: 1765
+    distancemiles: .73
 weight:
   - date: 2021-01-01
     difflbs: 0
