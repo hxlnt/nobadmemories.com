@@ -27,8 +27,8 @@ entries:
       - https://growhotpeppers.com/germinating-pepper-seeds/
     tag: gardening
   - date: 2021-01-10
-    question: Is there an app that lets me easily edit markdown files on GitHub from my phone?
-    answer: "Yes (and it's oddly not the official GitHub app): Working Copy."
+    question: Is there an iOS app for working with source code repositories?
+    answer: "Yes: Working Copy."
     tag: coding
   - date: 2021-01-10
     question: What are some libraries or museums in the US that house Bruno Munari's work?
@@ -42,7 +42,7 @@ entries:
       - https://www.moma.org/artists/4163
   - date: 01-12-2021
     question: Where is Kosovo located?
-    answer: Kosovo is in the center of Balkans, a group of European countries east of Italy, south of Hungary, and north of Greece.
+    answer: Kosovo is in the center of the Balkans, a group of European countries east of Italy, south of Hungary, and north of Greece.
     tag: travel
     sources: 
       - https://www.kosovo-info.com/where-is-kosovo/
@@ -54,4 +54,16 @@ entries:
       - https://en.m.wikipedia.org/wiki/Kalach_(food)
       - https://www.thewitchery.ca/product/ritual-breads/
       - http://www.omda.bg/public/engl/ethnography/ritual_bread.htm
+  - date: 01-12-2021
+    question: What is the English name of the order of monks who make Chartreuse liqueur?
+    answer: The Carthusians.
+    tag: cooking
+    sources:
+      - http://www.chartreux.org/
+  - date: 01-12-2021
+    question: Can spider plants grow in low-light conditions indoors?
+    answer: Yes.
+    tag: gardening
+    sources:
+      - https://housefur.com/10-houseplants-that-need-almost-zero-sunlight/
 ---
