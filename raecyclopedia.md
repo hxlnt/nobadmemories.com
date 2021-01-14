@@ -66,4 +66,26 @@ entries:
     tag: gardening
     sources:
       - https://housefur.com/10-houseplants-that-need-almost-zero-sunlight/
+  - date: 2021-01-13
+    question: What is the flashy flower sign item in Animal Crossing: New Horizons?
+    answer: It's a hanawa, a celebratory flower arrangement placed outside newly-opened businesses.
+    sources:
+      - https://www.reddit.com/r/ACPocketCamp/comments/ch0a84/someone_asked_if_flashy_flower_sign_was_real_so/
+      - https://www.belltreeforums.com/threads/what-does-the-flashy-flower-sign-say.525148/
+    tag: videogames
+  - date: 2021-01-13
+    question: How many stars are in Super Mario Galaxy?
+    answer: 121
+    tag: videogames
+    sources:
+      - https://nintendowire.com/guides/super-mario-3d-all-stars/super-mario-galaxy/how-long/
+  - date: 2021-01-13
+    question: Does an amaretto sour traditionally contain bourbon?
+    answer: Not traditionally, though it appears in some recipes to cut the sweetness of the cocktail.
+    tag: cooking
+    sources:
+      - https://jeffreymorgenthaler.com/i-make-the-best-amaretto-sour-in-the-world/
+      - https://en.m.wikipedia.org/wiki/Sour_(cocktail)
+      - https://www.esquire.com/food-drink/drinks/a27418184/amaretto-sour-cocktail-drink-recipe/
+      
 ---
