@@ -42,6 +42,9 @@ practice:
         - date: 2021-01-10
           minutes: 10
           notes: Working on my website
+        - date: 2021-01-12
+          minutes: 5
+          notes: Working on my website
 reading:
     - title: Design as Art
       author: Bruno Munari
@@ -82,7 +85,7 @@ reading:
         - date: 2021-01-10
           percent: 43
         - date: 2021-01-12
-          percent: 49
+          percent: 50
     - title: The Curated Closet
       author: Anuschka Rees
       year: 2016
@@ -130,10 +133,10 @@ walking:
     distancemiles: 1.26
   - date: 2021-01-11
     steps: 1689
-    distancemiles: .7
+    distancemiles: 0.7
   - date: 2021-01-12
-    steps: 1765
-    distancemiles: .73
+    steps: 2008
+    distancemiles: .83
 weight:
   - date: 2021-01-01
     difflbs: 0
