@@ -14,6 +14,9 @@ practice:
         - date: 2021-01-03
           minutes: 15
           notes: Learning music theory
+        - date: 2021-01-13
+          minutes: 15
+          notes: Documenting the controls of the Korg Volca Sample
     - coding:
         - date: 2021-01-01
           minutes: 200
@@ -165,4 +168,6 @@ weight:
     difflbs: -2.2
   - date: 2021-01-13
     difflbs: -2.4
+  - date: 2021-01-14
+    difflbs: -1.8
 ---

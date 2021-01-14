@@ -81,11 +81,17 @@ entries:
       - https://nintendowire.com/guides/super-mario-3d-all-stars/super-mario-galaxy/how-long/
   - date: 2021-01-13
     question: Does an amaretto sour traditionally contain bourbon?
-    answer: Not traditionally, though it appears in some recipes to cut the sweetness of the cocktail.
+    answer: No, though it appears in some recipes to cut the sweetness of the cocktail.
     tag: cooking
     sources:
       - https://jeffreymorgenthaler.com/i-make-the-best-amaretto-sour-in-the-world/
       - https://en.m.wikipedia.org/wiki/Sour_(cocktail)
       - https://www.esquire.com/food-drink/drinks/a27418184/amaretto-sour-cocktail-drink-recipe/
-      
+  - date: 2021-01-14
+    question: What does fraysexual mean?
+    answer: It is a sexual identity describing someone who is only sexually attracted to people with whom they do not have a strong emotional connection.
+    sources:
+      - https://lgbta.wikia.org/wiki/Fraysexual
+      - https://poly.land/2019/03/29/what-is-fraysexuality/
+    tag: unclassified
 ---
