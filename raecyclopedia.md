@@ -94,4 +94,17 @@ entries:
       - https://lgbta.wikia.org/wiki/Fraysexual
       - https://poly.land/2019/03/29/what-is-fraysexuality/
     tag: unclassified
+  - date: 2021-01-15
+    question: When was Mao Zedong born?
+    answer: December 26, 1893.
+    tag: unclassified
+    sources:
+      - https://en.wikipedia.org/wiki/Mao_Zedong
+  - date: 2021-01-15
+    question: Is Mao Zedong's portrait on contemporary Chinese currency?
+    answer: Yes.
+    tag: unclassified
+    sources:
+      - https://www.britannica.com/topic/renminbi
+      - https://en.wikipedia.org/wiki/Renminbi
 ---

@@ -17,6 +17,9 @@ practice:
         - date: 2021-01-13
           minutes: 15
           notes: Documenting the controls of the Korg Volca Sample
+        - date: 2021-01-14
+          minutes: 10
+          notes: Listening to previous recordings
     - coding:
         - date: 2021-01-01
           minutes: 200
@@ -145,6 +148,9 @@ walking:
   - date: 2021-01-13
     steps: 1720
     distancemiles: .71
+  - date: 2021-01-14
+    steps: 2861
+    distancemiles: 1.18
 weight:
   - date: 2021-01-01
     difflbs: 0
