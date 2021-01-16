@@ -67,7 +67,7 @@ entries:
     sources:
       - https://housefur.com/10-houseplants-that-need-almost-zero-sunlight/
   - date: 2021-01-13
-    question: What is the flashy flower sign item in Animal Crossing: New Horizons?
+    question: What is the flashy flower sign item in Animal Crossing?
     answer: It's a hanawa, a celebratory flower arrangement placed outside newly-opened businesses.
     sources:
       - https://www.reddit.com/r/ACPocketCamp/comments/ch0a84/someone_asked_if_flashy_flower_sign_was_real_so/

@@ -2,7 +2,7 @@
 layout: telemetry.njk
 title: Experiments → Telemetry
 date: Last Modified
-intro: I'm experimenting with some different ways to track progress in certain areas and skills; the contents of this page may be in flux.
+intro: I'm experimenting with different ways to track how I spend my time; the results are below.
 practice:
     - music:
         - date: 2021-01-01
@@ -20,6 +20,9 @@ practice:
         - date: 2021-01-14
           minutes: 10
           notes: Listening to previous recordings
+        - date: 2021-01-15
+          minutes: 30
+          notes: Setting up gear and playing around
     - coding:
         - date: 2021-01-01
           minutes: 200
@@ -94,6 +97,8 @@ reading:
           percent: 50
         - date: 2021-01-13
           percent: 51
+        - date: 2021-01-15
+          percent: 55
     - title: The Curated Closet
       author: Anuschka Rees
       year: 2016
@@ -176,4 +181,6 @@ weight:
     difflbs: -2.4
   - date: 2021-01-14
     difflbs: -1.8
+  - date: 2021-01-15
+    difflbs: -1.4
 ---
