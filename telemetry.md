@@ -23,6 +23,9 @@ practice:
         - date: 2021-01-15
           minutes: 30
           notes: Setting up gear and playing around
+        - date: 2021-01-16
+          minutes: 240
+          notes: Recording with Microcosm and research for project
     - coding:
         - date: 2021-01-01
           minutes: 200
@@ -156,6 +159,9 @@ walking:
   - date: 2021-01-14
     steps: 2861
     distancemiles: 1.18
+  - date: 2021-01-15
+    steps: 1967
+    distancemiles: .81
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -183,4 +189,6 @@ weight:
     difflbs: -1.8
   - date: 2021-01-15
     difflbs: -1.4
+  - date: 2021-01-16
+    difflbs: -1.6
 ---
