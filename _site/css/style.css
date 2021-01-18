@@ -42,6 +42,46 @@ figcaption {
     padding-top: 12px;
 }
 
+figcaption a {
+    font-family: 'Helvetica', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: small;
+    /* padding-top: 12px; */
+}
+
+.question {
+    background-color: var(--highlight);
+    color: var(--color1);
+    border-radius: 20px;
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.question:before {
+    content: " ... ";
+}
+
+.active, .question:hover {
+    background-color: var(--color1-light);
+    color: var(--color1);
+  }
+
+.active:before {
+    content: " ⯆ ";
+}
+
+hr {
+    border: 1px solid var(--color2);
+    margin: 6px 0 0 0;
+}
+
+.hiddenanswer {
+    display: none;
+    overflow: hidden;
+    text-indent: 0;
+}
+
+
 blockquote {
     padding-top: 12px;
     padding-left: 24px;
@@ -139,7 +179,7 @@ footer {
     }
     h2 { 
         line-height: 20px; 
-        margin-top: -36px;
+        margin-top: -16px;
     }
   }
 

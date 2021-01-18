@@ -57,6 +57,12 @@ practice:
         - date: 2021-01-12
           minutes: 5
           notes: Working on my website
+        - date: 2021-01-17
+          minutes: 240
+          notes: Working on my website
+        - date: 2021-01-18
+          minutes: 60
+          notes: Working on my website
 reading:
     - title: Design as Art
       author: Bruno Munari
@@ -162,6 +168,12 @@ walking:
   - date: 2021-01-15
     steps: 1967
     distancemiles: .81
+  - date: 2021-01-16
+    steps: 1405
+    distancemiles: .58
+  - date: 2021-01-17
+    steps: 3186
+    distancemiles: 1.32
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -191,4 +203,6 @@ weight:
     difflbs: -1.4
   - date: 2021-01-16
     difflbs: -1.6
+  - date: 2021-01-17
+    difflbs: -1.4
 ---
