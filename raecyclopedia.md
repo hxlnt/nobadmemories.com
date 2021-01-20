@@ -168,4 +168,12 @@ entries:
     tag: music
     sources:
       - https://support.audient.com/hc/en-us/articles/210725106-iD4-Detailed-Specs
+  - date: 2021-01-20
+    question: For what platforms was <i>Softporn Adventure</i> released?
+    answer: Its initial release was on Apple II and Atari 800, followed by a semi-official PC port. A fan-made port for Commodore 64 was created in 2013.
+    tag: videogames
+    sources:
+      - https://www.mobygames.com/game/atari-8-bit/softporn-adventure
+      - https://en.wikipedia.org/wiki/Softporn_Adventure
+      - https://atariage.com/forums/topic/77612-sierra-on-line-systems-%E2%80%9Csoftporn-adventure%E2%80%9D-for/
 ---

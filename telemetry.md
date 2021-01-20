@@ -115,7 +115,7 @@ reading:
         - date: 2021-01-15
           percent: 55
         - date: 2021-01-20
-          percent: 57
+          percent: 58
     - title: The Curated Closet
       author: Anuschka Rees
       year: 2016
