@@ -26,6 +26,12 @@ practice:
         - date: 2021-01-16
           minutes: 240
           notes: Recording with Microcosm and research for project
+        - date: 2021-01-18
+          minutes: 20
+          notes: Researching PCM
+        - date: 2021-01-19
+          minutes: 45
+          notes: Researching recording gear and recording samples
     - coding:
         - date: 2021-01-01
           minutes: 200
@@ -108,6 +114,8 @@ reading:
           percent: 51
         - date: 2021-01-15
           percent: 55
+        - date: 2021-01-20
+          percent: 57
     - title: The Curated Closet
       author: Anuschka Rees
       year: 2016
@@ -116,6 +124,8 @@ reading:
           percent: 19
         - date: 2021-01-12
           percent: 22
+        - date: 2021-01-20
+          percent: 28
 placesofinterest:
     - name:
       citystate:
@@ -174,6 +184,12 @@ walking:
   - date: 2021-01-17
     steps: 3186
     distancemiles: 1.32
+  - date: 2021-01-18
+    steps: 2254
+    distancemiles: .93
+  - date: 2021-01-19
+    steps: 587
+    distancemiles: .24
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -205,4 +221,8 @@ weight:
     difflbs: -1.6
   - date: 2021-01-17
     difflbs: -1.4
+  - date: 2021-01-18
+    difflbs: -1.4
+  - date: 2021-01-19
+    difflbs: -2.2
 ---

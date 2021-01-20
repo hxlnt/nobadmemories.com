@@ -156,4 +156,16 @@ entries:
     sources:
       - https://www.w3schools.com/howto/howto_css_style_hr.asp
     tag: coding
+  - date: 2021-01-18
+    question: How do you register your nick on IRC?
+    answer: <code>/msg NickServ register password e-mail</code>
+    sources:
+      - http://www.geekshed.net/commands/nickserv/
+    tag: unclassified
+  - date: 2021-01-20
+    question: How do you record a stereo instrument with the Audient iD4?
+    answer: Technically, the Audient iD4 only has a single (mono) instrument input. However, you can use the microphone input as a second line in to record live stereo audio with two 1/4" TS cables. Because the gain ranges differ on each input, the gain for the microphone input needs to be increased relative to the gain for the instrument input. For the best adjustment, check the L and R levels on a signal known to have equal levels in each channel to confirm that the levels are equal after gain adjustment.
+    tag: music
+    sources:
+      - https://support.audient.com/hc/en-us/articles/210725106-iD4-Detailed-Specs
 ---
