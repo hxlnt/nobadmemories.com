@@ -41,7 +41,7 @@ entries:
       - https://www.toledomuseum.org/search?search_text=munari
       - https://www.moma.org/artists/4163
   - date: 01-12-2021
-    question: Where is Kosovo located?
+    question: Where is Kosovo?
     answer: Kosovo is in the center of the Balkans, a group of European countries east of Italy, south of Hungary, and north of Greece.
     tag: travel
     sources: 
@@ -176,4 +176,23 @@ entries:
       - https://www.mobygames.com/game/atari-8-bit/softporn-adventure
       - https://en.wikipedia.org/wiki/Softporn_Adventure
       - https://atariage.com/forums/topic/77612-sierra-on-line-systems-%E2%80%9Csoftporn-adventure%E2%80%9D-for/
+  - date: 2021-01-20
+    question: What is the difference between seltzer and club soda?
+    answer: Club soda has added minerals, giving it a saltier taste than seltzer, which is just carbonated water.
+    sources:
+      - https://www.eater.com/2019/9/13/20863800/whats-the-difference-seltzer-club-soda-sparkling-mineral-water#:~:text=Club%20soda%20is%20also%20carbonated%20with%20carbon%20dioxide,,it%20a%20favorite%20of%20bartenders%20for%20mixed%20drinks.
+    tag: cooking
+  - date: 2021-01-20
+    question: What is dried sumac used for?
+    answer: Sumac powder has a citrusy taste and can be used in marinades and desserts to impart a tart flavor. It is primarily used in Mediterranean cuisine and is a key component of za'atar. 
+    sources:
+      - https://www.healthline.com/nutrition/sumac-benefits-uses-and-forms
+      - https://www.thespruceeats.com/try-sumac-spice-1763131
+    tag: cooking
+  - date: 2021-01-22
+    question: Where is Denpasar?
+    answer: In the southern part of Indonesia.
+    tag: travel
+    sources:
+      - https://en.wikipedia.org/wiki/Denpasar
 ---
