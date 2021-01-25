@@ -67,8 +67,8 @@ entries:
     sources:
       - https://housefur.com/10-houseplants-that-need-almost-zero-sunlight/
   - date: 2021-01-13
-    question: What is the flashy flower sign item in <i>Animal Crossing?</i>
-    answer: It's a hanawa, a celebratory flower arrangement placed outside newly-opened businesses.
+    question: "What is the flashy flower sign item in <i>Animal Crossing: New Horizons?</i>"
+    answer: It's a <i>hanawa,</i> a celebratory flower arrangement placed outside newly-opened businesses.
     sources:
       - https://www.reddit.com/r/ACPocketCamp/comments/ch0a84/someone_asked_if_flashy_flower_sign_was_real_so/
       - https://www.belltreeforums.com/threads/what-does-the-flashy-flower-sign-say.525148/
@@ -89,7 +89,7 @@ entries:
       - https://www.esquire.com/food-drink/drinks/a27418184/amaretto-sour-cocktail-drink-recipe/
   - date: 2021-01-14
     question: What does <i>fraysexual</i> mean?
-    answer: It is a sexual identity describing someone who is only sexually attracted to people with whom they do not have a strong emotional connection.
+    answer: It is a sexual identity describing someone who is primarily sexually attracted to people with whom they do not have a strong emotional connection.
     sources:
       - https://lgbta.wikia.org/wiki/Fraysexual
       - https://poly.land/2019/03/29/what-is-fraysexuality/
@@ -201,5 +201,23 @@ entries:
     tag: music
     sources:
       - https://wiki.videolan.org/Game_Music_Emu/
-    
+  - date: 2021-01-24
+    question: How do you register a channel on IRC?
+    answer: "After registering your own account and creating the channel, run <code>/msg chanserv register #channel</code>"
+    tag: unclassified
+    sources:
+      - https://www.geekshed.net/commands/chanserv/
+  - date: 2021-01-24
+    question: How do you reset your registered account's password on IRC?
+    answer: Running <code>/msg nickserv sendpass your-nick</code> will send you an email with instructions to reset your password.
+    tag: unclassified
+    sources:
+      - https://www.geekshed.net/commands/chanserv/
+  - date: 2021-01-25
+    question: How much is the lowest-end Saleae logic analyzer?
+    answer: $400
+    tag: unclassified
+    sources:
+      - https://www.saleae.com/
+
 ---

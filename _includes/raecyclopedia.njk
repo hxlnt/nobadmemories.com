@@ -1,47 +1,49 @@
 {% include "partials/header.njk" %}
 
-{% macro category(tag) %}
-{% set loopnumber = 0 %}
+{% macro categorycount(tag) %}
+{% set count = 0 %}
 {% for item in entries %}
-  {% if item.tag == tag %}
-    {% set loopnumber = loopnumber + 1 %}
+    {% if item.tag == tag %}
+        {% set count = count + 1 %}
+    {% endif %}
+{% endfor %}
+{{ count }}
+{% endmacro %}
+
+{% macro category(tag) %}
 <div class="row">
     <div class="col-md-3">
         <div class="row">
             <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
             <div class="col-md-10">
-                {% if loopnumber == 1%}
                     <h2 id="{{ tag }}">{{ tag | title }}</h2><br>
-                {% endif %}
-                        <h2>{{ item.question | safe}}
-                        </h2>
             </div>
         </div>
-            </div>
-            <div class="col-md-9">
-                <div class="row">
-                    <div class="col-md-8">
-                        {% if loopnumber == 1 %}<hr><br><br>{% endif %}
-                        {% if item.image %}
-                                    <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
-                                        <img src="{{ item.image }}">
-                                        <figcaption>
-                                            <i>Via
-                                                <a href="{{ item.sources[0] }}" target="_blank">{{ item.answer }}</a>
-                                            </i>
-                                        </figcaption>
-                                    </figure>
-                                </li>
+        </div>
+        <div class="col-md-9">
+            <div class="row">
+                <div class="col-md-8">
+
+                    {% for item in entries %}
+                        {% if item.tag == tag %}
+                            {% if item.image %}
+                                <p><strong>{{ item.question | safe }} </strong><br><span class="question">Answer</span><span class="hiddenanswer">
+                                <img style="filter: saturate(75%); max-width:100%; margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;" src="{{ item.image }}"><br>
+                                        <i>Via
+                                            <a href="{{ item.sources[0] }}" target="_blank">{{ item.answer | safe }}</a>
+                                        </i>
+                                </span>
                             {% else %}
-                        <p>{{ item.answer | safe}}</p>
+                                <p><strong>{{ item.question | safe }} </strong><br><span class="question">Answer</span><span class="hiddenanswer">{{ item.answer | safe }}</p></span>
+                            {% endif %}
                         {% endif %}
-                    </div>
-                    <div class="col-md-4"></div>
+                    {% endfor %}  
+                </div>
+                <div class="col-md-4">
+                </div>
         </div>
     </div>
 </div>
-{% endif %}
-{% endfor %}
 {% endmacro %}
 
 <div class="row">
@@ -63,21 +65,21 @@
                         <h3>
                             <a href="#art">Art</a>
                         </h3>
-                        <p>(1)</p>
+                        <p>({{ categorycount("art") | trim }})</p>
                     </div>
                     <div class="col-md-offset-*" style="background-color:var(--color2-light); padding: 16px; width:31%; min-height:100px; text-align: center; margin-bottom: 16px; box-shadow: 8px 8px var(--color2);">
                         <p></p>
                         <h3>
                             <a href="#coding">Coding</a>
                         </h3>
-                        <p>(4)</p>
+                        <p>({{ categorycount("coding") | trim }})</p>
                     </div>
                     <div class="col-md-offset-*" style="background-color:var(--color3-light); padding: 16px; width:31%; min-height:100px; text-align: center; margin-bottom: 16px; box-shadow: 8px 8px var(--color3);">
                         <p></p>
                         <h3>
                             <a href="#cooking">Cooking</a>
                         </h3>
-                        <p>(6)</p>
+                        <p>({{ categorycount("cooking") | trim }})</p>
                     </div>
                 </div>
                 <div class="row justify-content-between">
@@ -86,14 +88,14 @@
                         <h3>
                             <a href="#gardening">Gardening</a>
                         </h3>
-                        <p>(3)</p>
+                        <p>({{ categorycount("gardening") | trim }})</p>
                     </div>
                     <div class="col-md-offset-*" style="background-color:var(--color1-light); padding: 16px; width:48%; min-height:100px; text-align: center; margin-bottom: 16px; box-shadow: 8px 8px var(--color1);">
                         <p></p>
                         <h3>
                             <a href="#music">Music</a>
                         </h3>
-                        <p>(3)</p>
+                        <p>({{ categorycount("music") | trim }})</p>
                     </div>
                 </div>
                 <div class="row justify-content-between">
@@ -102,21 +104,21 @@
                         <h3>
                             <a href="#travel">Travel</a>
                         </h3>
-                        <p>(3)</p>
+                        <p>({{ categorycount("travel") | trim }})</p>
                     </div>
                     <div class="col-md-offset-*" style="background-color:var(--color3-light); padding: 16px; width:31%; min-height:100px; text-align: center; margin-bottom: 48px; box-shadow: 8px 8px var(--color3);">
                         <p></p>
                         <h3>
                             <a href="#videogames">Video games</a>
                         </h3>
-                        <p>(6)</p>
+                        <p>({{ categorycount("videogames") | trim }})</p>
                     </div>
                     <div class="col-md-offset-*" style="background-color:var(--color4-light); padding: 16px; width:31%; min-height:100px; text-align: center; margin-bottom: 48px; box-shadow: 8px 8px var(--color4);">
                         <p></p>
                         <h3>
                             <a href="#vocabulary">Vocabulary</a>
                         </h3>
-                        <p>(2)</p>
+                        <p>({{ categorycount("vocabulary") | trim }})</p>
                     </div>
                 </div>
             </div>
@@ -125,170 +127,13 @@
     </div>
 </div>
 
-{% set loopnumber = 0 %}
-{% for item in entries %}
-  {% if item.tag == "art" %}
-    {% set loopnumber = loopnumber + 1 %}
-<div class="row">
-    <div class="col-md-3">
-        <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
-            <div class="col-md-10">                
-                        {% if loopnumber == 1 %}<h2 id="art">Art</h2><br>{% endif %}    
-                        <h2>{{ item.question }}
-                        </h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-9">
-                <div class="row">
-                    <div class="col-md-8">
-                        {% if loopnumber == 1 %}<hr><br><br>{% endif %}
-                        <p>{{ item.answer | safe }}</p>
-                    </div>
-                    <div class="col-md-4"></div>
-        </div>
-    </div>
-</div>
-{% endif %}
-            {% endfor %}
-
-{% set loopnumber = 0 %}
-{% for item in entries %}
-  {% if item.tag == "coding" %}
-    {% set loopnumber = loopnumber + 1 %}
-<div class="row">
-    <div class="col-md-3">
-        <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
-            <div class="col-md-10">
-                {% if loopnumber == 1%}
-                    <h2 id="coding">Coding</h2><br>
-                {% endif %}
-                        <h2>{{ item.question | safe}}
-                        </h2>
-            </div>
-        </div>
-            </div>
-            <div class="col-md-9">
-                <div class="row">
-                    <div class="col-md-8">
-                        {% if loopnumber == 1 %}<hr><br><br>{% endif %}
-                        <p>{{ item.answer | safe}}</p>
-                    </div>
-                    <div class="col-md-4"></div>
-        </div>
-    </div>
-</div>
-{% endif %}
-{% endfor %}
-
-{% set loopnumber = 0 %}
-{% for item in entries %}
-  {% if item.tag == "cooking" %}
-    {% set loopnumber = loopnumber + 1 %}
-<div class="row">
-    <div class="col-md-3">
-        <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
-            <div class="col-md-10">
-                {% if loopnumber == 1%}
-                    <h2 id="cooking">Cooking</h2><br>
-                {% endif %}
-                        <h2>{{ item.question | safe}}
-                        </h2>
-            </div>
-        </div>
-            </div>
-            <div class="col-md-9">
-                <div class="row">
-                    <div class="col-md-8">
-                        {% if loopnumber == 1 %}<hr><br><br>{% endif %}
-                        <p>{{ item.answer | safe}}</p>
-                    </div>
-                    <div class="col-md-4"></div>
-        </div>
-    </div>
-</div>
-{% endif %}
-{% endfor %}
-
-{% set loopnumber = 0 %}
-{% for item in entries %}
-  {% if item.tag == "gardening" %}
-    {% set loopnumber = loopnumber + 1 %}
-<div class="row">
-    <div class="col-md-3">
-        <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
-            <div class="col-md-10">
-                {% if loopnumber == 1%}
-                    <h2>Gardening</h2><br>
-                {% endif %}
-                        <h2 id="gardening">{{ item.question | safe}}
-                        </h2>
-            </div>
-        </div>
-            </div>
-            <div class="col-md-9">
-                <div class="row">
-                    <div class="col-md-8">
-                        {% if loopnumber == 1 %}<hr><br><br>{% endif %}
-                        <p>{{ item.answer | safe}}</p>
-                    </div>
-                    <div class="col-md-4"></div>
-        </div>
-    </div>
-</div>
-{% endif %}
-{% endfor %}
-
+{{ category('art') }}
+{{ category('coding') }}
+{{ category('cooking') }}
+{{ category('gardening') }}
 {{ category('music') }}
-
-{% set loopnumber = 0 %}
-{% for item in entries %}
-  {% if item.tag == "travel" %}
-    {% set loopnumber = loopnumber + 1 %}
-<div class="row">
-    <div class="col-md-3">
-        <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
-            <div class="col-md-10">
-                {% if loopnumber == 1%}
-                    <h2>Travel</h2><br>
-                {% endif %}
-                        <h2 id="travel">{{ item.question | safe}}
-                        </h2>
-            </div>
-        </div>
-            </div>
-            <div class="col-md-9">
-                <div class="row">
-                    <div class="col-md-8">
-                        {% if loopnumber == 1 %}<hr><br><br>{% endif %}
-                        {% if item.image %}
-                                    <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
-                                        <img src="{{ item.image }}">
-                                        <figcaption>
-                                            <i>Via
-                                                <a href="{{ item.source[0] }}" target="_blank">{{ item.answer }}</a>
-                                            </i>
-                                        </figcaption>
-                                    </figure>
-                                </li>
-                            {% else %}
-                        <p>{{ item.answer | safe}}</p>
-                        {% endif %}
-                    </div>
-                    <div class="col-md-4"></div>
-        </div>
-    </div>
-</div>
-{% endif %}
-{% endfor %}
-
+{{ category('travel') }}
 {{ category('videogames') }}
-
 {{ category('vocabulary') }}
 
 <script>

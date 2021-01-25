@@ -32,6 +32,9 @@ practice:
         - date: 2021-01-19
           minutes: 45
           notes: Researching recording gear and recording samples
+        - date: 2021-01-23
+          minutes: 300
+          notes: Recording samples
         - date: 2021-01-24
           minutes: 540
           notes: Recording samples
@@ -71,6 +74,9 @@ practice:
           notes: Working on my website
         - date: 2021-01-18
           minutes: 60
+          notes: Working on my website
+        - date: 2021-01-25
+          minutes: 180
           notes: Working on my website
 reading:
     - title: Design as Art
@@ -211,6 +217,9 @@ walking:
   - date: 2021-01-23
     steps: 1881
     distancemiles: .78
+  - date: 2021-01-24
+    steps: 2634
+    distancemiles: 1.09
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -253,5 +262,7 @@ weight:
   - date: 2021-01-22
     difflbs: -2.8
   - date: 2021-01-23
+    difflbs: -2.8
+  - date: 2021-01-24
     difflbs: -2.8
 ---
