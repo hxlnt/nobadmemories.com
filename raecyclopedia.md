@@ -2,7 +2,7 @@
 layout: raecyclopedia.njk
 title: Experiments → Raecyclopedia
 date: Last Modified
-intro: For three weeks in 2017, I catalogued everything I looked up online and published it in a question-and-answer format. This is an ongoing replication of that experiment, collecting what I've learned since January 1, 2021.
+intro: A catalog of everything I've learned from the internet since January 1, 2021.
 entries:
   - date: 2021-01-07
     question: Do violets only bloom once?
@@ -195,4 +195,11 @@ entries:
     tag: travel
     sources:
       - https://en.wikipedia.org/wiki/Denpasar
+  - date: 2021-01-23
+    question: Does VLC have built-in support for playing VGM files?
+    answer: Yes.
+    tag: music
+    sources:
+      - https://wiki.videolan.org/Game_Music_Emu/
+    
 ---
