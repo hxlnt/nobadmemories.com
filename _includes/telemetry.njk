@@ -45,7 +45,7 @@
         <div class="row">
             <div class="col-md-8">
                 <div class="row justify-content-between">
-                    <div class="col-md-offset-*" style="background-color:var(--color1-light); padding: 16px; margin-bottom: 48px; width:31%; min-height:100px; text-align: center; box-shadow: 8px 8px var(--color1);">
+                    <div class="col-md-offset-*" style="background-color:var(--color1-light); padding: 16px; margin-bottom: 48px; width:48%; min-height:100px; text-align: center; box-shadow: 8px 8px var(--color1);">
                     <p></p>
                         <h3>
                         {% set totalcoding = 0 %}
@@ -57,22 +57,13 @@
                         {{ totalcoding | round }}
                         </h3>
                         <p>coding
-                        {# <span style="font-size:smaller;">(That's about 74 minutes per day.)</span> #}
                         </p>
                     </div>
-                    <div class="col-md-offset-*" style="background-color:var(--color2-light); padding: 16px; width:31%; min-height:100px; text-align: center; margin-bottom: 48px; box-shadow: 8px 8px var(--color2);">
+                    <div class="col-md-offset-*" style="background-color:var(--color2-light); padding: 16px; width:48%; min-height:100px; text-align: center; margin-bottom: 48px; box-shadow: 8px 8px var(--color2);">
                         <p></p>
                             <h3>290</h3>
                             <p>music
-                            {# <span style="font-size:smaller;">(That's 4 hours and 50 minutes.)</span> #}
                             </p>
-                    </div>
-                    <div class="col-md-offset-*" style="background-color:var(--color3-light); padding: 16px; width:31%; min-height:100px; text-align: center; margin-bottom: 48px; box-shadow: 8px 8px var(--color3);">
-                    <p></p>
-                        <h3>0</h3>
-                        <p>electronics
-                        {# <span style="font-size:smaller;">(I'll get started any day now...)</span> #}
-                        </p>
                     </div>
                 </div>
             </div>
@@ -96,14 +87,17 @@
         <div class="row">
             <div class="col-md-8">
                 <div class="row justify-content-between">
-                    <div class="col-md-offset-*" style="width: 100%; text-align:center; padding:16px; background: var(--color4-light); transform: skew(-20deg); border-top: 2px solid white; border-left: 2px solid white; box-shadow: 8px 8px var(--color4);">
-                        <h3 style="transform: skew(20deg);">
+
+                    <div class="col-md-offset-*" style="background-color:var(--color3-light); padding: 16px; width:100%; min-height:100px; text-align: center; margin-bottom: 48px; box-shadow: 8px 8px var(--color3);">
+                        <p></p>
+                        <h3>
                         {% set totaldistancemiles = 0 %}
                         {% for item in walking %}
                             {% set totaldistancemiles = totaldistancemiles + item.distancemiles %}
                         {% endfor %} 
                         {{ totaldistancemiles | round }} mi / {{ (totaldistancemiles * 1.609344) | round }} km
                         </h3>
+                        <p></p>
                     </div>
                 </div>
             </div>
