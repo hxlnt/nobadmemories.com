@@ -219,5 +219,34 @@ entries:
     tag: unclassified
     sources:
       - https://www.saleae.com/
+  - date: 2021-01-26
+    question: "What is <i>menocore?</i>
+    answer: "A fashion style similar to normcore but specific to menopause-aged women, characterized by flowy linen, floppy hats, market totes, etc."
+    sources:
+      - https://www.racked.com/2017/10/18/16453412/menocore-wealth-age-eileen-fisher
+      - https://www.thecut.com/2018/06/the-rise-of-plus-size-minimalism.html
+    tag: beautyfashion
+  - date: 2021-01-26
+    question: How long should you wait to let skin care products absorb?
+    answer: It's not necessary to wait more than a minute between skin care steps, but you should wait a longer period of time between skin care and makeup to prevent cosmetic pilling.
+    tag: beautyfashion
+    sources:
+      - https://www.allure.com/story/how-long-time-between-skin-care-products
+      - https://theklog.co/why-do-products-pill/
+      - https://www.huffpost.com/entry/makeup-pilling_l_5cf1443be4b0e346ce7d39fd
+  - date: 2021-01-26
+    question: Should you exfoliate the skin around your eyes?
+    answer: Yes, with a gentle eye treatment containing a chemical exfoliant such as retinol or glycolic acid. You can seal that with an eye cream as part of an evening skin care routine.
+    tag: beautyfashion
+    sources:
+      - https://www.allure.com/story/exfoliate-eyes
+      - https://www.byrdie.com/major-exfoliation-mistakes
+  - date: 2021-01-26
+    question: "What is <i>kinderwhore?</i>?
+    answer: The 1990s fashion style popularized by Courtney Love and other female musicians consisting of a mix of babydoll dresses and feminine apparel with distressed, punk sensibilities.
+    tag: beautyfashion
+    sources:
+      - https://i-d.vice.com/en_us/article/vbep4a/my-kinderwhore-education
+      - https://fivefashionsamples-wordpress-com.cdn.ampproject.org/c/s/fivefashionsamples.wordpress.com/2015/10/29/an-introduction-to-the-sub-culture-kinderwhore/amp/
 
 ---
