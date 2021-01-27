@@ -228,7 +228,7 @@ entries:
     tag: beautyfashion
   - date: 2021-01-26
     question: How long should you wait to let skin care products absorb?
-    answer: It's not necessary to wait more than a minute between skin care steps, but you should wait a longer period of time between skin care and makeup to prevent cosmetic pilling.
+    answer: It's not necessary to wait more than a minute between skin care steps, but you should wait a longer period of time between skin care products and makeup to prevent pilling.
     tag: beautyfashion
     sources:
       - https://www.allure.com/story/how-long-time-between-skin-care-products
@@ -242,11 +242,18 @@ entries:
       - https://www.allure.com/story/exfoliate-eyes
       - https://www.byrdie.com/major-exfoliation-mistakes
   - date: 2021-01-26
-    question: "What is <i>kinderwhore?</i>?
+    question: "What is <i>kinderwhore?</i>"
     answer: The 1990s fashion style popularized by Courtney Love and other female musicians consisting of a mix of babydoll dresses and feminine apparel with distressed, punk sensibilities.
     tag: beautyfashion
     sources:
       - https://i-d.vice.com/en_us/article/vbep4a/my-kinderwhore-education
       - https://fivefashionsamples-wordpress-com.cdn.ampproject.org/c/s/fivefashionsamples.wordpress.com/2015/10/29/an-introduction-to-the-sub-culture-kinderwhore/amp/
+  - date: 2021-01-27
+    question: How many episodes are there of <i>Dr. Katz?</i>
+    answer: 81
+    tag: tvfilm
+    sources:
+      - https://en.m.wikipedia.org/wiki/List_of_Dr._Katz,_Professional_Therapist_episodes
+    
 
 ---
