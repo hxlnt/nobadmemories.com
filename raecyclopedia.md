@@ -254,6 +254,26 @@ entries:
     tag: tvfilm
     sources:
       - https://en.m.wikipedia.org/wiki/List_of_Dr._Katz,_Professional_Therapist_episodes
-    
+  - date: 2021-01-28
+    question: What are palazzo pants?
+    answer: Palazzo pants are very flared, wide-leg pants made of a lightweight fabric.
+    sources:
+      - https://en.m.wikipedia.org/wiki/Palazzo_pants
+    tag: beautyfashion
+  - date: 2021-01-28
+    question: How many users are on FriendProject?
+    answer: About 40,000
+    sources:
+      - https://www.friendproject.net/browse.php?r=28288999_821913&page=2020
+    tag: unclassified
+  - date: 2021-01-28
+    question: "Who voices Laura on <i>Dr. Katz?</i>"
+    answer: "Laura is voiced by Sarah Silverman's sister Laura Silverman, who also voices Loni and Paula's mother in <i>Home Movies.</i>"
+  - date: 2021-01-28
+    question: How long does red wine last after being opened?
+    answer: If refrigerated, 2 to 5 days.
+    sources:
+      - https://www.bonappetit.com/story/how-long-does-wine-last-after-opened
+    tag: cooking
 
 ---
