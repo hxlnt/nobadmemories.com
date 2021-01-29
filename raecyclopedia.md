@@ -220,7 +220,7 @@ entries:
     sources:
       - https://www.saleae.com/
   - date: 2021-01-26
-    question: "What is <i>menocore?</i>
+    question: "What is <i>menocore?</i>"
     answer: "A fashion style similar to normcore but specific to menopause-aged women, characterized by flowy linen, floppy hats, market totes, etc."
     sources:
       - https://www.racked.com/2017/10/18/16453412/menocore-wealth-age-eileen-fisher
