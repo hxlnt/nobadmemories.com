@@ -269,11 +269,18 @@ entries:
   - date: 2021-01-28
     question: "Who voices Laura on <i>Dr. Katz?</i>"
     answer: "Laura is voiced by Sarah Silverman's sister Laura Silverman, who also voices Loni and Paula's mother in <i>Home Movies.</i>"
+    tag: tvfilm
   - date: 2021-01-28
     question: How long does red wine last after being opened?
     answer: If refrigerated, 2 to 5 days.
     sources:
       - https://www.bonappetit.com/story/how-long-does-wine-last-after-opened
     tag: cooking
+  - date: 2021-01-29
+    question: Is Patrice O'Neal still alive?
+    answer: No, Patrice O'Neal passed away in 2011 following complications from diabetes.
+    tag: tvfilm
+    sources:
+      - https://en.m.wikipedia.org/wiki/Patrice_O'Neal
 
 ---
