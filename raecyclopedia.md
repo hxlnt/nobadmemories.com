@@ -282,5 +282,8 @@ entries:
     tag: tvfilm
     sources:
       - https://en.m.wikipedia.org/wiki/Patrice_O'Neal
+  - date: 2021-01-29
+    question: Aside from <i>Dr. Katz, Home Movies,</i> and <i>Science Court, </i> were there other cartoons created with Squigglevision?
+    answer: "Yes: the <i>Dick and Paula Celebrity Special</i> and <i>O'Grady.</i>"
 
 ---
