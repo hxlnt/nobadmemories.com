@@ -23,14 +23,12 @@
         <div class="row">
             <div class="col-md-8">
                 <ul>
-                    <li><a href="art">Art</a> ({{ categorycount("Art") | trim }})</li>
-                    <li><a href="beauty-and-fashion">Beauty and fashion</a> ({{ categorycount("Beauty and fashion") | trim }})</li>
-                    <li><a href="coding">Coding</a> ({{ categorycount("Coding") | trim }})</li>
-                    <li><a href="cooking">Cooking</a> ({{ categorycount("Cooking") | trim }})</li>
-                    <li><a href="gardening">Gardening</a> ({{ categorycount("Gardening") | trim }})</li>
-                    <li><a href="music">Music</a> ({{ categorycount("Music") | trim }})</li>
-                    <li><a href="tv-and-film">TV and film</a> ({{ categorycount("TV and film") | trim }})</li>
-                     <li><a href="video-games">Video games</a> ({{ categorycount("Video games") | trim }})</li>
+                    {% for category in collections.raecyclopedia | sort(attribute='url')%}
+                        <li><a href="raecyclopedia/{{category.url}}">{{category.data.pagename}}</a> ({{categorycount(category.data.pagename) | trim }})</li>
+                        {% if category.data.pagename == pagename %}
+                            {{ category.url }}
+                        {% endif %}
+                    {% endfor %}
                 </ul>
             </div>
             <div class="col-md-4"></div>

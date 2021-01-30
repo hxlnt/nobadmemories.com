@@ -2,6 +2,7 @@
 tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Experiments → Raecyclopedia
+intro: A catalog of everything I've looked up about music since January 1, 2021.
 pagename: Music
 entries:
   - date: 2021-01-16

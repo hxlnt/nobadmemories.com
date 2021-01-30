@@ -2,10 +2,11 @@
 tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Experiments → Raecyclopedia
+intro: A catalog of everything I've looked up about video games since January 1, 2021.
 pagename: Video games
 entries:
   - date: 2021-01-13
-    question: "What is the flashy flower sign item in <i>Animal Crossing: New Horizons?</i>"
+    question: 'What is the "flashy flower sign" item in <i>Animal Crossing: New Horizons?</i>'
     answer: It's a <i>hanawa (花環),</i> a celebratory flower arrangement that is sometimes placed outside newly-opened businesses in Japan.
     image: https://kobe-flowergreen.com/cmx40109/wp-content/uploads/2017/03/20170308-1030x773.jpg
     imagecaption: Kobe フラワーグリーン

@@ -3,6 +3,7 @@ tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Experiments → Raecyclopedia
 pagename: Cooking
+intro: A catalog of everything I've looked up about cooking since January 1, 2021.
 entries:
   - date: 2021-01-07
     question: What ingredients are found in dried ghormeh sabzi herb mix?

@@ -3,6 +3,7 @@ tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Experiments → Raecyclopedia
 pagename: Art
+intro: A catalog of everything I've looked up about art since January 1, 2021.
 entries:
   - date: 2021-01-10
     question: What are some libraries or museums in the US that house Bruno Munari's work?

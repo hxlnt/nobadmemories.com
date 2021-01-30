@@ -2,6 +2,7 @@
 tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Experiments → Raecyclopedia
+intro: A catalog of everything I've looked up about TV and film since January 1, 2021.
 pagename: TV and film
 entries:
   - date: 2021-01-27

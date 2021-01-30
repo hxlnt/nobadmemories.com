@@ -49,8 +49,8 @@ figcaption a {
 }
 
 .question {
-    background-color: var(--color3);
-    color: var(--highlight);
+    background-color: var(--color4-light);
+    /* color: var(--highlight); */
     border-radius: 20px;
     height: 40px;
     padding-left: 10px;
@@ -62,8 +62,8 @@ figcaption a {
 } */
 
 .active, .question:hover {
-    background-color: var(--color3-light);
-    color: var(--highlight);
+    background-color: var(--color4);
+    /* color: var(--highlight); */
     cursor: pointer;
   }
 

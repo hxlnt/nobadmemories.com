@@ -2,6 +2,7 @@
 tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Experiments → Raecyclopedia
+intro: A catalog of everything I've looked up about gardening since January 1, 2021.
 pagename: Gardening
 entries:
   - date: 2021-01-07

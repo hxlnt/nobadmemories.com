@@ -3,6 +3,7 @@ tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Experiments → Raecyclopedia
 pagename: Beauty and fashion
+intro: A catalog of everything I've looked up about beauty and fashion since January 1, 2021.
 entries:
   - date: 2021-01-26
     question: "What is <i>menocore?</i>"

@@ -3,6 +3,7 @@ tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Experiments → Raecyclopedia
 pagename: Coding
+intro: A catalog of everything I've looked up about coding since January 1, 2021.
 entries:
   - date: 2021-01-10
     question: Is there an iOS app for working with source code repositories?
