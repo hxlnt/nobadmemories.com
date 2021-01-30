@@ -1,7 +1,7 @@
 ---
 tags: raecyclopedia
 layout: raecyclopedia.njk
-title: Experiments → Raecyclopedia
+title: Lab→ Raecyclopedia
 intro: A catalog of everything I've looked up about electronics since January 1, 2021.
 pagename: Electronics
 entries:

@@ -1,6 +1,6 @@
 ---
 layout: raecyclopedia-index.njk
-title: Experiments → Raecyclopedia
+title: Lab → Raecyclopedia
 date: Last Modified
 intro: A catalog of everything I've learned from the internet since January 1, 2021.
 entries:

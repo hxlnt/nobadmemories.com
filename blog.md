@@ -1,6 +1,6 @@
 ---
 layout: blog-index.njk
-title: Experiments → Blog
+title: Lab → Blog
 intro: "Latest posts:"
 ---
 

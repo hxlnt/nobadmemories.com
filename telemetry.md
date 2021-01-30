@@ -1,6 +1,6 @@
 ---
 layout: telemetry.njk
-title: Experiments → Telemetry
+title: Lab → Telemetry
 date: Last Modified
 intro: I'm experimenting with different ways to track how I spend my time; the results are below.
 practice:

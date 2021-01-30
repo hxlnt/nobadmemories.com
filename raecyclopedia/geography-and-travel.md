@@ -1,7 +1,7 @@
 ---
 tags: raecyclopedia
 layout: raecyclopedia.njk
-title: Experiments → Raecyclopedia
+title: Lab→ Raecyclopedia
 intro: A catalog of everything I've looked up about places around the world since January 1, 2021.
 pagename: Geography and travel
 entries:

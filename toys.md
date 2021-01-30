@@ -1,5 +1,5 @@
 ---
 layout: wip.njk
-title: Experiments → Screen toys
+title: Lab → Screen toys
 intro: Page in progress.
 ---
