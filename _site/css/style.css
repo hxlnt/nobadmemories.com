@@ -80,7 +80,15 @@ hr {
     display: none;
     overflow: hidden;
     text-indent: 0;
+    animation: fadeIn linear 500ms;
+    animation-
 }
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
 
 
 blockquote {

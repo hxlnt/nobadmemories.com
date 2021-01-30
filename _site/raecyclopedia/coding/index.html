@@ -27,11 +27,11 @@
                     <div class="col-md-3">
                         <div class="row">
                         
-                            <div class="col-md-2 headerblock" style="background-color:var(--color2);">
+                            <div class="col-md-2 headerblock" style="background-color:var(--color4);">
                         
                             </div>
                             <div class="col-md-10">
-                              <h2>My work
+                              <h2>Experiments → Raecyclopedia
                               </h2>
                           </div>
                       </div>
@@ -40,7 +40,7 @@
                       <div class="row">
                           <div class="col-md-8">
                           
-                            <p>Page in progress.</p>
+                            <p></p>
                           
                           </div>
                           <div class="col-md-4">
@@ -48,6 +48,67 @@
                       </div>
                   </div>
               </div>
+
+
+
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
+            <div class="col-md-10">
+                    <h2>Coding</h2><br>
+            </div>
+        </div>
+        </div>
+        <div class="col-md-9">
+            <div class="row">
+                <div class="col-md-8">
+
+                    
+                            
+                                <p><strong>Is there an iOS app for working with source code repositories? </strong><br><span class="question">Answer</span><span class="hiddenanswer">Yes: It's called Working Copy.</p></span>
+                            
+                    
+                            
+                                <p><strong>What is the CSS selector for the first line of text? </strong><br><span class="question">Answer</span><span class="hiddenanswer"><code>::first-line</code></p></span>
+                            
+                    
+                            
+                                <p><strong>How do you force-justify the last line of text in CSS? </strong><br><span class="question">Answer</span><span class="hiddenanswer">Use <code>text-align-last: justify;</code>.</p></span>
+                            
+                    
+                            
+                                <p><strong>How do you change the color and thickness of a header rule in CSS? </strong><br><span class="question">Answer</span><span class="hiddenanswer">Adjust the color, line style, and thickness of the <code>border</code> property on the <code>hr</code>.</p></span>
+                            
+                      
+                </div>
+                <div class="col-md-4">
+                </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+var coll = document.getElementsByClassName("question");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function () {
+        this
+            .classList
+            .toggle("active");
+        this.style.display = "none";
+        var content = this.nextElementSibling;
+        if (content.style.display === "inline") {
+            content.style.display = "none";
+        } else {
+            content.style.display = "inline";
+        }
+    });
+}
+</script>
 
     <div class="row" style="padding-top: 150px">
         <div class="col-md-3">
@@ -169,7 +230,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md-12" style="padding: 100px 10% 10px 10%;"><footer>NO CASH VALUE | NO REFUNDS | NO BAD MEMORIES >> Rachel Simone Weil &copy; 2012-2020 ._<u>_-♡<sup>♡</sup>♡-_</u>_. This page last updated on Friday, January 1, 2021</footer></div>
+    <div class="col-md-12" style="padding: 100px 10% 10px 10%;"><footer>NO CASH VALUE | NO REFUNDS | NO BAD MEMORIES >> Rachel Simone Weil &copy; 2012-2020 ._<u>_-♡<sup>♡</sup>♡-_</u>_. This page last updated on Saturday, January 30, 2021</footer></div>
   </div>		
 </div>
 

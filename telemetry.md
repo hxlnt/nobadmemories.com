@@ -38,6 +38,12 @@ practice:
         - date: 2021-01-24
           minutes: 540
           notes: Recording samples
+        - date: 2021-01-26
+          minutes: 120
+          notes: Recording samples
+        - date: 2021-01-27
+          minutes: 120
+          notes: Recording samples
     - coding:
         - date: 2021-01-01
           minutes: 200
@@ -232,8 +238,11 @@ walking:
     steps: 341
     distancemiles: .14
   - date: 2021-01-28
-    steps:
-    distancemiles:
+    steps: 540
+    distancemiles: .22
+  - date: 2021-01-29
+    steps: 2443
+    distancemiles: 1.01
 weight:
   - date: 2021-01-01
     difflbs: 0

@@ -1,22 +1,12 @@
 {% include "partials/header.njk" %}
 
-{% macro categorycount(tag) %}
-{% set count = 0 %}
-{% for item in entries %}
-    {% if item.tag == tag %}
-        {% set count = count + 1 %}
-    {% endif %}
-{% endfor %}
-{{ count }}
-{% endmacro %}
-
-{% macro category(tag) %}
+{% macro category(pagename) %}
 <div class="row">
     <div class="col-md-3">
         <div class="row">
             <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
             <div class="col-md-10">
-                    <h2 id="{{ tag }}">{{ tag | title }}</h2><br>
+                    <h2>{{ pagename }}</h2><br>
             </div>
         </div>
         </div>
@@ -25,18 +15,16 @@
                 <div class="col-md-8">
 
                     {% for item in entries %}
-                        {% if item.tag == tag %}
                             {% if item.image %}
-                                <p><strong>{{ item.question | safe }} </strong><br><span class="question">Answer</span><span class="hiddenanswer">
-                                <img style="filter: saturate(75%); max-width:100%; margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;" src="{{ item.image }}"><br>
-                                        <i>Via
-                                            <a href="{{ item.sources[0] }}" target="_blank">{{ item.answer | safe }}</a>
-                                        </i>
+                                <p><strong>{{ item.question | safe }} </strong><br><span class="question">Answer</span><span class="hiddenanswer">{{ item.answer | safe }}
+                                <img style="filter: saturate(75%); max-width:100%;  margin-top:24px; margin-left:24px; margin-right:-24px; padding-top:-36px;" src="{{ item.image }}">
+                                <span style="margin-left:24px;"><i>Via <a href="{{ item.sources[0] }}" target="_blank">{{ item.imagecaption | safe }}</a>
+                                        </i></span>
                                 </span>
+                                
                             {% else %}
                                 <p><strong>{{ item.question | safe }} </strong><br><span class="question">Answer</span><span class="hiddenanswer">{{ item.answer | safe }}</p></span>
                             {% endif %}
-                        {% endif %}
                     {% endfor %}  
                 </div>
                 <div class="col-md-4">
@@ -46,95 +34,7 @@
 </div>
 {% endmacro %}
 
-<div class="row">
-    <div class="col-md-3">
-        <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
-            <div class="col-md-10">
-                <h2>Table of contents
-                </h2>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-9">
-        <div class="row">
-            <div class="col-md-8">
-                <div class="row justify-content-between">
-                    <div class="col-md-offset-*" style="background-color:var(--color1-light); padding: 16px; margin-bottom: 16px; width:31%; min-height:100px; text-align: center; box-shadow: 8px 8px var(--color1);">
-                        <p></p>
-                        <h3>
-                            <a href="#art">Art</a>
-                        </h3>
-                        <p>({{ categorycount("art") | trim }})</p>
-                    </div>
-                    <div class="col-md-offset-*" style="background-color:var(--color2-light); padding: 16px; width:31%; min-height:100px; text-align: center; margin-bottom: 16px; box-shadow: 8px 8px var(--color2);">
-                        <p></p>
-                        <h3>
-                            <a href="#coding">Coding</a>
-                        </h3>
-                        <p>({{ categorycount("coding") | trim }})</p>
-                    </div>
-                    <div class="col-md-offset-*" style="background-color:var(--color3-light); padding: 16px; width:31%; min-height:100px; text-align: center; margin-bottom: 16px; box-shadow: 8px 8px var(--color3);">
-                        <p></p>
-                        <h3>
-                            <a href="#cooking">Cooking</a>
-                        </h3>
-                        <p>({{ categorycount("cooking") | trim }})</p>
-                    </div>
-                </div>
-                <div class="row justify-content-between">
-                    <div class="col-md-offset-*" style="background-color:var(--color4-light); padding: 16px; margin-bottom: 16px; width:48%; min-height:100px; text-align: center; box-shadow: 8px 8px var(--color4);">
-                        <p></p>
-                        <h3>
-                            <a href="#gardening">Gardening</a>
-                        </h3>
-                        <p>({{ categorycount("gardening") | trim }})</p>
-                    </div>
-                    <div class="col-md-offset-*" style="background-color:var(--color1-light); padding: 16px; width:48%; min-height:100px; text-align: center; margin-bottom: 16px; box-shadow: 8px 8px var(--color1);">
-                        <p></p>
-                        <h3>
-                            <a href="#music">Music</a>
-                        </h3>
-                        <p>({{ categorycount("music") | trim }})</p>
-                    </div>
-                </div>
-                <div class="row justify-content-between">
-                    <div class="col-md-offset-*" style="background-color:var(--color2-light); padding: 16px; margin-bottom: 48px; width:31%; min-height:100px; text-align: center; box-shadow: 8px 8px var(--color2);">
-                        <p></p>
-                        <h3>
-                            <a href="#travel">Travel</a>
-                        </h3>
-                        <p>({{ categorycount("travel") | trim }})</p>
-                    </div>
-                    <div class="col-md-offset-*" style="background-color:var(--color3-light); padding: 16px; width:31%; min-height:100px; text-align: center; margin-bottom: 48px; box-shadow: 8px 8px var(--color3);">
-                        <p></p>
-                        <h3>
-                            <a href="#videogames">Video games</a>
-                        </h3>
-                        <p>({{ categorycount("videogames") | trim }})</p>
-                    </div>
-                    <div class="col-md-offset-*" style="background-color:var(--color4-light); padding: 16px; width:31%; min-height:100px; text-align: center; margin-bottom: 48px; box-shadow: 8px 8px var(--color4);">
-                        <p></p>
-                        <h3>
-                            <a href="#vocabulary">Vocabulary</a>
-                        </h3>
-                        <p>({{ categorycount("vocabulary") | trim }})</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4"></div>
-        </div>
-    </div>
-</div>
-
-{{ category('art') }}
-{{ category('coding') }}
-{{ category('cooking') }}
-{{ category('gardening') }}
-{{ category('music') }}
-{{ category('travel') }}
-{{ category('videogames') }}
-{{ category('vocabulary') }}
+{{ category(pagename)}}
 
 <script>
 var coll = document.getElementsByClassName("question");
