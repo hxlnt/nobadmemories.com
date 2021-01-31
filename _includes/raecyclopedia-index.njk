@@ -24,7 +24,7 @@
             <div class="col-md-8">
                 <ul>
                     {% for category in collections.raecyclopedia | sort(attribute='url')%}
-                        <li><a href="raecyclopedia/{{category.url}}">{{category.data.pagename}}</a> ({{categorycount(category.data.pagename) | trim }})</li>
+                        <li><a href="{{category.url}}">{{category.data.pagename}}</a> ({{categorycount(category.data.pagename) | trim }})</li>
                         {% if category.data.pagename == pagename %}
                             {{ category.url }}
                         {% endif %}
