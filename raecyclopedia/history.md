@@ -1,8 +1,8 @@
 ---
 tags: raecyclopedia
 layout: raecyclopedia.njk
-title: Lab→ Raecyclopedia
-intro: A catalog of everything I've looked up about history since January 1, 2021.
+title: Lab → Raecyclopedia
+intro: A catalog of everything I've looked up about history this year.
 pagename: History
 entries:
   - date: 2021-01-15

@@ -1,9 +1,9 @@
 ---
 tags: raecyclopedia
 layout: raecyclopedia.njk
-title: Lab→ Raecyclopedia
+title: Lab → Raecyclopedia
 pagename: Beauty and fashion
-intro: A catalog of everything I've looked up about beauty and fashion since January 1, 2021.
+intro: A catalog of everything I've looked up about beauty and fashion this year.
 entries:
   - date: 2021-01-26
     question: "What is <i>menocore?</i>"

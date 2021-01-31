@@ -1,8 +1,8 @@
 ---
 tags: raecyclopedia
 layout: raecyclopedia.njk
-title: Lab→ Raecyclopedia
-intro: A catalog of everything I've looked up about video games since January 1, 2021.
+title: Lab → Raecyclopedia
+intro: A catalog of everything I've looked up about video games this year.
 pagename: Video games
 entries:
   - date: 2021-01-13
