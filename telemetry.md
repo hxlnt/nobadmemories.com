@@ -152,6 +152,8 @@ reading:
           percent: 31
         - date: 2021-01-25
           percent: 34
+        - date: 2021-01-30
+          percent: 38
 placesofinterest:
     - name:
       citystate:
@@ -246,6 +248,9 @@ walking:
   - date: 2021-01-29
     steps: 2443
     distancemiles: 1.01
+  - date: 2021-01-30
+    steps: 1263
+    distancemiles: .52
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -299,4 +304,6 @@ weight:
     difflbs: -2.8
   - date: 2021-01-28
     difflbs: -2.4
+  - date: 2021-01-30
+    difflbs: -3.2
 ---
