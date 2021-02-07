@@ -44,6 +44,9 @@ practice:
         - date: 2021-01-27
           minutes: 120
           notes: Recording samples
+        - date: 2021-02-06
+          minutes: 150
+          notes: Recording music
     - coding:
         - date: 2021-01-01
           minutes: 200
@@ -87,6 +90,9 @@ practice:
         - date: 2021-01-30
           minutes: 60
           notes: Working on my website
+        - date: 2021-02-06
+          minutes: 60
+          notes: Working on FEMICOM site redesign
 reading:
     - title: Design as Art
       author: Bruno Munari
@@ -166,6 +172,8 @@ reading:
       progress:
         - date: 2021-02-02
           percent: 1
+        - date: 2021-02-06
+          percent: 2
 placesofinterest:
     - name:
       citystate:
@@ -269,6 +277,18 @@ walking:
   - date: 2021-02-01
     steps: 3598
     distancemiles: 1.49
+  - date: 2021-02-02
+    steps: 1322
+    distancemiles: .55
+  - date: 2021-02-03
+    steps: 2629
+    distancemiles: 1.09
+  - date: 2021-02-04
+    steps: 1042
+    distancemiles: .43
+  - date: 2021-02-05
+    steps: 1618
+    distancemiles: .67
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -328,5 +348,10 @@ weight:
     difflbs: -1.6
   - date: 2021-02-01
     difflbs: -2.2
-  
+  - date: 2021-02-03
+    difflbs: -3.4
+  - date: 2021-02-05
+    difflbs: -3.6
+  - date: 2021-02-06
+    difflbs: -3.8
 ---

@@ -37,6 +37,10 @@ entries:
     sources:
       - https://www.friendproject.net/browse.php?r=28288999_821913&page=2020
     tag: unclassified
+  - date: 2021-02-05
+    question: "What is <i>eye dialect?</i>"
+    answer: 'It describes the intentional incorrect spelling of English dialog to indicate the uneducatedness of the person speaking (<i>e.g.,</i> "skool," "wimmin").'
+    tag: vocabulary
 
 
 ---
