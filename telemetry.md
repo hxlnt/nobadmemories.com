@@ -166,6 +166,10 @@ reading:
           percent: 38
         - date: 2021-02-02
           percent: 44
+        - date: 2021-02-08
+          percent: 54
+        - date: 2021-02-11
+          percent: 56
     - title: How to Be an Anticapitalist in the 21st Century
       author: Erik Olin Wright
       year: 2019
@@ -287,8 +291,23 @@ walking:
     steps: 1042
     distancemiles: .43
   - date: 2021-02-05
+    steps: 1042
+    distancemiles: .43
+  - date: 2021-02-06
     steps: 1618
     distancemiles: .67
+  - date: 2021-02-07
+    steps: 2054
+    distancemiles: .85
+  - date: 2021-02-08
+    steps: 3909
+    distancemiles: 1.62
+  - date: 2021-02-09
+    steps: 2301
+    distancemiles: .95
+  - date: 2021-02-10
+    steps: 4206
+    distancemiles: 1.74
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -354,4 +373,12 @@ weight:
     difflbs: -3.6
   - date: 2021-02-06
     difflbs: -3.8
+  - date: 2021-02-07
+    difflbs: -4.2
+  - date: 2021-02-08
+    difflbs: -4.2
+  - date: 2021-02-09
+    difflbs: -5
+  - date: 2021-02-10
+    difflbs: -5
 ---
