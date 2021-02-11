@@ -21,3 +21,9 @@ entries:
     answer: Yes.
     sources:
       - https://housefur.com/10-houseplants-that-need-almost-zero-sunlight/
+  - date: 2021-02-11
+    question: What do chicory flowers look like?
+    sources:
+      - https://www.britannica.com/plant/chicory
+    image: https://cdn.britannica.com/s:1500x700,q:85/43/140543-004-14D0925F/Flowers-stems-chicory.jpg
+    imagecaption: Encyclopedia Britannica

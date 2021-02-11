@@ -47,6 +47,9 @@ practice:
         - date: 2021-02-01
           minutes: 60
           notes: Exporting samples and planning music project
+        - date: 2021-02-06
+          minutes: 150
+          notes: Recording music
     - coding:
         - date: 2021-01-01
           minutes: 200
@@ -90,6 +93,9 @@ practice:
         - date: 2021-01-30
           minutes: 60
           notes: Working on my website
+        - date: 2021-02-06
+          minutes: 60
+          notes: Working on FEMICOM site redesign
 reading:
     - title: Design as Art
       author: Bruno Munari
@@ -163,12 +169,18 @@ reading:
           percent: 38
         - date: 2021-02-02
           percent: 44
+        - date: 2021-02-08
+          percent: 54
+        - date: 2021-02-11
+          percent: 56
     - title: How to Be an Anticapitalist in the 21st Century
       author: Erik Olin Wright
       year: 2019
       progress:
         - date: 2021-02-02
           percent: 1
+        - date: 2021-02-06
+          percent: 2
 placesofinterest:
     - name:
       citystate:
@@ -272,6 +284,33 @@ walking:
   - date: 2021-02-01
     steps: 3598
     distancemiles: 1.49
+  - date: 2021-02-02
+    steps: 1322
+    distancemiles: .55
+  - date: 2021-02-03
+    steps: 2629
+    distancemiles: 1.09
+  - date: 2021-02-04
+    steps: 1042
+    distancemiles: .43
+  - date: 2021-02-05
+    steps: 1042
+    distancemiles: .43
+  - date: 2021-02-06
+    steps: 1618
+    distancemiles: .67
+  - date: 2021-02-07
+    steps: 2054
+    distancemiles: .85
+  - date: 2021-02-08
+    steps: 3909
+    distancemiles: 1.62
+  - date: 2021-02-09
+    steps: 2301
+    distancemiles: .95
+  - date: 2021-02-10
+    steps: 4206
+    distancemiles: 1.74
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -331,5 +370,18 @@ weight:
     difflbs: -1.6
   - date: 2021-02-01
     difflbs: -2.2
-  
+  - date: 2021-02-03
+    difflbs: -3.4
+  - date: 2021-02-05
+    difflbs: -3.6
+  - date: 2021-02-06
+    difflbs: -3.8
+  - date: 2021-02-07
+    difflbs: -4.2
+  - date: 2021-02-08
+    difflbs: -4.2
+  - date: 2021-02-09
+    difflbs: -5
+  - date: 2021-02-10
+    difflbs: -5
 ---
