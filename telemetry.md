@@ -44,6 +44,9 @@ practice:
         - date: 2021-01-27
           minutes: 120
           notes: Recording samples
+        - date: 2021-02-01
+          minutes: 60
+          notes: Exporting samples and planning music project
     - coding:
         - date: 2021-01-01
           minutes: 200
