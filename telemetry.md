@@ -93,6 +93,9 @@ practice:
         - date: 2021-02-06
           minutes: 60
           notes: Working on FEMICOM site redesign
+        - date: 2021-02-13
+          minues: 15
+          notes: Working on FEMICOM site redesign
 reading:
     - title: Design as Art
       author: Bruno Munari
@@ -308,6 +311,15 @@ walking:
   - date: 2021-02-10
     steps: 4206
     distancemiles: 1.74
+  - date: 2021-02-11
+    steps: 1959
+    distancemiles: .81
+  - date: 2021-02-12
+    steps: 1805
+    distancemiles: .75
+  - date: 2021-02-13
+    steps: 1792
+    distancemiles: .74
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -381,4 +393,10 @@ weight:
     difflbs: -5
   - date: 2021-02-10
     difflbs: -5
+  - date: 2021-02-11
+    difflbs: -4
+  - date: 2021-02-12
+    difflbs: -4.2
+  - date: 2021-02-13
+    difflbs: -4
 ---

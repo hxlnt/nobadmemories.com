@@ -23,5 +23,11 @@ entries:
     answer: "Yes: the <i>Dick and Paula Celebrity Special</i> and <i>O'Grady.</i>"
     sources:
       - https://en.wikipedia.org/wiki/Squigglevision
+  - date: 2021-02-14
+    question: "Why does the Borg Queen in Star Trek say <i>I</i> instead of <i>we?</i>"
+    answer: "It's not really clear, since she's part of the collective and thus shouldn't have a sense of individuality. The answer given by fan sites is that she functions as the face of the collective and uses singular pronouns for better communication with other species. But in <i>Star Trek: Voyager,</i> she gives commands to the collective, which suggests she isn't part of it. So... bad writing?"
+    sources:
+      - https://memory-alpha.fandom.com/wiki/Borg_Queen
+      - https://en.m.wikipedia.org/wiki/Borg#Borg_Queen
 
 ---

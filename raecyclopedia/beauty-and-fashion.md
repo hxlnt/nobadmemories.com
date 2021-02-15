@@ -46,7 +46,7 @@ entries:
       - https://mariaspeaksprada.blogspot.com/2012/03/palazzo-pants-are-huge-for-springsummer.html
       - https://en.m.wikipedia.org/wiki/Palazzo_pants
   - date: 2021-01-31
-    question: Does tarte still make illuminating foundation drops?
+    question: Does Tarte still make illuminating foundation drops?
     answer: No
     sources:
       - https://tartecosmetics.com/
