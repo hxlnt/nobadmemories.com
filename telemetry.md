@@ -189,6 +189,8 @@ reading:
           percent: 1
         - date: 2021-02-06
           percent: 2
+        - date: 2021-02-17
+          percent: 11
 placesofinterest:
     - name:
       citystate:
