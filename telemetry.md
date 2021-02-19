@@ -98,6 +98,7 @@ practice:
           notes: Working on FEMICOM site redesign
         - date: 2021-02-13
           minues: 15
+          notes: Working on FEMICON site redesign
         - date: 2021-02-17
           minutes: 15
           notes: Working on FEMICOM site redesign
