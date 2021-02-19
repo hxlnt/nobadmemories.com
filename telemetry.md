@@ -44,6 +44,9 @@ practice:
         - date: 2021-01-27
           minutes: 120
           notes: Recording samples
+        - date: 2021-02-01
+          minutes: 60
+          notes: Exporting samples and planning music project
         - date: 2021-02-06
           minutes: 150
           notes: Recording music
@@ -95,6 +98,11 @@ practice:
           notes: Working on FEMICOM site redesign
         - date: 2021-02-13
           minues: 15
+        - date: 2021-02-17
+          minutes: 15
+          notes: Working on FEMICOM site redesign
+        - date: 2021-02-18
+          minutes: 120
           notes: Working on FEMICOM site redesign
 reading:
     - title: Design as Art
