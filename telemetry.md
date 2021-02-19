@@ -96,6 +96,12 @@ practice:
         - date: 2021-02-06
           minutes: 60
           notes: Working on FEMICOM site redesign
+        - date: 2021-02-17
+          minutes: 15
+          notes: Working on FEMICOM site redesign
+        - date: 2021-02-18
+          minutes: 120
+          notes: Working on FEMICOM site redesign
 reading:
     - title: Design as Art
       author: Bruno Munari
