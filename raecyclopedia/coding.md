@@ -24,3 +24,18 @@ entries:
     answer: Adjust the color, line style, and thickness of the <code>border</code> property on the <code>hr</code>.
     sources:
       - https://www.w3schools.com/howto/howto_css_style_hr.asp
+  - date: 2021-01-20
+    question: How do you prevent word wrapping on a given class in CSS?
+    answer: "Set <code>white-space: nowrap</code> on the class."
+    sources:
+      - https://www.digitalocean.com/community/tutorials/css-prevent-line-break
+  - date: 2021-01-20
+    question: How do you prevent 11ty from rendering certain files?
+    answer: Add them to a <code>.eleventyignore</code> file.
+    sources:
+      - https://www.11ty.dev/docs/ignores/
+  - date: 2021-01-20
+    question: What is the syntax for <code>clamp()</code> in CSS?
+    answer: <code>clamp(MIN, VAL, MAX)</code>
+    sources:
+      - https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()

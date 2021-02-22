@@ -13,3 +13,8 @@ entries:
     answer: Technically, the Audient iD4 only has a single (mono) instrument input. However, you can use the microphone input as a second line in to record live stereo audio with two 1/4" TS cables. Because the gain ranges differ on each input, the gain for the microphone input needs to be increased relative to the gain for the instrument input. For the best adjustment, check the L and R levels on a signal known to have equal levels in each channel to confirm that the levels are equal after gain adjustment.
     sources:
       - https://support.audient.com/hc/en-us/articles/210725106-iD4-Detailed-Specs
+  - date: 2021-02-21
+    question: Where was Jimi Hendrix born?
+    answer: Seattle, WA
+    sources:
+      - https://en.wikipedia.org/wiki/Jimi_Hendrix
