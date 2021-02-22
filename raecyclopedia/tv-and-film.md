@@ -29,5 +29,9 @@ entries:
     sources:
       - https://memory-alpha.fandom.com/wiki/Borg_Queen
       - https://en.m.wikipedia.org/wiki/Borg#Borg_Queen
-
+  - date: 2021-02-21
+    question: What years were the original Sailor Moon series on TV in Japan?
+    answer: Sailor Moon debuted in 1992 and ran until 1997.
+    sources:
+      - https://en.m.wikipedia.org/wiki/Sailor_Moon_(TV_series)
 ---
