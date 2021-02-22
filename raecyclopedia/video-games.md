@@ -49,4 +49,11 @@ entries:
     answer: Yes
     sources:
       - https://wiki.videolan.org/Game_Music_Emu/
+  - date: 2021-02-21
+    question: "For what system was <i>Daina Airan</i> released?"
+    answer: Sega Saturn
+    sources:
+      - https://segaretro.org/Daina_Airan
+    image: https://segaretro.org/images/thumb/0/01/DainaAiran_Saturn_JP_Box_Front.jpg/591px-DainaAiran_Saturn_JP_Box_Front.jpg
+    imagecaption: Sega Retro
 ---

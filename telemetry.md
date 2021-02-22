@@ -96,6 +96,9 @@ practice:
         - date: 2021-02-06
           minutes: 60
           notes: Working on FEMICOM site redesign
+        - date: 2021-02-13
+          minutes: 15
+          notes: Working on FEMICON site redesign
         - date: 2021-02-17
           minutes: 15
           notes: Working on FEMICOM site redesign
@@ -187,6 +190,8 @@ reading:
           percent: 1
         - date: 2021-02-06
           percent: 2
+        - date: 2021-02-17
+          percent: 11
 placesofinterest:
     - name:
       citystate:
@@ -317,6 +322,27 @@ walking:
   - date: 2021-02-10
     steps: 4206
     distancemiles: 1.74
+  - date: 2021-02-11
+    steps: 1959
+    distancemiles: .81
+  - date: 2021-02-12
+    steps: 1805
+    distancemiles: .75
+  - date: 2021-02-13
+    steps: 1792
+    distancemiles: .74
+  - date: 2021-02-14
+    steps: 1681
+    distancemiles: .69
+  - date: 2021-02-15
+    steps: 2157
+    distancemiles: .89
+  - date: 2021-02-19
+    steps: 1121
+    distancemiles: .46
+  - date: 2021-02-20
+    steps: 1816
+    distancemiles: .75
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -390,4 +416,14 @@ weight:
     difflbs: -5
   - date: 2021-02-10
     difflbs: -5
+  - date: 2021-02-11
+    difflbs: -4
+  - date: 2021-02-12
+    difflbs: -4.2
+  - date: 2021-02-13
+    difflbs: -4
+  - date: 2021-02-20
+    difflbs: -1.2
+  - date: 2021-02-21
+    difflbs: -1.4
 ---
