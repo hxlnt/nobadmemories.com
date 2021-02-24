@@ -52,5 +52,10 @@ entries:
     answer: If refrigerated, 2 to 5 days.
     sources:
       - https://www.bonappetit.com/story/how-long-does-wine-last-after-opened
+  - date: 2021-02-23
+    question: Why is palm oil bad for the environment?
+    answer: Rainforests are being cut down to plant oil palms, leading to the loss of habitats for animals, loss of indigenous lands, and negative climate impacts. However, oil palms use significantly less land than most other sources of vegetable oil, so activism is focused on making palm oil sustainable rather than switching to other types of oil.
+    sources:
+      - http://palmoilscorecard.panda.org/why-a-scorecard
 
 ---
