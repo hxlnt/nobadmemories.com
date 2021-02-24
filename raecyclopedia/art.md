@@ -14,5 +14,11 @@ entries:
       - https://clmr.infoteca.it/bw5ne2/opac.aspx?web=ICNY&SRC=SBAS&lng=ENG
       - https://www.toledomuseum.org/search?search_text=munari
       - https://www.moma.org/artists/4163
+  - date: 2021-02-23
+    question: What does NFT stand for?
+    answer: Non-fungible (meaning "non-interchangeable") token
+    sources:
+      - https://en.m.wikipedia.org/wiki/Non-fungible_token
+    
 
 ---

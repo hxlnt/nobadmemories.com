@@ -39,7 +39,16 @@ entries:
     answer: He voices Dean Dixon in one episode.
     sources:
       - https://bobs-burgers.fandom.com/wiki/Dean_Dixon
-
+  - date: 2021-02-22
+    question: "What is the name of the original Korean film that <i>Happiness of the Katakuris</i> was based on?"
+    answer: "<i>The Quiet Family</i>"
+    sources:
+      - https://en.m.wikipedia.org/wiki/The_Happiness_of_the_Katakuris
+  - date: 2021-02-22
+    question: "What year did <i>Rocky</i> come out?"
+    answer: 1976
+    sources: 
+      - https://en.m.wikipedia.org/wiki/Sylvester_Stallone_filmography
 
 
 ---
