@@ -57,5 +57,10 @@ entries:
     answer: Rainforests are being cut down to plant oil palms, leading to the loss of habitats for animals, loss of indigenous lands, and negative climate impacts. However, oil palms use significantly less land than most other sources of vegetable oil, so activism is focused on making palm oil sustainable rather than switching to other types of oil.
     sources:
       - http://palmoilscorecard.panda.org/why-a-scorecard
+  - date: 2021-02-23
+    question: What gives Japanese milk bread its unique texture?
+    answer: It is made with a warmed roux, which causes the starches in the flour to hold water that then steams when baked.
+    sources:
+      - https://kimchimari.com/milk-bread-asian/
 
 ---
