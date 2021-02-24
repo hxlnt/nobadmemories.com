@@ -105,6 +105,9 @@ practice:
         - date: 2021-02-18
           minutes: 120
           notes: Working on FEMICOM site redesign
+        - date: 2021-02-21
+          minutes: 210
+          notes: Working on FEMICOM site redesign
 reading:
     - title: Design as Art
       author: Bruno Munari
@@ -182,6 +185,8 @@ reading:
           percent: 54
         - date: 2021-02-11
           percent: 56
+        - date: 2021-02-22
+          percent: 61
     - title: How to Be an Anticapitalist in the 21st Century
       author: Erik Olin Wright
       year: 2019
@@ -343,6 +348,9 @@ walking:
   - date: 2021-02-20
     steps: 1816
     distancemiles: .75
+  - date: 2021-02-21
+    steps: 2611
+    distancemiles: 1.08
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -426,4 +434,8 @@ weight:
     difflbs: -1.2
   - date: 2021-02-21
     difflbs: -1.4
+  - date: 2021-02-22
+    difflbs: -3.4
+  - date: 2021-02-23
+    difflbs: -2.4
 ---
