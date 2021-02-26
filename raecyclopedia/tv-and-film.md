@@ -49,6 +49,14 @@ entries:
     answer: 1976
     sources: 
       - https://en.m.wikipedia.org/wiki/Sylvester_Stallone_filmography
+  - date: 2021-02-25
+    question: "What is the name of Woody Harelson's character on <i>Cheers?</i>"
+    answer: Woody Boyd
+    sources:
+      - https://en.wikipedia.org/wiki/Cheers
+  - date: 2021-02-26
+    question: "What is the name of Kirstie Alley's character on <i>Cheers?</i>
+    answer: Rebecca Howe
 
 
 ---

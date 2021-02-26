@@ -30,3 +30,10 @@ entries:
   - date: 2021-02-23
     question: How can you fix a malfunctioning water sensor in an Aerogarden?
     answer: The sensor float may be in the wrong position or the tube that houses it might contain debris or roots. You can remove the sensor float with a magnet, check for debris, and then reseat the float to get the sensor working again. 
+    sources:
+      - https://www.aerogarden.com/faq/
+  - date: 2021-02-26
+    question: What is the genus and species name of the ZZ plant?
+    answer: "<i>Zamioculcas zamiifolia</i>"
+    sources:
+      - https://en.wikipedia.org/wiki/Zamioculcas
