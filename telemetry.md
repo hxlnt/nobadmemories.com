@@ -187,6 +187,8 @@ reading:
           percent: 56
         - date: 2021-02-22
           percent: 61
+        - date: 2021-03-03
+          percent: 71
     - title: How to Be an Anticapitalist in the 21st Century
       author: Erik Olin Wright
       year: 2019
