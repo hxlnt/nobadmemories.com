@@ -444,4 +444,8 @@ weight:
     difflbs: -3.4
   - date: 2021-02-23
     difflbs: -2.4
+  - date: 2021-03-03
+    difflbs: .6
+  - date: 2021-03-07
+    difflbs: -1.2
 ---

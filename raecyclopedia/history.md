@@ -11,4 +11,15 @@ entries:
     tag: unclassified
     sources:
       - https://en.wikipedia.org/wiki/Mao_Zedong
+  - date: 2021-03-07
+    question: When is Texas Independence Day celebrated?
+    answer: March 2
+    sources:
+      - https://en.m.wikipedia.org/wiki/Texas_Independence_Day
+  - date: 2021-03-07
+    question: When is Hinamatsuri celebrated?
+    answer: March 3
+    sources:
+      - https://en.m.wikipedia.org/wiki/Hinamatsuri
+      
 ---

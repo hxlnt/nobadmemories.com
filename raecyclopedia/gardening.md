@@ -37,3 +37,8 @@ entries:
     answer: "<i>Zamioculcas zamiifolia</i>"
     sources:
       - https://en.wikipedia.org/wiki/Zamioculcas
+  - date: 2021-03-02
+    question: What parts of the nasturtium plant are edible?
+    answer: You can eat the leaves and the flowers.
+    sources:
+      - https://www.gardeningknowhow.com/ornamental/flowers/nasturtium/harvesting-edible-nasturtiums.htm
