@@ -21,5 +21,10 @@ entries:
     answer: March 3
     sources:
       - https://en.m.wikipedia.org/wiki/Hinamatsuri
+  - date: 2021-03-10
+    question: When was Google Chrome released?
+    answer: 2008
+    sources:
+      - https://en.m.wikipedia.org/wiki/Google_Chrome_version_history
       
 ---
