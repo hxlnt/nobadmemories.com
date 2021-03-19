@@ -57,6 +57,8 @@ entries:
   - date: 2021-02-26
     question: "What is the name of Kirstie Alley's character on <i>Cheers?</i>
     answer: Rebecca Howe
+    sources:
+      - https://en.wikipedia.org/wiki/Cheers
 
 
 ---
