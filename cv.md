@@ -5,9 +5,11 @@ intro: Rachel Simone Weil (b. 1984, USA)
 education:
     - institution: Texas A&M University
       degree: BA Chemistry
+      minors: Genetics, Technical Editing
       year: 2006
     - institution: University of Texas
       degree: MFA Design
+      minors: Women and Gender Studies, Asian-American Studies
       year: 2014
 exhibitions:
     - title: "Real World: WI†CH H⏀US∃"

@@ -39,3 +39,8 @@ entries:
     answer: <code>clamp(MIN, VAL, MAX)</code>
     sources:
       - https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()
+  - date: 2021-03-07
+    question: Can you do nearest-neighbor image upscaling in CSS?
+    answer: "Yes, <code>image-rendering: pixelated</code> is supported in most modern browsers."
+    sources:
+      - https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering

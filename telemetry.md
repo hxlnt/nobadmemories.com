@@ -108,6 +108,12 @@ practice:
         - date: 2021-02-21
           minutes: 210
           notes: Working on FEMICOM site redesign
+        - date: 2021-03-09
+          minutes: 120
+          notes: FEMICOM
+        - date: 2021-03-10
+          minutes: 240
+          notes: FEMICOM
 reading:
     - title: Design as Art
       author: Bruno Munari
@@ -200,10 +206,9 @@ reading:
         - date: 2021-02-17
           percent: 11
 placesofinterest:
-    - date: 2021-03-04
+    - name: The Alamo
       citystate: San Antonio, Texas
-      places:
-        - Riverwalk
+      date: 2021-03-05
 walking:
   - date: 2021-01-01
     steps: 2474
@@ -358,6 +363,18 @@ walking:
   - date: 2021-02-23
     steps: 3439
     distancemiles: 1.42
+  - date: 2021-02-24
+    steps: 3217
+    distancemiles: 1.33
+  - date: 2021-02-25
+    steps: 2988
+    distancemiles: 1.23
+  - date: 2021-02-26
+    steps: 2920
+    distancemiles: 1.21
+  - date: 2021-02-27
+    steps: 3117
+    distancemiles: 1.29
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -445,4 +462,10 @@ weight:
     difflbs: -3.4
   - date: 2021-02-23
     difflbs: -2.4
+  - date: 2021-03-03
+    difflbs: .6
+  - date: 2021-03-07
+    difflbs: -1.2
+  - date: 2021-03-10
+    difflbs: -2
 ---

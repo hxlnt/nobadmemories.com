@@ -22,3 +22,8 @@ entries:
     answer: In southern Indonesia
     sources:
       - https://en.wikipedia.org/wiki/Denpasar
+  - date: 2021-03-08
+    question: Where is Bogotá?
+    answer: In central Colombia
+    sources:
+      - https://en.wikipedia.org/wiki/Bogotá
