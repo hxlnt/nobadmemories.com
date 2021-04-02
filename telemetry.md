@@ -200,11 +200,10 @@ reading:
         - date: 2021-02-17
           percent: 11
 placesofinterest:
-    - name:
-      citystate:
-      country:
-      link:
-      notes:
+    - date: 2021-03-04
+      citystate: San Antonio, Texas
+      places:
+        - Riverwalk
 walking:
   - date: 2021-01-01
     steps: 2474
