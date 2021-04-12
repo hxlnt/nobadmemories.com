@@ -203,6 +203,14 @@ reading:
           percent: 2
         - date: 2021-02-17
           percent: 11
+        - date: 2021-03-28
+          percent: 19
+    - title: How to Be an Artist
+      author: Jerry Saltz
+      year: 2020
+      progress:
+        - date: 2021-04-11
+          percent: 48
 placesofinterest:
     - name: The Alamo
       citystate: San Antonio, Texas

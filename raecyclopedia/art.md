@@ -19,6 +19,12 @@ entries:
     answer: Non-fungible (meaning "non-interchangeable") token
     sources:
       - https://en.m.wikipedia.org/wiki/Non-fungible_token
+  - date: 2021-04-11
+    question: What years was Bill Traylor active?
+    answer: Bill Traylor produced artwork between 1939 and 1942, when he was in his 80s.
+    sources:
+      - https://en.m.wikipedia.org/wiki/Bill_Traylor
+      
     
 
 ---

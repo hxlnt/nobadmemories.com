@@ -27,3 +27,9 @@ entries:
     answer: In central Colombia
     sources:
       - https://en.wikipedia.org/wiki/Bogotá
+  - date: 2021-04-11
+    question: How far does someone in Sanderson, Texas need to drive to buy fresh produce?
+    answer: One must drive about 50 miles to reach the French Company Grocer in Marathon.
+    sources:
+      - https://www.frenchcogrocer.com/index.php?location=yes
+     

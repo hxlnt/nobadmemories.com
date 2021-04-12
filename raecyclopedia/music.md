@@ -18,3 +18,9 @@ entries:
     answer: Seattle, WA
     sources:
       - https://en.wikipedia.org/wiki/Jimi_Hendrix
+  - date: 2021-04-02
+    question: What does MPC stand for?
+    answer: MIDI Production Center
+    sources:
+      - https://en.wikipedia.org/wiki/Akai_MPC
+    
