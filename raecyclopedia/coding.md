@@ -44,3 +44,8 @@ entries:
     answer: "Yes, <code>image-rendering: pixelated</code> is supported in most modern browsers."
     sources:
       - https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering
+  - date: 2021-03-24
+    question: Do JDKs include a Java runtime?
+    answer: Yes
+    sources: 
+      - https://stackoverflow.com/questions/2541319/jre-included-with-jdk-vs-standalone-jre
