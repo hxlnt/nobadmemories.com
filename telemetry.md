@@ -213,6 +213,8 @@ reading:
       progress:
         - date: 2021-04-11
           percent: 48
+        - date: 2021-04-12
+          percent: 66
 placesofinterest:
     - name: The Alamo
       citystate: San Antonio, Texas
@@ -500,6 +502,9 @@ walking:
   - date: 2021-04-11
     steps: 7528
     distancemiles: 3.11
+  - date: 2021-04-12
+    steps: 2255
+    distancemiles: .93
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -593,4 +598,6 @@ weight:
     difflbs: -1.2
   - date: 2021-03-10
     difflbs: -2
+  - date: 2021-04-13
+    difflbs: 1.2
 ---
