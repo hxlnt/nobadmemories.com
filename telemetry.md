@@ -383,6 +383,123 @@ walking:
   - date: 2021-02-27
     steps: 3117
     distancemiles: 1.29
+  - date: 2021-02-28
+    steps: 2132
+    distancemiles: .88
+  - date: 2021-03-01
+    steps: 2822
+    distancemiles: 1.17
+  - date: 2021-03-02
+    steps: 3801
+    distancemiles: 1.57
+  - date: 2021-03-03
+    steps: 4982
+    distancemiles: 2.06
+  - date: 2021-03-04
+    steps: 3624
+    distancemiles: 1.5
+  - date: 2021-03-05
+    steps: 6804
+    distancemiles: 2.81
+  - date: 2021-03-06
+    steps: 1227
+    distancemiles: .51
+  - date: 2021-03-07
+    steps: 3259
+    distancemiles: 1.35
+  - date: 2021-03-08
+    steps: 2986
+    distancemiles: 1.23
+  - date: 2021-03-09
+    steps: 2460
+    distancemiles: 1.02
+  - date: 2021-03-10
+    steps: 1871
+    distancemiles: .77
+  - date: 2021-03-11
+    steps: 771
+    distancemiles: .32
+  - date: 2021-03-12
+    steps: 2020
+    distancemiles: .83
+  - date: 2021-03-13
+    steps: 1138
+    distancemiles: .47
+  - date: 2021-03-14
+    steps: 2982
+    distancemiles: 1.23
+  - date: 2021-03-15
+    steps: 610
+    distancemiles: .25
+  - date: 2021-03-16
+    steps: 960
+    distancemiles: .4
+  - date: 2021-03-17
+    steps: 1200
+    distancemiles: .5
+  - date: 2021-03-18
+    steps: 2886
+    distancemiles: 1.19
+  - date: 2021-03-19
+    steps: 1500
+    distancemiles: .62
+  - date: 2021-03-20
+    steps: 1089
+    distancemiles: .45
+  - date: 2021-03-21
+    steps: 2946
+    distancemiles: 1.22
+  - date: 2021-03-22
+    steps: 209
+    distancemiles: 0.09
+  - date: 2021-03-27
+    steps: 209
+    distancemiles: 0.09
+  - date: 2021-03-28
+    steps: 2396
+    distancemiles: .99
+  - date: 2021-03-29
+    steps: 3224
+    distancemiles: 1.33
+  - date: 2021-03-30
+    steps: 2424
+    distancemiles: 1
+  - date: 2021-03-31
+    steps: 1951
+    distancemiles: .81
+  - date: 2021-04-01
+    steps: 2887
+    distancemiles: 1.19
+  - date: 2021-04-02
+    steps: 1677
+    distancemiles: .69
+  - date: 2021-04-03
+    steps: 5002
+    distancemiles: 2.07
+  - date: 2021-04-04
+    steps: 4329
+    distancemiles: 1.79
+  - date: 2021-04-05
+    steps: 5460
+    distancemiles: 2.26
+  - date: 2021-04-06
+    steps: 2183
+    distancemiles: .9
+  - date: 2021-04-07
+    steps: 3254
+    distancemiles: 1.34
+  - date: 2021-04-08
+    steps: 4100
+    distancemiles: 1.69
+  - date: 2021-04-09
+    steps: 4879
+    distancemiles: 2.02
+  - date: 2021-04-10
+    steps: 10326
+    distancemiles: 4.27
+  - date: 2021-04-11
+    steps: 7528
+    distancemiles: 3.11
 weight:
   - date: 2021-01-01
     difflbs: 0
