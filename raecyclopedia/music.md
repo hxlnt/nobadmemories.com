@@ -23,4 +23,11 @@ entries:
     answer: MIDI Production Center
     sources:
       - https://en.wikipedia.org/wiki/Akai_MPC
+  - date: 2021-04-09
+    question: Who performed the German version of the song "Der Kommissar?"
+    answer: Falco, who is also known for the song "Rock Me Amadeus."
+    sources:
+      - https://en.m.wikipedia.org/wiki/Falco_(musician)
+      - https://youtu.be/cVikZ8Oe_XA
+      - https://youtu.be/8-bgiiTxhzM
     

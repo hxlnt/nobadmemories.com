@@ -195,6 +195,8 @@ reading:
           percent: 61
         - date: 2021-03-03
           percent: 71
+        - date: 2021-04-17
+          percent: 100
     - title: How to Be an Anticapitalist in the 21st Century
       author: Erik Olin Wright
       year: 2019
@@ -215,10 +217,19 @@ reading:
           percent: 48
         - date: 2021-04-12
           percent: 66
+        - date: 2021-04-17
+          percent: 73
 placesofinterest:
-    - name: The Alamo
-      citystate: San Antonio, Texas
+    - citystate: San Antonio, Texas
       date: 2021-03-05
+    - citystate: San Antonio, Texas
+      date: 2021-03-26
+    - citystate: Dallas, Texas
+      date: 2021-03-28
+    - citystate: Marfa, Texas
+      date: 2021-04-09
+    - citystate: Sanderson, Texas
+      date: 2021-04-12
 walking:
   - date: 2021-01-01
     steps: 2474
@@ -505,6 +516,18 @@ walking:
   - date: 2021-04-12
     steps: 2255
     distancemiles: .93
+  - date: 2021-04-13
+    steps: 1928
+    distancemiles: .8
+  - date: 2021-04-14
+    steps: 3938
+    distancemiles: 1.63
+  - date: 2021-04-15
+    steps: 4783
+    distancemiles: 1.98
+  - date: 2021-04-16
+    steps: 1871
+    distancemiles: .77
 weight:
   - date: 2021-01-01
     difflbs: 0
@@ -600,4 +623,10 @@ weight:
     difflbs: -2
   - date: 2021-04-13
     difflbs: 1.2
+  - date: 2021-04-14
+    difflbs: -1
+  - date: 2021-04-15
+    difflbs: -2
+  - date: 2021-04-16
+    difflbs: -2.2
 ---
