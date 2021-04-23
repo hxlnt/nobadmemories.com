@@ -218,7 +218,11 @@ reading:
         - date: 2021-04-12
           percent: 66
         - date: 2021-04-17
-          percent: 73
+          percent: 81
+        - date: 2021-04-18
+          percent: 88
+        - date: 2021-04-22
+          percent: 100
 placesofinterest:
     - citystate: San Antonio, Texas
       date: 2021-03-05
@@ -230,6 +234,8 @@ placesofinterest:
       date: 2021-04-09
     - citystate: Sanderson, Texas
       date: 2021-04-12
+    - citystate: Round Top, Texas
+      date: 2021-04-17
 walking:
   - date: 2021-01-01
     steps: 2474
