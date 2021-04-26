@@ -223,6 +223,24 @@ reading:
           percent: 88
         - date: 2021-04-22
           percent: 100
+    - title: Music Habit
+      author: Jason Timothy
+      year: 2015
+      progress:
+        - date: 2021-04-22
+          percent: 8
+        - date: 2021-04-25
+          percent: 19
+        - date: 2021-04-26
+          percent: 62
+    - title: Beyond Beautiful
+      author: Anuschka Rees
+      year: 2019
+      progress:
+        - date: 2021-04-23
+          percent: 33
+        - date: 2021-04-24
+          percent: 37
 placesofinterest:
     - citystate: San Antonio, Texas
       date: 2021-03-05
@@ -236,6 +254,8 @@ placesofinterest:
       date: 2021-04-12
     - citystate: Round Top, Texas
       date: 2021-04-17
+    - citystate: Corpus Christi, Texas
+      date: 2021-04-24
 walking:
   - date: 2021-01-01
     steps: 2474
