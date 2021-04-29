@@ -122,6 +122,8 @@ reading:
           percent: 19
         - date: 2021-04-26
           percent: 67
+        - date: 2021-04-29
+          percent: 74
     - title: Beyond Beautiful
       author: Anuschka Rees
       year: 2019
@@ -445,6 +447,21 @@ walking:
   - date: 2021-04-16
     steps: 1871
     distancemiles: .77
+  - date: 2021-04-17
+    steps: 6677
+    distancemiles: 2.67
+  - date: 2021-04-18
+    steps: 5827
+    distancemiles: 2.41
+  - date: 2021-04-19
+    steps: 3071
+    distancemiles: 1.27
+  - date: 2021-04-20
+    steps: 3203
+    distancemiles: 1.32
+  - date: 2021-04-21
+    steps: 987
+    distancemiles: .41
   - date: 2021-04-23
     steps: 1246
     distancemiles: .51
