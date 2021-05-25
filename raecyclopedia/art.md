@@ -24,7 +24,10 @@ entries:
     answer: Bill Traylor produced artwork between 1939 and 1942, when he was in his 80s.
     sources:
       - https://en.m.wikipedia.org/wiki/Bill_Traylor
-      
-    
+  - date: 2021-05-04
+    question: Are linocutting tools suitable for working with Speedy Carve?
+    answer: Yes
+    sources:
+      - https://www.youtube.com/watch?v=SGGvIIYEMKQ
 
 ---
