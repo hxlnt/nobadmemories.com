@@ -124,6 +124,8 @@ reading:
           percent: 67
         - date: 2021-04-29
           percent: 74
+        - date: 2021-05-24
+          percent: 75
     - title: Beyond Beautiful
       author: Anuschka Rees
       year: 2019
@@ -149,6 +151,8 @@ placesofinterest:
       date: 2021-04-17
     - citystate: Corpus Christi, Texas
       date: 2021-04-24
+    - citystate: Atlanta, Georgia
+      date: 2021-05-20
 walking:
   - date: 2021-01-01
     steps: 2474

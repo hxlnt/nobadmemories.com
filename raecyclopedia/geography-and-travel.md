@@ -32,4 +32,11 @@ entries:
     answer: One must drive about 50 miles to reach the French Company Grocer in Marathon.
     sources:
       - https://www.frenchcogrocer.com/index.php?location=yes
+  - date: 2021-05-30
+    question: How long is the Violet Crown Trail?
+    answer: 30 miles
+    sources:
+      - https://austintexas.gov/department/violet-crown-trail
+      - https://en.m.wikipedia.org/wiki/Violet_Crown_Trail
+
      

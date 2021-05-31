@@ -59,6 +59,11 @@ entries:
     answer: Rebecca Howe
     sources:
       - https://en.wikipedia.org/wiki/Cheers
+  - date: 2021-05-30
+    question: "What years did <i>Star Trek: Deep Space Nine</i> air?"
+    answer: 1993 to 1999
+    sources:
+      - https://en.m.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine#:~:text=Star%20Trek%3A%20Deep%20Space%20Nine%20%28DS9%29%20is%20an,century%2C%20when%20Earth%20is%20part%20of%20a%20
 
 
 ---
