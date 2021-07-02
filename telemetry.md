@@ -126,6 +126,8 @@ reading:
           percent: 74
         - date: 2021-05-24
           percent: 75
+        - date: 2021-07-02
+          percent: 80
     - title: Beyond Beautiful
       author: Anuschka Rees
       year: 2019
@@ -136,6 +138,8 @@ reading:
           percent: 40
         - date: 2021-04-28
           percent: 41
+        - date: 2021-07-02
+          percent: 48
 placesofinterest:
     - citystate: San Antonio, Texas
       date: 2021-03-05
