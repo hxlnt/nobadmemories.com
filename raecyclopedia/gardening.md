@@ -43,7 +43,7 @@ entries:
     sources:
       - https://www.gardeningknowhow.com/ornamental/flowers/nasturtium/harvesting-edible-nasturtiums.htm
   - date: 2021-05-02
-    question: What is the name of the dried flowers I used to collect from my grandmother's garden as a kid to make potpourri?
+    question: "What is the name of the dried flowers I used to collect from my grandmother's garden as a kid to make potpourri?"
     answer: Globe amaranth
     image: https://i.etsystatic.com/14438497/r/il/460bf3/1251134132/il_fullxfull.1251134132_cp92.jpg
     imagecaption: Etsy

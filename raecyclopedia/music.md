@@ -32,7 +32,7 @@ entries:
       - https://youtu.be/8-bgiiTxhzM
   - date: 2021-05-30
     question: What MIDI commands enable the percussion kit?
-    answer: By convention, Channel 10 is usef for percussion. Control codes and data are sent in the same way as they are for instruments. But instead of pitches, the data byte specifies the part of the kit to play.
+    answer: By convention, Channel 10 is used for percussion. Control codes and data are sent in the same way as they are for instruments. But instead of pitches, the data byte specifies the part of the kit to play.
     sources:
       - https://musescore.org/sites/musescore.org/files/General%20MIDI%20Standard%20Percussion%20Set%20Key%20Map.pdf
     
