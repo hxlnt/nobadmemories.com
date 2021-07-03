@@ -128,6 +128,8 @@ reading:
           percent: 75
         - date: 2021-07-02
           percent: 80
+        - date: 2021-07-03
+          percent: 89
     - title: Beyond Beautiful
       author: Anuschka Rees
       year: 2019
