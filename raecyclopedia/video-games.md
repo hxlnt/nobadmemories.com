@@ -56,4 +56,10 @@ entries:
       - https://segaretro.org/Daina_Airan
     image: https://segaretro.org/images/thumb/0/01/DainaAiran_Saturn_JP_Box_Front.jpg/591px-DainaAiran_Saturn_JP_Box_Front.jpg
     imagecaption: Sega Retro
+  - date: 2021-07-06
+    question: "Who developed the Sega Genesis game <i>Elemental Master</i>?"
+    answer: TechnoSoft
+    sources:
+      - https://en.m.wikipedia.org/wiki/Elemental_Master
+      
 ---
