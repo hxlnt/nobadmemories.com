@@ -142,6 +142,14 @@ reading:
           percent: 41
         - date: 2021-07-02
           percent: 48
+        - date: 2021-07-12
+          percent: 54
+    - title: "ADHD & Us"
+      author: Anita Robertson
+      year: 2020
+      progress:
+        - date: 2021-07-12
+          percent: 14
 placesofinterest:
     - citystate: San Antonio, Texas
       date: 2021-03-05
@@ -159,6 +167,8 @@ placesofinterest:
       date: 2021-04-24
     - citystate: Atlanta, Georgia
       date: 2021-05-20
+    - citystate: Dallas, Texas
+      date: 2021-06-19
 walking:
   - date: 2021-01-01
     steps: 2474
