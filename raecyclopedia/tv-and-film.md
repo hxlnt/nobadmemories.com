@@ -64,6 +64,10 @@ entries:
     answer: 1993 to 1999
     sources:
       - https://en.m.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine#:~:text=Star%20Trek%3A%20Deep%20Space%20Nine%20%28DS9%29%20is%20an,century%2C%20when%20Earth%20is%20part%20of%20a%20
-
+  - date: 2021-08-25
+    questions: Can a Vulcan tell a lie?
+    answer: Supposedly no, but yes.
+    sources:
+      - https://scifi.stackexchange.com/questions/4961/are-vulcans-really-incapable-of-telling-a-lie
 
 ---

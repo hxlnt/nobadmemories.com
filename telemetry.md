@@ -130,6 +130,8 @@ reading:
           percent: 80
         - date: 2021-07-03
           percent: 89
+        - date: 2021-09-09
+          percent: 90
     - title: Beyond Beautiful
       author: Anuschka Rees
       year: 2019
@@ -150,6 +152,12 @@ reading:
       progress:
         - date: 2021-07-12
           percent: 14
+    - title: Order from Chaos
+      author:
+      year:
+      progress:
+        - date: 2021-09-09
+          percent: 9
 placesofinterest:
     - citystate: San Antonio, Texas
       date: 2021-03-05
@@ -167,8 +175,18 @@ placesofinterest:
       date: 2021-04-24
     - citystate: Atlanta, Georgia
       date: 2021-05-20
+    - citystate: Dripping Springs, Texas
+      date: 2022-06-16
     - citystate: Dallas, Texas
       date: 2021-06-19
+    - citystate: Dallas, Texas
+      date: 2021-07-17
+    - citystate: Dallas, Texas
+      date: 2021-09-09
+    - citystate: Texarkana, Arkansas
+      date: 2021-09-09
+    - citystate: Jackson, Tennessee
+      date: 2021-09-09
 walking:
   - date: 2021-01-01
     steps: 2474
