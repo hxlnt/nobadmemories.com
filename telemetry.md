@@ -157,8 +157,8 @@ reading:
         - date: 2021-07-12
           percent: 14
     - title: Order from Chaos
-      author:
-      year:
+      author: Jaclyn Paul
+      year: 2018
       progress:
         - date: 2021-09-09
           percent: 9
