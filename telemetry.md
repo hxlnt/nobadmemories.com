@@ -132,6 +132,8 @@ reading:
           percent: 89
         - date: 2021-09-09
           percent: 90
+        - date: 2021-09-10
+          percent: 100
     - title: Beyond Beautiful
       author: Anuschka Rees
       year: 2019
@@ -146,6 +148,8 @@ reading:
           percent: 48
         - date: 2021-07-12
           percent: 54
+        - date: 2021-09-10
+          percent: 59
     - title: "ADHD & Us"
       author: Anita Robertson
       year: 2020
@@ -187,6 +191,12 @@ placesofinterest:
       date: 2021-09-09
     - citystate: Jackson, Tennessee
       date: 2021-09-09
+    - citystate: Franklin, Kentucky
+      date: 2021-09-10
+    - citystate: Louisville, Kentucky
+      date: 2021-09-10
+    - citystate: Madison, Indiana
+      date: 2021-09-10
 walking:
   - date: 2021-01-01
     steps: 2474
