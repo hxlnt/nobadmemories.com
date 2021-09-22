@@ -162,6 +162,14 @@ reading:
       progress:
         - date: 2021-09-09
           percent: 9
+        - date: 2021-09-13
+          percent: 11
+    - title: Would You Rather?
+      author: Katie Heaney
+      year: 2018
+      progress:
+        - date: 2021-09-17
+          percent: 6
 placesofinterest:
     - citystate: San Antonio, Texas
       date: 2021-03-05
@@ -197,6 +205,14 @@ placesofinterest:
       date: 2021-09-10
     - citystate: Madison, Indiana
       date: 2021-09-10
+    - citystate: Canaan, Indiana
+      date: 2021-09-11
+    - citystate: Cross Plains, Indiana
+      date: 2021-09-11
+    - citystate: Friendship, Indiana
+      date: 2021-09-11
+    - citystate: Louisville, Kentucky
+      date: 2021-09-12
 walking:
   - date: 2021-01-01
     steps: 2474
