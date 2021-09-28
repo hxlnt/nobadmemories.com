@@ -164,6 +164,10 @@ reading:
           percent: 9
         - date: 2021-09-13
           percent: 11
+        - date: 2021-09-24
+          percent: 12
+        - date: 2021-09-28
+          percent: 15
     - title: Would You Rather?
       author: Katie Heaney
       year: 2018
@@ -213,6 +217,20 @@ placesofinterest:
       date: 2021-09-11
     - citystate: Louisville, Kentucky
       date: 2021-09-12
+    - citystate: Fort Worth, Texas
+      date: 2021-09-23
+    - citystate: Sulphur, Oklahoma
+      date: 2021-09-23
+    - citystate: Oklahoma City, Oklahoma
+      date: 2021-09-24
+    - citystate: Arcadia, Oklahoma
+      date: 2021-09-24
+    - date: 2021-09-25
+      citystate: Yukon, Oklahoma
+    - date: 2021-09-25
+      citystate: Denton, Texas
+    - date: 2021-09-25
+      citystate: Fort Worth, Texas
 walking:
   - date: 2021-01-01
     steps: 2474
