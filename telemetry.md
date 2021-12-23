@@ -168,6 +168,8 @@ reading:
           percent: 12
         - date: 2021-09-28
           percent: 15
+        - date: 2021-10-05
+          percent: 25
     - title: Would You Rather?
       author: Katie Heaney
       year: 2018
@@ -190,6 +192,8 @@ placesofinterest:
     - citystate: Corpus Christi, Texas
       date: 2021-04-24
     - citystate: Atlanta, Georgia
+      date: 2021-05-20
+    - citystate: Dunwoody, Georgia
       date: 2021-05-20
     - citystate: Dripping Springs, Texas
       date: 2022-06-16
@@ -231,6 +235,10 @@ placesofinterest:
       citystate: Denton, Texas
     - date: 2021-09-25
       citystate: Fort Worth, Texas
+    - date: 2021-10-25
+      citystate: Dallas, Texas
+    - date: 2021-12-22
+      citystate: Atlanta, Georgia
 walking:
   - date: 2021-01-01
     steps: 2474
