@@ -41,6 +41,11 @@ entries:
     question: "What is <i>eye dialect?</i>"
     answer: 'It describes the intentional incorrect spelling of English dialog to indicate the uneducatedness of the person speaking (<i>e.g.,</i> "skool," "wimmin").'
     tag: vocabulary
+  - date: 2021-02-16
+    question: Where are residential water meters located?
+    answer: A water meter is near the front curb of the house in an underground pit covered by a metal lid.
+    sources:
+      - https://www.myutility.us/CorixTexas/customer-service/how-your-water-meter-is-read
 
 
 ---
