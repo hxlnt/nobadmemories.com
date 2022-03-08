@@ -2,7 +2,7 @@
 layout: telemetry.njk
 title: Lab → Telemetry
 date: Last Modified
-intro: I'm experimenting with different ways to track my growth this year; the results are below.
+intro: I'm experimenting with different ways to track things.
 reading:
     - title: Design as Art
       author: Bruno Munari
@@ -176,6 +176,12 @@ reading:
       progress:
         - date: 2021-09-17
           percent: 6
+    - title: Art Is Everywhere
+      author: Lorenzo Servi
+      year: 2016
+      progress:
+        - date: 2022-03-07
+          percent: 100   
 placesofinterest:
     - citystate: San Antonio, Texas
       date: 2021-03-05
@@ -239,6 +245,19 @@ placesofinterest:
       citystate: Dallas, Texas
     - date: 2021-12-22
       citystate: Atlanta, Georgia
+    - date: 2021-12-23
+      citystate: Dunwoody, Georgia
+    - date: 2021-12-23
+      citystate: Roswell, Georgia
+    - date: 2021-12-24
+      citystate: Dunwoody, Georgia
+    - date: 2021-12-24
+      citystate: Atlanta, Georgia
+    - date: 2021-12-29
+      citystate: Marfa, Texas
+    - date: 2022-01-01
+      citystate: Sonora, Texas  
+       
 walking:
   - date: 2021-01-01
     steps: 2474
