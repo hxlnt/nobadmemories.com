@@ -176,12 +176,6 @@ reading:
       progress:
         - date: 2021-09-17
           percent: 6
-    - title: Art Is Everywhere
-      author: Lorenzo Servi
-      year: 2016
-      progress:
-        - date: 2022-03-07
-          percent: 100   
 placesofinterest:
     - citystate: San Antonio, Texas
       date: 2021-03-05
