@@ -256,8 +256,7 @@ placesofinterest:
     - date: 2021-12-29
       citystate: Marfa, Texas
     - date: 2022-01-01
-      citystate: Sonora, Texas  
-       
+      citystate: Sonora, Texas
 walking:
   - date: 2021-01-01
     steps: 2474
