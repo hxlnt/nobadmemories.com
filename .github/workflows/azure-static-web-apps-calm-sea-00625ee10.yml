@@ -19,7 +19,7 @@ jobs:
         with:
           submodules: true
       - name: Build 11ty
-        uses: mcfitzgerald/action-build-eleventy@2.01
+        uses: hxlnt/action-build-eleventy@2.01
         with:
           path: --output=$GITHUB_WORKSPACE/site
       - name: Push built site to repo
