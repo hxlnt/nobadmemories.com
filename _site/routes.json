@@ -1,0 +1,14 @@
+{
+    "routes": [
+        {
+            "route": "/forevercrossing",
+            "serve": "/forever-crossing",
+            "statusCode": 301
+        },
+        {
+            "route": "/alterdark",
+            "serve": "/alter-dark",
+            "statusCode": 301
+        }
+    ]
+}

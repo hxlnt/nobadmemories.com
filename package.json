@@ -1,48 +1,19 @@
 {
-  "name": "docpad-skeleton-h5bp",
-  "version": "0.1.0",
-  "private": true,
-  "description": "HTML5 Boilerplate skeleton for DocPad. Bare essentials for building a modern website with best practices.",
-  "homepage": "https://github.com/docpad/docpad-skeleton-h5bp",
-  "keywords": [
-    "docpad-skeleton",
-    "docpad",
-    "website",
-    "skeleton",
-    "html5 boilerplate",
-    "h5bp"
-  ],
-  "author": "Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
-  "maintainers": [
-    "Benjamin Lupton <b@lupton.cc> (http://balupton.com)"
-  ],
-  "contributors": [
-    "Benjamin Lupton <b@lupton.cc> (http://balupton.com)"
-  ],
-  "bugs": {
-    "url": "https://github.com/docpad/docpad-skeleton-h5bp/issues"
+  "name": "nbm11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
   },
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/docpad/docpad-skeleton-h5bp.git"
-  },
-  "engines": {
-    "node": "4.8.4",
-    "npm": "3.10.10"
-  },
-  "dependencies": {
-    "docpad": "~6.75.0",
-    "docpad-plugin-cleanurls": "~2.8.1",
-    "docpad-plugin-dateurls": "~2.4.0",
-    "docpad-plugin-eco": "~2.1.0",
-    "docpad-plugin-marked": "~2.3.0",
-    "docpad-plugin-moment": "~2.0.2",
-    "docpad-plugin-nodesass": "~2.8.2",
-    "docpad-plugin-partials": "~2.9.2",
-    "docpad-plugin-rss": "~2.3.1"
-  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
-    "docpad-plugin-livereload": "~2.7.1"
-  },
-  "main": "node_modules/docpad/bin/docpad-server"
+    "@11ty/eleventy": "^0.11.1"
+  }
 }

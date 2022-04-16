@@ -1,0 +1,70 @@
+{% include "partials/header.njk" %}
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            </div>
+            <div class="col-md-10">
+            <h2>Reading in 2021-2022</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+            <ul>
+                    {% for item in reading %}
+                        {% if item.display != "none" %}
+                            <li><i>{{ item.title }}</i> ({{ item.year }}) by {{ item.author }}
+                            <div style="margin:0; background:repeating-linear-gradient(-45deg, var(--color2-light),var(--color2-light) 4px, #ffffff 4px, #ffffff 8px); width:100%; border:1px solid var(--color2);">
+                        <div style="text-align: right; padding: 4px 12px 4px 24px; width: {{ item.progress[item.progress.length-1].percent }}%; background-color: var(--color2); font-family:'Helvetica', 'Helvetica Neue', 'Arial', sans-serif; font-size: smaller;">{{ item.progress[item.progress.length-1].percent }}%</div>
+                    </div><br>
+                    </li>
+                        {% endif %}
+                    {% endfor %} 
+            </ul>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            </div>
+            <div class="col-md-10">
+            <h2>Distance walked in 2021</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="row justify-content-between">
+
+                    <div class="col-md-offset-*" style="background-color:var(--color3-light); padding: 16px; width:100%; min-height:100px; text-align: center; margin-bottom: 48px; box-shadow: 8px 8px var(--color3);">
+                        <p></p>
+                        <h3>
+                        {% set totaldistancemiles = 0 %}
+                        {% for item in walking %}
+                            {% set totaldistancemiles = totaldistancemiles + item.distancemiles %}
+                        {% endfor %} 
+                        {{ totaldistancemiles | round }} mi / {{ (totaldistancemiles * 1.609344) | round }} km
+                        </h3>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+{% include "partials/footer.njk" %}

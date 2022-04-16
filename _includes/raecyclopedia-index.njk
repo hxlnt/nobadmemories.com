@@ -1,0 +1,50 @@
+{% include "partials/header.njk" %}
+
+{% macro categorycount(pagename) %}
+    {% set count = 0 %}
+    {% for category in collections.raecyclopedia %}
+        {% if category.data.pagename == pagename %}
+            {{ category.data.entries | length }}
+        {% endif %}
+    {% endfor %}
+{% endmacro %}
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
+            <div class="col-md-10">
+                <h2>Categories
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                <ul>
+                    {% for category in collections.raecyclopedia | sort(attribute='url')%}
+                        <li>
+                            <a href="{{category.url}}">{{category.data.pagename}}</a>
+                            ({{categorycount(category.data.pagename) | trim }})</li>
+                        {% if category.data.pagename == pagename %}
+                            {{ category.url }}
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
+                    <img src="https://kobe-flowergreen.com/cmx40109/wp-content/uploads/2017/03/20170308-1030x773.jpg">
+                    <figcaption><a href="raecyclopedia/video-games">Video games</a>: What is the "flashy flower sign" item in
+                        <i>Animal Crossing: New Horizons?</i>
+                        </figcaption>
+                </figure>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+{% include "partials/footer.njk" %}

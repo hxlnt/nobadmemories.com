@@ -1,0 +1,195 @@
+{% include "partials/header.njk" %}
+
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color1-light);">
+            </div>
+            <div class="col-md-10">
+                <h2>Education
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                <ul>
+                    {% for item in education %}
+                    <li>{{ item.institution }}, {{item.degree}}<BR>
+                    Minors: {{item.minors}}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color1-light);">
+            </div>
+            <div class="col-md-10">
+                <h2>Selected exhibitions
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                <ul>
+                    {% for item in exhibitions %}
+                        {% if item.display != "none" %}
+                            <li>{{ item.title }}<br>
+                            {% for venue in item.venue %}
+                                {% if venue.link %}
+                                    <a href="{{ venue.link }}" target="_blank">
+                                {% endif %}
+                                {{ venue.name }}</a> in {{ venue.citystate }} {{ venue.country }}
+                            {% endfor %}
+                            </li>
+                        {% endif %}
+                    {% endfor %} 
+                </ul>
+                {% for item in exhibitions %}
+                    {% for image in item.image %}
+                        {% if image.display == "main" %}
+                            <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
+                                <img src="{{ image.url }}">
+                                <figcaption>{{ image.description }}</figcaption>
+                            </figure>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                </div>
+                <div class="col-md-4">
+                {% for item in exhibitions %}
+                    {% for image in item.image %}    
+                        {% if image.display == "side" %}
+                            <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
+                                <img src="{{ image.url }}">
+                                <figcaption>{{ image.description }}</figcaption>
+                            </figure>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}   
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color1-light);">
+            </div>
+            <div class="col-md-10">
+                <h2>Selected performances
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                <ul>
+                    {% for item in performances %}
+                        <li>{{ item.title }}<br>
+                        {% for venue in item.venue %}
+                            {% if venue.link %}
+                            <a href="{{ venue.link }}" target="_blank">
+                            {% endif %}
+                            {{ venue.name }}</a> in {{ venue.citystate }} {{ venue.country }}
+                        {% endfor %}
+                        </li>
+                    {% endfor %} 
+                </ul>
+                {% for item in performances %}
+                    {% for image in item.image %}
+                        {% if image.display == "main" %}
+                            <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
+                                <img src="{{ image.url }}">
+                                <figcaption>{{ image.description }}</figcaption>
+                            </figure>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                </div>
+                <div class="col-md-4">
+                {% for item in performances %}
+                    {% for image in item.image %}    
+                        {% if image.display == "side" %}
+                            <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
+                                <img src="{{ image.url }}">
+                                <figcaption>{{ image.description }}</figcaption>
+                            </figure>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}   
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color1-light);">
+            </div>
+            <div class="col-md-10">
+                <h2>Selected talks
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                <ul>
+                    {% for item in talks %}
+                        {% if item.display != "none" %}
+                            <li>{{ item.title }}<br>
+                            {% for venue in item.venue %}
+                                {{ item.event }} at 
+                                {% if venue.link %}
+                                    <a href="{{ venue.link }}" target="_blank">
+                                {% endif %}
+                                {{ venue.name }}</a> in {{ venue.citystate }} {{ venue.country }}
+                            {% endfor %}
+                            </li>
+                        {% endif %}
+                    {% endfor %} 
+                </ul>
+                {% for item in talks %}
+                    {% for image in item.image %}
+                        {% if image.display == "main" %}
+                            <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
+                                <img src="{{ image.url }}">
+                                <figcaption>{{ image.description }}</figcaption>
+                            </figure>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                </div>
+                <div class="col-md-4">
+                {% for item in talks %}
+                    {% for image in item.image %}    
+                        {% if image.display == "side" %}
+                            <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
+                                <img src="{{ image.url }}">
+                                <figcaption>{{ image.description }}</figcaption>
+                            </figure>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}   
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    {% include "partials/footer.njk" %}
