@@ -7,10 +7,10 @@ posttitle: "Retrospective: Hosting a mutual-aid fundraiser on Discord"
 intro: "<p><strong>Retrospective: Hosting a mutual-aid fundraiser on Discord</strong><br><em>Posted Friday, January 9, 2021</em></p>"
 ---
 
-In November of 2020, the boxes began to really stack up. A few by the hallway, then a looming tower near the kitchen. Spurred by months of COVID-19-induced isolation at home, I'd put myself on a mission to finally go through all my possessions and throw or give away what was no longer needed. Around the same time, my thoughts turned to making a charitable donation. Given the difficult circumstances 2020 brought, I wanted to be thoughtful about making a positive impact for those affected. 
+In November of 2020, the boxes began to really stack up. A few by the hallway, then a looming tower near the kitchen. Spurred by months of COVID-19-induced isolation at home, I'd put myself on a mission to finally go through all my possessions and throw or give away what was no longer needed. Around the same time, my thoughts turned to making a charitable donation. Given the difficult circumstances 2020 brought, I wanted to be thoughtful about making a positive impact. 
 
-One thought led to another, and eventually I came up with the idea to host an online silent auction/garage sale to pass my gently-used items on to friends while raising money for a good cause. I had four main objectives for the silent auction:
-  - to offer unwanted items to others in a quarantine-safe way, 
+One thought led to another, and eventually I came up with the idea to host an online silent auction/garage sale to raise money for a good cause. I had four main objectives for the silent auction:
+  - to facilitate sharing and rehoming of items to others in a quarantine-safe way, 
   - to raise money for a charitable cause (in my case, [Austin Mutual Aid](https://www.gofundme.com/f/kick-the-cold-austin-mutal-aid)), 
   - to create a unique avenue to connect and have fun with friends remotely, and
   - to help activate others in the rewarding act of giving.
