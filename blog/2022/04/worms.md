@@ -26,4 +26,6 @@ Each stage of WORMS is done completely with respect to the workspace before movi
  - **MISCELLANY:** Hopefully, your space is looking less chaotic, and you can more mindfully assess the things you weren't sure what to do with before. In instances where there are a lot of miscellaneous items, it might be helpful to repeat the out-of-towners vs. residents exercise to see if you can at least get items put back in the right room or general vicinity.
  - **STYLE:** Finally, arrange the decor, wipe up the dust, turn on the lava lamp, or do whatever puts the finishing touches on your space. Celebrate the achievement!
 
+<p></p>
+
 I've been a messmaker my whole life, and that's probably never going to change. But this somewhat silly mnemonic has helped me get over the anxiety of cleaning it all up. It seems to work especially well for workspaces and small rooms that have eclectic contents. After doing the WORMS thing, I'm at least ready for the next fun project and the mess that will inevitably ensue.
