@@ -1,2 +1,2 @@
 # No Bad Memories
-This website is built on [Docpad](http://www.docpad.org) and automagically deployed to [Azure](http://azure.microsoft.com).
+This website is built on 11ty and automagically deployed to Azure via a GitHub Action script.
