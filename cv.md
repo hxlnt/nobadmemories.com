@@ -1,7 +1,7 @@
 ---
 layout: cv.njk
 title: About → Artist CV
-intro: Rachel Simone Weil
+intro: Rachel Simone Weil is an electronic artist and historian whose work critiques and rewrites nostalgia for 20th-century computers and video games.
 education:
     - institution: Texas A&M University
       degree: BA Chemistry
@@ -105,8 +105,9 @@ exhibitions:
     - title: GLI.TC/H 20111
       venue:
         - name: MBLABS
-          citystate: Chicago, IL
-          country: USA
+          citystate: Chicago, IL / Enschede
+          country: USA / NETHERLANDS
+          link: https://www.planetart.nl/
       year: 2011
 performances:
     # - title: HEAT.wav
@@ -176,7 +177,7 @@ talks:
           citystate: Kilkenny
           country: IRELAND
       year: 2017
-    - title: "Pink Crap"
+    - title: "Keynote: Pink Crap"
       event: R-CADE Symposium
       venue:
         - name: Rutgers-Camden University
@@ -196,7 +197,7 @@ talks:
           citystate: Wisconsin Dells, WI 
           country: USA
       display: none
-    - title: Looking back at girls' games
+    - title: "Keynote: Looking back at girls' games"
       event: IndieCade
       venue:
         - name: Ivy Substation Theater

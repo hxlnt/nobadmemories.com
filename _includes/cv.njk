@@ -19,7 +19,7 @@
                         {% if item.display != "none" %}
                             <li>{{ item.title }}
                                 {% if item.year %}
-                                ({{ item.year }}
+                                ({{ item.year }})
                                 {% endif %}
                             <br>
                             {% for venue in item.venue %}
@@ -76,7 +76,7 @@
                     {% for item in performances %}
                         <li>{{ item.title }} 
                             {% if item.year %}
-                            ({{ item.year }}
+                            ({{ item.year }})
                             {% endif %}
                         <br>
                         {% for venue in item.venue %}
@@ -133,7 +133,7 @@
                         {% if item.display != "none" %}
                             <li>{{ item.title }}
                                 {% if item.year %}
-                                ({{ item.year }}
+                                ({{ item.year }})
                                 {% endif %}
                             <br>
                             {% for venue in item.venue %}
