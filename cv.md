@@ -102,6 +102,12 @@ exhibitions:
         - Barbie Fashion Designer
       curator:
         - Marie Foulston
+    - title: GLI.TC/H 20111
+      venue:
+        - name: MBLABS
+          citystate: Chicago, IL
+          country: USA
+      year: 2011
 performances:
     # - title: HEAT.wav
     #   venue:
@@ -114,6 +120,7 @@ performances:
         - name: Interaccess
           citystate: Toronto, ON
           country: CANADA
+          link: https://interaccess.org/
       year: 2014
     - title: Dallas Videofest
       venue: 
@@ -128,6 +135,10 @@ performances:
           citystate: New York City, NY
           country: USA
           link: https://www.eyebeam.org/
+      image:
+        - url: /img/pth-talktoanimals.png
+          description: NES glitch art projected behind artist Talk to Animals at Blip Festival
+          display: main
       year: 2011
     - title: Sanrio Mobile Pop-up Tour
       venue:

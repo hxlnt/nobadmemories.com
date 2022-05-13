@@ -17,7 +17,11 @@
                 <ul>
                     {% for item in exhibitions %}
                         {% if item.display != "none" %}
-                            <li>{{ item.title }}<br>
+                            <li>{{ item.title }}
+                                {% if item.year %}
+                                ({{ item.year }}
+                                {% endif %}
+                            <br>
                             {% for venue in item.venue %}
                                 {% if venue.link %}
                                     <a href="{{ venue.link }}" target="_blank">
@@ -70,7 +74,11 @@
             <div class="col-md-8">
                 <ul>
                     {% for item in performances %}
-                        <li>{{ item.title }}<br>
+                        <li>{{ item.title }} 
+                            {% if item.year %}
+                            ({{ item.year }}
+                            {% endif %}
+                        <br>
                         {% for venue in item.venue %}
                             {% if venue.link %}
                             <a href="{{ venue.link }}" target="_blank">
@@ -123,12 +131,16 @@
                 <ul>
                     {% for item in talks %}
                         {% if item.display != "none" %}
-                            <li>{{ item.title }} ({{ item.event }})<br>
+                            <li>{{ item.title }}
+                                {% if item.year %}
+                                ({{ item.year }}
+                                {% endif %}
+                            <br>
                             {% for venue in item.venue %}
                                 {% if venue.link %}
                                     <a href="{{ venue.link }}" target="_blank">
                                 {% endif %}
-                                {{ venue.name }}</a> in {{ venue.citystate }} {{ venue.country }}
+                                {{ item.event}} at {{ venue.name }}</a> in {{ venue.citystate }} {{ venue.country }}
                             {% endfor %}
                             </li>
                         {% endif %}
