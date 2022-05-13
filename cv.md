@@ -1,7 +1,7 @@
 ---
 layout: cv.njk
 title: About → Artist CV
-intro: Rachel Simone Weil (b. 1984, USA)
+intro: Rachel Simone Weil
 education:
     - institution: Texas A&M University
       degree: BA Chemistry
@@ -12,17 +12,17 @@ education:
       minors: Women and Gender Studies, Asian-American Studies
       year: 2014
 exhibitions:
-    - title: "Real World: WI†CH H⏀US∃"
-      year: 2018
-      venue: 
-        - name: Museum of Human Achievement
-          citystate: Austin, TX
-          country: USA
-          link: http://www.themuseumofhumanachievement.com/
-      image: 
-        - url: ../img/luigi.jpg
-          description: "Real World: WI†CH H⏀US∃ at the Museum of Human Achievement in Austin, TX"
-          display: side
+    # - title: "Real World: WI†CH H⏀US∃"
+    #   year: 2018
+    #   venue: 
+    #     - name: Museum of Human Achievement
+    #       citystate: Austin, TX
+    #       country: USA
+    #       link: http://www.themuseumofhumanachievement.com/
+    #   image: 
+    #     - url: ../img/luigi.jpg
+    #       description: "Real World: WI†CH H⏀US∃ at the Museum of Human Achievement in Austin, TX"
+    #       display: side
     - title: C0MPUT3R P$Y3NT0L0GY
       year: 2018
       venue: 
@@ -39,22 +39,22 @@ exhibitions:
           display: none
       work-shown: 
         - Tender Mystic Hotline
-    # - title: "From Pong to Pokemon: The Evolution of Electronic Gaming"
-    #  year: 2017
-    #  link: https://www.thestoryoftexas.com/visit/exhibits/evolution-of-electronic-gaming
-    #  venue: 
-    #    - name: Bullock Texas State History Museum
-    #      citystate: Austin, TX
-    #      country: USA
-    #  work-shown:
-    #    - Electronic Sweet-N-Fun Fortune Teller
-    #    - Casio Loopy
-    #    - Sega Master System Girl
-    #    - McKenzie & Co.
-    #    - Barbie Fashion Designer
-    #    - Nintendo Game Boy Advance Hello Kitty edition
-    #    - Smarty
-    #    - Rockett's New School
+    - title: "From Pong to Pokemon: The Evolution of Electronic Gaming"
+      year: 2017
+      link: https://www.thestoryoftexas.com/visit/exhibits/evolution-of-electronic-gaming
+      venue: 
+        - name: Bullock Texas State History Museum
+          citystate: Austin, TX
+          country: USA
+      work-shown:
+        - Electronic Sweet-N-Fun Fortune Teller
+        - Casio Loopy
+        - Sega Master System Girl
+        - McKenzie & Co.
+        - Barbie Fashion Designer
+        - Nintendo Game Boy Advance Hello Kitty edition
+        - Smarty
+        - Rockett's New School
     - title: Barbie Gets with the Program
       year: 2017
       venue: 
@@ -102,12 +102,12 @@ exhibitions:
       curator:
         - Marie Foulston
 performances:
-    - title: HEAT.wav
-      venue:
-        - name: Substation
-          citystate: Seattle, WA
-          country: USA
-      year: 2020
+    # - title: HEAT.wav
+    #   venue:
+    #     - name: Substation
+    #       citystate: Seattle, WA
+    #       country: USA
+    #   year: 2020
     - title: Vector Game + Art Convergence
       venue:
         - name: Interaccess
@@ -145,7 +145,7 @@ talks:
     - title: Homebrew, hacking, and history
       event: MAGFest
       venue:
-        - name: Gaylord Resort and Convention Center
+        - name: Gaylord Convention Center
           citystate: Oxon Hill, MD 
           country: USA
       year: 2019
@@ -164,7 +164,14 @@ talks:
           citystate: Kilkenny
           country: IRELAND
       year: 2017
-    - title: "8-Bit bandwidth: Designing new networks for obsolete game consoles"
+    - title: "Pink Crap"
+      event: R-CADE Symposium
+      venue:
+        - name: Rutgers-Camden
+          citystate: Camden, NJ
+          country: USA
+      year: 2017
+    - title: "8-bit bandwidth: Designing new networks for obsolete game consoles"
       event: Radical Networks
       venue: 
         - name: Chemistry Creative
