@@ -32,11 +32,11 @@ exhibitions:
           link: https://www.marfaopen.org/open-house
       image:
         - url: https://images.squarespace-cdn.com/content/v1/5c37870eaf2096c14c30481c/1547243540761-YHO8J7D7K0NOZ8Z67TKM/ke17ZwdGBToddI8pDm48kFmfxoboNKufWj-55Bgmc-J7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iXS6XmVv7bUJ418E8Yoc1hjuviiiZmrL38w1ymUdqq4JaGeFUxjM-HeS7Oc-SSFcg/DSC_8399.JPG?format=2500w
-          description: C0MPUT3R P$Y3NT0L0GY at Tacheles in Marfa, TX
+          description: C0MPUT3R P$Y3NT0L0GY
           display: main
         - url: http://fantasticarcade.com/assets/images/tender_mystic_hotline.jpg
           description: Tender Mystic Hotline at C0MPUT3R P$Y3NT0L0GY
-          display: none
+          display: side
       work-shown: 
         - Tender Mystic Hotline
     - title: "From Pong to Pokemon: The Evolution of Electronic Gaming"
@@ -55,6 +55,7 @@ exhibitions:
         - Nintendo Game Boy Advance Hello Kitty edition
         - Smarty
         - Rockett's New School
+      display: none
     - title: Barbie Gets with the Program
       year: 2017
       venue: 
@@ -64,7 +65,7 @@ exhibitions:
           link: https://www.livingcomputers.org/
       image:
         - url: https://static.wixstatic.com/media/ae50a5_6a37a42b71c0420088b3257c6e97453a~mv2_d_1800_1200_s_2.jpg/v1/fill/w_1287,h_858,al_c,q_85,usm_0.66_1.00_0.01/ae50a5_6a37a42b71c0420088b3257c6e97453a~mv2_d_1800_1200_s_2.webp
-          description: Barbie Gets with the Program at the Living Computers Museum in Seattle, WA
+          description: Barbie Gets with the Program
           display: side
     - title: HACKING / MODDING / REMIXING as Feminist Protest
       year: 2017
@@ -167,7 +168,7 @@ talks:
     - title: "Pink Crap"
       event: R-CADE Symposium
       venue:
-        - name: Rutgers-Camden
+        - name: Rutgers-Camden University
           citystate: Camden, NJ
           country: USA
       year: 2017
