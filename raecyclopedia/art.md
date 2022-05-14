@@ -3,7 +3,7 @@ tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Lab → Raecyclopedia
 pagename: Art
-intro: A catalog of some things I've researched on the topic of art.
+intro: A catalog of some things I've learned on the topic of art.
 entries:
   - date: 2021-01-10
     question: What are some libraries or museums in the US that house Bruno Munari's work?
