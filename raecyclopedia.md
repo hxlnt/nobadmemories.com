@@ -2,7 +2,7 @@
 layout: raecyclopedia-index.njk
 title: Lab → Raecyclopedia
 date: Last Modified
-intro: A catalog of everything I've learned from the internet since January 1, 2021.
+intro: A catalog of things I've learned from the internet.
 entries:
 
   - date: 2021-01-14
@@ -12,25 +12,6 @@ entries:
       - https://lgbta.wikia.org/wiki/Fraysexual
       - https://poly.land/2019/03/29/what-is-fraysexuality/
     tag: vocabulary
-  - date: 2021-01-18
-    question: How do you register your nick on IRC?
-    answer: <code>/msg NickServ register password e-mail</code>
-    sources:
-      - http://www.geekshed.net/commands/nickserv/
-    tag: unclassified
-
-  - date: 2021-01-24
-    question: How do you register a channel on IRC?
-    answer: "After registering your own account and creating the channel, run <code>/msg chanserv register #channel</code>"
-    tag: unclassified
-    sources:
-      - https://www.geekshed.net/commands/chanserv/
-  - date: 2021-01-24
-    question: How do you reset your registered account's password on IRC?
-    answer: Running <code>/msg nickserv sendpass your-nick</code> will send you an email with instructions to reset your password.
-    tag: unclassified
-    sources:
-      - https://www.geekshed.net/commands/chanserv/
   - date: 2021-01-28
     question: How many users are on FriendProject?
     answer: About 40,000
