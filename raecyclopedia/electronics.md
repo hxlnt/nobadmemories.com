@@ -2,7 +2,7 @@
 tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Lab → Raecyclopedia
-intro: A catalog of everything I've looked up about electronics this year.
+intro: A catalog of some things I've learned or looked up on the topic of electronics.
 pagename: Electronics
 entries:
   - date: 2021-01-16

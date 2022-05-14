@@ -3,7 +3,7 @@ tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Lab → Raecyclopedia
 pagename: Science
-intro: A catalog of everything I've looked up about cooking this year.
+intro: A catalog of some scientific topics I've researched.
 entries:
   - date: 2021-07-07
     question: Do asteroids have atmospheres?

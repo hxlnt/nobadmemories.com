@@ -2,7 +2,7 @@
 tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Lab → Raecyclopedia
-intro: A catalog of everything I've looked up about history this year.
+intro: A catalog of historical dates and questions I've looked up.
 pagename: History
 entries:
   - date: 2021-01-15
@@ -11,6 +11,11 @@ entries:
     tag: unclassified
     sources:
       - https://en.wikipedia.org/wiki/Mao_Zedong
+  - date: 2021-02-21
+    question: Where was Jimi Hendrix born?
+    answer: Seattle, WA
+    sources:
+      - https://en.wikipedia.org/wiki/Jimi_Hendrix
   - date: 2021-03-07
     question: When is Texas Independence Day celebrated?
     answer: March 2

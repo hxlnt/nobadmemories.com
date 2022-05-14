@@ -2,7 +2,7 @@
 tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Lab → Raecyclopedia
-intro: A catalog of everything I've looked up about gardening this year.
+intro: A catalog of some things I've learned or looked up about gardening.
 pagename: Gardening
 entries:
   - date: 2021-01-07
@@ -16,11 +16,6 @@ entries:
     sources:
       - https://homeguides.sfgate.com/germinate-pepper-seeds-indoors-38209.html
       - https://growhotpeppers.com/germinating-pepper-seeds/
-  - date: 01-12-2021
-    question: Can spider plants grow in low-light conditions indoors?
-    answer: Yes.
-    sources:
-      - https://housefur.com/10-houseplants-that-need-almost-zero-sunlight/
   - date: 2021-02-11
     question: What do chicory flowers look like?
     sources:
@@ -42,11 +37,3 @@ entries:
     answer: You can eat the leaves and the flowers.
     sources:
       - https://www.gardeningknowhow.com/ornamental/flowers/nasturtium/harvesting-edible-nasturtiums.htm
-  - date: 2021-05-02
-    question: "What is the name of the dried flowers I used to collect from my grandmother's garden as a kid to make potpourri?"
-    answer: Globe amaranth
-    image: https://i.etsystatic.com/14438497/r/il/460bf3/1251134132/il_fullxfull.1251134132_cp92.jpg
-    imagecaption: Etsy
-    sources:
-      - https://www.etsy.com/listing/526650369/50-globe-amaranthus-mix-gompherena
-    
