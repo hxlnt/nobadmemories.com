@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>Sailor Moon Crystals screensaver</title>
+  <script type='text/javascript' src='https://code.jquery.com/jquery-1.4.4.min.js'></script> 
+  <style type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+    html {width:100%; height:100%; margin:0;}
+    h1 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height:22px; font-size:13px; background:black; color:black; padding-left:12px;}
+    p,li,ul {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height:22px; font-size:13px; font-weight:400;}
+    strong {font-weight:700;}
+    a {color:black; font-weight:500;}
+    input[type=button] {padding:2px 2px; background:white; border:1; border-color:white; 
+    cursor:pointer;
+    color:black;
+    font-family:'Open Sans Condensed', sans-serif;
+    line-height:20px; 
+    font-size:14px;
+ }
+  </style>
+
+
+<script type='text/javascript'>
+    
+function crystalScreen(){
+    $("#buttondiv").html("<audio id=moonmp3 loop=loop preload=auto><source src=https://hxlntblob.blob.core.windows.net/nbm/crystals/moon.mp3 type=audio/mpeg></audio>");
+    
+    var audioplay = document.getElementById("moonmp3");
+    function playAudio(){audioplay.play();}
+    
+    playAudio();
+    
+    
+    var screenwidth = window.innerWidth + 70;
+    var screenheight = window.innerHeight + 70;
+        
+    (function makeDiv(){ 
+        $newdiv = $('<div/>').css({'width':'140px','height':'140px' });
+        
+        var posx = (Math.random() * screenwidth - 70).toFixed();
+        var posy = (Math.random() * screenheight - 70).toFixed();
+    
+        var item = new Array()
+            item[1]="https://hxlntblob.blob.core.windows.net/nbm/crystals/rose.gif"
+            item[2]="https://hxlntblob.blob.core.windows.net/nbm/crystals/chibi.gif"
+            item[3]="https://hxlntblob.blob.core.windows.net/nbm/crystals/moon.gif"
+            item[4]="https://hxlntblob.blob.core.windows.net/nbm/crystals/mercury.gif"
+            item[5]="https://hxlntblob.blob.core.windows.net/nbm/crystals/mars.gif"
+            item[6]="https://hxlntblob.blob.core.windows.net/nbm/crystals/jupiter.gif"
+            item[7]="https://hxlntblob.blob.core.windows.net/nbm/crystals/venus.gif"
+            item[8]="https://hxlntblob.blob.core.windows.net/nbm/crystals/rose.gif"
+            item[9]="https://hxlntblob.blob.core.windows.net/nbm/crystals/rose.gif"
+            item[10]="https://hxlntblob.blob.core.windows.net/nbm/crystals/rose.gif"
+            item[11]="https://hxlntblob.blob.core.windows.net/nbm/crystals/rose.gif"
+            item[12]="https://hxlntblob.blob.core.windows.net/nbm/crystals/rose.gif"
+
+        var select=Math.floor(Math.random()*item.length)
+            if (select==0)
+            select=1
+    
+        $newdiv.css({'position':'absolute','left':posx+'px','top':posy+'px',
+            'background-image':'url('+item[select]+')',
+            'background-repeat':'no-repeat',
+            'overflow':'hidden',
+            'display':'none'}).appendTo( 'body' ).fadeIn(400, function(){makeDiv(); }); 
+        
+    })();
+
+};
+
+</script>
+
+</head>
+<body style="background: -webkit-linear-gradient(#ff6c6c, #d8abff, #70cbff); background: -o-linear-gradient(#ff6c6c, #d8abff, #70cbff); background: -moz-linear-gradient(#ff6c6c, #d8abff, #70cbff); background: linear-gradient(#ff6c6c, #d8abff, #70cbff); background-repeat:no-repeat; background-color: #70cbff; width:100%; height:100%; overflow:hidden; margin:0;">
+    <div id="buttondiv" style="margin-left:12px;"><p><a style="cursor:pointer;" id="button" value="Start the screensaver" onClick="crystalScreen();"><u>Click to start the "screensaver."</u></a></p></div>
+      
+</body>
+
+
+</html>
