@@ -11,7 +11,7 @@ As you may know from my past research on the sticker-printing [Casio Loopy game 
 
 Printmaking toys make creation immediate, convenient, and playful, often at the expense of the quality, quantity, permanence, or general perceived value of the resulting image. Toys require neither prerequisite training nor access to specialty facilities. 
 
-For me, these are benefits printmaking toys have over their "real" counterparts. Like Sadie Benning with the Fisher-Price Pixelvision camera or [Nullsleep](https://www.nullsleep.com) with the Nintendo Game Boy, I use post-consumer toys to achieve activist, countercultural, and recuperative ends.
+For me, these are benefits printmaking toys have over their "real" counterparts. Like Sadie Benning with the Fisher-Price Pixelvision camera or [Nullsleep](https://www.nullsleep.com) with the Nintendo Game Boy, my goal is to use post-consumer toys to achieve activist, countercultural, and recuperative ends.
 
 <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="https://artforum.com/uploads/upload.002/id10618/article01_810x.jpg">
 <figcaption>Still image from <em>Girl Power</em> (Sadie Benning, 1992)</figcaption>
