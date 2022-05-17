@@ -6,9 +6,7 @@ tags: project
 posttitle: "ConnectedNES"
 ---
 
-ConnectedNES is a unique open-source project released in May 2016 that wirelessly and easily connects the 8-bit NES game console to the internet with a custom "modem" you can build yourself! It is currently bundled with a realtime Twitter client but has the potential to be expanded to a collaborative platform.
-
-## What is ConnectedNES?
+ConnectedNES is an [open-source project](https://github.com/hxlnt/connectednes) released in May 2016 that connects the 8-bit NES game console to the internet with a custom WiFi "modem" you can build yourself! It is currently bundled with a realtime Twitter client but has the potential to be expanded to a collaborative platform.
 
 ![Loading screen](/img/connectednes1.gif)
 
@@ -26,7 +24,9 @@ ConnectedNES is written across three languages: Javascript, Arduino C/C++, and 6
 
 When you play NES games, you press buttons on the controller, and the controller in turn sends a signal made of bits (1s and 0s) through the controller cable and into the NES console. These bits indicate which buttons were pressed or not pressed, and this information is then used to control the game. As it turns out, tweets, images, and other digital content is also made up of bits. What if we could use the controller port to stream different kinds of data into the NES? We'd have something a lot like ConnectedNES!
 
-![The Photon sends data to NES port](/img/4905.jpg)
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/4905.jpg">
+<figcaption>The Photon sends data to NES port</figcaption>
+</figure>
 
 Here's a breakdown of how the ConnectedNES Twitter client works:
 
@@ -40,7 +40,7 @@ Here's a breakdown of how the ConnectedNES Twitter client works:
 
 5. Inside the NES is a custom cartridge containing a "game" that displays the incoming data. The NES cannot natively display ASCII characters, so graphical tiles representing the basic ASCII table must be included in the custom NES ROM. I've also added pretty little animated balloons and things.
 
-<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/smaller-modem.jpg" width="100%">
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/smaller-modem.jpg">
 <figcaption>"Modem"</figcaption>
 </figure>
 
