@@ -4,10 +4,48 @@ title: Lab → Blog
 intro: "Latest posts:"
 ---
 
+</div>
+                          <div class="col-md-4">
+                          </div>
+                      </div>
+                  </div>
+              </div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            </div>
+            <div class="col-md-10">
+            <h2>2022</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+
+ - [Printmaking as play](blog/2022/05/printmaking-as-play/)
  - [Cleaning my workspace with WORMS](blog/2022/04/worms/)
- *Posted on April 15, 2022*
+
+</div>
+                          <div class="col-md-4">
+                          </div>
+                      </div>
+                  </div>
+              </div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            </div>
+            <div class="col-md-10">
+            <h2>2021</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+
  - [In memoriam: Bubblegum (200?-2021)](blog/2021/02/in-memoriam-bubblegum/)
- *Posted on February 11, 2021*
  - [Retrospective: Hosting a mutual aid fundraiser on Discord](blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/)
- *Posted on January 9, 2021*
- 
