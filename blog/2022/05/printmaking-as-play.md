@@ -7,7 +7,7 @@ posttitle: "Print Gocco and printmaking as play"
 intro: "<p><strong>Print Gocco and printmaking as play</strong><br><em>Posted Tuesday, May 17, 2022</em></p>"
 ---
 
-As you may know from my past research on the sticker-printing [Casio Loopy game console](http://www.femicom.org/collection/loopy/) and [Barbie Fashion Designer](http://www.femicom.org/research/jesyca-durchin-on-the-making-of-barbie-fashion-designer/), I have a special interest in games and toys that incorporate printing or image making as a play mechanic. 
+As you might know from my past research on the sticker-printing [Casio Loopy game console](http://www.femicom.org/collection/loopy/) and [Barbie Fashion Designer](http://www.femicom.org/research/jesyca-durchin-on-the-making-of-barbie-fashion-designer/), I have a special interest in games and toys that incorporate printing or image making as a play mechanic. 
 
 Printmaking toys make creation immediate, convenient, and playful, often at the expense of the quality, quantity, permanence, or general perceived value of the resulting image. Toys require neither prerequisite training nor access to specialty facilities. 
 
