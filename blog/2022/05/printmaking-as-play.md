@@ -3,8 +3,8 @@ tags: blog
 layout: blog-index.njk
 title: Lab → Blog 
 date: 2022-05-17
-posttitle: "Printmaking as play"
-intro: "<p><strong>Printmaking as play</strong><br><em>Posted Tuesday, May 17, 2022</em></p>"
+posttitle: "Print Gocco: Printmaking as play"
+intro: "<p><strong>Print Gocco: Printmaking as play</strong><br><em>Posted Tuesday, May 17, 2022</em></p>"
 ---
 
 As you may know from my past research on the sticker-printing [Casio Loopy game console](http://www.femicom.org/collection/loopy/) and [Barbie Fashion Designer](http://www.femicom.org/research/jesyca-durchin-on-the-making-of-barbie-fashion-designer/), I have a special interest in games and toys that incorporate printing or image making as a play mechanic. 
