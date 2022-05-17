@@ -4,6 +4,8 @@ title: Lab → Blog
 intro: "Latest posts:"
 ---
 
+Assorted writings are collected here in reverse chronological order.
+
 </div>
                           <div class="col-md-4">
                           </div>
@@ -48,4 +50,4 @@ intro: "Latest posts:"
             <div class="col-md-8">
 
  - [In memoriam: Bubblegum (200?-2021)](blog/2021/02/in-memoriam-bubblegum/)
- - [Retrospective: Hosting a mutual aid fundraiser on Discord](blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/)
+ - [Hosting a mutual aid fundraiser on Discord](blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/)
