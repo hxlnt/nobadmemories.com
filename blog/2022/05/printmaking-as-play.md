@@ -149,7 +149,8 @@ My first thought was to replace the flashbulbs with a more consistent and tuneab
         <div class="row">
             <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
             </div>
-            <div><h2>How Print Gocco masters work</h2>
+            <div class="col-md-10">
+            <h2>How Print Gocco masters work</h2>
             </div>
         </div>
     </div>
