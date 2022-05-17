@@ -50,14 +50,6 @@ Seeing my interest in the device, my partner very thoughtfully gifted me a compl
 
 The Print Gocco is very easy to use, relatively tidy, and produces acceptable, if not quirky, color prints. The device is also compact and portable, powered only by two AA batteries. Unlike the time-intensive process of making silkscreen masters with photosensitive emulsions, UV lamps, and so on, Print Gocco master production is fast, mess-free, and can be made from a simple black-and-white photocopy on plain paper.
 
-From my perspective, the Print Gocco system hits an excellent sweet spot between playful and professional. However, it does have some drawbacks:
- - It requires the use of hard-to-find proprietary consumables&mdash;Print Gocco masters, inks, and flashbulbs, etc.&mdash;all of which have not been produced for decades. 
- - Print Gocco masters and flashbulbs are single use. (The flashbulbs literally explode when fired.)
- - The flashbulb burst and inks smell absolutely awful. The inks' ingredients are not listed, but I suspect they are made of pigment suspended in a soybean oil carrier that, after a few decades, has now gone rancid.
- - While delicate designs with text or medium-fine lines look OK, the quality can be variable, especially with more densely-colored images that cause ink to pool, creating visible veins when the master is pressed or smudges when released.
-
-<p></p>
-
 These are two prints from my first use of the Print Gocco, featuring a lovely illustration made for me by <a href="https://twitter.com/elloradatura" target="_blank">Gabrielle Genevieve</a>. All colors were imprinted in a single pass, made possible by the fact that the inks have a firm consistency and are resistant to blending when pressed.
 
 <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/goccoprints.jpg">
@@ -66,7 +58,15 @@ These are two prints from my first use of the Print Gocco, featuring a lovely il
 
 This image was a challenge for the Print Gocco: there is considerable smudging (top) and veining (top right, bottom left) due to some overinking and the print density of the image.
 
-Could we improve on the Print Gocco?
+From my perspective, the Print Gocco system hits an excellent sweet spot between playful and professional. However, it does have some drawbacks:
+ - It requires the use of hard-to-find proprietary consumables&mdash;Print Gocco masters, inks, and flashbulbs, etc.&mdash;all of which have not been produced for decades. 
+ - Print Gocco masters and flashbulbs are single use. (The flashbulbs literally explode when fired.)
+ - The flashbulb burst and inks smell absolutely awful. The inks' ingredients are not listed, but I suspect they are made of pigment suspended in a soybean oil carrier that, after a few decades, has now gone rancid.
+ - While delicate designs with text or medium-fine lines look OK, the quality can be variable, especially with more densely-colored images that cause ink to pool, creating visible veins when the master is pressed or smudges when released.
+
+<p></p>
+
+So, could we improve on the Print Gocco?
 
 </div>
                           <div class="col-md-4">
