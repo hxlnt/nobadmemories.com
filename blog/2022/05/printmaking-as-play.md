@@ -3,8 +3,8 @@ tags: blog
 layout: blog-index.njk
 title: Lab → Blog 
 date: 2022-05-17
-posttitle: "Print Gocco and printmaking as play"
-intro: "<p><strong>Print Gocco and printmaking as play</strong><br><em>Posted Tuesday, May 17, 2022</em></p>"
+posttitle: "Printmaking as play"
+intro: "<p><strong>Printmaking as play</strong><br><em>Posted Tuesday, May 17, 2022</em></p>"
 ---
 
 As you might know from my past research on the sticker-printing [Casio Loopy game console](http://www.femicom.org/collection/loopy/) and [Barbie Fashion Designer](http://www.femicom.org/research/jesyca-durchin-on-the-making-of-barbie-fashion-designer/), I have a special interest in games and toys that incorporate printing or image making as a play mechanic. 
@@ -113,6 +113,9 @@ In any case, the Risograph is too far from my current search for a simpler, toy-
 
 </div>
                           <div class="col-md-4">
+                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/gocco.gif">
+<figcaption>Scene from a <a href="https://www.youtube.com/watch?v=4MpfsoYIQJI" target="_blank">Print Gocco instructional VHS tape</a></figcaption>
+</figure>
                           </div>
                       </div>
                   </div>
@@ -131,6 +134,92 @@ In any case, the Risograph is too far from my current search for a simpler, toy-
         <div class="row">
             <div class="col-md-8">
 
-I began to wonder if the Print Gocco device could be retrofitted with other, more ordinary or readily-replenishable materials&mdash;modern inks, a reusable light source&mdash;that could offer improved sustainability and print quality. Stay tuned to see what I came up with! 
+I began to wonder if the Print Gocco device could be retrofitted with other, more ordinary or readily-replenishable materials&mdash;modern inks, a reusable light source&mdash;that could offer improved sustainability and print quality.
 
-(Note: Link to follow-up post will be added here once available.)
+My first thought was to replace the flashbulbs with a more consistent and tuneable light source: Arduino-controlled LED strips. Some research led me to find that someone had already [done such a thing](https://www.youtube.com/watch?v=cClsnS6Jowc) some years ago, using a photoreactive sheet called StencilPro in place of the Print Gocco master. 
+
+</div>
+                          <div class="col-md-4">
+                          </div>
+                      </div>
+                  </div>
+              </div>
+    <div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            </div>
+            <div>How Print Gocco masters work</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+
+StencilPro has since been discontinued, but the LED idea was interesting, and in the interest of changing a single variable at a time, I was curious to try it with an original Print Gocco master. However, once I started researching the technical details behind the Print Gocco's functionality, I learned that the flashbulbs weren't originally used as a source of light in the device but as a source of *heat.* 
+
+The Print Gocco master is comprised of a thin paper sandwiched into a cardboard frame. As it turns out, one side of the paper is coated with an extremely thin thermoplastic layer that is selectively melted away when the flashbulbs fire: Heat radiates from the carbon in the original image's photocopy toner and melts away the image portion. 
+
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/risomaster.jpg">
+<figcaption>Print Gocco master after being developed</figcaption>
+</figure>
+
+Additional research led me to discover that Risograph machines work on the same principle. Instead of using carboard frames that are pressed onto paper one at a time, the master material is wound on to a large roll inside the machine. A digital image is "printed" on the master material by a thermal head. An ink drum inks the uncoated side of the master, and paper is fed through rapidly, picking up the inked image as it rolls by.
+
+</div>
+                          <div class="col-md-4">
+                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/burst.png">
+<figcaption>The burst of <strikethrough>light</strikethrough> heat created by flashbulbs inside the Print Gocco develops the master stencil.</a></figcaption>
+</figure>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+    <div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            </div>
+            <div class="col-md-10">
+            <h2>Wait, so a Risograph is just a big receipt printer?</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+
+Most modern shipping label and receipt printers are thermal printers: they create an image on thermal paper rolls or stickers by selectively heating the top layer of white, revealing the black "ink" underneath. It was a *big* hunch, but I figured I might be able to feed a small piece of Risograph master paper into a thermal printer to develop it. For about $100, I acquired a 300-DPI shipping label printer and a giant roll of Risograph master. I fully accepted the possibility that this whole thing was going to break, melt, or catch fire, but I had to know. 
+
+I cut and lightly adhered a square of Risograph master to a blank shipping label and cautiously fed it into the machine, which connects to a computer via USB to accept images. Using the same illustration from before, I clicked "Print" and held my breath. The label emerged in less than a second. And much to my surprise, the illustration was *perfectly* burned on to the Risograph master with unbelieveable detail. It worked! Holy shit, it worked.
+
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/printmaster.jpg">
+<figcaption>Risograph material developed by a shipping label printer.</figcaption>
+</figure>
+
+</div>
+                          <div class="col-md-4">
+                          </div>
+                      </div>
+                  </div>
+              </div>
+    <div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            </div>
+            <div class="col-md-10">
+            <h2>Next steps</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+
+Stay tuned for a follow-up post describing my experiments using these stencils to create art prints at home.
+
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/printmaster.jpg">
+<figcaption>More prints!</figcaption>
+</figure>
