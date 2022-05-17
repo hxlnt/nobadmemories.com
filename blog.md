@@ -26,7 +26,7 @@ Assorted writings are collected here in reverse chronological order.
         <div class="row">
             <div class="col-md-8">
 
- - [Print Gocco: Printmaking as play](blog/2022/05/printmaking-as-play/)
+ - [Print Gocco and printmaking as play](blog/2022/05/printmaking-as-play/)
  - [Cleaning my workspace with WORMS](blog/2022/04/worms/)
 
 </div>
