@@ -7,11 +7,9 @@ posttitle: "Printmaking as play"
 intro: "<p><strong>Printmaking as play</strong><br><em>Posted Tuesday, May 17 2022</em></p>"
 ---
 
-I consider myself a longtime hobbyist or enthusiast of printmaking. I once worked in the publishing/print industry as did my parents and grandparents. I have developed a special interest in games and toys that incorporate printing or image making as a play mechanic such as the Tyco Magic Copier, [the Casio Loopy](http://www.femicom.org/collection/loopy/), and [Barbie Fashion Designer](http://www.femicom.org/research/jesyca-durchin-on-the-making-of-barbie-fashion-designer/).
+As may be known from my research on games and toys like [the Casio Loopy](http://www.femicom.org/collection/loopy/), and [Barbie Fashion Designer](http://www.femicom.org/research/jesyca-durchin-on-the-making-of-barbie-fashion-designer/), I have a special interest in games and toys that incorporate printing or image making as a play mechanic. Printmaking toys make creation immediate, convenient, and playful, often at the expense of the quality, quantity, permanence, or general perceived value of the resulting image. Toys require neither prerequisite training nor access to specialty facilities. For me, these are benefits printmaking toys have over their "real" counterparts. Like Sadie Benning with the Fisher-Price Pixelvision camera or [Nullsleep](https://www.nullsleep.com) with the Nintendo Game Boy, I use post-consumer toys to achieve activist, countercultural, and recuperative ends.
 
-Printmaking toys make creation immediate, convenient, and playful, often at the expense of the quality, quantity, permanence, or general perceived value of the resulting image. Toys require neither prerequisite training nor access to specialty facilities. For me, these are benefits printmaking toys have over their "real" counterparts. Like Sadie Benning with the Fisher-Price Pixelvision camera or [Nullsleep](https://www.nullsleep.com) with the Nintendo Game Boy, I use post-consumer toys to achieve activist, countercultural, and recuperative ends.
-
-I was curious about the space between printmaking toy and printmaking instrument, and whether I could create something for my own use that was suitably simple, expressive, and, of course, fun.
+Recently, I became curious about the space between printmaking toy and printmaking instrument, and whether I could create something for my own use that was suitably simple, expressive, and, of course, fun.
 
 </div>
                           <div class="col-md-4">
@@ -50,7 +48,7 @@ From my perspective, the Print Gocco system hits an excellent sweet spot between
 
 <p></p>
 
- <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/goccoprint.jpg">
+ <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/goccoprints.jpg">
 <figcaption>These are two prints from my first use of the Print Gocco, featuring a lovely illustration by <a href="https://twitter.com/elloradatura" target="_blank">Gabrielle Genevieve</a>. All colors were imprinted in a single pass, made possible by the fact that the inks are firm and resistant to blending when pressed. In retrospect, the inclusion of gradients and coloring the telephone yellow didn't really work well, but that's on me. You can see that this image was a challenge for the Print Gocco: there is considerable smudging and veining due to the density of the image.</figcaption>
 </figure>
 
@@ -83,7 +81,9 @@ The company that produced the Print Gocco, Riso Kagaku, is still in operation. T
 
 Admittedly, I am drawn to the look of Risograph prints, too. The bright, lightly-speckled ink on newsprint-like paper reminded me of... *something*. Old comic books, maybe? I took a Risograph workshop offered at a local university a few years ago and appreciated how quick and easy the process was compared to letterpress and screenprinting. I came home inspired, wondering how I could do more Risograph printing. Turns out: I couldn't. Not easily, at least. 
 
-Risograph machines aren't as ubiquitous as the copy machine or digital printing services. Where I live, there are only a handful of Risograph machines owned by universities and artist collectives, none of which offer Risograph printing to the public. I briefly had the idea to get together enough money to purchase a Risograph machine that could be made available in a local artspace as a community resource, but after I reached out to a licensed distributor, the company *literally sent two men in suits to my home* to size me up and determine whether I was a "legitimate buyer." Subsequently, they declined to tell me how much a machine might cost and stopped responding to my emails. 
+Risograph machines aren't as ubiquitous as the copy machine or digital printing services. Where I live, there are only a handful of Risograph machines owned by universities and artist collectives, none of which offer Risograph printing to the public. I briefly had the idea to get together enough money to purchase a Risograph machine that could be made available in a local artspace as a community resource, but after I reached out to a licensed distributor, the company *literally sent two men in suits to my home* to size me up and determine whether I was a "legitimate buyer." Subsequently, they recommended some inkjet printers instead, declined to tell me how much a Risograph machine might cost, and finally stopped responding to my emails altogether. 
+
+Intimidation tactics aside, the Risograph is too far from my current search for a simpler, toy-like printing experience. It's large, expensive, and requires lots of specialty equipment and maintenance. So on we go.
 
 </div>
                           <div class="col-md-4">
