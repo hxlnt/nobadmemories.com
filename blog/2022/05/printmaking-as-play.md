@@ -61,10 +61,10 @@ From my perspective, the Print Gocco system hits an excellent sweet spot between
 These are two prints from my first use of the Print Gocco, featuring a lovely illustration made for me by <a href="https://twitter.com/elloradatura" target="_blank">Gabrielle Genevieve</a>. All colors were imprinted in a single pass, made possible by the fact that the inks have a firm consistency and are resistant to blending when pressed.
 
 <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/goccoprints.jpg">
-<figcaption>In retrospect, coloring the telephone yellow wasn't a good choice on my part.</figcaption>
+<figcaption>In retrospect, coloring the telephone yellow wasn't a good choice.</figcaption>
 </figure>
 
-You can see that this image was a challenge for the Print Gocco: there is considerable smudging (top) and veining (top right, bottom left) due to some overinking and the print density of the image.
+This image was a challenge for the Print Gocco: there is considerable smudging (top) and veining (top right, bottom left) due to some overinking and the print density of the image.
 
 Could we improve on the Print Gocco?
 
@@ -113,9 +113,6 @@ In any case, the Risograph is too far from my current search for a simpler, toy-
 
 </div>
                           <div class="col-md-4">
-                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/gocco.gif">
-<figcaption>Scene from a <a href="https://www.youtube.com/watch?v=4MpfsoYIQJI" target="_blank">Print Gocco instructional VHS tape</a></figcaption>
-</figure>
                           </div>
                       </div>
                   </div>
@@ -191,7 +188,7 @@ I also learned that Risograph machines work on the same principle. Instead of us
         <div class="row">
             <div class="col-md-8">
 
-Most modern shipping label and receipt printers are thermal printers: they create an image on thermal paper rolls or stickers by selectively heating the top layer of white, revealing the black "ink" underneath. It was a *big* hunch, but I figured I might be able to feed a small piece of Risograph master paper into a thermal printer to develop it. For about $100, I acquired a 300-DPI shipping label printer and a giant roll of Risograph master. I fully accepted the possibility that this whole thing was going to break, melt, or catch fire, but I had to know. 
+Most modern shipping label and receipt printers are thermal printers: they create an image on thermal paper rolls or stickers by selectively heating the top layer of white, revealing the black "ink" underneath. It was a *big* hunch, but I figured I might be able to feed a small piece of Risograph master paper into a thermal printer to develop it. In this way, I could theoretically create DIY Print Gocco masters at a higher resolution and without a need for flashbulbs. For about $100, I acquired a 300-DPI shipping label printer and a giant roll of Risograph master. I fully accepted the possibility that this whole thing was going to break, melt, or catch fire, but I had to know. 
 
 I cut and adhered a square of Risograph master to a blank shipping label and cautiously fed it into the machine, which connects to a computer via USB to get image data. Using the same illustration from before, I clicked "Print" and held my breath. The label emerged in less than a second. And much to my surprise, the illustration was *perfectly* burned on to the Risograph master with unbelieveable detail. It worked! Holy shit, it worked.
 
