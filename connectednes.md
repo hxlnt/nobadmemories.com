@@ -40,7 +40,7 @@ Here's a breakdown of how the ConnectedNES Twitter client works:
 
 5. Inside the NES is a custom cartridge containing a "game" that displays the incoming data. The NES cannot natively display ASCII characters, so graphical tiles representing the basic ASCII table must be included in the custom NES ROM. I've also added pretty little animated balloons and things.
 
-<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/smaller-modem.jpg">
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/smaller-modem.jpg" width="100%">
 <figcaption>"Modem"</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Presently, the firmware and software are set up to display a predetermined Twitt
 
 In 2015, my good friend and fellow console-hacker [Andy Reitano](http://www.andrewreitano.com/) stayed with me for a few days, and—per our custom—we decided to build something funny together. We have a great time talking about our highly obscure programming hobby and even more fun putting it to good use. I loved the idea of having a game as iconic and canonical as *Super Mario Bros.* be just, like, weirdly interrupted by a Twitter notification ticker. And I knew Andy had made something called NES Transfer Tool, a protocol for streaming data from a laptop through the NES's controller port. (Yes, all the credit for that clever idea goes rightly to him.) And then it occurred to me that the Particle Photon could make the whole thing wireless... and thus *Social Media Bros.* was born, giving us in-game Twitter notifications on the original *Super Mario Bros.* cartridge.
 
-<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/social1.JPG">
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/social1.jpg">
 <figcaption>Social Media Bros. running on hardware and ready to accept Twitter notifications</figcaption>
 </figure>
 
