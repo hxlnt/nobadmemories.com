@@ -133,7 +133,7 @@ In any case, the Risograph is too far from my current search for a simpler, toy-
 
 I began to wonder if the Print Gocco device could be retrofitted with other, more ordinary or readily-replenishable materials&mdash;modern inks, a reusable light source&mdash;that could offer improved sustainability and print quality.
 
-My first thought was to replace the flashbulbs with a more consistent and tuneable light source: Arduino-controlled LED strips. Some research led me to find that someone had already [done such a thing](https://www.youtube.com/watch?v=cClsnS6Jowc) some years ago, using a photoreactive sheet called StencilPro in place of the Print Gocco master. 
+My first thought was to replace the flashbulbs with a more consistent and tuneable light source: Arduino-controlled LED strips. Some research led me to find that someone had already [done such a thing](https://www.youtube.com/watch?v=cClsnS6Jowc) some years ago, using a photoreactive sheet called StencilPro in place of the Print Gocco master. StencilPro has since been discontinued, but the LED idea was interesting, and in the interest of changing a single variable at a time, I was curious to try it with an original Print Gocco master. 
 
 </div>
                           <div class="col-md-4">
@@ -155,7 +155,7 @@ My first thought was to replace the flashbulbs with a more consistent and tuneab
         <div class="row">
             <div class="col-md-8">
 
-StencilPro has since been discontinued, but the LED idea was interesting, and in the interest of changing a single variable at a time, I was curious to try it with an original Print Gocco master. However, once I started researching the technical details behind the Print Gocco's functionality, I learned that the flashbulbs weren't originally used as a source of light in the device but as a source of *heat.* 
+However, once I started researching the technical details behind the Print Gocco's functionality, I learned that the flashbulbs weren't originally used as a source of light in the device but as a source of *heat.* 
 
 The Print Gocco master is comprised of a thin paper sandwiched into a cardboard frame. One side of the paper is coated with a thermoplastic layer that is selectively melted away when the flashbulbs fire: Heat radiates from the carbon in the original image's photocopy toner and melts away the image portion. 
 
