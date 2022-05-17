@@ -56,9 +56,13 @@ From my perspective, the Print Gocco system hits an excellent sweet spot between
 
 <p></p>
 
- <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/goccoprints.jpg">
-<figcaption>These are two prints from my first use of the Print Gocco, featuring a lovely illustration made for me by <a href="https://twitter.com/elloradatura" target="_blank">Gabrielle Genevieve</a>. All colors were imprinted in a single pass, made possible by the fact that the inks have a firm consistency and are resistant to blending when pressed. In retrospect, coloring the telephone yellow didn't really work well, but that's on me. You can see that this image was a challenge for the Print Gocco: there is considerable smudging (top) and veining (top right, bottom left) due to some overinking and the print density of the image.</figcaption>
+These are two prints from my first use of the Print Gocco, featuring a lovely illustration made for me by <a href="https://twitter.com/elloradatura" target="_blank">Gabrielle Genevieve</a>. All colors were imprinted in a single pass, made possible by the fact that the inks have a firm consistency and are resistant to blending when pressed.
+
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/goccoprints.jpg">
+<figcaption>In retrospect, coloring the telephone yellow didn't really work well, but that's on me.</figcaption>
 </figure>
+
+You can see that this image was a challenge for the Print Gocco: there is considerable smudging (top) and veining (top right, bottom left) due to some overinking and the print density of the image.
 
 So, how to make Print Gocco better?
 
