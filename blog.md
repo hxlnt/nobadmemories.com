@@ -1,10 +1,8 @@
 ---
 layout: blog-index.njk
 title: Lab → Blog
-intro: "Latest posts:"
+intro: "Assorted writings are collected here in reverse chronological order."
 ---
-
-Assorted writings are collected here in reverse chronological order.
 
 </div>
                           <div class="col-md-4">
