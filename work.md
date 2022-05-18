@@ -13,7 +13,7 @@ intro: My artistic practice spans video art, glitch, homebrew development, elect
 <div class="row">
     <div class="col-md-3">
         <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--'color2-light);">
             </div>
             <div class="col-md-10">
             <h2>FEMICOM (2012-present)</h2>
@@ -37,7 +37,7 @@ Featured on [PBS Game/Show](https://www.youtube.com/watch?v=4GKZ-u0cJsI), the [A
 <div class="row">
     <div class="col-md-3">
         <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--'color2-light);">
             </div>
             <div class="col-md-10">
             <h2>Make-believe (2021)</h2>
@@ -65,7 +65,7 @@ Exhibited at Dadalabs (Austin, Texas) and, in part, at Chipfest Cyberspace 12 (T
 <div class="row">
     <div class="col-md-3">
         <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--'color2-light);">
             </div>
             <div class="col-md-10">
             <h2>Tender Mystic Hotline (2018)</h2>
@@ -93,7 +93,7 @@ Exhibited at the Museum of Human Achievement (Austin, Texas) and Marfa Open (Mar
 <div class="row">
     <div class="col-md-3">
         <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--'color2-light);">
             </div>
             <div class="col-md-10">
             <h2>Astrocade development tools (2017-2018)</h2>
@@ -125,7 +125,7 @@ In addition to the tools above, a few copies of Astrocart were produced in colla
 <div class="row">
     <div class="col-md-3">
         <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--'color2-light);">
             </div>
             <div class="col-md-10">
             <h2>ConnectedNES (2016)</h2>
@@ -154,7 +154,7 @@ Featured on [The Verge](https://www.theverge.com/circuitbreaker/2016/5/10/116534
 <div class="row">
     <div class="col-md-3">
         <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--'color2-light);">
             </div>
             <div class="col-md-10">
             <h2>Electronic Sweet-N-Fun Fortune Teller (2013)</h2>
@@ -183,7 +183,7 @@ Featured on [The Guardian](https://www.theguardian.com/technology/2014/jun/05/gi
 <div class="row">
     <div class="col-md-3">
         <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--'color2-light);">
             </div>
             <div class="col-md-10">
             <h2>TRACK+FEEL II</h2>
@@ -212,7 +212,7 @@ Featured on [Austin Chronicle](https://www.austinchronicle.com/screens/2012-05-0
 <div class="row">
     <div class="col-md-3">
         <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--'color2-light);">
             </div>
             <div class="col-md-10">
             <h2><em>Hello Kitty Land</em> (2002-2003)</h2>
