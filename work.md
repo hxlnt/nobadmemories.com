@@ -174,7 +174,7 @@ Featured on [The Guardian](https://www.theguardian.com/technology/2014/jun/05/gi
 
 </div>
                           <div class="col-md-4">
-                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="esnfft.jpg">
+                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/esnfft.jpg">
 <figcaption>Screenshot from <em>Electronic Sweet-N-Fun Fortune Teller</em></figcaption>
 </figure>
                           </div>
