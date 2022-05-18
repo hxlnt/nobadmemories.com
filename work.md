@@ -158,7 +158,7 @@ Featured on [The Verge](https://www.theverge.com/circuitbreaker/2016/5/10/116534
             <div class="col-md-2 subheaderblock" style="background-color:var(--color2-light);">
             </div>
             <div class="col-md-10">
-            <h2>Electronic Sweet-N-Fun Fortune Teller< (2013)</h2>
+            <h2>Electronic Sweet-N-Fun Fortune Teller (2013)</h2>
             </div>
         </div>
     </div>
