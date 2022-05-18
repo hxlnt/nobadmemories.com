@@ -30,9 +30,6 @@ Featured on [PBS Game/Show](https://www.youtube.com/watch?v=4GKZ-u0cJsI), the [A
 
 </div>
                           <div class="col-md-4">
-                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/femicom.jpg">
-<figcaption>FEMICOM Museum website</figcaption>
-</figure>
                           </div>
                       </div>
                   </div>
@@ -58,8 +55,8 @@ Exhibited at Dadalabs (Austin, Texas) and, in part, at Chipfest Cyberspace 12 (T
 
 </div>
                           <div class="col-md-4">
-                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/mb.mp4">
-<figcaption><em>Make-believe</em></figcaption>
+                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/laugh2.gif">
+<figcaption>Clip from <em>Make-believe</em></figcaption>
 </figure>
                           </div>
                       </div>
@@ -83,11 +80,12 @@ Dial in to an interactive, glitchy psychic hotline.
 
 Exhibited at the Museum of Human Achievement (Austin, Texas) and Marfa Open (Marfa, Texas).
 
-</div>
-                          <div class="col-md-4">
-                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/tmh.png">
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/tmh.png">
 <figcaption><em>Tender Mystic Hotline</em> at the Museum of Human Achievement</figcaption>
 </figure>
+
+</div>
+                          <div class="col-md-4">
                           </div>
                       </div>
                   </div>
@@ -107,18 +105,19 @@ Exhibited at the Museum of Human Achievement (Austin, Texas) and Marfa Open (Mar
             <div class="col-md-8">
 
 A [suite of open-source development tools and resources](https://github.com/hxlnt/astrocade) for creating homemade software for the obscure Bally Astrocade computer and home game console, released in 1977.
-  - [Astropaint](https://rawgit.com/hxlnt/astrocade/master/tools/astropaint/index.html) is a browser-based paint application for creating images that can be displayed on Bally Astrocade hardware. It allows for custom palette selection while following attribute-table constraints and exports Z80 assembly.
-  - [astroimg](https://github.com/hxlnt/astrocade/tree/master/tools/astroimg) is a command-line tool that converts images to a format suitable for display on Bally Astrocade hardware. The tool outputs both graphics data and an Astrocade ROM that displays the image. Cross-platform and written in Python.
-  - [demos](https://github.com/hxlnt/astrocade/tree/master/demos) are written in assembly and are highly-commented. Capabilities demonstrated include displaying graphics and text, playing sound, using controller inputs, and changing colors. Interactive versions of these demos have also been adapted for use in [Steven Hugg's 8bitworkshop IDE](https://8bitworkshop.com/v3.8.0/?platform=astrocade&file=03-horcbpal.asm) as an additional educational resource.
+  - [Astropaint](https://rawgit.com/hxlnt/astrocade/master/tools/astropaint/index.html) is a browser-based paint application for creating images that can be displayed on Bally Astrocade hardware. It allows for custom palette selection and exports Z80 assembly.
+  - [astroimg](https://github.com/hxlnt/astrocade/tree/master/tools/astroimg) is a command-line tool that converts images to a format suitable for display on Bally Astrocade hardware. The tool outputs both graphics data and an Astrocade ROM. Cross-platform and written in Python.
+  - [demos](https://github.com/hxlnt/astrocade/tree/master/demos) are written in assembly with comments. Capabilities demonstrated include displaying graphics and text, playing sound, using controller inputs, and changing colors. Interactive versions of these demos have also been adapted for use in [Steven Hugg's 8bitworkshop IDE](https://8bitworkshop.com/v3.8.0/?platform=astrocade&file=03-horcbpal.asm).
   - [compileAndLaunch.bat](https://github.com/hxlnt/astrocade/blob/master/tools/compileAndLaunch.bat) is a small script that simplifies the Astrocade development loop when using the zmac compiler and MAME emulator. 
 
 In addition to the tools above, a few copies of Astrocart were produced in collaboration with [Andrew Reitano](http://andrewreitano.com/). Used with an EPROM burner, this development cartridge can be used for playing homemade software on the Bally Astrocade hardware.
 
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/astrocart.gif">
+<figcaption>Astrocart development cartridge for the Bally Astrocade</figcaption>
+</figure>
+
 </div>
                           <div class="col-md-4">
-                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/astropaint.jpg">
-<figcaption>Astropaint</figcaption>
-</figure>
                           </div>
                       </div>
                   </div>
