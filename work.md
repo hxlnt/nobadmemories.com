@@ -76,11 +76,9 @@ Exhibited at Dadalabs (Austin, Texas) and, in part, at Chipfest Cyberspace 12 (T
         <div class="row">
             <div class="col-md-8">
 
-Dial in to an interactive, glitchy psychic hotline. 
+Dial in to an interactive, glitchy psychic hotline. An interactive audiovisual installation controlled with a hacked payphone.
 
 Exhibited at the Museum of Human Achievement (Austin, Texas) and Marfa Open (Marfa, Texas).
-
-
 
 </div>
                           <div class="col-md-4">
