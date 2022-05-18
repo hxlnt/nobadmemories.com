@@ -80,12 +80,13 @@ Dial in to an interactive, glitchy psychic hotline.
 
 Exhibited at the Museum of Human Achievement (Austin, Texas) and Marfa Open (Marfa, Texas).
 
-<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/tmh.png">
-<figcaption><em>Tender Mystic Hotline</em> at the Museum of Human Achievement</figcaption>
-</figure>
+
 
 </div>
                           <div class="col-md-4">
+                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/tmh.png">
+<figcaption>Tender Mystic Hotline on display at the Museum of Human Achievement</figcaption>
+</figure>
                           </div>
                       </div>
                   </div>
@@ -159,7 +160,7 @@ Featured on [The Verge](https://www.theverge.com/circuitbreaker/2016/5/10/116534
             <div class="col-md-2 subheaderblock" style="background-color:var(--color2-light);">
             </div>
             <div class="col-md-10">
-            <h2>Electronic Sweet-N-Fun Fortune Teller (2013)</h2>
+            <h2><em>Electronic Sweet-N-Fun Fortune Teller</em> (2013)</h2>
             </div>
         </div>
     </div>
@@ -234,7 +235,7 @@ Featured on the Wall Street Journal, [Killscreen](https://killscreen.com/previou
 </div>
                           <div class="col-md-4">
                           <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="http://rachelsimoneweil.files.wordpress.com/2013/03/kitty.gif">
-<figcaption><em>Hello Kitty Land</em</figcaption>
+<figcaption><em>Hello Kitty Land</em></figcaption>
 </figure>
                           </div>
                       </div>
