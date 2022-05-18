@@ -160,7 +160,7 @@ Featured on [The Verge](https://www.theverge.com/circuitbreaker/2016/5/10/116534
             <div class="col-md-2 subheaderblock" style="background-color:var(--color2-light);">
             </div>
             <div class="col-md-10">
-            <h2><em>Electronic Sweet-N-Fun Fortune Teller</em> (2013)</h2>
+            <h2>Electronic Sweet-N-Fun Fortune Teller< (2013)</h2>
             </div>
         </div>
     </div>
@@ -189,7 +189,7 @@ Featured on [The Guardian](https://www.theguardian.com/technology/2014/jun/05/gi
             <div class="col-md-2 subheaderblock" style="background-color:var(--color2-light);">
             </div>
             <div class="col-md-10">
-            <h2>TRACK+FEEL II</h2>
+            <h2>TRACK+FEEL II (2012)</h2>
             </div>
         </div>
     </div>
@@ -218,7 +218,7 @@ Featured on [Austin Chronicle](https://www.austinchronicle.com/screens/2012-05-0
             <div class="col-md-2 subheaderblock" style="background-color:var(--color2-light);">
             </div>
             <div class="col-md-10">
-            <h2><em>Hello Kitty Land</em> (2002-2003)</h2>
+            <h2>Hello Kitty Land (2002-2003)</h2>
             </div>
         </div>
     </div>
