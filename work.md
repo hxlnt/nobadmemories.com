@@ -108,12 +108,12 @@ Exhibited at the Museum of Human Achievement (Austin, Texas) and Marfa Open (Mar
 A [suite of open-source development tools and resources](https://github.com/hxlnt/astrocade) for creating homemade software for the obscure Bally Astrocade computer and home game console, released in 1977.
   - [Astropaint](https://rawgit.com/hxlnt/astrocade/master/tools/astropaint/index.html) is a browser-based paint application for creating images that can be displayed on Bally Astrocade hardware. It allows for custom palette selection and exports Z80 assembly.
   - [astroimg](https://github.com/hxlnt/astrocade/tree/master/tools/astroimg) is a command-line tool that converts images to a format suitable for display on Bally Astrocade hardware. The tool outputs both graphics data and an Astrocade ROM. Cross-platform and written in Python.
-  - [demos](https://github.com/hxlnt/astrocade/tree/master/demos) illustrate how to display graphics and text, playi sound, and use controller inputs. Interactive versions of these demos have also been adapted for use in Steven Hugg's [8bitworkshop IDE](https://8bitworkshop.com/v3.8.0/?platform=astrocade&file=03-horcbpal.asm).
+  - [demos](https://github.com/hxlnt/astrocade/tree/master/demos) illustrate how to display graphics and text, play sound, and use controller inputs. These demos have also been adapted for use in Steven Hugg's [8bitworkshop IDE](https://8bitworkshop.com/v3.8.0/?platform=astrocade&file=03-horcbpal.asm).
   - [compileAndLaunch.bat](https://github.com/hxlnt/astrocade/blob/master/tools/compileAndLaunch.bat) is a small script that simplifies the Astrocade development loop when using the zmac compiler and MAME emulator. 
 
 <p></p>
 
-In addition to the tools above, a few copies of Astrocart were produced in collaboration with [Andrew Reitano](http://andrewreitano.com/). Used with an EPROM burner, this development cartridge can be used for playing homemade software on the Bally Astrocade hardware.
+Additionally, a few copies of Astrocart were produced in collaboration with [Andrew Reitano](http://andrewreitano.com/). Used with an EPROM burner, this development cartridge can be used for playing homemade software on the Bally Astrocade hardware.
 
 <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="https://hxlntblob.blob.core.windows.net/nbm/astro-new.gif">
 <figcaption>Astrocart development cartridge for the Bally Astrocade</figcaption>
