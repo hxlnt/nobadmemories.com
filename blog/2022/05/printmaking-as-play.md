@@ -216,7 +216,7 @@ I cut and adhered a square of Risograph master to a blank shipping label and cau
         <div class="row">
             <div class="col-md-8">
 
-Stay tuned for a follow-up post describing my experiments using these stencils to create art prints at home.
+Stay tuned for a follow-up post describing my experiments using these stencils to create art prints at home. *(Update: [Read part 2 here!](/blog/2022/05/mimeopainting))*
 
 <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/printset.jpg">
 <figcaption>Hundreds of test prints and iterations later...</figcaption>
