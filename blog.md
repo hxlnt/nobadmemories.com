@@ -23,7 +23,7 @@ intro: "Assorted writings are collected here in reverse chronological order."
     <div class="col-md-9">
         <div class="row">
             <div class="col-md-8">
-
+ - [Mimeoprinting (Printmaking as play, part 2)](blog/2022/05/mimeoprinting/)
  - [Printmaking as play](blog/2022/05/printmaking-as-play/)
  - [Cleaning my workspace with WORMS](blog/2022/04/worms/)
 

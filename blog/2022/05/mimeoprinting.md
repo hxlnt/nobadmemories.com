@@ -13,12 +13,6 @@ In [my last blog post](/blog/2022/05/printmaking-as-play), I shared my adventure
 <figcaption>A side-by-side technique comparison featuring <a href="https://www.instagram.com/elloradatura" target="_blank">Gabrielle</a>'s illustration as seen in <a href="/blog/2022/05/printmaking-as-play" target="_blank">my last blog post</a>.</figcaption>
 </figure>
 
-
-
-<!--figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/process2.jpg">
-<figcaption>Printing some of my NES art</figcaption>
-</figure-->
-
 </div>
                           <div class="col-md-4">
                           </div>
@@ -320,3 +314,7 @@ In my experience, the best papers for printing are smooth-textured and resistant
 Despite the lengthy detail posted here, the process really is quite quick, simple, and economical. I can typically go from idea to a set of prints to clean-up in 1 to 2 hours, and that's at a leisurely pace. When printing is complete, the stencil can be easily pulled off its frame and discarded. It's been quite fun, and I definitely plan on making more mimeoprints in the future. 
 
 Thank you for reading through to the end, and I hope this has been helpful or educational to other printmaking enthusiasts. Happy mimeoprinting!
+
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/printset2.jpg">
+<figcaption>Hooray!</figcaption>
+</figure>
