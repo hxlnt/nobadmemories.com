@@ -92,7 +92,7 @@ So I did unwittingly reinvent a wheel, it seems, but it was fun to do so. After 
         <div class="row">
             <div class="col-md-8">
 
-The basic steps I follow are as follows:
+The basic steps I follow are:
 
 - Prepare a monochrome image
 - Cut thermoplastic stencil paper to size
