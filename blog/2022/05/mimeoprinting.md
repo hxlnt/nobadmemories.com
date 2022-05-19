@@ -232,7 +232,7 @@ The most time spent during my experiments, by far, was with inks or paints (I'm 
 
 <p></p>
 
-I experimented with oil- and water-based paints, including screenprinting ink, block printing ink, gouache, watercolor, intaglio ink, acrylic paint, oil paint, alcohol ink, and calligraphy ink. Straight out of the tube, the best results were with water-based screenprinting ink and Golden Open Acrylic, a slow-drying acrylic paint designed to have a long open time like oil paint. However, both inks have a tendency to get a little goopy, and they weren't quite right in terms of consistency.
+I experimented with oil- and water-based paints, including screenprinting ink, block printing ink, gouache, watercolor, intaglio ink, acrylic paint, oil paint, alcohol ink, and calligraphy ink. Straight out of the tube, the best results were with water-based screenprinting ink and Golden Open Acrylic, a slow-drying acrylic paint designed to have a long open time like oil paint. However, both inks have a tendency to get a little goopy.
 
 During my tests, the main contributors to poor print quality were bleeding, smudging, fading, wrinkling, and master degradation, caused by the following ink qualities:
  - Bleeding: Ink is too thin
