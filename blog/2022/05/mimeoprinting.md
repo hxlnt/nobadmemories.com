@@ -67,7 +67,7 @@ Before we dive into the how-to, a quick note on prior art: I do want to stress t
 
 I might have found their work earlier had I thought to include the keyword "mimeograph" in my internet research. Oops. I vaguely knew about the hand-cranked mimeographs and Ditto machines used by teachers to make worksheet copies many decades ago, but I hadn't considered how they worked. It turns out that mimeographs, like Risographs, use a thin stencil paper inked by an ink drum. In the case of a mimeograph, master images were imprinted through pressure from a stylus or typewriter hammer.
 
-So I did unwittingly reinvent a wheel, it seems, but it was fun to do so, and each of us has invented it in slightly different manners. After seeing that I wasn't alone in these adventures, I came away inspired to add my voice to the small but mighty choir of stencil-printing enthusiasts. And the newfound connection to mimeography inspired a name for my previously nameless method: mimeoprinting.
+So I did unwittingly reinvent a wheel, it seems, but it was fun to do so. After seeing that I wasn't alone in these adventures, I came away inspired to add my voice to the small but mighty choir of stencil-printing enthusiasts. And the newfound connection to mimeography inspired a name for my previously nameless method: mimeoprinting.
 
 </div>
                           <div class="col-md-4">
@@ -92,7 +92,7 @@ So I did unwittingly reinvent a wheel, it seems, but it was fun to do so, and ea
         <div class="row">
             <div class="col-md-8">
 
-The basic steps are as follows:
+The basic steps I follow are as follows:
 
 - Prepare a monochrome image
 - Cut thermoplastic stencil paper to size
