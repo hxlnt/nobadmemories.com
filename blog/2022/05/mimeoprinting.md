@@ -67,7 +67,7 @@ Before we dive into the how-to, a quick note on prior art: I do want to stress t
 
 I might have found their work earlier had I thought to include the keyword "mimeograph" in my internet research. Oops. I vaguely knew about the hand-cranked mimeographs and Ditto machines used by teachers to make worksheet copies many decades ago, but I hadn't considered how they worked. It turns out that mimeographs, like Risographs, use a thin stencil paper inked by an ink drum. In the case of a mimeograph, master images were imprinted through pressure from a stylus or typewriter hammer.
 
-So I did unwittingly reinvent a wheel, it seems, but it was fun to do so, and each of us has invented it in slightly different manners. After seeing that I wasn't alone in these adventures, I came away inspired to add my voice to the small but mighty choir of stencil-printing enthusiasts. And the newfound connection to mimeography inspired a name for my previously nameless method: mimeoprinting.
+So I did unwittingly reinvent a wheel, it seems, but it was fun to do so. After seeing that I wasn't alone in these adventures, I came away inspired to add my voice to the small but mighty choir of stencil-printing enthusiasts. And the newfound connection to mimeography inspired a name for my previously nameless method: mimeoprinting.
 
 </div>
                           <div class="col-md-4">
@@ -92,7 +92,7 @@ So I did unwittingly reinvent a wheel, it seems, but it was fun to do so, and ea
         <div class="row">
             <div class="col-md-8">
 
-The basic steps are as follows:
+The basic steps I follow are:
 
 - Prepare a monochrome image
 - Cut thermoplastic stencil paper to size
@@ -232,7 +232,7 @@ The most time spent during my experiments, by far, was with inks or paints (I'm 
 
 <p></p>
 
-I experimented with oil- and water-based paints, including screenprinting ink, block printing ink, gouache, watercolor, intaglio ink, acrylic paint, oil paint, alcohol ink, and calligraphy ink. Straight out of the tube, the best results were with water-based screenprinting ink and Golden Open Acrylic, a slow-drying acrylic paint designed to have a long open time like oil paint. However, both inks have a tendency to get a little goopy, and they weren't quite right in terms of consistency.
+I experimented with oil- and water-based paints, including screenprinting ink, block printing ink, gouache, watercolor, intaglio ink, acrylic paint, oil paint, alcohol ink, and calligraphy ink. Straight out of the tube, the best results were with water-based screenprinting ink and Golden Open Acrylic, a slow-drying acrylic paint designed to have a long open time like oil paint. However, both inks have a tendency to get a little goopy.
 
 During my tests, the main contributors to poor print quality were bleeding, smudging, fading, wrinkling, and master degradation, caused by the following ink qualities:
  - Bleeding: Ink is too thin
@@ -243,7 +243,7 @@ During my tests, the main contributors to poor print quality were bleeding, smud
 
 <p></p>
 
-Eventually, I found the silver bullet ingredient that helped with all these issues: *nori,* or rice-flour paste. I learned about this from Stampalofi, and adding it to my inks dramatically improved my results. (This also extended the inks significantly, making printing more economical, too!) 
+Eventually, I found the silver-bullet ingredient that helped with all these issues: *nori,* or rice-flour paste. I learned about this from Stampalofi, and adding it to my inks dramatically improved my results. (This also extended the inks significantly, making printing more economical, too!) 
 
 <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/stampalofi.jpg">
 <figcaption>The <a href="https://www.youtube.com/watch?v=RuwkSYsdN7o" target="_blank">video</a> that tipped me off to nori as an ink additive&mdash;thanks, Stampalofi!</figcaption>
@@ -251,7 +251,7 @@ Eventually, I found the silver bullet ingredient that helped with all these issu
 
 Upon further research, I learned that nori has been used for hundreds of years in paper-stencil crafts such as [katazome fabric printing](https://en.wikipedia.org/wiki/Katazome) as an adhesive, ink additive, and resist paste due to its ability to create a stiff film without wrinkling or soaking delicate paper.
 
-Did you ever make "ooblek," a mixture water and cornstarch, in a chemistry class? Ooblek is a non-Newtonian fluid that stiffens when under a nominal pressure, making it fun to squish in your hands. Screenprinting inks have an ooblek-like additive to improve their performance when pressed by squeegee. Nori lends this same benefit, imparting an ineffible "more wet yet more dry" quality that other paints lack.
+Did you ever make "ooblek," a mixture of water and cornstarch, in chemistry class? Ooblek is a non-Newtonian fluid that stiffens under nominal pressure, making it fun to squish in your hands. Screenprinting inks have an ooblek-like additive to improve their performance when pressed by squeegee. Nori lends this same benefit, imparting an ineffible "more wet yet more dry" quality that other paints lack.
 
 To make nori, add 10 grams of rice flour to 2 ounces of water and stir. Add that to another 2 oz. of water simmering on the stovetop. Stir constantly with a silicone spatula until it's thickened a bit. Scraping the spatula along the bottom of the pot should cause the mixture to fill back in just a bit more slowly than a liquid would. Pour the nori into a bowl, leave it to cool, and use within 24 hours. Once cool, it should have a pudding-like consistency. This will need to be thinned later, but it's better to start with a thicker paste and thin it in small portions as you use it.
 
