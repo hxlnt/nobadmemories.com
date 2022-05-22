@@ -4,9 +4,86 @@ title: Lab → Telemetry
 date: Last Modified
 intro: I'm experimenting with different ways to track things.
 reading:
+    - title: "ADHD & Us"
+      author: Anita Robertson
+      year: 2020
+      category: abandoned
+      progress:
+        - date: 2021-07-12
+          percent: 14
+    - title: Art Is Everywhere
+      author: Lorenzo Servi
+      year: 2016
+      category: 2021
+      progress:
+        - date: 2022-03-07
+          percent: 100
+    - title: Beyond Beautiful
+      author: Anuschka Rees
+      year: 2019
+      category: 2022
+      progress:
+        - date: 2021-04-23
+          percent: 33
+        - date: 2021-04-24
+          percent: 40
+        - date: 2021-04-28
+          percent: 41
+        - date: 2021-07-02
+          percent: 48
+        - date: 2021-07-12
+          percent: 54
+        - date: 2021-09-10
+          percent: 59
+        - date: 2022-05-11
+          percent: 100
+    - title: Computer Lib
+      author: Theodor H. Nelson
+      year: 1974
+      category: 2021
+      progress:
+        - date: 2022-03-09
+          percent: 49
+    - title: Critical Issues in Electronic Media
+      author: Simon Penny
+      year: 1995
+      category: 2022
+      progress:
+        - date: 2022-05-11
+          percent: 100
+    - title: The Curated Closet
+      author: Anuschka Rees
+      year: 2016
+      category: other
+      progress:
+        - date: 2021-01-11
+          percent: 19
+        - date: 2021-01-12
+          percent: 22
+        - date: 2021-01-20
+          percent: 28
+        - date: 2021-01-24
+          percent: 31
+        - date: 2021-01-25
+          percent: 34
+        - date: 2021-01-30
+          percent: 38
+        - date: 2021-02-02
+          percent: 44
+        - date: 2021-02-08
+          percent: 54
+        - date: 2021-02-11
+          percent: 56
+        - date: 2021-02-22
+          percent: 61
+        - date: 2021-03-03
+          percent: 71
+        - date: 2021-04-17
+          percent: 100
     - title: Design as Art
       author: Bruno Munari
       year: 1966
+      category: 2021
       progress:
         - date: 2021-01-01
           percent: 10
@@ -24,9 +101,33 @@ reading:
           percent: 59
         - date: 2021-01-09
           percent: 100
+    - title: Music Habit
+      author: Jason Timothy
+      year: 2015
+      category: 2021
+      progress:
+        - date: 2021-04-22
+          percent: 8
+        - date: 2021-04-25
+          percent: 19
+        - date: 2021-04-26
+          percent: 67
+        - date: 2021-04-29
+          percent: 74
+        - date: 2021-05-24
+          percent: 75
+        - date: 2021-07-02
+          percent: 80
+        - date: 2021-07-03
+          percent: 89
+        - date: 2021-09-09
+          percent: 90
+        - date: 2021-09-10
+          percent: 100
     - title: Music Theory for Electronic Music Producers
       author: J. Anthony Allen
       year: 2018
+      category: 2021
       progress:
         - date: 2021-01-02
           percent: 7
@@ -58,107 +159,17 @@ reading:
           percent: 74
         - date: 2021-02-02
           percent: 100
-    - title: The Curated Closet
-      author: Anuschka Rees
-      year: 2016
-      progress:
-        - date: 2021-01-11
-          percent: 19
-        - date: 2021-01-12
-          percent: 22
-        - date: 2021-01-20
-          percent: 28
-        - date: 2021-01-24
-          percent: 31
-        - date: 2021-01-25
-          percent: 34
-        - date: 2021-01-30
-          percent: 38
-        - date: 2021-02-02
-          percent: 44
-        - date: 2021-02-08
-          percent: 54
-        - date: 2021-02-11
-          percent: 56
-        - date: 2021-02-22
-          percent: 61
-        - date: 2021-03-03
-          percent: 71
-        - date: 2021-04-17
-          percent: 100
-    - title: How to Be an Anticapitalist in the 21st Century
-      author: Erik Olin Wright
+    - title: Nam June Paik
+      author: Sook-Kyung Lee and Rudolf Frieling
       year: 2019
+      category: 2022
       progress:
-        - date: 2021-02-02
-          percent: 1
-        - date: 2021-02-06
-          percent: 2
-        - date: 2021-02-17
-          percent: 11
-        - date: 2021-03-28
-          percent: 19
-    - title: How to Be an Artist
-      author: Jerry Saltz
-      year: 2020
-      progress:
-        - date: 2021-04-11
-          percent: 48
-        - date: 2021-04-12
-          percent: 66
-        - date: 2021-04-17
-          percent: 81
-        - date: 2021-04-18
-          percent: 88
-        - date: 2021-04-22
+        - date: 2022-05-09
           percent: 100
-    - title: Music Habit
-      author: Jason Timothy
-      year: 2015
-      progress:
-        - date: 2021-04-22
-          percent: 8
-        - date: 2021-04-25
-          percent: 19
-        - date: 2021-04-26
-          percent: 67
-        - date: 2021-04-29
-          percent: 74
-        - date: 2021-05-24
-          percent: 75
-        - date: 2021-07-02
-          percent: 80
-        - date: 2021-07-03
-          percent: 89
-        - date: 2021-09-09
-          percent: 90
-        - date: 2021-09-10
-          percent: 100
-    - title: Beyond Beautiful
-      author: Anuschka Rees
-      year: 2019
-      progress:
-        - date: 2021-04-23
-          percent: 33
-        - date: 2021-04-24
-          percent: 40
-        - date: 2021-04-28
-          percent: 41
-        - date: 2021-07-02
-          percent: 48
-        - date: 2021-07-12
-          percent: 54
-        - date: 2021-09-10
-          percent: 59
-    - title: "ADHD & Us"
-      author: Anita Robertson
-      year: 2020
-      progress:
-        - date: 2021-07-12
-          percent: 14
     - title: Order from Chaos
       author: Jaclyn Paul
       year: 2018
+      category: 2022
       progress:
         - date: 2021-09-09
           percent: 9
@@ -170,24 +181,22 @@ reading:
           percent: 15
         - date: 2021-10-05
           percent: 25
+        - date: 2021-05-11
+          percent: 100
+    - title: Speculative Everything
+      author: Anthony Dunne and Fiona Raby
+      year: 2013
+      category: 2022
+      progress:
+        - date: 2022-05-11
+          percent: 100
     - title: Would You Rather?
       author: Katie Heaney
       year: 2018
+      category: 2021
       progress:
         - date: 2021-09-17
           percent: 6
-    - title: Art Is Everywhere
-      author: Lorenzo Servi
-      year: 2016
-      progress:
-        - date: 2022-03-07
-          percent: 100
-    - title: Computer Lib
-      author: Theodor H. Nelson
-      year: 1974
-      progress:
-        - date: 2022-03-09
-          percent: 49
 placesofinterest:
     - citystate: San Antonio, Texas
       date: 2021-03-05
@@ -263,6 +272,28 @@ placesofinterest:
       citystate: Marfa, Texas
     - date: 2022-01-01
       citystate: Sonora, Texas
+    - date: 2022-03-23
+      citystate: Atlanta, Georgia
+    - date: 2022-03-24
+      citystate: Dunwoody, Georgia
+    - date: 2022-03-25
+      citystate: Atlanta, Georgia
+    - date: 2022-03-26
+      citystate: Roswell, Georgia
+    - date: 2022-03-27
+      citystate: Atlanta, Georgia
+    - date: 2022-04-22
+      citystate: Dallas, Texas
+    - date: 2022-04-23
+      citystate: Fort Worth, Texas
+    - date: 2022-04-24
+      citystate: Waco, Texas    
+    - date: 2022-05-04
+      citystate: London, England
+    - date: 2022-05-08
+      citystate: Southwold, England
+    - date: 2022-05-10
+      citystate: London, England
 walking:
   - date: 2021-01-01
     steps: 2474
