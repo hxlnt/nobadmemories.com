@@ -8,7 +8,10 @@ posttitle: "ConnectedNES"
 
 ConnectedNES is an [open-source project](https://github.com/hxlnt/connectednes) released in May 2016 that connects the 8-bit NES game console to the internet with a custom WiFi "modem" you can build yourself! It is currently bundled with a realtime Twitter client but has the potential to be expanded to a collaborative platform.
 
-![Loading screen](/img/connectednes1.gif)
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/connectednes1.gif">
+<figcaption>Loading screen</figcaption>
+</figure>
+
 
 ConnectedNES is comprised of:
 - a standard-issue Nintendo Entertainment System, ca. 1985,
