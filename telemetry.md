@@ -127,7 +127,6 @@ reading:
     - title: Music Theory for Electronic Music Producers
       author: J. Anthony Allen
       year: 2018
-      category: 2021
       progress:
         - date: 2021-01-02
           percent: 7
