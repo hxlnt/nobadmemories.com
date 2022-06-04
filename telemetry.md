@@ -101,32 +101,32 @@ reading:
           percent: 59
         - date: 2021-01-09
           percent: 100
-     - title: How to Be an Artist
-       author: Jerry Saltz
-       year: 2020
-       progress:
-         - date: 2021-04-11
-           percent: 48
-         - date: 2021-04-12
-           percent: 66
-         - date: 2021-04-17
-           percent: 81
-         - date: 2021-04-18
-           percent: 88
-         - date: 2021-04-22
-           percent: 100
-     - title: How to Be an Anticapitalist in the 21st Century
-       author: Erik Olin Wright
-       year: 2019
-       progress:
-         - date: 2021-02-02
-           percent: 1
-         - date: 2021-02-06
-           percent: 2
-         - date: 2021-02-17
-           percent: 11
-         - date: 2021-03-28
-           percent: 19
+    - title: How to Be an Artist
+      author: Jerry Saltz
+      year: 2020
+      progress:
+        - date: 2021-04-11
+          percent: 48
+        - date: 2021-04-12
+          percent: 66
+        - date: 2021-04-17
+          percent: 81
+        - date: 2021-04-18
+          percent: 88
+        - date: 2021-04-22
+          percent: 100
+    - title: How to Be an Anticapitalist in the 21st Century
+      author: Erik Olin Wright
+      year: 2019
+      progress:
+        - date: 2021-02-02
+          percent: 1
+        - date: 2021-02-06
+          percent: 2
+        - date: 2021-02-17
+          percent: 11
+        - date: 2021-03-28
+          percent: 19
     - title: Music Habit
       author: Jason Timothy
       year: 2015
