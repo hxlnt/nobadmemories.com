@@ -183,6 +183,13 @@ reading:
           percent: 25
         - date: 2021-05-11
           percent: 100
+    - title: Self-Knowledge
+      author: The School of Life
+      year: 2020
+      category: 2022
+      progress:
+        - date: 2022-06-04
+          percent: 13
     - title: Speculative Everything
       author: Anthony Dunne and Fiona Raby
       year: 2013
