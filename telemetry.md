@@ -191,6 +191,13 @@ reading:
       progress:
         - date: 2022-05-09
           percent: 100
+    - On Confidence
+      author: Alain de Botton
+      year: 2018
+      category: 2022
+      progress:
+        - date: 2022-06-04
+          percent: 10
     - title: Order from Chaos
       author: Jaclyn Paul
       year: 2018
@@ -211,10 +218,9 @@ reading:
     - title: Self-Knowledge
       author: The School of Life
       year: 2020
-      category: 2022
       progress:
         - date: 2022-06-04
-          percent: 100
+          percent: 100 
     - title: Speculative Everything
       author: Anthony Dunne and Fiona Raby
       year: 2013
