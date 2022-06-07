@@ -191,7 +191,7 @@ reading:
       progress:
         - date: 2022-05-09
           percent: 100
-    - On Confidence
+    - title: On Confidence
       author: Alain de Botton
       year: 2018
       category: 2022
