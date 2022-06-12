@@ -10,7 +10,7 @@ intro: "<p><strong>Mimeoprinting (Printmaking as play, part 2)</strong><br><em>P
 In [my last blog post](/blog/2022/05/printmaking-as-play), I shared my adventures in reverse-engineering the Print Gocco, a DIY printmaking device from the 1970s. While Print Goccos have been out of production for nearly 20 years, I found that I could use an inexpensive shipping-label printer, themoplastic stencil paper, and a few simple craft materials to create a DIY version of the device. Here are my learnings and recommendations on how you can try out this printmaking method for yourself.
 
 <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/sidebyside.jpg">
-<figcaption>A side-by-side technique comparison featuring <a href="https://www.instagram.com/elloradatura" target="_blank">Gabrielle</a>'s illustration as seen in <a href="/blog/2022/05/printmaking-as-play" target="_blank">my last blog post</a>.</figcaption>
+<figcaption>A side-by-side technique comparison featuring <a href="https://www.instagram.com/elloradatura" target="_blank">Gabrielle</a>'s illustration as seen in <a href="https://www.nobadmemories.com/blog/2022/05/printmaking-as-play" target="_blank">my last blog post</a>.</figcaption>
 </figure>
 
 </div>
