@@ -19,11 +19,9 @@ jobs:
         with:
           submodules: true
       - name: Build 11ty
-        with:
-          path: --output=$GITHUB_WORKSPACE/site
-          run: |
-            npm install
-            npm eleventy ${path}
+        run: |
+          npm install
+          npm eleventy --output=$GITHUB_WORKSPACE/site
       - name: Push built site to repo
         uses: actions-go/push@master
         with:
