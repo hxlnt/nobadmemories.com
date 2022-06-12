@@ -19,9 +19,11 @@ jobs:
         with:
           submodules: true
       - name: Build 11ty
-        uses: hxlnt/action-build-eleventy@2.01
         with:
           path: --output=$GITHUB_WORKSPACE/site
+          run: |
+            npm install
+            npm eleventy ${path}
       - name: Push built site to repo
         uses: actions-go/push@master
         with:
