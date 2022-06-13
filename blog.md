@@ -71,4 +71,4 @@ intro: "Assorted writings are collected here in reverse chronological order."
         <div class="row">
             <div class="col-md-8">
 
- - [Delete: A Design History of Computer Vapourware](blog/2016/01/delete-a-design-history-of-computer-vaporware/)
+ - [Delete: A Design History of Computer Vapourware](blog/2016/01/delete-a-design-history-of-computer-vapourware/)
