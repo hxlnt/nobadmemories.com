@@ -201,7 +201,9 @@ reading:
         - date: 2022-06-05
           percent: 24
         - date: 2022-06-13
-          percent: 59  
+          percent: 59
+        - date: 2022-06-19
+          percent: 72  
     - title: Order from Chaos
       author: Jaclyn Paul
       year: 2018
