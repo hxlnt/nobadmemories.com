@@ -101,6 +101,13 @@ reading:
           percent: 59
         - date: 2021-01-09
           percent: 100
+    - title: "Force Fields: Phases of the Kinetic"
+      author: "Guy Brett, Teresa Grandas, and Mark Nash"
+      year: 2000
+      category: 2022
+      progress:
+        - date: 2022-08-12
+          percent: 5
     - title: How to Be an Artist
       author: Jerry Saltz
       year: 2020
@@ -338,6 +345,20 @@ placesofinterest:
       citystate: Southwold, England
     - date: 2022-05-10
       citystate: London, England
+    - date: 2022-06-18
+      citystate: Dallas, Texas
+    - date: 2022-06-20
+      citystate: Bellevue, Washington
+    - date: 2022-06-21
+      citystate: Redmond, Washington
+    - date: 2022-06-22
+      citystate: Seattle, Washington 
+    - date: 2022-07-09
+      citystate: Corpus Christi, Texas
+    - date: 2022-07-30
+      citystate: Lakeway, Texas
+    - date: 2022-07-31
+      citystate: Dripping Springs, Texas
 walking:
   - date: 2021-01-01
     steps: 2474
