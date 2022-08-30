@@ -44,6 +44,13 @@ reading:
       progress:
         - date: 2022-03-09
           percent: 49
+    - title: A Coney Island of the Mind
+      author: Lawrence Ferlinghetti
+      year: 1958
+      category: 2022
+      progress:
+        - date: 2022-08-30
+          percent: 17 
     - title: Critical Issues in Electronic Media
       author: Simon Penny
       year: 1995
@@ -107,13 +114,6 @@ reading:
       progress:
         - date: 2022-08-12
           percent: 5
-    - title: A Coney Island of the Mind
-      author: Lawrence Ferlinghetti
-      year: 1958
-      category: 2022
-      progress:
-        - date: 2022-08-30
-          percent: 17  
     - title: How to Be an Artist
       author: Jerry Saltz
       year: 2020
