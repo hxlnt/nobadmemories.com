@@ -104,10 +104,16 @@ reading:
     - title: "Force Fields: Phases of the Kinetic"
       author: "Guy Brett, Teresa Grandas, and Mark Nash"
       year: 2000
-      category: 2022
       progress:
         - date: 2022-08-12
           percent: 5
+    - title: A Coney Island of the Mind
+      author: Lawrence Ferlinghetti
+      year: 1958
+      category: 2022
+      progress:
+        - date: 2022-08-30
+          percent: 17  
     - title: How to Be an Artist
       author: Jerry Saltz
       year: 2020
