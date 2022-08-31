@@ -50,7 +50,9 @@ reading:
       category: 2022
       progress:
         - date: 2022-08-30
-          percent: 17 
+          percent: 17
+        - date: 2022-08-31
+          percent: 32  
     - title: Critical Issues in Electronic Media
       author: Simon Penny
       year: 1995
@@ -365,6 +367,10 @@ placesofinterest:
       citystate: Lakeway, Texas
     - date: 2022-07-31
       citystate: Dripping Springs, Texas
+    - date: 2022-08-29
+      citystate: Marfa, Texas
+    - date: 2022-08-30
+      citystate: Fort Davis, Texas  
 walking:
   - date: 2021-01-01
     steps: 2474
