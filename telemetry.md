@@ -218,7 +218,9 @@ reading:
         - date: 2022-06-13
           percent: 59
         - date: 2022-06-19
-          percent: 72  
+          percent: 72
+        - date: 2022-09-03
+          percent: 86
     - title: Order from Chaos
       author: Jaclyn Paul
       year: 2018
@@ -370,7 +372,9 @@ placesofinterest:
     - date: 2022-08-29
       citystate: Marfa, Texas
     - date: 2022-08-30
-      citystate: Fort Davis, Texas  
+      citystate: Fort Davis, Texas
+    - date: 2022-09-01
+      citystate: Alpine, Texas 
 walking:
   - date: 2021-01-01
     steps: 2474
