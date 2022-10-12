@@ -110,6 +110,13 @@ reading:
           percent: 59
         - date: 2021-01-09
           percent: 100
+    - title: "Flash Forward: An Illustrated Guide to Possible (and Not So Possible) Tomorrows" 
+      author: Rose Eveleth
+      year: 2021
+      category: 2022
+      progress:
+        - date: 2022-10-11
+          percent: 100  
     - title: "Force Fields: Phases of the Kinetic"
       author: "Guy Brett, Teresa Grandas, and Mark Nash"
       year: 2000
@@ -209,7 +216,6 @@ reading:
     - title: On Confidence
       author: Alain de Botton
       year: 2018
-      category: 2022
       progress:
         - date: 2022-06-04
           percent: 10
@@ -221,6 +227,8 @@ reading:
           percent: 72
         - date: 2022-09-03
           percent: 86
+        - date: 2022-09-06
+          percent: 100 
     - title: Order from Chaos
       author: Jaclyn Paul
       year: 2018
@@ -236,7 +244,7 @@ reading:
           percent: 15
         - date: 2021-10-05
           percent: 25
-        - date: 2021-05-11
+        - date: 2022-05-11
           percent: 100
     - title: Self-Knowledge
       author: The School of Life
@@ -374,7 +382,13 @@ placesofinterest:
     - date: 2022-08-30
       citystate: Fort Davis, Texas
     - date: 2022-09-01
-      citystate: Alpine, Texas 
+      citystate: Alpine, Texas
+    - date: 2022-09-23
+      citystate: Dallas, Texas
+    - date: 2022-10-01
+      citystate: Johnson City, Texas
+    - date: 2022-10-02
+      citystate: Blanco, Texas     
 walking:
   - date: 2021-01-01
     steps: 2474
