@@ -18,6 +18,13 @@ reading:
       progress:
         - date: 2022-03-07
           percent: 100
+    - title: Atomic Habits
+      author: James Clear
+      year: 2018
+      category: 2022
+      progress:
+        - date: 2022-11-16
+          percent: 100   
     - title: Beyond Beautiful
       author: Anuschka Rees
       year: 2019
