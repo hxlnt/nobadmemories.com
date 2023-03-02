@@ -9,6 +9,16 @@
             "route": "/alterdark",
             "serve": "/alter-dark",
             "statusCode": 301
+        },
+        {
+            "route": "/feed",
+            "serve": "/feed.xml",
+            "statusCode": 301
+        },
+        {
+            "route": "/rss",
+            "serve": "/feed.xml",
+            "statusCode": 301
         }
     ]
 }

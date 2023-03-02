@@ -2,7 +2,7 @@
 tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Lab → Raecyclopedia
-intro: A catalog of everything I've looked up about TV and film this year.
+intro: A catalog of things I've looked up about TV and film.
 pagename: TV and film
 entries:
   - date: 2021-01-27
@@ -15,14 +15,9 @@ entries:
     answer: "Laura is voiced by Sarah Silverman's sister Laura Silverman, who also voices Loni and Paula's mother in <i>Home Movies.</i>"
   - date: 2021-01-29
     question: Is Patrice O'Neal still alive?
-    answer: No, Patrice O'Neal passed away in 2011 following complications from diabetes.
+    answer: No, Patrice O'Neal died in 2011 following complications from diabetes.
     sources:
       - https://en.m.wikipedia.org/wiki/Patrice_O'Neal
-  - date: 2021-01-29
-    question: Aside from <i>Dr. Katz, Home Movies,</i> and <i>Science Court, </i> were there other cartoons created with Squigglevision?
-    answer: "Yes: the <i>Dick and Paula Celebrity Special</i> and <i>O'Grady.</i>"
-    sources:
-      - https://en.wikipedia.org/wiki/Squigglevision
   - date: 2021-02-14
     question: "Why does the Borg Queen in <i>Star Trek: Voyager</i> say <i>I</i> instead of <i>we?</i>"
     answer: "It's not really clear, since she's part of the collective and thus shouldn't have a sense of individuality. The answer given by fan sites is that she functions as the face of the collective and uses singular pronouns for better communication with other species. But in <i>Star Trek: Voyager,</i> she gives commands to the collective, which suggests she isn't part of it. So... bad writing?"
@@ -65,7 +60,7 @@ entries:
     sources:
       - https://en.m.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine#:~:text=Star%20Trek%3A%20Deep%20Space%20Nine%20%28DS9%29%20is%20an,century%2C%20when%20Earth%20is%20part%20of%20a%20
   - date: 2021-08-25
-    questions: Can a Vulcan tell a lie?
+    question: Can a Vulcan tell a lie?
     answer: Supposedly no, but yes.
     sources:
       - https://scifi.stackexchange.com/questions/4961/are-vulcans-really-incapable-of-telling-a-lie

@@ -18,10 +18,14 @@ jobs:
       - uses: actions/checkout@v2
         with:
           submodules: true
-      - name: Build 11ty
-        uses: hxlnt/action-build-eleventy@2.01
+      - name: Setup node
+        uses: actions/setup-node@v2
         with:
-          path: --output=$GITHUB_WORKSPACE/site
+          node-version: ${{ matrix.node }}
+          # cache: npm
+      - run: npm install @11ty/eleventy-plugin-rss
+      - name: Build 11ty
+        run: npx @11ty/eleventy --output=$GITHUB_WORKSPACE/site
       - name: Push built site to repo
         uses: actions-go/push@master
         with:

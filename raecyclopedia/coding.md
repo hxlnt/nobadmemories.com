@@ -3,7 +3,7 @@ tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Lab → Raecyclopedia
 pagename: Coding
-intro: A catalog of everything I've looked up about coding this year.
+intro: A catalog of some things I've learned or looked up about coding.
 entries:
   - date: 2021-01-10
     question: Is there an iOS app for working with source code repositories?
@@ -49,8 +49,3 @@ entries:
     answer: Yes
     sources: 
       - https://stackoverflow.com/questions/2541319/jre-included-with-jdk-vs-standalone-jre
-  - date: 2021-05-30
-    question: In Javascript, how do you trim a string to a certain size counting left starting from the rightmost character?
-    answer: "You can use <code>substr()</code> in combination with the string's length. For example: <code>padded.substr((padded.length - 8),8);</code> returns the last 8 characters of a string regardless of length."
-    sources:
-      - https://www.w3schools.com/jsref/jsref_substr.asp

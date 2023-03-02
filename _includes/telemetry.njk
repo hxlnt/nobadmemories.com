@@ -6,7 +6,7 @@
             <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
             </div>
             <div class="col-md-10">
-            <h2>Reading in 2021-2022</h2>
+            <h2>Reading completed in 2022</h2>
             </div>
         </div>
     </div>
@@ -15,12 +15,14 @@
             <div class="col-md-8">
             <ul>
                     {% for item in reading %}
-                        {% if item.display != "none" %}
-                            <li><i>{{ item.title }}</i> ({{ item.year }}) by {{ item.author }}
+                        {% if item.display != "none" and item.category == "2022" %}
+                            <li><i>{{ item.title }}</i> by {{ item.author }}
+                               {% if item.progress[item.progress.length-1].percent < 100 %}
                             <div style="margin:0; background:repeating-linear-gradient(-45deg, var(--color2-light),var(--color2-light) 4px, #ffffff 4px, #ffffff 8px); width:100%; border:1px solid var(--color2);">
                         <div style="text-align: right; padding: 4px 12px 4px 24px; width: {{ item.progress[item.progress.length-1].percent }}%; background-color: var(--color2); font-family:'Helvetica', 'Helvetica Neue', 'Arial', sans-serif; font-size: smaller;">{{ item.progress[item.progress.length-1].percent }}%</div>
-                    </div><br>
-                    </li>
+                        </div><br>
+                        {% endif %}
+                        </li>
                         {% endif %}
                     {% endfor %} 
             </ul>
@@ -31,6 +33,39 @@
     </div>
 </div>
 
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            </div>
+            <div class="col-md-10">
+            <h2>Reading completed in 2021</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+            <ul>
+                    {% for item in reading %}
+                        {% if item.display != "none" and item.category == "2021" %}
+                            <li><i>{{ item.title }}</i> by {{ item.author }}
+                               {% if item.progress[item.progress.length-1].percent < 100 %}
+                            <div style="margin:0; background:repeating-linear-gradient(-45deg, var(--color2-light),var(--color2-light) 4px, #ffffff 4px, #ffffff 8px); width:100%; border:1px solid var(--color2);">
+                        <div style="text-align: right; padding: 4px 12px 4px 24px; width: {{ item.progress[item.progress.length-1].percent }}%; background-color: var(--color2); font-family:'Helvetica', 'Helvetica Neue', 'Arial', sans-serif; font-size: smaller;">{{ item.progress[item.progress.length-1].percent }}%</div>
+                        </div><br>
+                        {% endif %}
+                        </li>
+                        {% endif %}
+                    {% endfor %} 
+            </ul>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+{# 
 <div class="row">
     <div class="col-md-3">
         <div class="row">
@@ -63,7 +98,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> #}
 
 
 

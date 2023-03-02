@@ -9,7 +9,7 @@ intro: "<p><strong>In memoriam: Bubblegum (200?-2021)</strong><br><em>Posted Thu
 
 We lost a very good boy today: Bubblegum passed away due this afternoon after experiencing heart problems, but essentially, of old age.
 
-<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/bubblegum-pillow.jpg">
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="https://www.nobadmemories.com/img/bubblegum-pillow.jpg">
 <figcaption>Bubblegum had to wear this neck pillow once to keep from scratching, and much to my surprise, he loved having a pillow that went wherever he did.</figcaption>
 </figure>
 

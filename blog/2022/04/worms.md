@@ -9,7 +9,7 @@ intro: "<p><strong>Cleaning my workspace with WORMS</strong><br><em>Posted Frida
 
 The studio where I do art and electronics projects tends to get very messy very quickly. When I'm working on something, my focus is dialed up to 11, and I avoid anything that might distract me or take me out of the moment. That means scraps fall to the floor, tape remnants get stuck to the arm of my chair, coffee cups pile around, and supplies and tools are abandoned on the nearest surface.
 
-<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/worms.jpg">
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="https://www.nobadmemories.com/img/worms.jpg">
 <figcaption>What does this have to do with WORMS, though?</figcaption>
 </figure>
 

@@ -2,7 +2,7 @@
 tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Lab → Raecyclopedia
-intro: A catalog of everything I've looked up about places around the world this year.
+intro: A catalog of some things I've learned or looked up pertaining to geography and travel.
 pagename: Geography and travel
 entries:
   - date: 2021-01-12
@@ -27,11 +27,6 @@ entries:
     answer: In central Colombia
     sources:
       - https://en.wikipedia.org/wiki/Bogotá
-  - date: 2021-04-11
-    question: How far does someone in Sanderson, Texas need to drive to buy fresh produce?
-    answer: One must drive about 50 miles to reach the French Company Grocer in Marathon.
-    sources:
-      - https://www.frenchcogrocer.com/index.php?location=yes
   - date: 2021-05-30
     question: How long is the Violet Crown Trail?
     answer: 30 miles

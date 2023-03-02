@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>No Bad Memories</title>
+  <subtitle>Rachel Simone Weil&#39;s blog and work spanning video art, glitch, homebrew development, electronics, and computing history</subtitle>
+  <link href="https://nobadmemories.com/feed.xml" rel="self"/>
+  <link href="https://nobadmemories.com/"/>
+  <updated>2022-05-18T00:00:00Z</updated>
+  <id>https://nobadmemories.com/</id>
+  <author>
+    <name>Rachel Simone Weil</name>
+  </author>
+  
+  <entry>
+    <title>Hosting a mutual-aid fundraiser on Discord</title>
+    <link href="https://nobadmemories.com/blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/"/>
+    <updated>2021-01-09T00:00:00Z</updated>
+    <id>https://nobadmemories.com/blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/</id>
+    <content type="html">&lt;p&gt;In November of 2020, the boxes began to really stack up. A few by the hallway, then a looming tower near the kitchen. Spurred by months of COVID-19-induced isolation at home, I&#39;d put myself on a mission to finally go through all my possessions and throw or give away what was no longer needed. Around the same time, my thoughts turned to making a charitable donation. Given the difficult circumstances 2020 brought, I wanted to be thoughtful about making a positive impact.&lt;/p&gt;
+&lt;p&gt;One thought led to another, and eventually I came up with the idea to host an online silent auction/garage sale to raise money for a good cause. I had four main objectives for the silent auction:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;to facilitate sharing and rehoming of items to others in a quarantine-safe way,&lt;/li&gt;
+&lt;li&gt;to raise money for a charitable cause (in my case, &lt;a href=&quot;https://www.gofundme.com/f/kick-the-cold-austin-mutal-aid&quot;&gt;Austin Mutual Aid&lt;/a&gt;),&lt;/li&gt;
+&lt;li&gt;to create a unique avenue to connect and have fun with friends remotely, and&lt;/li&gt;
+&lt;li&gt;to help activate others in the rewarding act of giving.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The event ran for two weeks in December and raised $1,646. Now that I&#39;ve had a few weeks to reflect on it, I&#39;m sharing a bit of a post-mortem on the event in case it&#39;s useful for others wanting to undertake something similar.&lt;/p&gt;
+
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/internet.png&quot; /&gt;
+&lt;figcaption&gt;How much would you pay for &lt;em&gt;the Internet?&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      
+                  
+              
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Event overview&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;Here is how I prepared for and ran the event.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sorted through my items.&lt;/strong&gt; I went through the boxes and found &lt;em&gt;the fun stuff:&lt;/em&gt; instruments, movies, etc. Other items were taken to mutual aid centers or Goodwill.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Set up a Discord server.&lt;/strong&gt; This was pretty easy to figure out on my own, but there is also &lt;a href=&quot;https://nobadmemories.com/blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/#resources&quot;&gt;a guide to setting up a Discord server&lt;/a&gt;. I created four top-level channels: &lt;code&gt;#👋・welcome&lt;/code&gt;, &lt;code&gt;#📢・rules&lt;/code&gt;,  &lt;code&gt;#⛲・wishing-well&lt;/code&gt;, and &lt;code&gt;#☕・chat&lt;/code&gt;. I also created a channel category called &amp;quot;Auction items.&amp;quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Decided on and posted auction rules.&lt;/strong&gt; The auction would work like eBay, complete with a minimum starting bid (usually $1). Participants would post a dollar amount in the corresponding items&#39; channel to make a bid. After two weeks, bidding would close, and all money raised would go to the charitable organization. Additionally, I pledged to match every bid dollar for dollar. Anyone wanting to donate money without bidding on items could post dollar amounts to the &lt;code&gt;#⛲・wishing-well&lt;/code&gt; channel, where I also matched donation amounts 1-for-1. (You can read the complete rules &lt;a href=&quot;https://nobadmemories.com/blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/#resources&quot;&gt;here&lt;/a&gt;.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Grouped items into thematic bundles.&lt;/strong&gt; Instead of having participants bid on single items, I grouped them into themed bundles. A bass guitar was paired with an amplifier and live music DVD to form a &amp;quot;rock bundle.&amp;quot; A pile of 15 mystery LPs was billed as a &amp;quot;crate-digger bundle.&amp;quot; Each bundle got its own channel in the &amp;quot;Auction items&amp;quot; category where participants would post bids.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Added descriptions to bundle channels&lt;/strong&gt; In each bundle channel, I posted photographs of the items, a description, and the minimum starting bid.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/cooking.png&quot; /&gt;
+&lt;figcaption&gt;Photograph of spoon rest and brownies in the cooking bundle, which also included a collection of cookbooks.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ol start=&quot;6&quot;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Invited friends via Discord or email.&lt;/strong&gt; I invited about 35 local friends to keep things manageable and made sure I knew each person personally in case there was any issue.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Supervised bidding for the run of the event (2 weeks).&lt;/strong&gt; I occasionally posted updates if certain bundles hadn&#39;t yet received bids, for example.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Collected bids via PayPal and Venmo, and sent double that to charitable organization.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Delivered bundles to winners.&lt;/strong&gt; I offered curbside pickup or delivery based on the winner&#39;s preference.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/channels.png&quot; /&gt;
+&lt;figcaption&gt;Screenshot of Discord channel listing&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Learnings&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;I went into the silent auction with low expectations, just because it was a pretty experimental idea, and I had no idea how things would play out. Plus, the extent of my prior experience with fundraising was selling Girl Scout cookies as a child. Would there be bidding wars? Zero interest? In retrospect, I was really pleased with the outcomes. It was &lt;em&gt;fun.&lt;/em&gt; And it was great how much we were able to raise just with unwanted items in our own homes. Here are some assorted observations, what I think went well, and what I&#39;d do differently next time.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Why Discord?&lt;/strong&gt; I had initially considered running the silent auction through something like Google Sheets or Forms, but I wanted to be sure that everyone participating could see bids without modifying them. I also wanted an avenue for conversation. Discord was my next candidate for handling this. It could also allow participants to set up notifications if desired. I think it generally worked well. Now that the auction is done, I can simply close the server.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ask friends to contribute unique items.&lt;/strong&gt; When I look back at which bundles generated the most excitement and bids, it was clear that one-of-a-kind items were most popular. Bundles with locally-made ceramics, zines, or instruments were among the more desired. If you have friends willing to contribute art, homemade desserts, or services (such as lessons), do reach out to them with plenty of advance notice to see if they have something they&#39;d like to contribute to the cause.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;Want to run an event like this yourself? Here are a few additional resources.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gofundme.com/discover/community-fundraiser&quot;&gt;Browse GoFundMe community fundraisers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://support.discord.com/hc/en-us/articles/204849977-How-do-I-create-a-server-&quot;&gt;Discord support: How do I create a server?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Additionally, I&#39;ve reproduced the rules I posted to my server; feel free to modify these for your own use.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bidding starts at 12:01 AM on December 4 and ends at 11:59 PM on December 18. For each bundle, the person who has posted the highest bid in that bundle&#39;s channel when bidding closes will win the bundle and agrees to pay their highest bid amount.&lt;/p&gt;
+&lt;p&gt;Editing bids is not permitted.&lt;/p&gt;
+&lt;p&gt;Each auction bundle contains a curated selection of multiple items united by a theme. Bundles cannot be split or rearranged. If you are the winner of a bundle, let me know if there&#39;s something in the bundle you don&#39;t want, and I will donate it to Goodwill.&lt;/p&gt;
+&lt;p&gt;Most items are gently used except where indicated. Photos should help address concerns about item condition. But also, like, this is a garage sale. Everything is as-is, no exchanges, returns, or refunds.&lt;/p&gt;
+&lt;p&gt;Winners will be messaged on Discord to arrange for payment and delivery (within Austin only). I&#39;ll donate all proceeds and match them dollar for dollar to Austin Mutual Aid&#39;s &amp;quot;Kick the Cold&amp;quot; fundraising campaign. They&#39;re halfway to their $20,000 goal! https://www.gofundme.com/f/kick-the-cold-austin-mutal-aid&lt;/p&gt;
+&lt;p&gt;If you want to donate cash (and have your donation matched) but don&#39;t want to bid on anything, head over to the &lt;code&gt;#⛲・wishing-well&lt;/code&gt; channel.&lt;/p&gt;
+&lt;p&gt;This is meant to provide a lighthearted way to raise money for a good cause while keeping unused items out of landfills and dusty garages. While healthy competition is encouraged, please be mindful that each of us is in unique circumstances in these awful times. Don&#39;t feel obligated to overbid or participate at all. And don&#39;t be a jerk. I know you won&#39;t, though. ♥&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>In memoriam: Bubblegum (200?-2021)</title>
+    <link href="https://nobadmemories.com/blog/2021/02/in-memoriam-bubblegum/"/>
+    <updated>2021-02-11T00:00:00Z</updated>
+    <id>https://nobadmemories.com/blog/2021/02/in-memoriam-bubblegum/</id>
+    <content type="html">&lt;p&gt;We lost a very good boy today: Bubblegum passed away due this afternoon after experiencing heart problems, but essentially, of old age.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/bubblegum-pillow.jpg&quot; /&gt;
+&lt;figcaption&gt;Bubblegum had to wear this neck pillow once to keep from scratching, and much to my surprise, he loved having a pillow that went wherever he did.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Bubblegum was a pit bull adopted in 2014, a few days before I began teaching at the University of Texas. We don&#39;t know much about his life before then except that it was rough. He had bullet wounds and broken teeth when he was rescued from a kill shelter in Bastrop. (Shout out to &lt;a href=&quot;https://austindog.org/&quot; target=&quot;_blank&quot;&gt;Austin Dog Rescue&lt;/a&gt; for taking him in!)&lt;/p&gt;
+&lt;p&gt;He quickly adapted to a more pampered life and reveled in getting as much affection as possible. Everyone who met him got to witness this: he frequently head-butted his way into head rubs and wasn&#39;t shy about nestling his entire 70-pound self into new friends&#39; laps. And, of course, his patented move was circling in front of someone while whipping his tail furiously, a maneuveur I came to call the &amp;quot;waggin&#39; wheel.&amp;quot; He wagged that tail every day, up unti the very end.&lt;/p&gt;
+&lt;p&gt;We&#39;re going to miss you, buddy. RIP.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/blorp.jpg&quot; /&gt;
+&lt;figcaption&gt;Bubblegum had exactly two moods: Blorpin&#39; (shown here) and waggin&#39;.&lt;/figcaption&gt;
+&lt;/figure&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>Cleaning my workspace with WORMS</title>
+    <link href="https://nobadmemories.com/blog/2022/04/worms/"/>
+    <updated>2022-04-15T00:00:00Z</updated>
+    <id>https://nobadmemories.com/blog/2022/04/worms/</id>
+    <content type="html">&lt;p&gt;The studio where I do art and electronics projects tends to get very messy very quickly. When I&#39;m working on something, my focus is dialed up to 11, and I avoid anything that might distract me or take me out of the moment. That means scraps fall to the floor, tape remnants get stuck to the arm of my chair, coffee cups pile around, and supplies and tools are abandoned on the nearest surface.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/worms.jpg&quot; /&gt;
+&lt;figcaption&gt;What does this have to do with WORMS, though?&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;By the time I&#39;ve snapped out of my Art Trance and begun to assess the damage, the task of cleaning feels deeply daunting. My ADHD brain, struggling to get a start on the task, throws me into a negative feedback loop of my own creating. What&#39;s worse, my escape hatch is often to walk away from the problem entirely, leaving the mess for poor Future Me!&lt;/p&gt;
+&lt;p&gt;I wished there was some kind of formula or simple structure I could use to help me breakdown the tasks needed for tidying a chaotic workspace. Ideally, it would be flexible enough work for different kinds of spaces... sometimes a tabletop, sometimes a room, sometimes a bookshelf. So, after some trial and error, I created one that works well for me. It starts with the tasks that require the least decision making in order to build progress and momentum quickly. I&#39;m sharing the strategy here in case it&#39;s useful to anyone else.&lt;/p&gt;
+&lt;p&gt;In this system, cleaning up a workspace is divided into five sequential stages: waste, out-of-towners, residents, miscellany, and style. (That spells, you guessed it, WORMS.) I admit that it&#39;s a little odd to refer to my art supplies as out-of-towners and residents. But the idea that my workspace is a little village with guests and residents is a funny, &lt;em&gt;Animal Crossing&lt;/em&gt;-inspired mental image that has stuck in my mind.&lt;/p&gt;
+&lt;p&gt;Each stage of WORMS is done completely with respect to the workspace before moving on to the next.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;WASTE:&lt;/strong&gt; Items that are obviously trash should be put in the appropriate recycling, compost, or trash bin. &lt;em&gt;If you look at something for more than two seconds and aren&#39;t sure if it&#39;s trash, leave it for a later stage.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OUT-OF-TOWNERS:&lt;/strong&gt; If you know where an item should go and it &lt;em&gt;isn&#39;t&lt;/em&gt; in this workspace, it&#39;s an out-of-towner. Take it back to where it belongs. The coffee cup goes in the dishwasher, the jacket goes in the hall closet, etc. &lt;em&gt;If you look at something for more than two seconds and aren&#39;t sure where it&#39;s supposed to go, leave it for a later stage.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RESIDENTS:&lt;/strong&gt; If you know where an item belongs and it &lt;em&gt;is&lt;/em&gt; in this workspace, it&#39;s a resident! Put it back in its home. Scissors go in the Kirby&#39;s Adventure cup, paper clips go in the blue box, etc. &lt;em&gt;If you look at something for more than two seconds and aren&#39;t sure where it&#39;s supposed to go, leave it for a later stage.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MISCELLANY:&lt;/strong&gt; Hopefully, your space is looking less chaotic, and you can more mindfully assess the things you weren&#39;t sure what to do with before. In instances where there are a lot of miscellaneous items, it might be helpful to repeat the out-of-towners vs. residents exercise to see if you can at least get items put back in the right room or general vicinity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;STYLE:&lt;/strong&gt; Finally, arrange the decor, wipe up the dust, turn on the lava lamp, or do whatever puts the finishing touches on your space. Celebrate the achievement!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;ve been a messmaker my whole life, and that&#39;s probably never going to change. But this somewhat silly mnemonic has helped me get over the anxiety of cleaning it all up. It seems to work especially well for workspaces and small rooms that have eclectic contents. After doing the WORMS thing, I&#39;m at least ready for the next fun project and the mess that will inevitably ensue.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Printmaking as play</title>
+    <link href="https://nobadmemories.com/blog/2022/05/printmaking-as-play/"/>
+    <updated>2022-05-17T00:00:00Z</updated>
+    <id>https://nobadmemories.com/blog/2022/05/printmaking-as-play/</id>
+    <content type="html">&lt;p&gt;As you might know from my past research on the sticker-printing &lt;a href=&quot;http://www.femicom.org/collection/loopy/&quot;&gt;Casio Loopy game console&lt;/a&gt; and &lt;a href=&quot;http://www.femicom.org/research/jesyca-durchin-on-the-making-of-barbie-fashion-designer/&quot;&gt;Barbie Fashion Designer&lt;/a&gt;, I have a special interest in games and toys that incorporate printing or image making as a play mechanic.&lt;/p&gt;
+&lt;p&gt;Printmaking toys make creation immediate, convenient, and playful, often at the expense of the quality, quantity, permanence, or general perceived value of the resulting image. Toys require neither prerequisite training nor access to specialty facilities.&lt;/p&gt;
+&lt;p&gt;For me, these are benefits printmaking toys have over their &amp;quot;real&amp;quot; counterparts. Like Sadie Benning with the Fisher-Price Pixelvision camera or &lt;a href=&quot;https://www.nullsleep.com/&quot;&gt;Nullsleep&lt;/a&gt; with the Nintendo Game Boy, I&#39;m drawn to the use of post-consumer toys to achieve activist, countercultural, and recuperative ends.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://artforum.com/uploads/upload.002/id10618/article01_810x.jpg&quot; /&gt;
+&lt;figcaption&gt;Still image from &lt;em&gt;Girl Power&lt;/em&gt; (Sadie Benning, 1992)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Recently, I became curious about the space between printmaking toy and printmaking instrument, and whether I could create something for my own use that was suitably simple, expressive, and, of course, fun.&lt;/p&gt;
+
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://hxlntblob.blob.core.windows.net/femicom/barbiefashiondesigner-lores.jpg&quot; /&gt;
+&lt;figcaption&gt;&lt;em&gt;Barbie Fashion Designer&lt;/em&gt; allowed players to use the computer to design and print paper clothing for Barbie dolls. The software came with markers and paints for further decoration. It was &lt;a href=&quot;http://femicom.org/collection/item/barbie-fashion-designer-pc/&quot; target=&quot;_blank&quot;&gt;one of the best-selling software titles of 1996&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      
+                  
+              
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Close, but not quite: Print Gocco&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;The Print Gocco was a popular at-home printing device produced by Japanese company Riso Kagaku starting in the late 1970s. The process was something like stamping-meets-screenprinting and allowed users to produce small color prints for greeting cards and textiles. While marketed to adults, its chunky design and ease of use gave it a toy-like quality. It&#39;s believed that at the height of its popularity, one of three Japanese homes had a Print Gocco device.&lt;/p&gt;
+&lt;p&gt;I learned about the Print Gocco in the mid-2000s, just as it was being discontinued by the manufacturer. Jill Bliss had just begun the &lt;a href=&quot;http://savegocco.blogspot.com/2009/02/tribute-to-jill-bliss-save-gocco.html&quot;&gt;grassroots &amp;quot;Save Gocco&amp;quot; campaign&lt;/a&gt;, and an online market developed for remaining deadstock of the device&#39;s proprietary consumables.&lt;/p&gt;
+&lt;p&gt;Seeing my interest in the device, my partner very thoughtfully gifted me a complete Print Gocco set from eBay, which I promptly... stored away for years. After all, the consumables are getting so hard to find! It&#39;s &lt;em&gt;collectible!&lt;/em&gt; It wasn&#39;t until I saw a second Print Gocco at a local resale shop a few months ago that I was inspired to pull mine out of its unnecessary retirement and put it to use.&lt;/p&gt;
+&lt;p&gt;The Print Gocco is very easy to use, relatively tidy, and produces acceptable, if not quirky, color prints. The device is also compact and portable, powered only by two AA batteries. Unlike the time-intensive process of making silkscreen masters with photosensitive emulsions, UV lamps, and so on, Print Gocco master production is fast, mess-free, and can be made from a simple black-and-white photocopy on plain paper.&lt;/p&gt;
+&lt;p&gt;These are two prints from my first use of the Print Gocco, featuring a lovely illustration made for me by &lt;a href=&quot;https://twitter.com/elloradatura&quot; target=&quot;_blank&quot;&gt;Gabrielle Genevieve&lt;/a&gt;. All colors were imprinted in a single pass, made possible by the fact that the inks have a firm consistency and are resistant to blending when pressed.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/goccoprints.jpg&quot; /&gt;
+&lt;figcaption&gt;In retrospect, coloring the telephone yellow wasn&#39;t a good choice.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;This image was a challenge for the Print Gocco: there is considerable smudging (top) and veining (top right, bottom left) due to some overinking and the print density of the image.&lt;/p&gt;
+&lt;p&gt;From my perspective, the Print Gocco system hits an excellent sweet spot between playful and professional. However, it does have some drawbacks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It requires the use of hard-to-find proprietary consumables—Print Gocco masters, inks, and flashbulbs, etc.—all of which have not been produced for decades.&lt;/li&gt;
+&lt;li&gt;Print Gocco masters and flashbulbs are single use. (The flashbulbs literally explode when fired.)&lt;/li&gt;
+&lt;li&gt;The flashbulb burst and inks smell absolutely awful. The inks&#39; ingredients are not listed, but I suspect they are made of pigment suspended in a soybean oil carrier that, after a few decades, has now gone rancid.&lt;/li&gt;
+&lt;li&gt;While delicate designs with text or medium-fine lines look OK, the quality can be variable, especially with more densely-colored images that cause ink to pool, creating visible veins when the master is pressed or smudges when released.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;So, could we improve on the Print Gocco?&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/gocco.gif&quot; /&gt;
+&lt;figcaption&gt;Scene from a &lt;a href=&quot;https://www.youtube.com/watch?v=4MpfsoYIQJI&quot; target=&quot;_blank&quot;&gt;Print Gocco instructional VHS tape&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Print Gocco&#39;s more professional friend: the Risograph&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;The company that produced the Print Gocco, Riso Kagaku, is still in operation. Today, they&#39;re best known for their line of Risograph machines: sophisticated, digitized Print Goccos that work and look more like commercial copy machines and produce high-resolution poster-size prints. In recent years, Risograph printing has seen a surge of interest among a cohort of illustrators, designers, and zinesters who laud its economical per-print price and distinctive look. Like tube amplifiers, Risograph printing is often described by its fans in terms of its imperfections, constraints, and &amp;quot;analog&amp;quot; or &amp;quot;warm&amp;quot; qualities.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://futuress.org/content/images/size/w1600/2021/12/Javier_riso.jpg&quot; /&gt;
+&lt;figcaption&gt;For further reading: Javier Syquia authored &lt;a href=&quot;https://futuress.org/magazine/a-rejection-of-the-term-vernacular/&quot; target=&quot;new&quot;&gt;an excellent postcolonial analysis&lt;/a&gt; of the Eurocentric othering of so-called &quot;vernacular design,&quot; including the use of Risograph printing in the Philippines.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;While I do question some of the aesthetic romanticization of the Risograph, I am admittedly drawn to the look of Risograph prints, too. The bright, lightly-speckled ink on newsprint-like paper reminded me of... &lt;em&gt;something&lt;/em&gt;. The Barbie comic books I read as a child, maybe?&lt;/p&gt;
+&lt;p&gt;I took a Risograph workshop offered at a local university a few years ago and appreciated how quick and easy the process was compared to letterpress and screenprinting. I came home inspired, wondering how I could do more Risograph printing. Turns out: I couldn&#39;t. Not easily, at least.&lt;/p&gt;
+&lt;p&gt;Risograph machines aren&#39;t as ubiquitous as copy machines or digital press services. Where I live, there are only a handful of Risograph machines owned by universities and artist collectives, none of which offer Risograph printing to the public. I briefly had the idea to get together enough money to purchase a Risograph machine that could be made available in a local artspace as a community resource, but after I reached out to a licensed Riso dealer, the company &lt;em&gt;literally sent two men in suits to my home&lt;/em&gt; to size me up and determine whether I was a &amp;quot;legitimate buyer.&amp;quot;&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/risoemail.jpg&quot; /&gt;
+&lt;figcaption&gt;I suspect a good deal of revenue comes from recurring service contracts.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Upon realizing I was not a commercial operation, they recommended some inkjet printers instead, declined to tell me how much a Risograph machine might cost, and finally stopped responding to my emails altogether.&lt;/p&gt;
+&lt;p&gt;In any case, the Risograph is too far from my current search for a simpler, toy-like printing experience. It&#39;s large, expensive, and requires lots of specialty equipment and maintenance. So on we go.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Retrofitting the Print Gocco&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;I began to wonder if the Print Gocco device could be retrofitted with other, more ordinary or readily-replenishable materials—modern inks, a reusable light source—that could offer improved sustainability and print quality.&lt;/p&gt;
+&lt;p&gt;My first thought was to replace the flashbulbs with a more consistent and tuneable light source: Arduino-controlled LED strips. Some research led me to find that someone had already &lt;a href=&quot;https://www.youtube.com/watch?v=cClsnS6Jowc&quot;&gt;done such a thing&lt;/a&gt; some years ago, using a photoreactive sheet called StencilPro in place of the Print Gocco master. StencilPro has since been discontinued, but the LED idea was interesting, and in the interest of changing a single variable at a time, I was curious to try it with an original Print Gocco master.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;How Print Gocco masters work&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;However, once I started researching the technical details behind the Print Gocco&#39;s functionality, I learned that the flashbulbs weren&#39;t originally used as a source of light in the device but as a source of &lt;em&gt;heat.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The Print Gocco master is comprised of a thin paper sandwiched into a cardboard frame. One side of the paper is coated with a thermoplastic layer that is selectively melted away when the flashbulbs fire: Heat radiates from the carbon in the original image&#39;s photocopy toner and melts away the image portion.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/risomaster.jpg&quot; /&gt;
+&lt;figcaption&gt;A Print Gocco master after being developed&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;I also learned that Risograph machines work on the same principle. Instead of using carboard frames that are pressed onto paper one at a time, the master material is wound on to a large roll inside the machine. A digital image is &amp;quot;printed&amp;quot; on the master material by a thermal head. An ink drum inks the uncoated side of the master, and paper is fed through rapidly, picking up the inked image as it rolls by.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/burst.png&quot; /&gt;
+&lt;figcaption&gt;The burst of &lt;s&gt;light&lt;/s&gt; heat created by flashbulbs inside the Print Gocco develops the master stencil.&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Wait, so a Risograph is just a big receipt printer?&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;Most modern shipping label and receipt printers are thermal printers: they create an image on thermal paper rolls or stickers by selectively heating the top layer of white, revealing the black &amp;quot;ink&amp;quot; underneath. It was a &lt;em&gt;big&lt;/em&gt; hunch, but I figured I might be able to feed a small piece of Risograph master paper into a thermal printer to develop it. In this way, I could theoretically create DIY Print Gocco masters at a higher resolution and without a need for flashbulbs. For about $100, I acquired a 300-DPI shipping label printer and a giant roll of Risograph master. I fully accepted the possibility that this whole thing was going to break, melt, or catch fire, but I had to know.&lt;/p&gt;
+&lt;p&gt;I cut and adhered a square of Risograph master to a blank shipping label and cautiously fed it into the machine, which connects to a computer via USB to get image data. Using the same illustration from before, I clicked &amp;quot;Print&amp;quot; and held my breath. The label emerged in less than a second. And much to my surprise, the illustration was &lt;em&gt;perfectly&lt;/em&gt; burned on to the Risograph master with unbelieveable detail. It worked! Holy shit, it worked.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/printmaster.jpg&quot; /&gt;
+&lt;figcaption&gt;Risograph material developed by a shipping label printer.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Next steps&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;Stay tuned for a follow-up post describing my experiments using these stencils to create art prints at home. &lt;em&gt;(Update: &lt;a href=&quot;https://nobadmemories.com/blog/2022/05/mimeoprinting&quot;&gt;Read part 2 here!&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/printset.jpg&quot; /&gt;
+&lt;figcaption&gt;Hundreds of test prints and iterations later...&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>Mimeoprinting (Printmaking as play, part 2)</title>
+    <link href="https://nobadmemories.com/blog/2022/05/mimeoprinting/"/>
+    <updated>2022-05-18T00:00:00Z</updated>
+    <id>https://nobadmemories.com/blog/2022/05/mimeoprinting/</id>
+    <content type="html">&lt;p&gt;In &lt;a href=&quot;https://nobadmemories.com/blog/2022/05/printmaking-as-play&quot;&gt;my last blog post&lt;/a&gt;, I shared my adventures in reverse-engineering the Print Gocco, a DIY printmaking device from the 1970s. While Print Goccos have been out of production for nearly 20 years, I found that I could use an inexpensive shipping-label printer, themoplastic stencil paper, and a few simple craft materials to create a DIY version of the device. Here are my learnings and recommendations on how you can try out this printmaking method for yourself.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/sidebyside.jpg&quot; /&gt;
+&lt;figcaption&gt;A side-by-side technique comparison featuring &lt;a href=&quot;https://www.instagram.com/elloradatura&quot; target=&quot;_blank&quot;&gt;Gabrielle&lt;/a&gt;&#39;s illustration as seen in &lt;a href=&quot;https://www.nobadmemories.com/blog/2022/05/printmaking-as-play&quot; target=&quot;_blank&quot;&gt;my last blog post&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      
+                  
+              
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;The goal&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;I admire the craft that goes into printmaking techniques like screenprinting and intaglio, but sometimes, I just want to make a few prints for fun, and I&#39;m perfectly happy to make trade-offs in quality or scale. In making something Print Gocco-like at home, my goal was a setup that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;meets or exceeds the print quality of the Print Gocco&lt;/li&gt;
+&lt;li&gt;is easy and suitable for a beginner&lt;/li&gt;
+&lt;li&gt;is small enough to use seated at a desk and to store easily when not in use&lt;/li&gt;
+&lt;li&gt;can be done quickly, including preparation and cleanup&lt;/li&gt;
+&lt;li&gt;has limited dependencies on specialty materials and can instead make good use of reclaimed or everyday items&lt;/li&gt;
+&lt;li&gt;minimizes waste and the use of harmful materials&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Prior art&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;Before we dive into the how-to, a quick note on prior art: I do want to stress that my joy in &amp;quot;discovering&amp;quot; these techniques is not meant to lay claim on any novel invention. Indeed, after five or six weeks of iterating on my design, my jaw dropped when I came across &lt;a href=&quot;https://www.youtube.com/channel/UCJB7KIcSuKo3vZptp7vm1wQ&quot;&gt;the YouTube channel of Stampalofi&lt;/a&gt; demonstrating nearly the same technique using a repurposed fax machine in place of a label printer. I have since found similar work by &lt;a href=&quot;https://www.mimeographrevival.com/&quot;&gt;Mimeograph Revival&lt;/a&gt;, &lt;a href=&quot;https://www.peopleofprint.com/pop/tomoko-kanzaki/&quot;&gt;Tomoko Kanzaki&lt;/a&gt;, and &lt;a href=&quot;https://uicb.uiowa.edu/rich-dana&quot;&gt;Rich Dana&lt;/a&gt;, too.&lt;/p&gt;
+&lt;p&gt;I might have found their work earlier had I thought to include the keyword &amp;quot;mimeograph&amp;quot; in my internet research. Oops. I vaguely knew about the hand-cranked mimeographs and Ditto machines used by teachers to make worksheet copies many decades ago, but I hadn&#39;t considered how they worked. It turns out that mimeographs, like Risographs, use a thin stencil paper inked by an ink drum. In the case of a mimeograph, master images were imprinted through pressure from a stylus or typewriter hammer.&lt;/p&gt;
+&lt;p&gt;So I did unwittingly reinvent a wheel, it seems, but it was fun to do so. After seeing that I wasn&#39;t alone in these adventures, I came away inspired to add my voice to the small but mighty choir of stencil-printing enthusiasts. And the newfound connection to mimeography inspired a name for my previously nameless method: mimeoprinting.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/mimeo.jpg&quot; /&gt;
+&lt;figcaption&gt;Still from &lt;a href=&quot;https://www.youtube.com/watch?v=gYjj62eGwc8&quot; target=&quot;_blank&quot;&gt;an archival film on mimeograph operation&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;How to mimeoprint&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;The basic steps I follow are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prepare a monochrome image&lt;/li&gt;
+&lt;li&gt;Cut thermoplastic stencil paper to size&lt;/li&gt;
+&lt;li&gt;Use a thermal printer to print the reverse of the image on to the shiny side of stencil&lt;/li&gt;
+&lt;li&gt;Place the stencil, shiny side down, on a sheet of paper&lt;/li&gt;
+&lt;li&gt;Apply ink through stencil to the paper beneath&lt;/li&gt;
+&lt;li&gt;Cleanly remove the stencil&lt;/li&gt;
+&lt;li&gt;Repeat as needed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;There are, of course, many ways to accomplish these steps, but I&#39;ll share specifics of the methods I used (as well as a few I abandoned). Please note that the following activities will void warranties; proceed with caution and adult supervision, etc.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Preparing stencil paper and printer&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;Risograph and Risograph-compatible stencil is sold by the roll. There are some differences in roll size and resolution for different machine models. I haven&#39;t done any exhaustive testing; the roll I use is labeled for use in RA500LA machines.&lt;/p&gt;
+&lt;p&gt;Risograph stencil can be cut to size easily with scissors or a blade cutter. Be careful that the thermoplastic layer doesn&#39;t separate from the tissue backing while cutting.&lt;/p&gt;
+&lt;p&gt;The label printer I use to burn my images is a Logia 300 DPI printer for 4&amp;quot; x 6&amp;quot; labels. I chose this model for its price, small size, print resolution, reusability as a label printer, and its lack of dependence on an accompanying mobile app for printing. (Third-party apps are prone to rapid obsolescence.) I recommend buying used or repurposing old tech—as Stampalofi has done with the fax machine—instead of buying something new where possible. Another benefit of using a fax machine is its larger print area.&lt;/p&gt;
+&lt;p&gt;Before loading the label printer, I lightly adhere the cut stencil to a blank label using the absolute smallest amount of adhesive along the leading edge of the stencil. This makes the stencil thick enough to feed through the machine correctly. Additionally, my label printer uses a small camera to align labels as they&#39;re fed into the machine, so it needs to &amp;quot;see&amp;quot; the top-most edge of the sticker in order to print.&lt;/p&gt;
+&lt;p&gt;It&#39;s important to keep the stencil flat and free of frayed areas or exposed adhesive. Any glue that seeps out can risk getting into the printer internals, which will damage both your print and the machine. I use Fineline Red-Top Glue, which is a regular white glue that comes with a syringe-like applicator. In my experience, tape and rubber cement do not work well and can get caught in the printer.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/printer.jpg&quot; /&gt;
+&lt;figcaption&gt;Stencil-topped label being loaded into the Logia label printer&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Since the stencil can be easily torn, it&#39;s important to clean the printer head and rollers before and after each print. I keep the printer&#39;s settings at the maximum darkness level and with a reduced speed which is, to be fair, still around one second per print. Examine the stencil after printing to make sure there aren&#39;t tears. Blank labels can be reused if care is taken when removing the stencils after printing.&lt;/p&gt;
+&lt;p&gt;All thermal printers will have their own quirks and caveats, so consider these general guidelines.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/roll.jpg&quot; /&gt;
+&lt;figcaption&gt;Cutting stencil paper to size&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Keeping the stencil taut&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;The stamping motion of the Print Gocco works in part because the stencil paper is rigid and is tightly adhered to its cardboard frame. Without this rigidity, ink will pool and prints will smudge. (This explains why color-dense areas are more challenging for the Print Gocco: they represent areas in which the stencil is weaker.)&lt;/p&gt;
+&lt;p&gt;If you plan to repurpose the Print Gocco, you may find it challenging to adhere your custom stencil to a frame tightly enough. After experimenting with a number of approaches, including making my own Print Gocco frames from cardboard, freezer bags, and laser-cut acrylic, I concluded that using the Print Gocco was more trouble than it was worth.&lt;/p&gt;
+&lt;p&gt;Instead, I cut a 3.8&amp;quot; x 5.8&amp;quot; rectangle from a sheet of rigid, clear polypropylene to create a frame. I taped the top edge of the frame to a piece of chipboard from the back of a paper pad to create a hinge. Finally, I taped the stencil into the hole of the frame from its underside, shiny side down. This creates something not unlike a screenprinting setup.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/hinged.jpg&quot; /&gt;
+&lt;figcaption&gt;Putting the cutout to one side makes it easy to rest the frame against something when taking a break&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;When using a frame like this, ink is brushed or rolled on the back of the stencil, one print at a time. The benefits of this are over a press method are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Less ink waste&lt;/li&gt;
+&lt;li&gt;Ability to see if all portions of the image have been inked and, if not, to reink them&lt;/li&gt;
+&lt;li&gt;More consistent application of ink&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The clear polypropylene sheet was purchased at a local Daiso for about a dollar. It can be cleaned and reused over and over, it does not require the use of ink-blocking tape as cardboard would, and it is easily cut with a blade. Furthermore, by virtue of being clear, it can make registration and stencil alignment easier. (Another thing you might find helpful is drawing gridlines every 1/2&amp;quot; on the chipboard to help with alignment.) Finally, the polypropylene sheet is rigid but has just enough give to allow you to bend the frame backwards slightly as you separate it from the paper. I find this really helpful in preventing smudges during lifting.&lt;/p&gt;
+&lt;p&gt;The trickiest part of preparing the frame is taping on the stencil. I strongly recommend using wide, low-tack drafting tape sold in art supply stores. This is a paper tape that you can reposition in case there are wrinkles in the stencil. I tend to tape down one side, then gently tug the stencil as I tape the opposite side, and reposition here and there as needed. The goal is to have a taut, wrinkle-free stencil perfectly aligned inside the frame&#39;s cutout. Remember to tape the stencil to the underside of the frame; otherwise, the edges of the image may be cut off.&lt;/p&gt;
+&lt;p&gt;I tried numerous ink application techniques and found the best results using brushes with short, synthetic, dense, and equally-long bristles. A decoupage brush I had in my studio (pictured below) worked perfectly. Inexpensive foam rollers can be used, too. When the right amount of pressure is applied (and assuming you have not overinked your stencil), you will see the image appear as you brush or roll. This happens as ink is pushed through the stencil and repelled from the non-printing areas.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/process.jpg&quot; /&gt;
+&lt;figcaption&gt;As the stencil is brushed, my NES pixel art begins to appear in the stencil backing!&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Note that applying too much brush or roller pressure can tear the stencil. Once torn, it can no longer be used.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/taped.jpg&quot; /&gt;
+&lt;figcaption&gt;A stencil taped to a hand-cut clear plastic frame&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Choosing and preparing inks&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;The most time spent during my experiments, by far, was with inks or paints (I&#39;m using these terms interchangeably). I wanted inks that met the following criteria:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lightfast&lt;/li&gt;
+&lt;li&gt;Consistent in pigmentation&lt;/li&gt;
+&lt;li&gt;Resistant to spreading on paper&lt;/li&gt;
+&lt;li&gt;Free of VOCs and toxic pigments such as cadmium&lt;/li&gt;
+&lt;li&gt;Blendable for adding transparency or making custom colors&lt;/li&gt;
+&lt;li&gt;Slow-drying (to keep the stencil workable and crisp)&lt;/li&gt;
+&lt;li&gt;Reasonably affordable&lt;/li&gt;
+&lt;li&gt;Easy clean-up&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;I experimented with oil- and water-based paints, including screenprinting ink, block printing ink, gouache, watercolor, intaglio ink, acrylic paint, oil paint, alcohol ink, and calligraphy ink. Straight out of the tube, the best results were with water-based screenprinting ink and Golden Open Acrylic, a slow-drying acrylic paint designed to have a long open time like oil paint. However, both inks have a tendency to get a little goopy.&lt;/p&gt;
+&lt;p&gt;During my tests, the main contributors to poor print quality were bleeding, smudging, fading, wrinkling, and master degradation, caused by the following ink qualities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bleeding: Ink is too thin&lt;/li&gt;
+&lt;li&gt;Smudging: Ink is too thick or too slow-drying (&lt;em&gt;e.g.,&lt;/em&gt; oil paint)&lt;/li&gt;
+&lt;li&gt;Fading: Ink is too fast-drying, causing it to dry into the master (&lt;em&gt;e.g.,&lt;/em&gt; gouache, acrylic paint)&lt;/li&gt;
+&lt;li&gt;Wrinkling: Ink is too wet, causing the master to sag and pool with ink&lt;/li&gt;
+&lt;li&gt;Degradation: Ink is too dry, causing friction against the master and spotty printing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Eventually, I found the silver-bullet ingredient that helped with all these issues: &lt;em&gt;nori,&lt;/em&gt; or rice-flour paste. I learned about this from Stampalofi, and adding it to my inks dramatically improved my results. (This also extended the inks significantly, making printing more economical, too!)&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/stampalofi.jpg&quot; /&gt;
+&lt;figcaption&gt;The &lt;a href=&quot;https://www.youtube.com/watch?v=RuwkSYsdN7o&quot; target=&quot;_blank&quot;&gt;video&lt;/a&gt; that tipped me off to nori as an ink additive&amp;mdash;thanks, Stampalofi!&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Upon further research, I learned that nori has been used for hundreds of years in paper-stencil crafts such as &lt;a href=&quot;https://en.wikipedia.org/wiki/Katazome&quot;&gt;katazome fabric printing&lt;/a&gt; as an adhesive, ink additive, and resist paste due to its ability to create a stiff film without wrinkling or soaking delicate paper.&lt;/p&gt;
+&lt;p&gt;Did you ever make &amp;quot;ooblek,&amp;quot; a mixture of water and cornstarch, in chemistry class? Ooblek is a non-Newtonian fluid that stiffens under nominal pressure, making it fun to squish in your hands. Screenprinting inks have an ooblek-like additive to improve their performance when pressed by squeegee. Nori lends this same benefit, imparting an ineffible &amp;quot;more wet yet more dry&amp;quot; quality that other paints lack.&lt;/p&gt;
+&lt;p&gt;To make nori, add 10 grams of rice flour to 2 ounces of water and stir. Add that to another 2 oz. of water simmering on the stovetop. Stir constantly with a silicone spatula until it&#39;s thickened a bit. Scraping the spatula along the bottom of the pot should cause the mixture to fill back in just a bit more slowly than a liquid would. Pour the nori into a bowl, leave it to cool, and use within 24 hours. Once cool, it should have a pudding-like consistency. This will need to be thinned later, but it&#39;s better to start with a thicker paste and thin it in small portions as you use it.&lt;/p&gt;
+&lt;p&gt;Pre-made nori can be purchased at art supply shops, and while it has the benefit of added preservatives, I got better results with the homemade variety, which is of course more affordable as well.&lt;/p&gt;
+&lt;p&gt;Getting the right proportion of nori, ink, and water is a little bit of a dark art, but I&#39;ll do my best to describe my approach: For a brush-on technique, the ideal paint consistency is that of a brush-on marinade or thin sauce. It&#39;s thinner than ketchup and liquid enough to glide with a silky feel when spread by a paintbrush. When collected on a paintbrush, the ink should not drip from the bristles but should &lt;em&gt;just barely&lt;/em&gt; hang on.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/paint.jpg&quot; /&gt;
+&lt;figcaption&gt;The blue and pink inks in the top two wells are too thick. They have been mixed and thinned with water in the bottom two wells. Less ketchup, more teriyaki sauce.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;My best results have been acheived by mixing thinned nori with either Golden Open Acrylic, calligraphy ink, or a mix of the two. Calligraphy ink is more economical since little is needed, and it is offered in fully non-toxic organic-pigment ranges such as Dr. Ph. Martin&#39;s Bombay Ink. Student-grade bottled sumi ink is both affordable and an excellent additive for darkening colors. Golden Open Acrylic is more of a specialty paint, and care should be taken to choose colors that don&#39;t include heavy-metal pigments. However, it offers rich color and has a long working time, meaning there&#39;s little risk of ink drying in the stencil. Retarder additives used in screenprinting may be useful for this application, but I have not tried those yet.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/tone.jpg&quot; /&gt;
+&lt;figcaption&gt;In this mimeoprint, a first pass was done with a mix of thinned nori paste and a few drops of green calligraphy ink, resulting in a light mint-green print. In the second pass, using a different stencil, shadows were overprinted by adding a few drops of sumi ink to the remainder of the previously-used ink mixture.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Paper selection&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;In my experience, the best papers for printing are smooth-textured and resistant to warping when wet. I found that something toothy like a watercolor paper won&#39;t pick up as much detail, while cheaper mixed media papers can warp. I&#39;ve had good results with newsprint and marker paper like the one made by Copic. &lt;a href=&quot;https://www.ogamicollection.com/en/stone-paper/&quot;&gt;OGAMI paper&lt;/a&gt;, made from reclaimed quarry waste, gives a unique smooth and matte finish that is both hard to describe (and hard to photograph, unfortunately). But the results are quite unique.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;That&#39;s it for now!&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;Despite the lengthy detail posted here, the process really is quite quick, simple, and economical. I can typically go from idea to a set of prints to clean-up in 1 to 2 hours, and that&#39;s at a leisurely pace. When printing is complete, the stencil can be easily pulled off its frame and discarded. It&#39;s been quite fun, and I definitely plan on making more mimeoprints in the future.&lt;/p&gt;
+&lt;p&gt;Thank you for reading through to the end, and I hope this has been helpful or educational to other printmaking enthusiasts. Happy mimeoprinting!&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/printset2.jpg&quot; /&gt;
+&lt;figcaption&gt;Hooray!&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

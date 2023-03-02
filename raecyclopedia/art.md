@@ -3,7 +3,7 @@ tags: raecyclopedia
 layout: raecyclopedia.njk
 title: Lab → Raecyclopedia
 pagename: Art
-intro: A catalog of everything I've looked up about art this year.
+intro: A catalog of some things I've learned on the topic of art.
 entries:
   - date: 2021-01-10
     question: What are some libraries or museums in the US that house Bruno Munari's work?
@@ -14,14 +14,11 @@ entries:
       - https://clmr.infoteca.it/bw5ne2/opac.aspx?web=ICNY&SRC=SBAS&lng=ENG
       - https://www.toledomuseum.org/search?search_text=munari
       - https://www.moma.org/artists/4163
-  - date: 2021-02-23
-    question: What does NFT stand for?
-    answer: Non-fungible (meaning "non-interchangeable") token
-    sources:
-      - https://en.m.wikipedia.org/wiki/Non-fungible_token
   - date: 2021-04-11
     question: What years was Bill Traylor active?
     answer: Bill Traylor produced artwork between 1939 and 1942, when he was in his 80s.
+    image: /img/traylorradio.jpg
+    imagecaption: Smithsonian Institute
     sources:
       - https://en.m.wikipedia.org/wiki/Bill_Traylor
   - date: 2021-05-04
@@ -29,5 +26,7 @@ entries:
     answer: Yes
     sources:
       - https://www.youtube.com/watch?v=SGGvIIYEMKQ
-
+  - date: 2022-05-14
+    question: Do Dr. Ph. Martin inks contain heavy metals?
+    answer: No, the pigments are synthetic organics.
 ---
