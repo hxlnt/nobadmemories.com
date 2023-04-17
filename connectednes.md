@@ -23,6 +23,10 @@ ConnectedNES is comprised of:
 
 ConnectedNES is written across three languages: Javascript, Arduino C/C++, and 6502 Assembly.
 
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="https://user-images.githubusercontent.com/9647195/203632856-95f68d10-d79a-4b59-9b43-52132fec9d9e.jpg">
+<figcaption>ConnectedNES in action</figcaption>
+</figure>
+
 ## How does ConnectedNES work?
 
 When you play NES games, you press buttons on the controller, and the controller in turn sends a signal made of bits (1s and 0s) through the controller cable and into the NES console. These bits indicate which buttons were pressed or not pressed, and this information is then used to control the game. As it turns out, tweets, images, and other digital content is also made up of bits. What if we could use the controller port to stream different kinds of data into the NES? We'd have something a lot like ConnectedNES!
