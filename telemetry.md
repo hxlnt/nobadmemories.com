@@ -258,7 +258,14 @@ reading:
       year: 2020
       progress:
         - date: 2022-06-04
-          percent: 100 
+          percent: 100
+    - title: Sign Painting
+      author: Mike Meyer
+      year: 2020
+      category: 2023
+      progress:
+        - date: 2023-04-16
+          percent: 2   
     - title: Speculative Everything
       author: Anthony Dunne and Fiona Raby
       year: 2013
