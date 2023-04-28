@@ -236,6 +236,13 @@ reading:
           percent: 86
         - date: 2022-09-06
           percent: 100 
+    - title: "Optical Art: Theory and Practice"
+      author: Rene Parola
+      year: 1969
+      category: 2023
+      progress:
+        - date: 2023-04-27 
+          percent: 9 
     - title: Order from Chaos
       author: Jaclyn Paul
       year: 2018
@@ -267,7 +274,9 @@ reading:
         - date: 2023-04-16
           percent: 2   
         - date: 2023-04-17
-          percent: 11  
+          percent: 11
+        - date: 2023-04-27
+          percent: 20  
     - title: Speculative Everything
       author: Anthony Dunne and Fiona Raby
       year: 2013
