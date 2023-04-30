@@ -243,6 +243,8 @@ reading:
       progress:
         - date: 2023-04-27 
           percent: 9 
+        - date: 2023-04-30
+          percent: 15  
     - title: Order from Chaos
       author: Jaclyn Paul
       year: 2018
@@ -277,6 +279,8 @@ reading:
           percent: 11
         - date: 2023-04-27
           percent: 20  
+        - date: 2023-04-29
+          percent: 34  
     - title: Speculative Everything
       author: Anthony Dunne and Fiona Raby
       year: 2013
