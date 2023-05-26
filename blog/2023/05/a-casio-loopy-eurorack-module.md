@@ -11,7 +11,7 @@ What do you get when your <a href="http://www.femicom.org" target="_blank">video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0D3couFDPUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Read on to learn how I wrote custom firmware for this and other video-game inspired samplers. (And if you have a BAD IDEA #1800-CALL-YER-MUM module at home, you can <a href="https://github.com/hxlnt/1800" target="_blank">grab these firmwares on GitHub</a> for your own use.)
+Read on to learn how I wrote custom firmware for this and other video-game inspired samplers. (And if you have a BAD IDEA #1800-CALL-YER-MUM module at home, you can <a href="https://github.com/hxlnt/1800" target="_blank">grab this firmware on GitHub</a> for your own use.)
 
 </div>
     <div class="col-md-4">
@@ -64,18 +64,21 @@ The #1800 ships with firmware that mimics touchtone dialing, which feels right a
 On its own, a reflashable 12-piece drum kit in a 10 HP package is a terribly useful module. However, given my interest in using the sounds of girls' games and toys, I was keen to get my own samples loaded on the module. 
 
 </div>
-                          <div class="col-md-4">
+    <div class="col-md-4">
+        <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/reflash.png">
+<figcaption>Building custom firmware for the #1800</a></figcaption>
+</figure>
                           </div>
                       </div>
                   </div>
               </div>
-    <div class="row">
+<div class="row">
     <div class="col-md-3">
         <div class="row">
             <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
             </div>
             <div class="col-md-10">
-            <h2>Build a Casio Loopy drum kit</h2>
+            <h2>Building a Casio Loopy drum kit</h2>
             </div>
         </div>
     </div>
@@ -86,15 +89,12 @@ On its own, a reflashable 12-piece drum kit in a 10 HP package is a terribly use
 I knew the first firmware I wanted to create was for a drum kit based on the <a href="http://femicom.org/loopy" target="_blank">Casio Loopy</a>. This Japan-only, 32-bit video game console was marketed to girls and featured a built-in color sticker printer that allowed players to make customized stickers to trade with friends. Coincidentally, another pandemic hobby of mine had been exploring Casio Loopy emulation with engineer pal Phil Bennett. In 2021, <a href="http://femicom.org/research/emulating-the-casio-loopy-with-phil-bennett/" target="_blank">he successfully dumped the device's BIOS</a> and retrieved the audio samples used by game cartridges to create music and sound effects. I used his work to separate out the components of the drum kit, which could then be used in a sampler.
 
 </div>
-    <div class="col-md-4">
-        <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/reflash.png">
-<figcaption>Building custom firmware for the #1800</a></figcaption>
-</figure>
+                          <div class="col-md-4">
                           </div>
                       </div>
                   </div>
               </div>
-<div class="row">
+    <div class="row">
     <div class="col-md-3">
         <div class="row">
             <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
@@ -159,7 +159,7 @@ Once I had this process nailed down, it was hard for me to stop dreaming up new 
 
 To capture the Gyroid sounds, I placed all the percussive Gyroids in an otherwise quiet room of my in-game house and turned each one on, one at a time, while recording my gameplay footage.
 
-<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/gyroid.gif">
+<figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/gyroids.gif">
 <figcaption>All the percussive Gyroids were collected and placed in a quiet room before recording.</figcaption>
 </figure>
 
@@ -197,13 +197,14 @@ Moffenzeef provides vector files for the #1800's panel, which I was able to modi
 
 </div>
                           <div class="col-md-4">
-                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="loopymodule.jpg">
+                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/loopymodule.jpg">
 <figcaption>Loopy module with overlay</em></a></figcaption>
 </figure>
                           </div>
                       </div>
                   </div>
               </div>
+<div class="row">
     <div class="col-md-3">
         <div class="row">
             <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
