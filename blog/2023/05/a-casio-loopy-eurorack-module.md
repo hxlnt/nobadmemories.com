@@ -116,22 +116,7 @@ The <a href="https://github.com/moffenzeefmodular/1800#how-to-flash-firmware" ta
 2. Editing an `.ino` file to use these custom samples, and
 3. Compiling the `.ino` to a `.hex` file so that the firmware can be easily reflashed by drag-and-drop with the Teensy Loader Application.
 
-Fortunately, the provided `.cpp` source code gave me an idea of how to achieve the first step:
-
-```c
-// Audio data converted from WAV file by wav2sketch
-
-#include "AudioSampleClave.h"
-
-// Converted from CLAVE.WAV, using 44100 Hz, u-law encoding
-const unsigned int AudioSampleClave[1057] = {
-0x01001014,0x04020100,0x0B030804,0xF0E9DAB6,0xB5DFEAF0,0x6D6B6555,0xC053646B,0xFBF6F0E2,
-0xFCFFFFFE,0xD3E7F2F8,0x6C675E3F,0x5A656B6D,0xE9E1CF38,0xEEF1F1EF,0x52B9DCE7,0x76736F64,
-...
-}
-```
-
-The comments note that the audio sample was converted with something called *wav2sketch* using 44100 Hz <a href="https://en.wikipedia.org/wiki/%CE%9C-law_algorithm" target="_blank">u-law encoding</a>. I was able to track down the <a href="https://github.com/PaulStoffregen/Audio/tree/master/extras/wav2sketch" target="_blank">wav2sketch tool</a> tucked away in Paul Stoffregen's <a href="https://github.com/PaulStoffregen/Audio" target="_blank">Teensy Audio library</a>. The C or Javascript version can be used for the conversion, though I prefer the Javascript port. (I did have to comment out the line that reads `out += 'PROGMEM\n';` because such syntax is not supported in my older version of the Arduino IDE.) Converting my Casio Loopy `.wav` files with wav2sketch spit out `.cpp` and `.h` files in just the format I was expecting.
+Fortunately, the provided `.cpp` source code gave me an idea of how to achieve the first step. The comments note that the audio sample was converted with something called *wav2sketch* using 44100 Hz <a href="https://en.wikipedia.org/wiki/%CE%9C-law_algorithm" target="_blank">u-law encoding</a>. I was able to track down the <a href="https://github.com/PaulStoffregen/Audio/tree/master/extras/wav2sketch" target="_blank">wav2sketch tool</a> tucked away in Paul Stoffregen's <a href="https://github.com/PaulStoffregen/Audio" target="_blank">Teensy Audio library</a>. The C or Javascript version can be used for the conversion, though I prefer the Javascript port. (I did have to comment out the line that reads `out += 'PROGMEM\n';` because such syntax is not supported in my older version of the Arduino IDE.) Converting my Casio Loopy `.wav` files with wav2sketch spit out `.cpp` and `.h` files in just the format I was expecting.
 
 From there, the remaining steps were pretty easy: get the proper libraries installed, replicate an `.ino` that points to my custom samples, and have the Arduino IDE output a `.hex` binary. My Loopy drum kit worked on the first try. Hooray!
 
@@ -197,7 +182,7 @@ Moffenzeef provides vector files for the #1800's panel, which I was able to modi
 
 </div>
                           <div class="col-md-4">
-                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/loopymodule.jpg">
+                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="/img/loopymodule.JPG">
 <figcaption>Loopy module with overlay</em></a></figcaption>
 </figure>
                           </div>
