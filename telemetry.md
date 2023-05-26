@@ -18,6 +18,13 @@ reading:
       progress:
         - date: 2022-03-07
           percent: 100
+    - title: Atomic Habits
+      author: James Clear
+      year: 2018
+      category: 2022
+      progress:
+        - date: 2022-11-16
+          percent: 100   
     - title: Beyond Beautiful
       author: Anuschka Rees
       year: 2019
@@ -44,6 +51,15 @@ reading:
       progress:
         - date: 2022-03-09
           percent: 49
+    - title: A Coney Island of the Mind
+      author: Lawrence Ferlinghetti
+      year: 1958
+      category: 2022
+      progress:
+        - date: 2022-08-30
+          percent: 17
+        - date: 2022-08-31
+          percent: 32  
     - title: Critical Issues in Electronic Media
       author: Simon Penny
       year: 1995
@@ -101,6 +117,19 @@ reading:
           percent: 59
         - date: 2021-01-09
           percent: 100
+    - title: "Flash Forward: An Illustrated Guide to Possible (and Not So Possible) Tomorrows" 
+      author: Rose Eveleth
+      year: 2021
+      category: 2022
+      progress:
+        - date: 2022-10-11
+          percent: 100  
+    - title: "Force Fields: Phases of the Kinetic"
+      author: "Guy Brett, Teresa Grandas, and Mark Nash"
+      year: 2000
+      progress:
+        - date: 2022-08-12
+          percent: 5
     - title: How to Be an Artist
       author: Jerry Saltz
       year: 2020
@@ -194,12 +223,28 @@ reading:
     - title: On Confidence
       author: Alain de Botton
       year: 2018
-      category: 2022
       progress:
         - date: 2022-06-04
           percent: 10
         - date: 2022-06-05
           percent: 24
+        - date: 2022-06-13
+          percent: 59
+        - date: 2022-06-19
+          percent: 72
+        - date: 2022-09-03
+          percent: 86
+        - date: 2022-09-06
+          percent: 100 
+    - title: "Optical Art: Theory and Practice"
+      author: Rene Parola
+      year: 1969
+      category: 2023
+      progress:
+        - date: 2023-04-27 
+          percent: 9 
+        - date: 2023-04-30
+          percent: 15  
     - title: Order from Chaos
       author: Jaclyn Paul
       year: 2018
@@ -215,14 +260,27 @@ reading:
           percent: 15
         - date: 2021-10-05
           percent: 25
-        - date: 2021-05-11
+        - date: 2022-05-11
           percent: 100
     - title: Self-Knowledge
       author: The School of Life
       year: 2020
       progress:
         - date: 2022-06-04
-          percent: 100 
+          percent: 100
+    - title: Sign Painting
+      author: Mike Meyer
+      year: 2020
+      category: 2023
+      progress:
+        - date: 2023-04-16
+          percent: 2   
+        - date: 2023-04-17
+          percent: 11
+        - date: 2023-04-27
+          percent: 20  
+        - date: 2023-04-29
+          percent: 34  
     - title: Speculative Everything
       author: Anthony Dunne and Fiona Raby
       year: 2013
@@ -334,6 +392,32 @@ placesofinterest:
       citystate: Southwold, England
     - date: 2022-05-10
       citystate: London, England
+    - date: 2022-06-18
+      citystate: Dallas, Texas
+    - date: 2022-06-20
+      citystate: Bellevue, Washington
+    - date: 2022-06-21
+      citystate: Redmond, Washington
+    - date: 2022-06-22
+      citystate: Seattle, Washington 
+    - date: 2022-07-09
+      citystate: Corpus Christi, Texas
+    - date: 2022-07-30
+      citystate: Lakeway, Texas
+    - date: 2022-07-31
+      citystate: Dripping Springs, Texas
+    - date: 2022-08-29
+      citystate: Marfa, Texas
+    - date: 2022-08-30
+      citystate: Fort Davis, Texas
+    - date: 2022-09-01
+      citystate: Alpine, Texas
+    - date: 2022-09-23
+      citystate: Dallas, Texas
+    - date: 2022-10-01
+      citystate: Johnson City, Texas
+    - date: 2022-10-02
+      citystate: Blanco, Texas     
 walking:
   - date: 2021-01-01
     steps: 2474

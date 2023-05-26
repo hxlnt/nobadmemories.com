@@ -37,3 +37,9 @@ entries:
     answer: You can eat the leaves and the flowers.
     sources:
       - https://www.gardeningknowhow.com/ornamental/flowers/nasturtium/harvesting-edible-nasturtiums.htm
+  - date: 2022-08-12
+    question: What is styrax?
+    answer: A genus of shrubs known for producing benzoin resin used in perfume and incense.
+    image: https://upload.wikimedia.org/wikipedia/commons/2/2c/Styrax_platanifolius.jpg
+    sources:
+      - https://en.m.wikipedia.org/wiki/Styrax
