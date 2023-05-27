@@ -295,6 +295,13 @@ reading:
       progress:
         - date: 2021-09-17
           percent: 6
+    - title: You Will Find Your People
+      author: Lane Moore
+      year: 2023
+      category: 2023
+      progress:
+        - date: 2023-05-26
+          percent: 19 
 placesofinterest:
     - citystate: San Antonio, Texas
       date: 2021-03-05
