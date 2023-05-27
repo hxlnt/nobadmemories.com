@@ -24,6 +24,7 @@ intro: "Assorted writings are collected here in reverse chronological order."
         <div class="row">
             <div class="col-md-8">
 
+ - [A Casio Loopy Eurorack module](blog/2023/05/a-casio-loopy-eurorack-module/)
  - [PFFT: An evastars retrospective](blog/2023/03/pfft/)
 
 </div>
