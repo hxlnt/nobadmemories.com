@@ -281,6 +281,8 @@ reading:
           percent: 20  
         - date: 2023-04-29
           percent: 34  
+        - date: 2023-05-28
+          percent: 40  
     - title: Speculative Everything
       author: Anthony Dunne and Fiona Raby
       year: 2013
@@ -302,6 +304,8 @@ reading:
       progress:
         - date: 2023-05-26
           percent: 19 
+        - date: 2023-05-37
+          percent: 21  
 placesofinterest:
     - citystate: San Antonio, Texas
       date: 2021-03-05
