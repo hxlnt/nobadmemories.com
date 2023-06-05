@@ -306,6 +306,8 @@ reading:
           percent: 19 
         - date: 2023-05-37
           percent: 21  
+        - date: 2023-06-05
+          percent: 100  
 placesofinterest:
     - citystate: San Antonio, Texas
       date: 2021-03-05
