@@ -1,5 +1,5 @@
 ---
-tags: raecyclopedia
+tags: resources
 layout: resources.njk
 title: Studio → Resources → Music
 category: Music

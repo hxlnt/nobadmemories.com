@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
             <div class="col-md-10">
-                <h2>Categories
+                <h2>Art and design
                 </h2>
             </div>
         </div>
@@ -23,22 +23,43 @@
         <div class="row">
             <div class="col-md-8">
                 <ul>
-                    <li>Art and design
-                        <ul>
-                        {% for category in collections.resources | sort(attribute='url')%}
-                            {% if category.data.category == "Art and design" %}
-                                <li>
-                                    <a href="{{category.url}}">{{category.data.pagename}}</a>
-                                    ({{categorycount(category.data.pagename) | trim }})</li>
-                                {% if category.data.pagename == pagename %}
-                                    {{ category.url }}
-                                {% endif %}
+                    {% for category in collections.resources | sort(attribute='url')%}
+                        {% if category.data.category == "Art and design" %}
+                            <li>
+                                <a href="{{category.url}}">{{category.data.pagename}}</a>
+                                ({{categorycount(category.data.pagename) | trim }})</li>
+                            {% if category.data.pagename == pagename %}
+                                {{ category.url }}
                             {% endif %}
-                         {% endfor %}
-                        </ul>
-                    </li>
-                    <li>Coding
-                        <ul>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+            </div>
+            <div class="col-md-4">
+                <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
+                    <img src="https://walker-web.imgix.net/cms/DSC00453-fixed.JPG.jpeg?auto=format,compress&w=1920&h=1200&fit=crop&dpr=1.5">
+                    <figcaption>Tetracono (Bruno Munari, 1965)
+                        </figcaption>
+                </figure>
+
+            </div>
+        </div>
+    </div>
+</div>                    
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
+            <div class="col-md-10">
+                <h2>Coding
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                <ul>
                         {% for category in collections.resources | sort(attribute='url')%}
                             {% if category.data.category == "Coding" %}
                                 <li>
@@ -50,9 +71,26 @@
                             {% endif %}
                         {% endfor %}
                         </ul>
-                    </li>
-                    <li>Electronics
-                        <ul>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
+            <div class="col-md-10">
+                <h2>Electronics
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                <ul>                    
                         {% for category in collections.resources | sort(attribute='url')%}
                             {% if category.data.category == "Electronics" %}
                                 <li>
@@ -64,9 +102,26 @@
                             {% endif %}
                         {% endfor %}
                         </ul>
-                    </li>
-                    <li>Fabrication
-                        <ul>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
+            <div class="col-md-10">
+                <h2>Fabrication
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                <ul>     
                         {% for category in collections.resources | sort(attribute='url')%}
                             {% if category.data.category == "Fabrication" %}
                                 <li>
@@ -78,8 +133,25 @@
                             {% endif %}
                         {% endfor %}
                         </ul>
-                    </li>
-                    <li>Food
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
+            <div class="col-md-10">
+                <h2>Food
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">   
                         <ul>
                         {% for category in collections.resources | sort(attribute='url')%}
                             {% if category.data.category == "Food" %}
@@ -92,8 +164,25 @@
                             {% endif %}
                         {% endfor %}
                         </ul>
-                    </li>
-                    <li>Music
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
+            <div class="col-md-10">
+                <h2>Music
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">  
                         <ul>
                         {% for category in collections.resources | sort(attribute='url')%}    
                             {% if category.data.category == "Music" %}
@@ -106,9 +195,26 @@
                             {% endif %}
                         {% endfor %}
                         </ul>
-                    </li>
-                    <li>Play
-                        <ul>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
+            <div class="col-md-10">
+                <h2>Play
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
+                <ul>     
                         {% for category in collections.resources | sort(attribute='url')%}
                             {% if category.data.category == "Play" %}
                                 <li>
@@ -124,10 +230,9 @@
                 </ul>
             </div>
             <div class="col-md-4">
-                <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
-                    <img src="https://kobe-flowergreen.com/cmx40109/wp-content/uploads/2017/03/20170308-1030x773.jpg">
-                    <figcaption><a href="raecyclopedia/video-games">Video games</a>: What is the "flashy flower sign" item in
-                        <i>Animal Crossing: New Horizons?</i>
+                    <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
+                    <img src="https://img.atlasobscura.com/md66r59r-KTtDt_PGOhPGvh3BbA8kQsTXl9g5t_jIy4/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83MTViNmYyNGJi/NmY0MzIwMjNfUGhl/bmFraXN0b3Njb3Bl/XzNnMDc2OTBiLmdp/Zg.gif">
+                    <figcaption>A couple waltzing (Eadweard Muybridge, 1893)
                         </figcaption>
                 </figure>
 
