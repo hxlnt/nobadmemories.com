@@ -2,7 +2,7 @@
 intro: "<p><strong>Delete: A Design History of Computer Vapourware</strong><br><em>Posted Friday, January 29, 2016</em></p>"
 tags: blog
 layout: blog-index.njk
-title: Lab → Blog
+title: Studio → Blog
 posttitle: "Delete: A Design History of Computer Vapourware"
 date: 2016-01-29
 ---

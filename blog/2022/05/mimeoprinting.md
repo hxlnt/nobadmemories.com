@@ -1,7 +1,7 @@
 ---
 tags: blog
 layout: blog-index.njk
-title: Lab → Blog 
+title: Studio → Blog 
 date: 2022-05-18
 posttitle: "Mimeoprinting (Printmaking as play, part 2)"
 intro: "<p><strong>Mimeoprinting (Printmaking as play, part 2)</strong><br><em>Posted Wednesday, May 18, 2022</em></p>"

@@ -1,6 +1,6 @@
 ---
 layout: blog-index.njk
-title: Lab → Blog
+title: Studio → Blog
 intro: "Assorted writings are collected here in reverse chronological order."
 ---
 

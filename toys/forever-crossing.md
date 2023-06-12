@@ -1,5 +1,5 @@
 ---
 layout: wip.njk
-title: Lab → Screen toys → Forever Crossing
+title: Studio → Screen toys → Forever Crossing
 intro: Coming soon.
 ---

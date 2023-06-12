@@ -1,7 +1,7 @@
 ---
 tags: blog
 layout: blog-index.njk
-title: Lab → Blog 
+title: Studio → Blog 
 date: 2022-04-15
 posttitle: "Cleaning my workspace with WORMS"
 intro: "<p><strong>Cleaning my workspace with WORMS</strong><br><em>Posted Friday, April 15, 2022</em></p>"

@@ -1,7 +1,7 @@
 ---
 tags: blog
 layout: blog-index.njk
-title: Lab → Blog 
+title: Studio → Blog 
 date: 2021-01-09
 posttitle: "Hosting a mutual-aid fundraiser on Discord"
 intro: "<p><strong>Hosting a mutual-aid fundraiser on Discord</strong><br><em>Posted Friday, January 9, 2021</em></p>"

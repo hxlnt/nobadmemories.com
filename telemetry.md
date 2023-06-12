@@ -1,6 +1,6 @@
 ---
 layout: telemetry.njk
-title: Lab → Telemetry
+title: Studio → Telemetry
 date: Last Modified
 intro: I'm experimenting with different ways to track things.
 reading:

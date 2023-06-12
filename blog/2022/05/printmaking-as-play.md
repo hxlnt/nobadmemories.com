@@ -1,7 +1,7 @@
 ---
 tags: blog
 layout: blog-index.njk
-title: Lab → Blog 
+title: Studio → Blog 
 date: 2022-05-17
 posttitle: "Printmaking as play"
 intro: "<p><strong>Printmaking as play</strong><br><em>Posted Tuesday, May 17, 2022</em></p>"

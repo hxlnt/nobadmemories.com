@@ -1,7 +1,7 @@
 ---
 tags: blog
 layout: blog-index.njk
-title: Lab → Blog 
+title: Studio → Blog 
 date: 2023-05-26
 posttitle: "A Casio Loopy Eurorack module"
 intro: "<p><strong>A Casio Loopy Eurorack module</strong><br><em>Posted Thursday, May 26, 2023</em></p>"

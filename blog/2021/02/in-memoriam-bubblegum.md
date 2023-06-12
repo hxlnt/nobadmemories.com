@@ -1,7 +1,7 @@
 ---
 tags: blog
 layout: blog-index.njk
-title: Lab → Blog 
+title: Studio → Blog 
 date: 2021-02-11
 posttitle: "In memoriam: Bubblegum (200?-2021)"
 intro: "<p><strong>In memoriam: Bubblegum (200?-2021)</strong><br><em>Posted Thursday, February 11, 2021</em></p>"

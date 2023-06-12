@@ -1,5 +1,5 @@
 ---
 layout: wip.njk
-title: Lab → Screen toys → Dance
+title: Studio → Screen toys → Dance
 intro: Coming soon.
 ---
