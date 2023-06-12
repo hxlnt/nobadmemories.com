@@ -2,7 +2,7 @@
 
 {% macro categorycount(pagename) %}
     {% set count = 0 %}
-    {% for category in collections.raecyclopedia %}
+    {% for category in collections.resources %}
         {% if category.data.pagename == pagename %}
             {{ category.data.entries | length }}
         {% endif %}
@@ -25,100 +25,100 @@
                 <ul>
                     <li>Art and design
                         <ul>
-                        {% if category.data.category == "Art and design" %}
-                            {% for category in collections.resources | sort(attribute='url')%}
+                        {% for category in collections.resources | sort(attribute='url')%}
+                            {% if category.data.category == "Art and design" %}
                                 <li>
                                     <a href="{{category.url}}">{{category.data.pagename}}</a>
                                     ({{categorycount(category.data.pagename) | trim }})</li>
                                 {% if category.data.pagename == pagename %}
                                     {{ category.url }}
                                 {% endif %}
-                            {% endfor %}
-                        {% endif %}
+                            {% endif %}
+                         {% endfor %}
                         </ul>
                     </li>
                     <li>Coding
                         <ul>
-                        {% if category.data.category == "Coding" %}
-                            {% for category in collections.resources | sort(attribute='url')%}
+                        {% for category in collections.resources | sort(attribute='url')%}
+                            {% if category.data.category == "Coding" %}
                                 <li>
                                     <a href="{{category.url}}">{{category.data.pagename}}</a>
                                     ({{categorycount(category.data.pagename) | trim }})</li>
                                 {% if category.data.pagename == pagename %}
                                     {{ category.url }}
                                 {% endif %}
-                            {% endfor %}
-                        {% endif %}
+                            {% endif %}
+                        {% endfor %}
                         </ul>
                     </li>
                     <li>Electronics
                         <ul>
-                        {% if category.data.category == "Electronics" %}
-                            {% for category in collections.resources | sort(attribute='url')%}
+                        {% for category in collections.resources | sort(attribute='url')%}
+                            {% if category.data.category == "Electronics" %}
                                 <li>
                                     <a href="{{category.url}}">{{category.data.pagename}}</a>
                                     ({{categorycount(category.data.pagename) | trim }})</li>
                                 {% if category.data.pagename == pagename %}
                                     {{ category.url }}
                                 {% endif %}
-                            {% endfor %}
-                        {% endif %}
+                            {% endif %}
+                        {% endfor %}
                         </ul>
                     </li>
                     <li>Fabrication
                         <ul>
-                        {% if category.data.category == "Fabrication" %}
-                            {% for category in collections.resources | sort(attribute='url')%}
+                        {% for category in collections.resources | sort(attribute='url')%}
+                            {% if category.data.category == "Fabrication" %}
                                 <li>
                                     <a href="{{category.url}}">{{category.data.pagename}}</a>
                                     ({{categorycount(category.data.pagename) | trim }})</li>
                                 {% if category.data.pagename == pagename %}
                                     {{ category.url }}
                                 {% endif %}
-                            {% endfor %}
-                        {% endif %}
+                            {% endif %}
+                        {% endfor %}
                         </ul>
                     </li>
                     <li>Food
                         <ul>
-                        {% if category.data.category == "Food" %}
-                            {% for category in collections.resources | sort(attribute='url')%}
+                        {% for category in collections.resources | sort(attribute='url')%}
+                            {% if category.data.category == "Food" %}
                                 <li>
                                     <a href="{{category.url}}">{{category.data.pagename}}</a>
                                     ({{categorycount(category.data.pagename) | trim }})</li>
                                 {% if category.data.pagename == pagename %}
                                     {{ category.url }}
                                 {% endif %}
-                            {% endfor %}
-                        {% endif %}
+                            {% endif %}
+                        {% endfor %}
                         </ul>
                     </li>
                     <li>Music
                         <ul>
-                        {% if category.data.category == "Music" %}
-                            {% for category in collections.resources | sort(attribute='url')%}
+                        {% for category in collections.resources | sort(attribute='url')%}    
+                            {% if category.data.category == "Music" %}
                                 <li>
                                     <a href="{{category.url}}">{{category.data.pagename}}</a>
                                     ({{categorycount(category.data.pagename) | trim }})</li>
                                 {% if category.data.pagename == pagename %}
                                     {{ category.url }}
                                 {% endif %}
-                            {% endfor %}
-                        {% endif %}
+                            {% endif %}
+                        {% endfor %}
                         </ul>
                     </li>
                     <li>Play
                         <ul>
-                        {% if category.data.category == "Play" %}
-                            {% for category in collections.resources | sort(attribute='url')%}
+                        {% for category in collections.resources | sort(attribute='url')%}
+                            {% if category.data.category == "Play" %}
                                 <li>
                                     <a href="{{category.url}}">{{category.data.pagename}}</a>
                                     ({{categorycount(category.data.pagename) | trim }})</li>
                                 {% if category.data.pagename == pagename %}
                                     {{ category.url }}
                                 {% endif %}
-                            {% endfor %}
-                        {% endif %}
+                            {% endif %}
+                        {% endfor %}
                         </ul>
                     </li>
                 </ul>
