@@ -1,11 +1,11 @@
 ---
 tags: resources
 layout: resources.njk
-title: Studio → Resources → Music
+title: Studio → Resources → Music → MIDI
 category: Music
-intro: MIDI
+intro: A collection of bookmarks related to MIDI instruments and the MIDI protocol.
 pagename: MIDI
-entries:
+externalentries:
   - name: "General MIDI percussion key map"
     url: https://musescore.org/sites/musescore.org/files/General%20MIDI%20Standard%20Percussion%20Set%20Key%20Map.pdf
   - name: "MIDI DIN electrical specification"

@@ -1,11 +1,11 @@
 ---
 tags: resources
 layout: resources.njk
-title: Studio → Resources → Play
+title: Studio → Resources → Play → Toys
 category: Play
-intro: Toys
+intro: A collection of bookmarks related to toys.
 pagename: Toys
-entries:
+externalentries:
   - name: "The forgotten kaleidoscope craze in Victorian England"
     url: https://www.atlasobscura.com/articles/the-forgotten-kaleidoscope-craze-in-victorian-england
   - name: "Reverse engineering a Hit Clip"
