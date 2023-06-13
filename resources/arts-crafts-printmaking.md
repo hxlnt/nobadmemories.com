@@ -13,6 +13,8 @@ myentries:
 externalentries:
   - name: "Bind your own books and zines"
     url: https://itrydiy.me/2014/10/bind-your-own-books-and-zines/
+  - name: "Mimeograph Revival"
+    url: https://www.mimeographrevival.com/
   - name: "Printmaking essentials: Carve and print your own woodblock"
     url: https://crafts.tutsplus.com/printmaking-essentials-carve-and-print-your-own-woodblock--craft-5477t
   - name: "Safe printing (in fine art)"
