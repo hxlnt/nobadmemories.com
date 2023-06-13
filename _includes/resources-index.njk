@@ -4,7 +4,7 @@
     {% set count = 0 %}
     {% for category in collections.resources %}
         {% if category.data.pagename == pagename %}
-            {{ category.data.entries | length }}
+            {{ category.data.myentries | length + category.data.externalentries | length }}
         {% endif %}
     {% endfor %}
 {% endmacro %}
@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
             <div class="col-md-10">
-                <h2>Art and design
+                <h2>Arts and crafts
                 </h2>
             </div>
         </div>
@@ -24,7 +24,7 @@
             <div class="col-md-8">
                 <ul>
                     {% for category in collections.resources | sort(attribute='url')%}
-                        {% if category.data.category == "Art and design" %}
+                        {% if category.data.category == "Arts and crafts" %}
                             <li>
                                 <a href="{{category.url}}">{{category.data.pagename}}</a>
                                 ({{categorycount(category.data.pagename) | trim }})</li>
@@ -73,6 +73,12 @@
                         </ul>
             </div>
             <div class="col-md-4">
+                <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
+                    <img src="https://github.com/hxlnt/astrocade/raw/master/etc/bally.png">
+                    <figcaption>Bally Astrocade (Rachel Simone Weil, 2017)
+                        </figcaption>
+                </figure>
+                
             </div>
         </div>
     </div>
@@ -93,37 +99,6 @@
                 <ul>                    
                         {% for category in collections.resources | sort(attribute='url')%}
                             {% if category.data.category == "Electronics" %}
-                                <li>
-                                    <a href="{{category.url}}">{{category.data.pagename}}</a>
-                                    ({{categorycount(category.data.pagename) | trim }})</li>
-                                {% if category.data.pagename == pagename %}
-                                    {{ category.url }}
-                                {% endif %}
-                            {% endif %}
-                        {% endfor %}
-                        </ul>
-            </div>
-            <div class="col-md-4">
-            </div>
-        </div>
-    </div>
-</div>
-<div class="row">
-    <div class="col-md-3">
-        <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
-            <div class="col-md-10">
-                <h2>Fabrication
-                </h2>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-9">
-        <div class="row">
-            <div class="col-md-8">
-                <ul>     
-                        {% for category in collections.resources | sort(attribute='url')%}
-                            {% if category.data.category == "Fabrication" %}
                                 <li>
                                     <a href="{{category.url}}">{{category.data.pagename}}</a>
                                     ({{categorycount(category.data.pagename) | trim }})</li>

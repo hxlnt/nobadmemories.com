@@ -3,8 +3,8 @@ tags: resources
 layout: resources.njk
 title: Studio → Resources → Electronics
 category: Electronics
-intro: Protocols and specs
-pagename: Protocols and specs
+intro: Protocols
+pagename: Protocols
 entries:
   - name: "General MIDI percussion key map"
     url: https://musescore.org/sites/musescore.org/files/General%20MIDI%20Standard%20Percussion%20Set%20Key%20Map.pdf

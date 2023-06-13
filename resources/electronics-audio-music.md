@@ -1,11 +1,11 @@
 ---
 tags: resources
 layout: resources.njk
-title: Studio → Resources → Electronics
+title: Studio → Resources → Electronics → Audio and music
 category: Electronics
-intro: Audio and music
+intro: A collection of bookmarks related to audio electronics such as DIY synths and circuit bending.
 pagename: Audio and music
-entries:
+externalentries:
   - name: "General MIDI percussion key map"
     url: https://musescore.org/sites/musescore.org/files/General%20MIDI%20Standard%20Percussion%20Set%20Key%20Map.pdf
   - name: "MIDI DIN electrical specification"

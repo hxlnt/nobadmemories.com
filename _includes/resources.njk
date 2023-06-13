@@ -1,12 +1,13 @@
 {% include "partials/header.njk" %}
 
-{% macro category(pagename) %}
+{# {% macro category(pagename) %} #}
+{% if myentries | length %}
 <div class="row">
     <div class="col-md-3">
         <div class="row">
             <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
             <div class="col-md-10">
-                    <h2>{{ pagename }}</h2><br>
+                    <h2>My resources</h2><br>
             </div>
         </div>
         </div>
@@ -14,7 +15,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <ul>
-                    {% for item in entries %}
+                    {% for item in myentries %}
                         <li><a href="{{ item.url }}" target="_blank">{{ item.name | safe }}</a></li>
                     {% endfor %}  
                     </ul>
@@ -24,28 +25,35 @@
         </div>
     </div>
 </div>
-{% endmacro %}
+{% endif %}
 
-{{ category(pagename)}}
+{% if externalentries | length %}
+<div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div>
+            <div class="col-md-10">
+                    <h2>External resources</h2><br>
+            </div>
+        </div>
+        </div>
+        <div class="col-md-9">
+            <div class="row">
+                <div class="col-md-8">
+                    <ul>
+                    {% for item in externalentries %}
+                        <li><a href="{{ item.url }}" target="_blank">{{ item.name | safe }}</a></li>
+                    {% endfor %}  
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                </div>
+        </div>
+    </div>
+</div>
+{% endif %}
+{# {% endmacro %}
 
-<script>
-var coll = document.getElementsByClassName("question");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function () {
-        this
-            .classList
-            .toggle("active");
-        this.style.display = "none";
-        var content = this.nextElementSibling;
-        if (content.style.display === "inline") {
-            content.style.display = "none";
-        } else {
-            content.style.display = "inline";
-        }
-    });
-}
-</script>
+{{ category(pagename)}} #}
 
 {% include "partials/footer.njk" %}
