@@ -8,6 +8,8 @@ pagename: Hacking and reverse engineering
 externalentries:
   - name: "Making a Mellotron from a cassette player"
     url: https://schollz.com/tinker/tape-synth/
+  - name: "PS/2 keyboard interface"
+    url: http://www.pyroelectro.com/tutorials/ps2_keyboard_interface/  
   - name: "Raspberry Pi as MIDI to CV device"
     url: https://schollz.com/tinker/pi-monotron/
   - name: "Reverse engineering a Hit Clip"
