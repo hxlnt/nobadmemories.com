@@ -18,6 +18,13 @@ reading:
       progress:
         - date: 2022-03-07
           percent: 100
+    - title: The Art of Light & Color
+      author: Tom Douglas Jones
+      year: 1972
+      category: 2023
+      progress:
+        - date: 2023-09-04
+          percent: 16   
     - title: Atomic Habits
       author: James Clear
       year: 2018
