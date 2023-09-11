@@ -25,6 +25,8 @@ reading:
       progress:
         - date: 2023-09-04
           percent: 16   
+        - date: 2023-09-05
+          percent: 100  
     - title: Atomic Habits
       author: James Clear
       year: 2018
@@ -67,6 +69,13 @@ reading:
           percent: 17
         - date: 2022-08-31
           percent: 32  
+    - title: The Creative Way to Paint
+      author: David Friend
+      year: 1966
+      category: 2023
+      progress:
+        - date: 2023-09-11
+          percent: 13   
     - title: Critical Issues in Electronic Media
       author: Simon Penny
       year: 1995
