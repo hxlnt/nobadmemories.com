@@ -78,6 +78,13 @@ reading:
           percent: 13   
         - date: 2023-09-15
           percent: 21
+    - title: Cribsheet
+      author: Emily Oster
+      year: 2019
+      category: 2023
+      progress:
+        - date: 2023-11-25
+          percent: 23   
     - title: Critical Issues in Electronic Media
       author: Simon Penny
       year: 1995
