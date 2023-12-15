@@ -91,6 +91,8 @@ reading:
           percent: 25   
         - date: 2023-12-14
           percent: 40  
+        - date: 2023-12-15
+          percent: 51  
     - title: Critical Issues in Electronic Media
       author: Simon Penny
       year: 1995
