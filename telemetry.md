@@ -81,7 +81,7 @@ reading:
     - title: Cribsheet
       author: Emily Oster
       year: 2019
-      category: 2023
+      category: 2024
       progress:
         - date: 2023-11-25
           percent: 23   
@@ -321,7 +321,14 @@ reading:
         - date: 2023-04-29
           percent: 34  
         - date: 2023-05-28
-          percent: 40  
+          percent: 40
+    - title: Simplicity Parenting
+      author: Kim John Payne
+      year: 2009
+      category: 2024
+      progress:
+        - date: 2024-01-10
+          percent: 2   
     - title: Speculative Everything
       author: Anthony Dunne and Fiona Raby
       year: 2013
