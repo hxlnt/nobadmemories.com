@@ -329,6 +329,8 @@ reading:
       progress:
         - date: 2024-01-10
           percent: 12
+        - date: 2024-01-12
+          percent: 16  
     - title: Speculative Everything
       author: Anthony Dunne and Fiona Raby
       year: 2013
