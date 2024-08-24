@@ -72,7 +72,7 @@ reading:
     - title: The Creative Way to Paint
       author: David Friend
       year: 1966
-      category: 2023
+      category: abandoned
       progress:
         - date: 2023-09-11
           percent: 13   
@@ -301,6 +301,13 @@ reading:
           percent: 25
         - date: 2022-05-11
           percent: 100
+    - title: Practical Hardware Pentesting
+      author: Jean-Georges Valle
+      year: 2021
+      category: 2024
+      progress:
+        - date: 2022-08-24
+          percent: 3
     - title: Self-Knowledge
       author: The School of Life
       year: 2020
@@ -310,7 +317,7 @@ reading:
     - title: Sign Painting
       author: Mike Meyer
       year: 2020
-      category: 2023
+      category: abandoned
       progress:
         - date: 2023-04-16
           percent: 2   
@@ -341,7 +348,7 @@ reading:
     - title: Would You Rather?
       author: Katie Heaney
       year: 2018
-      category: 2021
+      category: abandoned
       progress:
         - date: 2021-09-17
           percent: 6
