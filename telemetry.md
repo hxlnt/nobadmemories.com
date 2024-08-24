@@ -306,8 +306,10 @@ reading:
       year: 2021
       category: 2024
       progress:
-        - date: 2022-08-24
+        - date: 2024-08-23
           percent: 3
+        - date: 2024-08-24
+          percent: 11
     - title: Self-Knowledge
       author: The School of Life
       year: 2020
