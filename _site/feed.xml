@@ -2,19 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>No Bad Memories</title>
   <subtitle>Rachel Simone Weil&#39;s blog and work spanning video art, glitch, homebrew development, electronics, and computing history</subtitle>
-  <link href="https://nobadmemories.com/feed.xml" rel="self"/>
-  <link href="https://nobadmemories.com/"/>
-  <updated>2022-05-18T00:00:00Z</updated>
-  <id>https://nobadmemories.com/</id>
+  <link href="https://www.nobadmemories.com/feed.xml" rel="self"/>
+  <link href="https://www.nobadmemories.com/"/>
+  <updated>2025-11-04T00:00:00Z</updated>
+  <id>https://www.nobadmemories.com/</id>
   <author>
     <name>Rachel Simone Weil</name>
   </author>
   
   <entry>
+    <title>Delete: A Design History of Computer Vapourware</title>
+    <link href="https://www.nobadmemories.com/blog/2016/01/delete-a-design-history-of-computer-vapourware/"/>
+    <updated>2016-01-29T00:00:00Z</updated>
+    <id>https://www.nobadmemories.com/blog/2016/01/delete-a-design-history-of-computer-vapourware/</id>
+    <content type="html">&lt;p&gt;I recently had the opportunity to review Paul Atkinson’s book &lt;em&gt;&lt;a href=&quot;http://www.amazon.com/Delete-Design-History-Computer-Vapourware/dp/0857853473/ref=asap_bc?ie=UTF&quot;&gt;Delete: A Design History of Computer Vapourware&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://hxlntblob.blob.core.windows.net/nbm/delete.jpg&quot; /&gt;
+&lt;figcaption&gt;Delete: A Design History of Computer Vapourware&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;em&gt;Delete&lt;/em&gt; is highly recommended for those interested in computer hardware design or retrocomputing. The volume is packed with gorgeous images of computers that were announced but never commercially produced. Atkinson’s interviews with the designers and executives closest to these unrealized products are fascinating.&lt;/p&gt;
+&lt;p&gt;My in-depth review of &lt;em&gt;Delete&lt;/em&gt; can be found in the latest issue of &lt;em&gt;Design and Culture&lt;/em&gt;. The &lt;a href=&quot;http://www.tandfonline.com/doi/pdf/10.1080/17547075.2015.1051846&quot;&gt;PDF&lt;/a&gt; is available for free online. You can also &lt;a href=&quot;https://www.flickr.com/photos/9574086@N02/collections/72157608812198325/&quot;&gt;browse the photo collection&lt;/a&gt; of former Sinclair Research designer Rick Dickinson, who worked on a number of the unrealized products chronicled in &lt;em&gt;Delete&lt;/em&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>Hosting a mutual-aid fundraiser on Discord</title>
-    <link href="https://nobadmemories.com/blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/"/>
+    <link href="https://www.nobadmemories.com/blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/"/>
     <updated>2021-01-09T00:00:00Z</updated>
-    <id>https://nobadmemories.com/blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/</id>
+    <id>https://www.nobadmemories.com/blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/</id>
     <content type="html">&lt;p&gt;In November of 2020, the boxes began to really stack up. A few by the hallway, then a looming tower near the kitchen. Spurred by months of COVID-19-induced isolation at home, I&#39;d put myself on a mission to finally go through all my possessions and throw or give away what was no longer needed. Around the same time, my thoughts turned to making a charitable donation. Given the difficult circumstances 2020 brought, I wanted to be thoughtful about making a positive impact.&lt;/p&gt;
 &lt;p&gt;One thought led to another, and eventually I came up with the idea to host an online silent auction/garage sale to raise money for a good cause. I had four main objectives for the silent auction:&lt;/p&gt;
 &lt;ul&gt;
@@ -27,7 +41,7 @@
 &lt;p&gt;The event ran for two weeks in December and raised $1,646. Now that I&#39;ve had a few weeks to reflect on it, I&#39;m sharing a bit of a post-mortem on the event in case it&#39;s useful for others wanting to undertake something similar.&lt;/p&gt;
 
                           &lt;div class=&quot;col-md-4&quot;&gt;
-                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/internet.png&quot; /&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/internet.png&quot; /&gt;
 &lt;figcaption&gt;How much would you pay for &lt;em&gt;the Internet?&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
                           &lt;/div&gt;
@@ -53,10 +67,10 @@
 &lt;p&gt;&lt;strong&gt;Sorted through my items.&lt;/strong&gt; I went through the boxes and found &lt;em&gt;the fun stuff:&lt;/em&gt; instruments, movies, etc. Other items were taken to mutual aid centers or Goodwill.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Set up a Discord server.&lt;/strong&gt; This was pretty easy to figure out on my own, but there is also &lt;a href=&quot;https://nobadmemories.com/blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/#resources&quot;&gt;a guide to setting up a Discord server&lt;/a&gt;. I created four top-level channels: &lt;code&gt;#👋・welcome&lt;/code&gt;, &lt;code&gt;#📢・rules&lt;/code&gt;,  &lt;code&gt;#⛲・wishing-well&lt;/code&gt;, and &lt;code&gt;#☕・chat&lt;/code&gt;. I also created a channel category called &amp;quot;Auction items.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Set up a Discord server.&lt;/strong&gt; This was pretty easy to figure out on my own, but there is also &lt;a href=&quot;https://www.nobadmemories.com/blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/#resources&quot;&gt;a guide to setting up a Discord server&lt;/a&gt;. I created four top-level channels: &lt;code&gt;#👋・welcome&lt;/code&gt;, &lt;code&gt;#📢・rules&lt;/code&gt;,  &lt;code&gt;#⛲・wishing-well&lt;/code&gt;, and &lt;code&gt;#☕・chat&lt;/code&gt;. I also created a channel category called &amp;quot;Auction items.&amp;quot;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Decided on and posted auction rules.&lt;/strong&gt; The auction would work like eBay, complete with a minimum starting bid (usually $1). Participants would post a dollar amount in the corresponding items&#39; channel to make a bid. After two weeks, bidding would close, and all money raised would go to the charitable organization. Additionally, I pledged to match every bid dollar for dollar. Anyone wanting to donate money without bidding on items could post dollar amounts to the &lt;code&gt;#⛲・wishing-well&lt;/code&gt; channel, where I also matched donation amounts 1-for-1. (You can read the complete rules &lt;a href=&quot;https://nobadmemories.com/blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/#resources&quot;&gt;here&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Decided on and posted auction rules.&lt;/strong&gt; The auction would work like eBay, complete with a minimum starting bid (usually $1). Participants would post a dollar amount in the corresponding items&#39; channel to make a bid. After two weeks, bidding would close, and all money raised would go to the charitable organization. Additionally, I pledged to match every bid dollar for dollar. Anyone wanting to donate money without bidding on items could post dollar amounts to the &lt;code&gt;#⛲・wishing-well&lt;/code&gt; channel, where I also matched donation amounts 1-for-1. (You can read the complete rules &lt;a href=&quot;https://www.nobadmemories.com/blog/2021/01/retrospective-hosting-a-mutual-aid-fundraiser-on-discord/#resources&quot;&gt;here&lt;/a&gt;.)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Grouped items into thematic bundles.&lt;/strong&gt; Instead of having participants bid on single items, I grouped them into themed bundles. A bass guitar was paired with an amplifier and live music DVD to form a &amp;quot;rock bundle.&amp;quot; A pile of 15 mystery LPs was billed as a &amp;quot;crate-digger bundle.&amp;quot; Each bundle got its own channel in the &amp;quot;Auction items&amp;quot; category where participants would post bids.&lt;/p&gt;
@@ -65,7 +79,7 @@
 &lt;p&gt;&lt;strong&gt;Added descriptions to bundle channels&lt;/strong&gt; In each bundle channel, I posted photographs of the items, a description, and the minimum starting bid.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/cooking.png&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/cooking.png&quot; /&gt;
 &lt;figcaption&gt;Photograph of spoon rest and brownies in the cooking bundle, which also included a collection of cookbooks.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;ol start=&quot;6&quot;&gt;
@@ -84,7 +98,7 @@
 &lt;/ol&gt;
 &lt;/div&gt;
                           &lt;div class=&quot;col-md-4&quot;&gt;
-                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/channels.png&quot; /&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/channels.png&quot; /&gt;
 &lt;figcaption&gt;Screenshot of Discord channel listing&lt;/figcaption&gt;
 &lt;/figure&gt;
                           &lt;/div&gt;
@@ -153,9 +167,9 @@
   
   <entry>
     <title>In memoriam: Bubblegum (200?-2021)</title>
-    <link href="https://nobadmemories.com/blog/2021/02/in-memoriam-bubblegum/"/>
+    <link href="https://www.nobadmemories.com/blog/2021/02/in-memoriam-bubblegum/"/>
     <updated>2021-02-11T00:00:00Z</updated>
-    <id>https://nobadmemories.com/blog/2021/02/in-memoriam-bubblegum/</id>
+    <id>https://www.nobadmemories.com/blog/2021/02/in-memoriam-bubblegum/</id>
     <content type="html">&lt;p&gt;We lost a very good boy today: Bubblegum passed away due this afternoon after experiencing heart problems, but essentially, of old age.&lt;/p&gt;
 &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/bubblegum-pillow.jpg&quot; /&gt;
 &lt;figcaption&gt;Bubblegum had to wear this neck pillow once to keep from scratching, and much to my surprise, he loved having a pillow that went wherever he did.&lt;/figcaption&gt;
@@ -163,16 +177,16 @@
 &lt;p&gt;Bubblegum was a pit bull adopted in 2014, a few days before I began teaching at the University of Texas. We don&#39;t know much about his life before then except that it was rough. He had bullet wounds and broken teeth when he was rescued from a kill shelter in Bastrop. (Shout out to &lt;a href=&quot;https://austindog.org/&quot; target=&quot;_blank&quot;&gt;Austin Dog Rescue&lt;/a&gt; for taking him in!)&lt;/p&gt;
 &lt;p&gt;He quickly adapted to a more pampered life and reveled in getting as much affection as possible. Everyone who met him got to witness this: he frequently head-butted his way into head rubs and wasn&#39;t shy about nestling his entire 70-pound self into new friends&#39; laps. And, of course, his patented move was circling in front of someone while whipping his tail furiously, a maneuveur I came to call the &amp;quot;waggin&#39; wheel.&amp;quot; He wagged that tail every day, up unti the very end.&lt;/p&gt;
 &lt;p&gt;We&#39;re going to miss you, buddy. RIP.&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/blorp.jpg&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/blorp.jpg&quot; /&gt;
 &lt;figcaption&gt;Bubblegum had exactly two moods: Blorpin&#39; (shown here) and waggin&#39;.&lt;/figcaption&gt;
 &lt;/figure&gt;</content>
   </entry>
   
   <entry>
     <title>Cleaning my workspace with WORMS</title>
-    <link href="https://nobadmemories.com/blog/2022/04/worms/"/>
+    <link href="https://www.nobadmemories.com/blog/2022/04/worms/"/>
     <updated>2022-04-15T00:00:00Z</updated>
-    <id>https://nobadmemories.com/blog/2022/04/worms/</id>
+    <id>https://www.nobadmemories.com/blog/2022/04/worms/</id>
     <content type="html">&lt;p&gt;The studio where I do art and electronics projects tends to get very messy very quickly. When I&#39;m working on something, my focus is dialed up to 11, and I avoid anything that might distract me or take me out of the moment. That means scraps fall to the floor, tape remnants get stuck to the arm of my chair, coffee cups pile around, and supplies and tools are abandoned on the nearest surface.&lt;/p&gt;
 &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/worms.jpg&quot; /&gt;
 &lt;figcaption&gt;What does this have to do with WORMS, though?&lt;/figcaption&gt;
@@ -195,9 +209,9 @@
   
   <entry>
     <title>Printmaking as play</title>
-    <link href="https://nobadmemories.com/blog/2022/05/printmaking-as-play/"/>
+    <link href="https://www.nobadmemories.com/blog/2022/05/printmaking-as-play/"/>
     <updated>2022-05-17T00:00:00Z</updated>
-    <id>https://nobadmemories.com/blog/2022/05/printmaking-as-play/</id>
+    <id>https://www.nobadmemories.com/blog/2022/05/printmaking-as-play/</id>
     <content type="html">&lt;p&gt;As you might know from my past research on the sticker-printing &lt;a href=&quot;http://www.femicom.org/collection/loopy/&quot;&gt;Casio Loopy game console&lt;/a&gt; and &lt;a href=&quot;http://www.femicom.org/research/jesyca-durchin-on-the-making-of-barbie-fashion-designer/&quot;&gt;Barbie Fashion Designer&lt;/a&gt;, I have a special interest in games and toys that incorporate printing or image making as a play mechanic.&lt;/p&gt;
 &lt;p&gt;Printmaking toys make creation immediate, convenient, and playful, often at the expense of the quality, quantity, permanence, or general perceived value of the resulting image. Toys require neither prerequisite training nor access to specialty facilities.&lt;/p&gt;
 &lt;p&gt;For me, these are benefits printmaking toys have over their &amp;quot;real&amp;quot; counterparts. Like Sadie Benning with the Fisher-Price Pixelvision camera or &lt;a href=&quot;https://www.nullsleep.com/&quot;&gt;Nullsleep&lt;/a&gt; with the Nintendo Game Boy, I&#39;m drawn to the use of post-consumer toys to achieve activist, countercultural, and recuperative ends.&lt;/p&gt;
@@ -232,7 +246,7 @@
 &lt;p&gt;Seeing my interest in the device, my partner very thoughtfully gifted me a complete Print Gocco set from eBay, which I promptly... stored away for years. After all, the consumables are getting so hard to find! It&#39;s &lt;em&gt;collectible!&lt;/em&gt; It wasn&#39;t until I saw a second Print Gocco at a local resale shop a few months ago that I was inspired to pull mine out of its unnecessary retirement and put it to use.&lt;/p&gt;
 &lt;p&gt;The Print Gocco is very easy to use, relatively tidy, and produces acceptable, if not quirky, color prints. The device is also compact and portable, powered only by two AA batteries. Unlike the time-intensive process of making silkscreen masters with photosensitive emulsions, UV lamps, and so on, Print Gocco master production is fast, mess-free, and can be made from a simple black-and-white photocopy on plain paper.&lt;/p&gt;
 &lt;p&gt;These are two prints from my first use of the Print Gocco, featuring a lovely illustration made for me by &lt;a href=&quot;https://twitter.com/elloradatura&quot; target=&quot;_blank&quot;&gt;Gabrielle Genevieve&lt;/a&gt;. All colors were imprinted in a single pass, made possible by the fact that the inks have a firm consistency and are resistant to blending when pressed.&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/goccoprints.jpg&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/goccoprints.jpg&quot; /&gt;
 &lt;figcaption&gt;In retrospect, coloring the telephone yellow wasn&#39;t a good choice.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;This image was a challenge for the Print Gocco: there is considerable smudging (top) and veining (top right, bottom left) due to some overinking and the print density of the image.&lt;/p&gt;
@@ -247,7 +261,7 @@
 &lt;p&gt;So, could we improve on the Print Gocco?&lt;/p&gt;
 &lt;/div&gt;
                           &lt;div class=&quot;col-md-4&quot;&gt;
-                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/gocco.gif&quot; /&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/gocco.gif&quot; /&gt;
 &lt;figcaption&gt;Scene from a &lt;a href=&quot;https://www.youtube.com/watch?v=4MpfsoYIQJI&quot; target=&quot;_blank&quot;&gt;Print Gocco instructional VHS tape&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
                           &lt;/div&gt;
@@ -274,7 +288,7 @@
 &lt;p&gt;While I do question some of the aesthetic romanticization of the Risograph, I am admittedly drawn to the look of Risograph prints, too. The bright, lightly-speckled ink on newsprint-like paper reminded me of... &lt;em&gt;something&lt;/em&gt;. The Barbie comic books I read as a child, maybe?&lt;/p&gt;
 &lt;p&gt;I took a Risograph workshop offered at a local university a few years ago and appreciated how quick and easy the process was compared to letterpress and screenprinting. I came home inspired, wondering how I could do more Risograph printing. Turns out: I couldn&#39;t. Not easily, at least.&lt;/p&gt;
 &lt;p&gt;Risograph machines aren&#39;t as ubiquitous as copy machines or digital press services. Where I live, there are only a handful of Risograph machines owned by universities and artist collectives, none of which offer Risograph printing to the public. I briefly had the idea to get together enough money to purchase a Risograph machine that could be made available in a local artspace as a community resource, but after I reached out to a licensed Riso dealer, the company &lt;em&gt;literally sent two men in suits to my home&lt;/em&gt; to size me up and determine whether I was a &amp;quot;legitimate buyer.&amp;quot;&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/risoemail.jpg&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/risoemail.jpg&quot; /&gt;
 &lt;figcaption&gt;I suspect a good deal of revenue comes from recurring service contracts.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Upon realizing I was not a commercial operation, they recommended some inkjet printers instead, declined to tell me how much a Risograph machine might cost, and finally stopped responding to my emails altogether.&lt;/p&gt;
@@ -321,13 +335,13 @@
             &lt;div class=&quot;col-md-8&quot;&gt;
 &lt;p&gt;However, once I started researching the technical details behind the Print Gocco&#39;s functionality, I learned that the flashbulbs weren&#39;t originally used as a source of light in the device but as a source of &lt;em&gt;heat.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The Print Gocco master is comprised of a thin paper sandwiched into a cardboard frame. One side of the paper is coated with a thermoplastic layer that is selectively melted away when the flashbulbs fire: Heat radiates from the carbon in the original image&#39;s photocopy toner and melts away the image portion.&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/risomaster.jpg&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/risomaster.jpg&quot; /&gt;
 &lt;figcaption&gt;A Print Gocco master after being developed&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;I also learned that Risograph machines work on the same principle. Instead of using carboard frames that are pressed onto paper one at a time, the master material is wound on to a large roll inside the machine. A digital image is &amp;quot;printed&amp;quot; on the master material by a thermal head. An ink drum inks the uncoated side of the master, and paper is fed through rapidly, picking up the inked image as it rolls by.&lt;/p&gt;
 &lt;/div&gt;
                           &lt;div class=&quot;col-md-4&quot;&gt;
-                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/burst.png&quot; /&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/burst.png&quot; /&gt;
 &lt;figcaption&gt;The burst of &lt;s&gt;light&lt;/s&gt; heat created by flashbulbs inside the Print Gocco develops the master stencil.&lt;/figcaption&gt;
 &lt;/figure&gt;
                           &lt;/div&gt;
@@ -349,7 +363,7 @@
             &lt;div class=&quot;col-md-8&quot;&gt;
 &lt;p&gt;Most modern shipping label and receipt printers are thermal printers: they create an image on thermal paper rolls or stickers by selectively heating the top layer of white, revealing the black &amp;quot;ink&amp;quot; underneath. It was a &lt;em&gt;big&lt;/em&gt; hunch, but I figured I might be able to feed a small piece of Risograph master paper into a thermal printer to develop it. In this way, I could theoretically create DIY Print Gocco masters at a higher resolution and without a need for flashbulbs. For about $100, I acquired a 300-DPI shipping label printer and a giant roll of Risograph master. I fully accepted the possibility that this whole thing was going to break, melt, or catch fire, but I had to know.&lt;/p&gt;
 &lt;p&gt;I cut and adhered a square of Risograph master to a blank shipping label and cautiously fed it into the machine, which connects to a computer via USB to get image data. Using the same illustration from before, I clicked &amp;quot;Print&amp;quot; and held my breath. The label emerged in less than a second. And much to my surprise, the illustration was &lt;em&gt;perfectly&lt;/em&gt; burned on to the Risograph master with unbelieveable detail. It worked! Holy shit, it worked.&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/printmaster.jpg&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/printmaster.jpg&quot; /&gt;
 &lt;figcaption&gt;Risograph material developed by a shipping label printer.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
@@ -371,8 +385,8 @@
     &lt;div class=&quot;col-md-9&quot;&gt;
         &lt;div class=&quot;row&quot;&gt;
             &lt;div class=&quot;col-md-8&quot;&gt;
-&lt;p&gt;Stay tuned for a follow-up post describing my experiments using these stencils to create art prints at home. &lt;em&gt;(Update: &lt;a href=&quot;https://nobadmemories.com/blog/2022/05/mimeoprinting&quot;&gt;Read part 2 here!&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/printset.jpg&quot; /&gt;
+&lt;p&gt;Stay tuned for a follow-up post describing my experiments using these stencils to create art prints at home. &lt;em&gt;(Update: &lt;a href=&quot;https://www.nobadmemories.com/blog/2022/05/mimeoprinting&quot;&gt;Read part 2 here!&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/printset.jpg&quot; /&gt;
 &lt;figcaption&gt;Hundreds of test prints and iterations later...&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
@@ -380,11 +394,11 @@
   
   <entry>
     <title>Mimeoprinting (Printmaking as play, part 2)</title>
-    <link href="https://nobadmemories.com/blog/2022/05/mimeoprinting/"/>
+    <link href="https://www.nobadmemories.com/blog/2022/05/mimeoprinting/"/>
     <updated>2022-05-18T00:00:00Z</updated>
-    <id>https://nobadmemories.com/blog/2022/05/mimeoprinting/</id>
-    <content type="html">&lt;p&gt;In &lt;a href=&quot;https://nobadmemories.com/blog/2022/05/printmaking-as-play&quot;&gt;my last blog post&lt;/a&gt;, I shared my adventures in reverse-engineering the Print Gocco, a DIY printmaking device from the 1970s. While Print Goccos have been out of production for nearly 20 years, I found that I could use an inexpensive shipping-label printer, themoplastic stencil paper, and a few simple craft materials to create a DIY version of the device. Here are my learnings and recommendations on how you can try out this printmaking method for yourself.&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/sidebyside.jpg&quot; /&gt;
+    <id>https://www.nobadmemories.com/blog/2022/05/mimeoprinting/</id>
+    <content type="html">&lt;p&gt;In &lt;a href=&quot;https://www.nobadmemories.com/blog/2022/05/printmaking-as-play&quot;&gt;my last blog post&lt;/a&gt;, I shared my adventures in reverse-engineering the Print Gocco, a DIY printmaking device from the 1970s. While Print Goccos have been out of production for nearly 20 years, I found that I could use an inexpensive shipping-label printer, themoplastic stencil paper, and a few simple craft materials to create a DIY version of the device. Here are my learnings and recommendations on how you can try out this printmaking method for yourself.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/sidebyside.jpg&quot; /&gt;
 &lt;figcaption&gt;A side-by-side technique comparison featuring &lt;a href=&quot;https://www.instagram.com/elloradatura&quot; target=&quot;_blank&quot;&gt;Gabrielle&lt;/a&gt;&#39;s illustration as seen in &lt;a href=&quot;https://www.nobadmemories.com/blog/2022/05/printmaking-as-play&quot; target=&quot;_blank&quot;&gt;my last blog post&lt;/a&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -440,7 +454,7 @@
 &lt;p&gt;So I did unwittingly reinvent a wheel, it seems, but it was fun to do so. After seeing that I wasn&#39;t alone in these adventures, I came away inspired to add my voice to the small but mighty choir of stencil-printing enthusiasts. And the newfound connection to mimeography inspired a name for my previously nameless method: mimeoprinting.&lt;/p&gt;
 &lt;/div&gt;
                           &lt;div class=&quot;col-md-4&quot;&gt;
-                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/mimeo.jpg&quot; /&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/mimeo.jpg&quot; /&gt;
 &lt;figcaption&gt;Still from &lt;a href=&quot;https://www.youtube.com/watch?v=gYjj62eGwc8&quot; target=&quot;_blank&quot;&gt;an archival film on mimeograph operation&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
                           &lt;/div&gt;
@@ -496,14 +510,14 @@
 &lt;p&gt;The label printer I use to burn my images is a Logia 300 DPI printer for 4&amp;quot; x 6&amp;quot; labels. I chose this model for its price, small size, print resolution, reusability as a label printer, and its lack of dependence on an accompanying mobile app for printing. (Third-party apps are prone to rapid obsolescence.) I recommend buying used or repurposing old tech—as Stampalofi has done with the fax machine—instead of buying something new where possible. Another benefit of using a fax machine is its larger print area.&lt;/p&gt;
 &lt;p&gt;Before loading the label printer, I lightly adhere the cut stencil to a blank label using the absolute smallest amount of adhesive along the leading edge of the stencil. This makes the stencil thick enough to feed through the machine correctly. Additionally, my label printer uses a small camera to align labels as they&#39;re fed into the machine, so it needs to &amp;quot;see&amp;quot; the top-most edge of the sticker in order to print.&lt;/p&gt;
 &lt;p&gt;It&#39;s important to keep the stencil flat and free of frayed areas or exposed adhesive. Any glue that seeps out can risk getting into the printer internals, which will damage both your print and the machine. I use Fineline Red-Top Glue, which is a regular white glue that comes with a syringe-like applicator. In my experience, tape and rubber cement do not work well and can get caught in the printer.&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/printer.jpg&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/printer.jpg&quot; /&gt;
 &lt;figcaption&gt;Stencil-topped label being loaded into the Logia label printer&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Since the stencil can be easily torn, it&#39;s important to clean the printer head and rollers before and after each print. I keep the printer&#39;s settings at the maximum darkness level and with a reduced speed which is, to be fair, still around one second per print. Examine the stencil after printing to make sure there aren&#39;t tears. Blank labels can be reused if care is taken when removing the stencils after printing.&lt;/p&gt;
 &lt;p&gt;All thermal printers will have their own quirks and caveats, so consider these general guidelines.&lt;/p&gt;
 &lt;/div&gt;
                           &lt;div class=&quot;col-md-4&quot;&gt;
-                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/roll.jpg&quot; /&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/roll.jpg&quot; /&gt;
 &lt;figcaption&gt;Cutting stencil paper to size&lt;/figcaption&gt;
 &lt;/figure&gt;
                           &lt;/div&gt;
@@ -526,7 +540,7 @@
 &lt;p&gt;The stamping motion of the Print Gocco works in part because the stencil paper is rigid and is tightly adhered to its cardboard frame. Without this rigidity, ink will pool and prints will smudge. (This explains why color-dense areas are more challenging for the Print Gocco: they represent areas in which the stencil is weaker.)&lt;/p&gt;
 &lt;p&gt;If you plan to repurpose the Print Gocco, you may find it challenging to adhere your custom stencil to a frame tightly enough. After experimenting with a number of approaches, including making my own Print Gocco frames from cardboard, freezer bags, and laser-cut acrylic, I concluded that using the Print Gocco was more trouble than it was worth.&lt;/p&gt;
 &lt;p&gt;Instead, I cut a 3.8&amp;quot; x 5.8&amp;quot; rectangle from a sheet of rigid, clear polypropylene to create a frame. I taped the top edge of the frame to a piece of chipboard from the back of a paper pad to create a hinge. Finally, I taped the stencil into the hole of the frame from its underside, shiny side down. This creates something not unlike a screenprinting setup.&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/hinged.jpg&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/hinged.jpg&quot; /&gt;
 &lt;figcaption&gt;Putting the cutout to one side makes it easy to rest the frame against something when taking a break&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;When using a frame like this, ink is brushed or rolled on the back of the stencil, one print at a time. The benefits of this are over a press method are:&lt;/p&gt;
@@ -539,13 +553,13 @@
 &lt;p&gt;The clear polypropylene sheet was purchased at a local Daiso for about a dollar. It can be cleaned and reused over and over, it does not require the use of ink-blocking tape as cardboard would, and it is easily cut with a blade. Furthermore, by virtue of being clear, it can make registration and stencil alignment easier. (Another thing you might find helpful is drawing gridlines every 1/2&amp;quot; on the chipboard to help with alignment.) Finally, the polypropylene sheet is rigid but has just enough give to allow you to bend the frame backwards slightly as you separate it from the paper. I find this really helpful in preventing smudges during lifting.&lt;/p&gt;
 &lt;p&gt;The trickiest part of preparing the frame is taping on the stencil. I strongly recommend using wide, low-tack drafting tape sold in art supply stores. This is a paper tape that you can reposition in case there are wrinkles in the stencil. I tend to tape down one side, then gently tug the stencil as I tape the opposite side, and reposition here and there as needed. The goal is to have a taut, wrinkle-free stencil perfectly aligned inside the frame&#39;s cutout. Remember to tape the stencil to the underside of the frame; otherwise, the edges of the image may be cut off.&lt;/p&gt;
 &lt;p&gt;I tried numerous ink application techniques and found the best results using brushes with short, synthetic, dense, and equally-long bristles. A decoupage brush I had in my studio (pictured below) worked perfectly. Inexpensive foam rollers can be used, too. When the right amount of pressure is applied (and assuming you have not overinked your stencil), you will see the image appear as you brush or roll. This happens as ink is pushed through the stencil and repelled from the non-printing areas.&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/process.jpg&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/process.jpg&quot; /&gt;
 &lt;figcaption&gt;As the stencil is brushed, my NES pixel art begins to appear in the stencil backing!&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Note that applying too much brush or roller pressure can tear the stencil. Once torn, it can no longer be used.&lt;/p&gt;
 &lt;/div&gt;
                           &lt;div class=&quot;col-md-4&quot;&gt;
-                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/taped.jpg&quot; /&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/taped.jpg&quot; /&gt;
 &lt;figcaption&gt;A stencil taped to a hand-cut clear plastic frame&lt;/figcaption&gt;
 &lt;/figure&gt;
                           &lt;/div&gt;
@@ -588,7 +602,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Eventually, I found the silver-bullet ingredient that helped with all these issues: &lt;em&gt;nori,&lt;/em&gt; or rice-flour paste. I learned about this from Stampalofi, and adding it to my inks dramatically improved my results. (This also extended the inks significantly, making printing more economical, too!)&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/stampalofi.jpg&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/stampalofi.jpg&quot; /&gt;
 &lt;figcaption&gt;The &lt;a href=&quot;https://www.youtube.com/watch?v=RuwkSYsdN7o&quot; target=&quot;_blank&quot;&gt;video&lt;/a&gt; that tipped me off to nori as an ink additive&amp;mdash;thanks, Stampalofi!&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Upon further research, I learned that nori has been used for hundreds of years in paper-stencil crafts such as &lt;a href=&quot;https://en.wikipedia.org/wiki/Katazome&quot;&gt;katazome fabric printing&lt;/a&gt; as an adhesive, ink additive, and resist paste due to its ability to create a stiff film without wrinkling or soaking delicate paper.&lt;/p&gt;
@@ -596,11 +610,11 @@
 &lt;p&gt;To make nori, add 10 grams of rice flour to 2 ounces of water and stir. Add that to another 2 oz. of water simmering on the stovetop. Stir constantly with a silicone spatula until it&#39;s thickened a bit. Scraping the spatula along the bottom of the pot should cause the mixture to fill back in just a bit more slowly than a liquid would. Pour the nori into a bowl, leave it to cool, and use within 24 hours. Once cool, it should have a pudding-like consistency. This will need to be thinned later, but it&#39;s better to start with a thicker paste and thin it in small portions as you use it.&lt;/p&gt;
 &lt;p&gt;Pre-made nori can be purchased at art supply shops, and while it has the benefit of added preservatives, I got better results with the homemade variety, which is of course more affordable as well.&lt;/p&gt;
 &lt;p&gt;Getting the right proportion of nori, ink, and water is a little bit of a dark art, but I&#39;ll do my best to describe my approach: For a brush-on technique, the ideal paint consistency is that of a brush-on marinade or thin sauce. It&#39;s thinner than ketchup and liquid enough to glide with a silky feel when spread by a paintbrush. When collected on a paintbrush, the ink should not drip from the bristles but should &lt;em&gt;just barely&lt;/em&gt; hang on.&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/paint.jpg&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/paint.jpg&quot; /&gt;
 &lt;figcaption&gt;The blue and pink inks in the top two wells are too thick. They have been mixed and thinned with water in the bottom two wells. Less ketchup, more teriyaki sauce.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;My best results have been acheived by mixing thinned nori with either Golden Open Acrylic, calligraphy ink, or a mix of the two. Calligraphy ink is more economical since little is needed, and it is offered in fully non-toxic organic-pigment ranges such as Dr. Ph. Martin&#39;s Bombay Ink. Student-grade bottled sumi ink is both affordable and an excellent additive for darkening colors. Golden Open Acrylic is more of a specialty paint, and care should be taken to choose colors that don&#39;t include heavy-metal pigments. However, it offers rich color and has a long working time, meaning there&#39;s little risk of ink drying in the stencil. Retarder additives used in screenprinting may be useful for this application, but I have not tried those yet.&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/tone.jpg&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/tone.jpg&quot; /&gt;
 &lt;figcaption&gt;In this mimeoprint, a first pass was done with a mix of thinned nori paste and a few drops of green calligraphy ink, resulting in a light mint-green print. In the second pass, using a different stencil, shadows were overprinted by adding a few drops of sumi ink to the remainder of the previously-used ink mixture.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
@@ -644,9 +658,341 @@
             &lt;div class=&quot;col-md-8&quot;&gt;
 &lt;p&gt;Despite the lengthy detail posted here, the process really is quite quick, simple, and economical. I can typically go from idea to a set of prints to clean-up in 1 to 2 hours, and that&#39;s at a leisurely pace. When printing is complete, the stencil can be easily pulled off its frame and discarded. It&#39;s been quite fun, and I definitely plan on making more mimeoprints in the future.&lt;/p&gt;
 &lt;p&gt;Thank you for reading through to the end, and I hope this has been helpful or educational to other printmaking enthusiasts. Happy mimeoprinting!&lt;/p&gt;
-&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://nobadmemories.com/img/printset2.jpg&quot; /&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/printset2.jpg&quot; /&gt;
 &lt;figcaption&gt;Hooray!&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>PFFT: An evastars retrospective</title>
+    <link href="https://www.nobadmemories.com/blog/2023/03/pfft/"/>
+    <updated>2023-03-02T00:00:00Z</updated>
+    <id>https://www.nobadmemories.com/blog/2023/03/pfft/</id>
+    <content type="html">&lt;p&gt;I&#39;m excited to share that this month, I&#39;m the artist in residence at &lt;a href=&quot;https://www.welcometomyhomepage.net/&quot;&gt;Welcome to My Homepage&lt;/a&gt;. My web-based piece is called &lt;em&gt;PFFT: An evastars retrospective.&lt;/em&gt;&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/pfft.png&quot; /&gt;
+&lt;figcaption&gt;Best viewed at 800 x 600&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The work is both personal and eclectic, bringing together just about every element of my artistic practice as well as some new (to me) territory. I can&#39;t say too much more now, but I&#39;m looking forward to sharing it over the next few weeks.&lt;/p&gt;
+&lt;p&gt;You can find &lt;em&gt;PFFT&lt;/em&gt; and other Welcome to My Homepage works at &lt;a href=&quot;https://www.welcometomyhomepage.net/&quot;&gt;welcometomyhomepage.net&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Update:&lt;/em&gt; PFFT: An evastars retrospective &lt;em&gt;is no longer accessible through welcometomyhomepage.net but is permanently available via &lt;a href=&quot;http://femicom.org/fun/pfft/&quot;&gt;this link&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>A Casio Loopy Eurorack module</title>
+    <link href="https://www.nobadmemories.com/blog/2023/05/a-casio-loopy-eurorack-module/"/>
+    <updated>2023-05-26T00:00:00Z</updated>
+    <id>https://www.nobadmemories.com/blog/2023/05/a-casio-loopy-eurorack-module/</id>
+    <content type="html">&lt;p&gt;What do you get when your &lt;a href=&quot;http://www.femicom.org/&quot; target=&quot;_blank&quot;&gt;video game collecting habit&lt;/a&gt; collides with your audio electronics habit? Why, custom Eurorack module firmware based on the sounds of the &lt;a href=&quot;http://femicom.org/loopy&quot; target=&quot;_blank&quot;&gt;Casio Loopy video game console&lt;/a&gt;, of course! When reflashed, this module employs a drum kit made of sounds nestled within the Loopy console&#39;s BIOS. &lt;em&gt;And it sounds beautiful!&lt;/em&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0D3couFDPUI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Read on to learn how I wrote custom firmware for this and other video-game inspired samplers. (And if you have a BAD IDEA #1800-CALL-YER-MUM module at home, you can &lt;a href=&quot;https://github.com/hxlnt/1800&quot; target=&quot;_blank&quot;&gt;grab this firmware on GitHub&lt;/a&gt; for your own use.)&lt;/p&gt;
+
+    &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;/div&gt;
+    
+                  
+              
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Why?&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;My pandemic hobby was building my first modular synth. It&#39;s a diminutive (by Eurorack standards) 92HP/3U rack. I designed the synth to aid my work in preserving the history of girls&#39; electronic toys and video games, so I chose modules that would help me bring musicality and rhythmic variety to all manner of relevant external audio sources: anything from Hello Kitty video games to circuit-bent Barbie laptops.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;The sampler: #1800-CALL-YER-MUM&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;I&#39;ve been making a conscious effort to talk about music-making in ways that don&#39;t center &lt;em&gt;gear&lt;/em&gt; or what to buy. However, I&#39;m breaking that rule to speak to a particular module in my setup: an audio sampler. It&#39;s a critical part of my synth, as it allows me to reuse and rearrange slivers of sounds I&#39;ve captured from games and toys. The sampler I use is the &lt;a href=&quot;https://www.moffenzeefmodular.com/store/bad-idea-1800-call-yer-mum&quot; target=&quot;_blank&quot;&gt;BAD IDEA #1800-CALL-YER-MUM&lt;/a&gt; by &lt;a href=&quot;https://www.moffenzeefmodular.com/&quot; target=&quot;_blank&quot;&gt;Moffenzeef Modular&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The #1800 has been out of production for some time, so I consider myself lucky to have found one when I started building out my synth. The module is powered by a Teensy microcontroller with firmware containing 12 audio samples. The module&#39;s interface is wonderfully clever: the panel offers 12 input jacks for patching in triggers, one for each of the 12 sounds. Instead of having a corresponding set of 12 outputs, the module outputs a single, mixed-down audio signal.&lt;/p&gt;
+&lt;p&gt;The #1800 ships with firmware that mimics touchtone dialing, which feels right at home with the telephone-style layout of the panel. But the module can be reflashed with one of &lt;a href=&quot;https://www.youtube.com/watch?v=IweyWsovUS8&quot; target=&quot;_blank&quot;&gt;many alternate firmwares&lt;/a&gt; Moffenzeef provides on their GitHub repo. These alternate firmwares are based on a variety of classic and modern drum machines, which some might find more useful than touchtone sounds.&lt;/p&gt;
+&lt;p&gt;On its own, a reflashable 12-piece drum kit in a 10 HP package is a terribly useful module. However, given my interest in using the sounds of girls&#39; games and toys, I was keen to get my own samples loaded on the module.&lt;/p&gt;
+&lt;/div&gt;
+    &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/reflash.png&quot; /&gt;
+&lt;figcaption&gt;Building custom firmware for the #1800&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Building a Casio Loopy drum kit&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;I knew the first firmware I wanted to create was for a drum kit based on the &lt;a href=&quot;http://femicom.org/loopy&quot; target=&quot;_blank&quot;&gt;Casio Loopy&lt;/a&gt;. This Japan-only, 32-bit video game console was marketed to girls and featured a built-in color sticker printer that allowed players to make customized stickers to trade with friends. Coincidentally, another pandemic hobby of mine had been exploring Casio Loopy emulation with engineer pal Phil Bennett. In 2021, &lt;a href=&quot;http://femicom.org/research/emulating-the-casio-loopy-with-phil-bennett/&quot; target=&quot;_blank&quot;&gt;he successfully dumped the device&#39;s BIOS&lt;/a&gt; and retrieved the audio samples used by game cartridges to create music and sound effects. I used his work to separate out the components of the drum kit, which could then be used in a sampler.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Voiding my warranty&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;Moffenzeef provides no mechanism for users to load in their own samples to the #1800. Nevertheless, I decided that creating some warranty-voiding custom firmware was in order.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://github.com/moffenzeefmodular/1800#how-to-flash-firmware&quot; target=&quot;_blank&quot;&gt;instructions for reflashing the #1800&lt;/a&gt; describe how to use the Teensy Loader Application to load the provided firmware (compiled &lt;code&gt;.hex&lt;/code&gt; files). The #1800 repo also includes &lt;a href=&quot;https://github.com/moffenzeefmodular/1800/tree/master/Arduino&quot; target=&quot;_blank&quot;&gt;source files&lt;/a&gt; for each of these firmwares. Each folder of source files contains contains one &lt;code&gt;.ino&lt;/code&gt; file as well as a &lt;code&gt;.cpp&lt;/code&gt; and &lt;code&gt;.h&lt;/code&gt; file corresponding to each sample. So, I figured I could make my &lt;em&gt;own&lt;/em&gt; firmware by:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Determining how to convert my 12 audio samples from &lt;code&gt;.wav&lt;/code&gt; to the matching &lt;code&gt;.cpp&lt;/code&gt;/&lt;code&gt;.h&lt;/code&gt; format,&lt;/li&gt;
+&lt;li&gt;Editing an &lt;code&gt;.ino&lt;/code&gt; file to use these custom samples, and&lt;/li&gt;
+&lt;li&gt;Compiling the &lt;code&gt;.ino&lt;/code&gt; to a &lt;code&gt;.hex&lt;/code&gt; file so that the firmware can be easily reflashed by drag-and-drop with the Teensy Loader Application.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Fortunately, the provided &lt;code&gt;.cpp&lt;/code&gt; source code gave me an idea of how to achieve the first step. The comments note that the audio sample was converted with something called &lt;em&gt;wav2sketch&lt;/em&gt; using 44100 Hz &lt;a href=&quot;https://en.wikipedia.org/wiki/%CE%9C-law_algorithm&quot; target=&quot;_blank&quot;&gt;u-law encoding&lt;/a&gt;. I was able to track down the &lt;a href=&quot;https://github.com/PaulStoffregen/Audio/tree/master/extras/wav2sketch&quot; target=&quot;_blank&quot;&gt;wav2sketch tool&lt;/a&gt; tucked away in Paul Stoffregen&#39;s &lt;a href=&quot;https://github.com/PaulStoffregen/Audio&quot; target=&quot;_blank&quot;&gt;Teensy Audio library&lt;/a&gt;. The C or Javascript version can be used for the conversion, though I prefer the Javascript port. (I did have to comment out the line that reads &lt;code&gt;out += &#39;PROGMEM&#92;n&#39;;&lt;/code&gt; because such syntax is not supported in my older version of the Arduino IDE.) Converting my Casio Loopy &lt;code&gt;.wav&lt;/code&gt; files with wav2sketch spit out &lt;code&gt;.cpp&lt;/code&gt; and &lt;code&gt;.h&lt;/code&gt; files in just the format I was expecting.&lt;/p&gt;
+&lt;p&gt;From there, the remaining steps were pretty easy: get the proper libraries installed, replicate an &lt;code&gt;.ino&lt;/code&gt; that points to my custom samples, and have the Arduino IDE output a &lt;code&gt;.hex&lt;/code&gt; binary. My Loopy drum kit worked on the first try. Hooray!&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Gyroid sounds and other drum kits&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;Once I had this process nailed down, it was hard for me to stop dreaming up new firmware! One features nothing but vocal samples from girly cartoons like &lt;em&gt;Moondreamers&lt;/em&gt; and &lt;em&gt;Jem and the Holograms.&lt;/em&gt; Another is a drum kit made entirely of Gyroid sounds from &lt;em&gt;Animal Crossing: New Horizons&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;To capture the Gyroid sounds, I placed all the percussive Gyroids in an otherwise quiet room of my in-game house and turned each one on, one at a time, while recording my gameplay footage.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/gyroids.gif&quot; /&gt;
+&lt;figcaption&gt;All the percussive Gyroids were collected and placed in a quiet room before recording.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;I even pulled sounds from my own NES homebrew catalog to make BADIDEA-PARTYTIME-NES, a #1800 firmware made of 8-bit sounds sampled from the noise and DPCM channels of &lt;em&gt;&lt;a href=&quot;https://partytimehexcellent.itch.io/track-feel-ii&quot; target=&quot;_blank&quot;&gt;TRACK+FEEL II&lt;/a&gt; (2012),&lt;/em&gt; &lt;em&gt;&lt;a href=&quot;https://partytimehexcellent.itch.io/electronic-sweet-n-fun-fortune-teller&quot; target=&quot;_blank&quot;&gt;Electronic Sweet-N-Fun Fortune Teller&lt;/a&gt; (2013),&lt;/em&gt; and &lt;em&gt;&lt;a href=&quot;https://partytimehexcellent.itch.io/computers-are-easy-love-is-kind&quot; target=&quot;_blank&quot;&gt;Computers Are Easy, Love Is Kind&lt;/a&gt; (2015).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://img.itch.zone/aW1hZ2UvMjEyNTcvODQzMTUuZ2lm/original/r5amOr.gif&quot; /&gt;
+&lt;figcaption&gt;Title screen from &lt;a href=&quot;https://partytimehexcellent.itch.io/track-feel-ii&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;TRACK+FEEL II&lt;/em&gt;&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Custom overlays&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;For fun, I also created a few custom panel overlays for the Loopy, Gyroid, and NES firmwares.&lt;/p&gt;
+&lt;p&gt;At first, I considered making proper replacement panels for each firmware. However, changing out the panel on the #1800 is a bit of work given the 13 panel-mount jacks. So, I took a page from the Vectrex playbook and created thin overlays that could be easily swapped in and out. Each overlay is held in by the four corner screws, so disassembling the panel can be skipped entirely.&lt;/p&gt;
+&lt;p&gt;Moffenzeef provides vector files for the #1800&#39;s panel, which I was able to modify for use with my Cricut plotter and cutting machine to accurately draw on and cut cardstock. Then, I handpainted the cardstock with India ink. While not at all necessary, the overlays are a fun way to convey which firmware is loaded on the #1800.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/loopymodule.JPG&quot; /&gt;
+&lt;figcaption&gt;Loopy module with overlay&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Do it yourself&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;The Loopy, Gyroid, and NES firmware binaries for the #1800 are &lt;a href=&quot;https://github.com/hxlnt/1800&quot; target=&quot;_blank&quot;&gt;available on GitHub&lt;/a&gt;. However, I realize that they&#39;re very reliant on a particular piece of hardware. In the future, I&#39;d like to provide these kits in other, more flexible formats as well. In the meantime, I hope you&#39;re inspired to consider how to preserve endangered sounds through reverse engineering and tool making.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>Currently</title>
+    <link href="https://www.nobadmemories.com/blog/2023/06/currently/"/>
+    <updated>2023-06-12T00:00:00Z</updated>
+    <id>https://www.nobadmemories.com/blog/2023/06/currently/</id>
+    <content type="html">&lt;p&gt;I&#39;m excited to share that this month, I&#39;m the artist in residence at &lt;a href=&quot;https://www.welcometomyhomepage.net/&quot;&gt;Welcome to My Homepage&lt;/a&gt;. My web-based piece is called &lt;em&gt;PFFT: An evastars retrospective.&lt;/em&gt;&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/pfft.png&quot; /&gt;
+&lt;figcaption&gt;Best viewed at 800 x 600&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The work is both personal and eclectic, bringing together just about every element of my artistic practice as well as some new (to me) territory. I can&#39;t say too much more now, but I&#39;m looking forward to sharing it over the next few weeks.&lt;/p&gt;
+&lt;p&gt;You can find &lt;em&gt;PFFT&lt;/em&gt; and other Welcome to My Homepage works at &lt;a href=&quot;https://www.welcometomyhomepage.net/&quot;&gt;welcometomyhomepage.net&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Update:&lt;/em&gt; PFFT: An evastars retrospective &lt;em&gt;is no longer accessible through welcometomyhomepage.net but is permanently available via &lt;a href=&quot;http://femicom.org/fun/pfft/&quot;&gt;this link&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>SIGGRAPH 1979 Film and Videotape Retrospective</title>
+    <link href="https://www.nobadmemories.com/blog/2025/10/siggraph79/"/>
+    <updated>2025-11-04T00:00:00Z</updated>
+    <id>https://www.nobadmemories.com/blog/2025/10/siggraph79/</id>
+    <content type="html">&lt;p&gt;Ephemera, 1979. A &lt;a href=&quot;https://archive.org/details/TNM_ACM__SigGraph_membership_offers_1979_20180226_0202&quot;&gt;25-page PDF scan&lt;/a&gt; of the program listing for the SIGGRAPH ’79 Film and Videotape Retrospective&lt;/p&gt;
+
+    &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;/div&gt;
+    
+                  
+              
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;Excerpts&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;
+&lt;figcaption&gt;My personal annotations appear at the right.&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;&lt;em&gt;LAPIS&lt;/em&gt; 1966&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;10 minutes; 16mm movie film&lt;br /&gt;
+By: James Whitney at the filmmaker’s L. A. Studio&lt;br /&gt;
+Equipment: Mechanical analog machine (prototype)&lt;/p&gt;
+&lt;/div&gt;
+    &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;&lt;em&gt;TERMINAL SELF&lt;/em&gt; 1971&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;8 minutes; 16 mm movie film&lt;br /&gt;
+By: John Whitney, Jr. at the filmmaker’s L. A. Studio&lt;br /&gt;
+Equipment: Mechanical analog machine (prototype)&lt;/p&gt;
+&lt;/div&gt;
+    &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;&lt;em&gt;HALLEY FLYBY / TEMPEL 2 RENDEZVOUS&lt;/em&gt; 1978&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;12 minutes; 16 mm movie film; silent&lt;br /&gt;
+By: Linda M. Lee, James F. Blinn, and Julian E. Gomez at the Jet Propulsion Laboratory&lt;br /&gt;
+Equipment: Evans and Sutherland Picture System 2, PDP 11/55, Univac 1108, Calcomp Microfilm&lt;br /&gt;
+A study of a proposed mission to encounter Halley’s Comet and Comet Tempel 2.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;
+&lt;figcaption&gt;The proposed Halley/Tempel 2 mission did not occur, and the spacecraft instead became &lt;em&gt;Mariner 5&lt;/em&gt;as part of a NASA mission to study the atmosphere of Venus.&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;&lt;em&gt;PIXILLATION&lt;/em&gt; 1970&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;4 minutes; 16 mm movie film; sound&lt;br /&gt;
+By: Ken Knowlton and Lillian Schwartz at Bell Laboratories, Murray Hill, NJ&lt;br /&gt;
+Equipment: SC 4020 Microfilm Plotter, optically added color&lt;br /&gt;
+Abstract art film.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
