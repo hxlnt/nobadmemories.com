@@ -1,3 +1,12 @@
+---
+tags: blog
+layout: blog-index.njk
+title: Studio → Blog 
+date: 2025-10-35
+posttitle: "SIGGRAPH 1979 Film and Videotape Retrospective"
+intro: "<p><strong>My highlights and notes from the SIGGRAPH ’79 Film and Videotape Retrospective.</strong><br><em>Posted Thursday, September 25, 2025</em></p>"
+---
+
 # SIGGRAPH 1979 Film and Videotape Retrospective
 
 ## Description  
