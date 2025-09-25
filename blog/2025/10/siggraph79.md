@@ -7,10 +7,10 @@ posttitle: "SIGGRAPH 1979 Film and Videotape Retrospective"
 intro: "<p><strong>SIGGRAPH 1979 Film and Videotape Retrospective</strong><br><em>Posted Thursday, September 25, 2025</em></p>"
 ---
 
-Ephemera, 1979. A [25-page PDF scan](https://archive.org/details/TNM_ACM__SigGraph_membership_offers_1979_20180226_0202) of the program listing for the SIGGRAPH ’79 Film and Videotape Retrospective. What follows are excerpts of things I found interesting and/or to look up later.
+Below are excerpts of things I found interesting and/or that I want to look up later while reading the [25-page PDF scan](https://archive.org/details/TNM_ACM__SigGraph_membership_offers_1979_20180226_0202) of the program listing for the SIGGRAPH ’79 Film and Videotape Retrospective.
 
 </div><div class="col-md-4"><figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
-<figcaption>Verbatim quotes from the program listing are in the main body of this page, while my personal annotations appear here at the right.</figcaption>
+<figcaption>Verbatim quotes from the program listing are in the main body of this page, while my personal annotations appear in the margins.</figcaption>
 </figure>
                           </div>
                       </div>
