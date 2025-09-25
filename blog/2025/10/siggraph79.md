@@ -4,36 +4,15 @@ layout: blog-index.njk
 title: Studio → Blog 
 date: 2025-10-35
 posttitle: "SIGGRAPH 1979 Film and Videotape Retrospective"
-intro: "<p><strong>My highlights and notes from the SIGGRAPH ’79 Film and Videotape Retrospective.</strong><br><em>Posted Thursday, September 25, 2025</em></p>"
+intro: "<p><strong>SIGGRAPH 1979 Film and Videotape Retrospective</strong><br><em>Posted Thursday, September 25, 2025</em></p>"
 ---
 
-Ephemera, 1979. A [25-page PDF scan](https://archive.org/details/TNM_ACM__SigGraph_membership_offers_1979_20180226_0202) of the program listing for the SIGGRAPH ’79 Film and Videotape Retrospective
-
-</div>
-    <div class="col-md-4">
-        </div>
-    </div>
-                  </div>
-              </div>
-    <div class="row">
-    <div class="col-md-3">
-        <div class="row">
-            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
-            </div>
-            <div class="col-md-10">
-            <h2>Excerpts</h2>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-9">
-        <div class="row">
-            <div class="col-md-8">
-
+Ephemera, 1979. A [25-page PDF scan](https://archive.org/details/TNM_ACM__SigGraph_membership_offers_1979_20180226_0202) of the program listing for the SIGGRAPH ’79 Film and Videotape Retrospective. What follows are my excerpts and notes from this document.
 
 </div>
                           <div class="col-md-4">
                           <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
-<figcaption>My personal annotations appear at the right.</figcaption>
+<figcaption>Personal annotations will appear at the right.</figcaption>
 </figure>
                           </div>
                       </div>
@@ -81,6 +60,81 @@ Equipment: Mechanical analog machine (prototype)
 By: John Whitney, Jr. at the filmmaker’s L. A. Studio  
 Equipment: Mechanical analog machine (prototype)  
 
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>YIN HSIEN</em> 1976</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+
+9 minutes; 16 mm movie film  
+By: Michael Whitney at the filmmaker’s L. A. Studio  
+Equipment: Motion-controlled optical printer (prototype)  
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>BINARY BIT PATTERNS</em> 1968</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+    
+3 minutes; 16 mm movie film  
+By: Michael Whitney and John Whitney, Sr. at Information International  
+Equipment: FR80 Microfilm Plotter  
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>PERMUTATIONS</em> 1968</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+    
+7 minutes; 16 mm movie film  
+By: John Whitney, Sr. at UCLA Health Sciences  
+Equipment: IBM 2250  
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>FIRST FIG</em> 1974</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+    
+6 minutes; 16 mm movie film  
+By: Larry Cube and Gary Imhoff at Cal Arts  
+Equipment: Univac 1108, SC 4020 Microfilm Plotter  
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>GENESYS</em> c. 1969</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+    
+25 minutes (short excerpt); 16 mm movie film  
+By: Ronald Baecker, Eric Martin and Lynn Smith at MIT Lincoln Labs  
+Equipment: TX-2<BR>Illustrates the use of the Genesys computer animation system.  
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>COMPUTER COLOR GENERATIONS</em> 1972</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+    
+23 minutes; 16 mm movie film with sound  
+By: Los Alamos Scientific Laboratory  
+Equipment: FR80 Microfilm Recorder  
+A documentary about a technique developed at Los Alamos by which computers can produce color film output at the same cost as black-and-white output. Using computer movie runs as examples, the advantages of color over black and white are discussed.  
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>RON HAYS MUSIC-IMAGE PRESENTATION</em> 1974-1975</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+
+50 min; 3/4-inch videotape; sound  
+By: Ron Hays at WGBH, Boston; Hollywood, CA; and New York City  
+Equipment: CMX computer editor; PAIK-ABE video synthesizer; Scanimate computer; various video switchers and special effects generators plus computer-controlled animation techniques.  
+Presentation includes overview of Ron Hays’ work in visual music and multi-media concert situations. Selections include works as seen on public television, feature-length films (_Sergeant Pepper’s Lonely Hearts Club Band_ and _Demon Seed_) plus television coverage of _Star Wars_ concerts at Montreal Olympic Stadium, 62,000 people in attendance, using lasers and computer imagery. Presentation also includes examples of Emmy award-winning computer graphic title sequences.  
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>MEASURE FOR MEASURE</em> 1968</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+
+14 minutes; 3/4-inch videotape  
+By: Animation and Computer Graphics Staff at the New York Institute of Technology  
+Equipment: PDP 11s, Evans and Sutherland frame buffers, Three River Graphic Display Processors.  
+An animated film that pokes fun at our way of measuring. Two kinds of computer animation and conventional animation were intercut.
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>NYIT SAMPLERS</em> 1976</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+    
+10 minutes; 35 mm movie film and 3/4-inch videotape  
+By: The New York Institute of Technology Computer Graphics Laboratory  
+A collection of animated pieces made at NYIT including 2-d and 3-d animation, special effects, and commercials.  
+
 </div>
     <div class="col-md-4">
         </div>
@@ -110,7 +164,7 @@ A study of a proposed mission to encounter Halley’s Comet and Comet Tempel 2.
 </div>
                           <div class="col-md-4">
                           <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;">
-<figcaption>The proposed Halley/Tempel 2 mission did not occur, and the spacecraft instead became <em>Mariner 5</em>as part of a NASA mission to study the atmosphere of Venus.</figcaption>
+<figcaption>The proposed Halley/Tempel 2 mission did not occur, and the spacecraft instead became <em>Mariner 5</em> as part of a NASA mission to study the atmosphere of Venus.</figcaption>
 </figure>
                           </div>
                       </div>
@@ -134,3 +188,48 @@ A study of a proposed mission to encounter Halley’s Comet and Comet Tempel 2.
 By: Ken Knowlton and Lillian Schwartz at Bell Laboratories, Murray Hill, NJ  
 Equipment: SC 4020 Microfilm Plotter, optically added color  
 Abstract art film.
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>ABSTRACTIONS ON A BEDSHEET</em> 1972</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+
+7 minutes; 3/4-inch videotape; sound  
+By: Bill Etra in Miami, Florida and New York City  
+Equipment: PDP 11, oscillators  
+An abstract art work with computer-controlled audio and computer-controlled programmed distortion of a video raster.  
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>OLYMPIAD</em> 1971</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+    
+3-1/2 minutes; 16 mm movie film; sound  
+By: Ken Knowlton and Lillian Schwartz at Bell Laboratories, Murray Hill, NJ  
+Equipment: SC 4020 Microfilm Plotter, optically added color; BEFLIX and EXPLOR software systems.  
+Abstract art film based on programmed manipulation of running man image.  
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>MS MUFFET</em> 1975</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+    
+3 minutes; 3/4-inch videotape; sound  
+By: Lou Katz, Bill Etra, and Louise Etra at Columbia University and Etras’ studio  
+Equipment: PDP 11/45; Tektronix Scan Converter at 4010 terminal; Rutt-Etra Video Synthesizer; Electronic Associates of Berkeley Video Lab; Synthi Audio Synthesizer.  
+A real-time interactive art piece, with computer-controlled graphics, colorization, sound and keying effects. The performer interacted with the images as the piece was recorded.  
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>PATCHWORK '71</em> Prior to 1971</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+
+30 minutes; 16 mm movie film; sound  
+Collected and Edited By: Professor Kent Wilson, Department of Chemistry, University of California, San Diego  
+Equipment: Many systems. Some sound and optical color added by Dr. Wilson.  
+A sampler of excerpts from instructional and demo films produced by many of the graphics groups active in the early ’70’s in several universities and laboratories.
+
+</div><div class="col-md-4"></div></div></div></div><div class="row"><div class="col-md-3"><div class="row"><div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);"></div><div class="col-md-10">
+<h2><em>THE PRISM SHOWREEL</em> 1976-1979</h2>
+</div></div></div><div class="col-md-9"><div class="row"><div class="col-md-8">
+
+4 minutes; 3/4-inch videotape  
+By: Peter Chandler, Tony Diment, and Hayden Young at Imperial College, London; EMI Central Research Labs, Hayes; and EMI A/V.  
+Equipment: PDP 11/40<BR>Selected title sequences and commercials.
+
