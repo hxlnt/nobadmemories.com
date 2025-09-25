@@ -2,7 +2,7 @@
 tags: blog
 layout: blog-index.njk
 title: Studio → Blog 
-date: 2025-10-35
+date: 2025-10-25
 posttitle: "SIGGRAPH 1979 Film and Videotape Retrospective"
 intro: "<p><strong>SIGGRAPH 1979 Film and Videotape Retrospective</strong><br><em>Posted Thursday, September 25, 2025</em></p>"
 ---
