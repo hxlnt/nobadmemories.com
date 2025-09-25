@@ -7,12 +7,28 @@ posttitle: "SIGGRAPH 1979 Film and Videotape Retrospective"
 intro: "<p><strong>My highlights and notes from the SIGGRAPH ’79 Film and Videotape Retrospective.</strong><br><em>Posted Thursday, September 25, 2025</em></p>"
 ---
 
-# SIGGRAPH 1979 Film and Videotape Retrospective
+Ephemera, 1979. A [25-page PDF scan](https://archive.org/details/TNM_ACM__SigGraph_membership_offers_1979_20180226_0202) of the program listing for the SIGGRAPH ’79 Film and Videotape Retrospective
 
-## Description  
-Ephemera, 1979. A [25-page PDF scan](https://archive.org/details/TNM_ACM__SigGraph_membership_offers_1979_20180226_0202) of the program listing for the SIGGRAPH ’79 Film and Videotape Retrospective.
+</div>
+    <div class="col-md-4">
+        </div>
+    </div>
+                  </div>
+              </div>
+    <div class="row">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-2 subheaderblock" style="background-color:var(--color4-light);">
+            </div>
+            <div class="col-md-10">
+            <h2>My notes</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-8">
 
-## Notes
 Excerpts | My annotations
 ---------|---------------
 _LAPIS_ 1966<BR>10 minutes; 16mm movie film<BR>By: James Whitney at the filmmaker’s L. A. Studio<BR>Equipment: Mechanical analog machine (prototype)
