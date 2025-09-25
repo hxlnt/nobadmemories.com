@@ -24,7 +24,7 @@ intro: "Assorted writings are collected here in reverse chronological order."
         <div class="row">
             <div class="col-md-8">
               
- - [SIGGRAPH 1979](blog/2025/10/siggraph79/)
+ - [SIGGRAPH 1979 Film and Videotape Retrospective](blog/2025/10/siggraph79/)
               
 </div>
                           <div class="col-md-4">
