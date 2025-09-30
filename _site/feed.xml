@@ -4,7 +4,7 @@
   <subtitle>Rachel Simone Weil&#39;s blog and work spanning video art, glitch, homebrew development, electronics, and computing history</subtitle>
   <link href="https://www.nobadmemories.com/feed.xml" rel="self"/>
   <link href="https://www.nobadmemories.com/"/>
-  <updated>2025-10-25T00:00:00Z</updated>
+  <updated>2025-10-30T00:00:00Z</updated>
   <id>https://www.nobadmemories.com/</id>
   <author>
     <name>Rachel Simone Weil</name>
@@ -1513,6 +1513,102 @@ Drawings that are multi-copied by the computer. An experiment to make color from
 &lt;p&gt;11 minutes; 16 mm movie film&lt;br /&gt;
 By: Stan Van Der Beek and Richard Weinberg at NASA, Houston, Texas&lt;br /&gt;
 Geometric shapes penetrate each other and move through space. An unexpected moment in geometric order.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>The internet is (not) forever</title>
+    <link href="https://www.nobadmemories.com/blog/2025/10/internet-is-not-forever/"/>
+    <updated>2025-10-30T00:00:00Z</updated>
+    <id>https://www.nobadmemories.com/blog/2025/10/internet-is-not-forever/</id>
+    <content type="html">&lt;p&gt;Last week&#39;s &lt;a href=&quot;https://www.nobadmemories.com/blog/2025/10/siggraph79&quot;&gt;notes on the SIGGRAPH &#39;79 Film and Videotape Retrospective&lt;/a&gt; were part of an experiment in moving my blog toward something I&#39;ve long intended for it to be: a studio log where I can take notes on and organize reference material related to my practice.&lt;/p&gt;
+&lt;p&gt;I&#39;ve been doing a lot of PDF and website downloading lately, fueled by an uneasy feeling that the knowledge avalanche all around us is burying decades and centuries of texts with heaps of incoherent, profit-driven AI slop. So I read through old scanned magazines, catalogs, out-of-print books, and save or highlight little snippets that interest me.&lt;/p&gt;
+&lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/highlight.png&quot; /&gt;
+&lt;figcaption&gt;An excerpt about creating text overlays in TV broadcasts using electronic character generators from &lt;em&gt;Television Graphics: From Pencil to Pixel&lt;/em&gt; (Douglas Merritt, 1987)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;I appreciate how much of this is available through &lt;a href=&quot;https://www.nobadmemories.com/blog/2025/10/internet-is-not-forever/archive.org&quot;&gt;archive.org&lt;/a&gt;, though I&#39;ve been saving offline copies, too, in the event that the unthinkable happens and all their content is zapped out of existence. (I suppose it &lt;em&gt;will&lt;/em&gt; happen at some point, but hopefully not in my lifetime.)&lt;/p&gt;
+
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      
+                  
+              
+              &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;MyLifeBits&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;I don&#39;t know if you call this archivist&#39;s instinct, paranoia, practical preparedness, or what. But I do remember being quite struck last year reading about Chester Gordon Bell, a computer engineer who designed several of the PDP minicomputers. In the 1990s, he helped found Microsoft Research, where he explored the fields of telepresence and quantified self/lifelogging. His research project was called MyLifeBits, which was an effort to develop a software platform to store all manner of personal telemetry, media, etc. as a digital backup for one&#39;s life. Bell wrote several books and gave a whirlwind of talks about this work. In 2002, the BBC said this of the project in &lt;a href=&quot;http://news.bbc.co.uk/2/hi/technology/2495649.stm&quot;&gt;an article titled &amp;quot;Microsoft plans online life archive&amp;quot;&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Microsoft researchers are working on ways to create a &amp;quot;back-up brain&amp;quot; that will do a much better job of containing and cataloguing every picture you take, document you write or conversation you record. The scientists collaborating on the project believe that the database of your life could hold a vast array of items that are automatically catalogued and as easy to search as Google. If it proves successful, the project could realise the dreams of hypertext visionary Vannevar Bush, who first floated the idea of a lifestore more than 50 years ago. The MyLifeBits research group is based at Microsoft&#39;s research lab in San Francisco.&lt;/p&gt;
+&lt;p&gt;New Scientist magazine reveals that Gordon Bell, one of the scientists driving the MyLifeBits project, is already putting as much material as he can in a directory of his life. It reports that every e-mail message Mr Bell sends and receives is already being stored along with everything he reads or buys online. Mr Bell has also started recording all phone conversations and any meetings he attends.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;MyLifeBits was never finished. In later years, Bell conceded that the smartphone would come to fulfill the role imagined for MyLifeBits, and presumably his goals for the work shifted or shrank.&lt;/p&gt;
+&lt;p&gt;Bell died in 2024. &lt;a href=&quot;https://gordonbell.azurewebsites.net/&quot;&gt;His website&lt;/a&gt; is still online, though links are slowly beginning to break. And while Bell&#39;s website provides a nice catalog of his publications and talks, it&#39;s unclear what happened to the decades of telemetry and memories he collected on his own life.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To test the application, Bell is downloading his own life onto a hard drive at the [Microsoft] media lab. His database spans more than a century of data: the first entry consists of photographs of his parents taken as children in 1900 and the last entry (as of Thursday morning) was a website he browsed before he was interviewed for this article. —&lt;a href=&quot;https://www.wired.com/2002/12/saving-your-bits-for-posterity/&quot;&gt;&amp;quot;Saving Your Bits for Posterity,&amp;quot; &lt;em&gt;Wired&lt;/em&gt;, Dec. 6, 2002&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;figure style=&quot;margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;&quot;&gt;&lt;img src=&quot;https://www.nobadmemories.com/img/instrumented.png&quot; /&gt;
+&lt;figcaption&gt;Chester Gordon Bell models &quot;the instrumented me.&quot;&lt;/figcaption&gt;
+&lt;/figure&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;The siren song of cataloging&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;There&#39;s an obvious cautionary tale here: Don&#39;t build your legacy (or catalog, if you prefer) at the expense of building your life. It&#39;s especially relevant to those among us who experience near-obsession with modularity, information structure, and preservation, cheered on by the possibilities of self-made software. Perhaps we love the history of hypertext, we write our own programming languages, we prefer Markdown or plain text over proprietary file formats. We invoke Vannevar Bush and Ted Nelson, nevermind the irony of the Xanadu Project&#39;s fate as a perpetual demo. We may even try, at some point, to develop some overarching &amp;quot;everything machine.&amp;quot;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;What have you been up to lately?&amp;quot;&lt;/p&gt;
+&lt;p&gt;&amp;quot;I&#39;m writing this... software.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&amp;quot;Oh, cool. What&#39;s it do?&amp;quot;&lt;/p&gt;
+&lt;p&gt;(Eyes widen) &amp;quot;Everything.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&amp;quot;What do you mean everything?&amp;quot;&lt;/p&gt;
+&lt;p&gt;(Eyes close) &amp;quot;It does everything. It&#39;s, like, a self-compiling system for making open-ended systems. OK, OK, imagine that—&amp;quot; (sips coffee) &amp;quot;You know the hypertext paradigm? Never happened. The web browser, the iPhone, man, NONE of that shit ever happened. THAT&#39;S what I&#39;m building. It&#39;s not software, really. It&#39;s more like an operating system built on a conceptual framework. So it can be anything, everything, simultaneously. And it&#39;s really simple to use. Well, it will be when I finish it.&amp;quot; —&lt;a href=&quot;https://merveilles.town/@HXLNT/115200074653272901&quot;&gt;my recent post on merveilles.town&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I tumbled down these paths recently. They&#39;re fun, but they&#39;re not &lt;em&gt;fruitful&lt;/em&gt;, for better or worse. I&#39;m now realizing that I can collect and preserve things without the full gravity of building &amp;quot;C:&#92;Dropbox&#92;My Lasting Legacy.zip.&amp;quot; Hence: studio log. Excerpt what&#39;s relevant, save it offline, &lt;em&gt;maybe&lt;/em&gt; mirror it online, and then actually use it for something. Find a cool animation technique from the 70s that was made obsolete by computers? Document it, write about it, then &lt;em&gt;try it.&lt;/em&gt; That&#39;s the plan, anyway.&lt;/p&gt;
+&lt;/div&gt;
+                          &lt;div class=&quot;col-md-4&quot;&gt;
+                          &lt;/div&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-2 subheaderblock&quot; style=&quot;background-color:var(--color4-light);&quot;&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-md-10&quot;&gt;
+            &lt;h2&gt;The internet is (not) forever&lt;/h2&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-md-8&quot;&gt;
+&lt;p&gt;The other cautionary tale: what&#39;s online isn&#39;t online forever, even when you&#39;ve dedicated decades to explicitly working toward digital preservation as Bell did.&lt;/p&gt;
+&lt;p&gt;One side of that coin is &amp;quot;aaaah, quick, print out all the websites and put them in 3-ring binders!&amp;quot; (Y&#39;all have 3-ring binders, still, right?) But the other side is, &amp;quot;ehhh, this&#39;ll be offline soon enough.&amp;quot; And that&#39;s the freeing side that reminds me that my logs don&#39;t need polish or editorial consistency. They can just be however they are, warts and typos and all.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
