@@ -23,7 +23,8 @@ intro: "Assorted writings are collected here in reverse chronological order."
     <div class="col-md-9">
         <div class="row">
             <div class="col-md-8">
-              
+
+ - [The internet is (not) forever](blog/2025/10/internet-is-not-forever/)  
  - [SIGGRAPH 1979 Film and Videotape Retrospective](blog/2025/10/siggraph79/)
               
 </div>
