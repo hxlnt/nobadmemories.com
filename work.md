@@ -203,8 +203,8 @@ Featured on [Austin Chronicle](https://www.austinchronicle.com/screens/2012-05-0
 
 </div>
                           <div class="col-md-4">
-                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="[[https://img.itch.zone/aW1hZ2UvMjEyNTcvODQzMTYuZ2lm/original/FIA2cW.gif](https://img.itch.zone/aW1hZ2UvMjEyNTcvODQzMTYuZ2lm/original/FIA2cW.gif)](https://img.itch.zone/aW1hZ2UvMjEyNTcvODQzMTYuZ2lm/original/FIA2cW.gif)">
-<figcaption>Photographed with <em>TRACK+FEEL II</em> for the Austin Chronicle (2012)</figcaption>
+                          <figure style="margin-left:24px; margin-right:-24px; padding-bottom:36px; padding-top:-36px;"><img src="https://img.itch.zone/aW1hZ2UvMjEyNTcvODQzMTYuZ2lm/original/FIA2cW.gif">
+<figcaption><em>TRACK+FEEL II</em></figcaption>
 </figure>
                           </div>
                       </div>
