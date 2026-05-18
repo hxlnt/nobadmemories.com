@@ -27,6 +27,11 @@ intro: "Assorted writings are collected here in reverse chronological order."
  - [Another electrical refrigerator](blog/2026/05/another-electrical-refrigerator/)
 
 </div>
+                          <div class="col-md-4">
+                          </div>
+                      </div>
+                  </div>
+              </div>
 <div class="row">
     <div class="col-md-3">
         <div class="row">
