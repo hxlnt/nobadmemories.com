@@ -278,12 +278,14 @@ reading:
     - title: "Optical Art: Theory and Practice"
       author: Rene Parola
       year: 1969
-      category: 2023
+      category: 2024
       progress:
         - date: 2023-04-27 
           percent: 9 
         - date: 2023-04-30
           percent: 15  
+        - date: 2024-10-01
+          percent: 100
     - title: Order from Chaos
       author: Jaclyn Paul
       year: 2018
@@ -304,12 +306,14 @@ reading:
     - title: Practical Hardware Pentesting
       author: Jean-Georges Valle
       year: 2021
-      category: 2024
+      category: 2026
       progress:
         - date: 2024-08-23
           percent: 3
         - date: 2024-08-24
           percent: 11
+        - date: 2026-05-18
+          percent: 18
     - title: Self-Knowledge
       author: The School of Life
       year: 2020
