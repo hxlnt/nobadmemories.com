@@ -15,7 +15,7 @@ I've been doing a lot of PDF and website downloading lately, fueled by an uneasy
 <figcaption>An excerpt about creating text overlays in TV broadcasts using electronic character generators from <em>Television Graphics: From Pencil to Pixel</em> (Douglas Merritt, 1987)</figcaption>
 </figure>
 
-I appreciate how much of this is available through [archive.org](archive.org), though I've been saving offline copies, too, in the event that the unthinkable happens and all their content is zapped out of existence. (I suppose it *will* happen at some point, but hopefully not in my lifetime.)
+I appreciate how much of this is available through [archive.org](https://archive.org), though I've been saving offline copies, too, in the event that the unthinkable happens and all their content is zapped out of existence. (I suppose it *will* happen at some point, but hopefully not in my lifetime.)
 
 
 </div>
